@@ -1,0 +1,156 @@
+{
+ "pages": {
+  "home": "/",
+  "hub": "/fr/itineraires-velo-depart-nantes",
+  "route:loire": "/fr/itineraires-velo-depart-nantes/loire-a-velo",
+  "route:velodyssee": "/fr/itineraires-velo-depart-nantes/velodyssee",
+  "route:regalante": "/fr/itineraires-velo-depart-nantes/regalante",
+  "route:traversee": "/fr/itineraires-velo-depart-nantes/traversee-bretonne",
+  "route:canal": "/fr/itineraires-velo-depart-nantes/canal-nantes-brest",
+  "route:vignoble": "/fr/itineraires-velo-depart-nantes/vignoble-nantais",
+  "balades": "/fr/idees-de-balades",
+  "fleet": "/fr/nos-velos-location",
+  "bike:voyage": "/fr/location-velo-de-voyage",
+  "bike:electrique": "/fr/location-velo-electrique-voyage",
+  "bike:gravel": "/fr/location-gravel-nantes",
+  "bike:enfant": "/fr/location-velo-enfant",
+  "bike:cargo": "/fr/location-velo-cargo",
+  "pricing": "/fr/nos-tarifs-reservation",
+  "visits": "/fr/visites-guidees-nantes",
+  "tour:panorama": "/fr/tour/tour-du-panorama-nantais",
+  "tour:wine": "/fr/tour/tour-surprenantes",
+  "tour:urbain": "/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes",
+  "groups": "/fr/offre-groupes-seminaires",
+  "about": "/fr/qui-sommes-nous-nous-contacter",
+  "faq": "/fr/faq-locationdeveloanantes",
+  "guide": "/fr/guide-location-velo-nantes",
+  "cookies": "/fr/cookies"
+ },
+ "urls": {
+  "/": {
+   "en": "/en",
+   "nl": "/nl",
+   "de": "/de"
+  },
+  "/fr/itineraires-velo-depart-nantes": {
+   "en": "/en/travel-ideas",
+   "nl": "/nl/reisideeen",
+   "de": "/de/reiseideen"
+  },
+  "/fr/itineraires-velo-depart-nantes/loire-a-velo": {
+   "en": "/en/travel-ideas/loire-by-bike",
+   "nl": "/nl/reisideeen/loire-a-velo",
+   "de": "/de/reiseideen/loire-radweg"
+  },
+  "/fr/itineraires-velo-depart-nantes/velodyssee": {
+   "en": "/en/travel-ideas/velodyssee",
+   "nl": "/nl/reisideeen/velodyssee",
+   "de": "/de/reiseideen/velodyssee"
+  },
+  "/fr/itineraires-velo-depart-nantes/regalante": {
+   "en": "/en/travel-ideas/la-regalante",
+   "nl": "/nl/reisideeen/la-regalante",
+   "de": "/de/reiseideen/la-regalante"
+  },
+  "/fr/itineraires-velo-depart-nantes/traversee-bretonne": {
+   "en": "/en/travel-ideas/brittany-crossing",
+   "nl": "/nl/reisideeen/bretagne-doorkruisen",
+   "de": "/de/reiseideen/bretagne-durchquerung"
+  },
+  "/fr/itineraires-velo-depart-nantes/canal-nantes-brest": {
+   "en": "/en/travel-ideas/nantes-brest-canal",
+   "nl": "/nl/reisideeen/kanaal-nantes-brest",
+   "de": "/de/reiseideen/nantes-brest-kanal"
+  },
+  "/fr/itineraires-velo-depart-nantes/vignoble-nantais": {
+   "en": "/en/travel-ideas/nantes-vineyards",
+   "nl": "/nl/reisideeen/wijngaarden-nantes",
+   "de": "/de/reiseideen/weinberge-nantes"
+  },
+  "/fr/idees-de-balades": {
+   "en": "/en/day-rides-from-nantes",
+   "nl": "/nl/fietstochten-vanuit-nantes",
+   "de": "/de/radtouren-ab-nantes"
+  },
+  "/fr/nos-velos-location": {
+   "en": "/en/bikes",
+   "nl": "/nl/fietsen",
+   "de": "/de/fahrrader"
+  },
+  "/fr/location-velo-de-voyage": {
+   "en": "/en/touring-bicycle-hybrid-bike",
+   "nl": "/nl/toerfiets",
+   "de": "/de/trekkingrad"
+  },
+  "/fr/location-velo-electrique-voyage": {
+   "en": "/en/electric-touring-bike",
+   "nl": "/nl/elektrische-fiets",
+   "de": "/de/elektrofahrrad"
+  },
+  "/fr/location-gravel-nantes": {
+   "en": "/en/gravel-bike",
+   "nl": "/nl/gravelfiets",
+   "de": "/de/gravelbike"
+  },
+  "/fr/location-velo-enfant": {
+   "en": "/en/childrens-bicycle",
+   "nl": "/nl/kinderfiets",
+   "de": "/de/kinderfahrrad"
+  },
+  "/fr/location-velo-cargo": {
+   "en": "/en/cargo-bike",
+   "nl": "/nl/bakfiets",
+   "de": "/de/lastenrad"
+  },
+  "/fr/nos-tarifs-reservation": {
+   "en": "/en/biken-tour-prices",
+   "nl": "/nl/prijs",
+   "de": "/de/preis"
+  },
+  "/fr/visites-guidees-nantes": {
+   "en": "/en/guided-tours",
+   "nl": "/nl/begeleide-wandelingen",
+   "de": "/de/gefuhrte-touren"
+  },
+  "/fr/tour/tour-du-panorama-nantais": {
+   "en": "/en/the-panorama-tour",
+   "nl": "/nl/de-panoramische-fietstour-door-nantes",
+   "de": "/de/die-panorama-tour-von-nantes-mit-dem-fahrrad"
+  },
+  "/fr/tour/tour-surprenantes": {
+   "en": "/en/wine-and-bike-tour",
+   "nl": "/nl/wine-and-bike-tour",
+   "de": "/de/wine-and-bike-tour"
+  },
+  "/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes": {
+   "en": "/en/urban-culture-bike-tour",
+   "nl": "/nl/stadscultuur-fietstour",
+   "de": "/de/urbane-kultur-radtour"
+  },
+  "/fr/offre-groupes-seminaires": {
+   "en": "/en/groups-and-companies",
+   "nl": "/nl/groepen-en-bedrijven",
+   "de": "/de/gruppen-und-unternehmen"
+  },
+  "/fr/qui-sommes-nous-nous-contacter": {
+   "en": "/en/contact",
+   "nl": "/nl/contact",
+   "de": "/de/kontakt"
+  },
+  "/fr/faq-locationdeveloanantes": {
+   "en": "/en/faq",
+   "nl": "/nl/faq",
+   "de": "/de/faq"
+  },
+  "/fr/guide-location-velo-nantes": {
+   "en": "/en/bike-rental-nantes-guide",
+   "nl": "/nl/fiets-huren-nantes-gids",
+   "de": "/de/fahrradverleih-nantes-ratgeber"
+  },
+  "/fr/cookies": {
+   "en": "/en/cookies",
+   "nl": "/nl/cookies",
+   "de": "/de/cookies"
+  }
+ }
+}

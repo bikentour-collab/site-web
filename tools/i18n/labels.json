@@ -1,0 +1,15 @@
+{
+ "Facile": {"en": "Easy", "nl": "Makkelijk", "de": "Leicht"},
+ "Modéré": {"en": "Moderate", "nl": "Gemiddeld", "de": "Mittel"},
+ "Difficile": {"en": "Challenging", "nl": "Uitdagend", "de": "Anspruchsvoll"},
+ "Distance": {"en": "Distance", "nl": "Afstand", "de": "Distanz"},
+ "Durée conseillée": {"en": "Suggested duration", "nl": "Aanbevolen duur", "de": "Empfohlene Dauer"},
+ "Niveau": {"en": "Level", "nl": "Niveau", "de": "Niveau"},
+ "Aller simple": {"en": "One-way hire", "nl": "Enkele reis", "de": "Einwegmiete"},
+ "Oui, sur demande": {"en": "Yes, on request", "nl": "Ja, op aanvraag", "de": "Ja, auf Anfrage"},
+ "Boucle": {"en": "Loop", "nl": "Rondrit", "de": "Rundtour"},
+ "Prix": {"en": "Price", "nl": "Prijs", "de": "Preis"},
+ "Durée": {"en": "Duration", "nl": "Duur", "de": "Dauer"},
+ "Départs": {"en": "Departures", "nl": "Vertrek", "de": "Abfahrten"},
+ "Langues": {"en": "Languages", "nl": "Talen", "de": "Sprachen"}
+}
