@@ -1,0 +1,33 @@
+{
+ "offres": [
+  {
+   "name": "Group bike hire",
+   "price": "From €16.67 excl. VAT per bike",
+   "items": [
+    "Bikes and e-bikes from Nantes or delivered to your venue",
+    "Suggested route",
+    "Safety equipment provided",
+    "Bike handover and tips"
+   ]
+  },
+  {
+   "name": "Private guided tours",
+   "price": "From €36 excl. VAT per person",
+   "items": [
+    "Nantes panorama or Nantes Vineyards",
+    "Theme tailored to your group",
+    "1 guide per 12 people"
+   ]
+  },
+  {
+   "name": "Team events and team building",
+   "price": "On request",
+   "items": [
+    "Tailor-made route and activity (bike escape game…)",
+    "Bike hire and delivery",
+    "Bike handover and tips",
+    "Adapted to your event programme"
+   ]
+  }
+ ]
+}

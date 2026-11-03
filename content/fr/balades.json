@@ -1,0 +1,92 @@
+{
+  "balades": [
+    {
+      "name": "La Sèvre nantaise jusqu'à Clisson",
+      "km": "37 km (aller)",
+      "time": "Journée",
+      "level": "Modéré",
+      "back": "Retour en TER depuis Clisson",
+      "text": "Les bords de Sèvre, la Chaussée des Moines à Vertou, les vignes du Muscadet, puis le château médiéval de Clisson."
+    },
+    {
+      "name": "Les rives de Loire jusqu'à Oudon",
+      "km": "30 km",
+      "time": "Journée",
+      "level": "Facile",
+      "back": "Retour en TER depuis Oudon",
+      "text": "Un des plus beaux tronçons de la Loire à Vélo, par Mauves-sur-Loire et Le Cellier, presque entièrement en site propre."
+    },
+    {
+      "name": "La Loire à Vélo jusqu'à Cordemais",
+      "km": "46 km",
+      "time": "Journée",
+      "level": "Modéré",
+      "back": "Retour en TER depuis Cordemais",
+      "text": "Les marais de l'estuaire, les hérons et la Villa Cheminée, œuvre perchée à 15 mètres face au fleuve."
+    },
+    {
+      "name": "Le lac de Grand-Lieu",
+      "km": "18 km",
+      "time": "Journée",
+      "level": "Facile",
+      "back": "Retour en TER depuis Bouaye",
+      "text": "Du Mémorial de l'abolition de l'esclavage à la Maison du lac à Bouaye, avec un aller-retour possible jusqu'à Pierre-Aigüe."
+    },
+    {
+      "name": "Le tour du panorama nantais",
+      "km": "20 km",
+      "time": "Demi-journée",
+      "level": "Facile",
+      "back": "Boucle au départ du centre",
+      "text": "La Ligne verte de Nantes à vélo : monuments, œuvres du Voyage à Nantes et recoins insolites de la ville."
+    },
+    {
+      "name": "L'Erdre jusqu'à Sucé-sur-Erdre",
+      "km": "18 km",
+      "time": "Demi-journée",
+      "level": "Facile",
+      "back": "Retour en TER depuis Sucé-sur-Erdre",
+      "text": "La « plus belle rivière de France » selon François Ier, ses châteaux et ses guinguettes."
+    },
+    {
+      "name": "Mauves-sur-Loire",
+      "km": "17,5 km",
+      "time": "Demi-journée",
+      "level": "Facile",
+      "back": "Retour par la levée de la Divatte ou en TER",
+      "text": "Les guinguettes de Sainte-Luce-sur-Loire et de Mauves, idéal en famille."
+    },
+    {
+      "name": "Le Pellerin par la rive sud",
+      "km": "24 km",
+      "time": "Journée",
+      "level": "Facile",
+      "back": "Retour à vélo ou par le bac vers Couëron",
+      "text": "Trentemoult, Rezé, puis les marais du sud de l'estuaire jusqu'au port du Pellerin."
+    },
+    {
+      "name": "Nantes – Pornic en deux jours",
+      "km": "100 km",
+      "time": "Week-end",
+      "level": "Modéré",
+      "back": "Retour en TER depuis Pornic (40 min)",
+      "text": "Le parcours Estuaire, le canal de la Martinière, une nuit à Paimbœuf ou Corsept, puis l'océan à Saint-Brevin et la côte de Jade."
+    },
+    {
+      "name": "Nantes – Angers en deux jours",
+      "km": "110 km",
+      "time": "Week-end",
+      "level": "Modéré",
+      "back": "Retour en TER depuis Angers (40 min)",
+      "text": "Deux étapes d'environ 55 km sur la Loire à Vélo, entre villages ligériens, vignobles et zones humides."
+    },
+    {
+      "name": "Nantes – Saint-Nazaire par la Vélidéale",
+      "km": "90 km",
+      "time": "Week-end",
+      "level": "Facile",
+      "back": "Retour en TER ou TGV (40 min)",
+      "text": "Le nord de l'estuaire par les marais : The Settlers, la Villa Cheminée et l'observatoire de Lavau-sur-Loire."
+    }
+  ]
+}

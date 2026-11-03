@@ -1,0 +1,42 @@
+{
+  "hero_surtitre": "Nantes centre · 19 rue Jean Jaurès · depuis 10 ans",
+  "hero_titre_ligne1": "Location de vélos",
+  "hero_titre_ligne2": "de voyage",
+  "hero_titre_accent": "à Nantes",
+  "hero_texte": "Six véloroutes partent de notre boutique. On vous prépare le vélo, les sacoches et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.",
+  "hero_image": "/assets/img/v2-hero-vignoble.webp",
+  "hero_image_alt": "Voyageurs à vélo loués chez Bike'N Tour sur une petite route du vignoble nantais",
+  "google_note": "5,0",
+  "google_avis": 161,
+  "tripadvisor_avis": "200+",
+  "faq": [
+    {
+      "question": "Où louer un vélo pour faire la Loire à Vélo au départ de Nantes ?",
+      "reponse": "Chez Bike'N Tour, 19 rue Jean Jaurès à Nantes, dans l'hôtel Ibis (tram T3, arrêt Jean Jaurès). La boutique est au départ de la Loire à Vélo, de la Vélodyssée et de la Régalante : vous récupérez des vélos réglés, des sacoches et des conseils d'itinéraire."
+    },
+    {
+      "question": "Peut-on louer un vélo en aller simple depuis Nantes ?",
+      "reponse": "Oui, sur demande. Vous partez de Nantes et laissez le vélo à votre point d'arrivée (Loire à Vélo, Vélodyssée, Régalante, Bretagne) : nous organisons le rapatriement avec nos partenaires, sur devis selon les dates et le lieu de dépôt."
+    },
+    {
+      "question": "Quel itinéraire à vélo faire au départ de Nantes ?",
+      "reponse": "Six itinéraires partent de la boutique : la Loire à Vélo vers Angers et Saumur, la Vélodyssée vers l'océan, la Régalante (275 km) et la Traversée bretonne (485 km) jusqu'au Mont-Saint-Michel, le Canal de Nantes à Brest et le Vignoble nantais. Pour un premier voyage en famille, la Loire à Vélo est la plus simple : plate et bien balisée."
+    },
+    {
+      "question": "Combien coûte la location d'un vélo électrique à Nantes ?",
+      "reponse": "La location d'un vélo électrique chez Bike'N Tour démarre à 35 € la journée, 62 € le week-end et 172 € la semaine (tarif dégressif). Le cadenas, le kit anti-crevaison, la pompe et le chargeur sont inclus ; la protection casse et vol est en option (3 € par jour)."
+    },
+    {
+      "question": "Que comprend la location d'un vélo chez Bike'N Tour ?",
+      "reponse": "Chaque vélo est fourni avec un antivol, un kit anti-crevaison, une pompe, un porte-bagages et des lumières (plus le chargeur pour les vélos électriques). Sacoches Ortlieb étanches, casque, siège bébé, remorque, porte-smartphone et protection casse et vol sont disponibles en option."
+    },
+    {
+      "question": "Faut-il réserver son vélo à l'avance ?",
+      "reponse": "C'est conseillé de mai à septembre, surtout pour les vélos électriques. La réservation se fait en ligne en quelques minutes, ou par téléphone, et elle est modifiable ou annulable gratuitement jusqu'à 48 h avant le départ."
+    },
+    {
+      "question": "Accueillez-vous les voyageurs étrangers ?",
+      "reponse": "Oui. L'équipe accueille en français et en anglais, et le site existe en français, anglais, néerlandais et allemand. La boutique est à quelques minutes de la gare de Nantes en tram."
+    }
+  ]
+}

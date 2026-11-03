@@ -1,0 +1,345 @@
+{
+ "itineraires": [
+  {
+   "name": "La Loire à Vélo",
+   "short": "Nach Angers und Saumur",
+   "alt": "Radgruppe am Ufer der Loire",
+   "desc": "Der bekannteste Radweg Frankreichs führt ab Nantes die Loire hinauf: Schlösser, Weinberge und Dörfer am Fluss, auf einer flachen und sehr gut ausgeschilderten Strecke. Perfekt für die erste Radreise, mit der Familie oder mit Freunden.",
+   "dist": "≈ 165 km bis Saumur",
+   "km": "165 km",
+   "days": "3 bis 4 Tage",
+   "steps": [
+    "Nantes",
+    "Ancenis",
+    "Angers",
+    "Saumur"
+   ],
+   "bike": "Reiserad oder E-Bike",
+   "page": {
+    "h1": "La Loire à Vélo ab Nantes",
+    "title": "Loire-Radweg ab Nantes: Etappen & Verleih | Bike'N Tour",
+    "meta": "Loire-Radweg ab Nantes: 165 km bis Saumur in 3 bis 4 Tagen, empfohlene Etappen, Rückfahrt mit dem Zug, Fahrradverleih mit Reiserad oder E-Bike.",
+    "intro": "La Loire à Vélo (EuroVelo 6) ist der meistbefahrene Radfernweg Frankreichs. Ab Nantes führt er flussaufwärts nach Angers und Saumur, auf einer flachen, sehr gut ausgeschilderten und größtenteils autofreien Strecke: die ideale Route für Ihre erste Radreise, mit der Familie oder mit Freunden.",
+    "stages": [
+     {
+      "etape": "Nantes → Ancenis",
+      "texte": "Aus Nantes hinaus entlang der Loire, Mauves-sur-Loire mit seinen Guinguettes, Oudon mit seinem Turm."
+     },
+     {
+      "etape": "Ancenis → Angers",
+      "texte": "Champtoceaux, die Hänge von Layon und Anjou, dann Angers mit seiner Burg."
+     },
+     {
+      "etape": "Angers → Saumur",
+      "texte": "Dörfer aus Tuffstein, Höhlenwohnungen und die Ankunft am Fuß des Schlosses von Saumur."
+     }
+    ],
+    "highlights": [
+     "Das Schloss der Herzöge der Bretagne am Start",
+     "Die Guinguettes von Mauves-sur-Loire",
+     "Die Burg von Angers und der Apokalypse-Teppich",
+     "Die Höhlenwohnungen und das Schloss von Saumur"
+    ],
+    "back": "Direkte Züge Saumur – Nantes und Angers – Nantes (TER, Fahrradmitnahme je nach Saison) oder Einweg-Miete auf Anfrage.",
+    "faq": [
+     {
+      "question": "Wie viele Tage braucht man für die Loire à Vélo von Nantes nach Saumur?",
+      "reponse": "Rechnen Sie mit 3 bis 4 Tagen für die 165 km zwischen Nantes und Saumur, bei 40 bis 60 km pro Tag. Das Wochenende Nantes – Angers (110 km) schaffen Sie in 2 Tagen."
+     },
+     {
+      "question": "Ist die Loire à Vélo für Kinder geeignet?",
+      "reponse": "Ja: Die Strecke ist flach und verläuft oft auf eigenen Radwegen. Mit Kindern sollten Sie 20 bis 30 km pro Tag einplanen; wir vermieten Kinderräder, Kindersitze und Anhänger."
+     }
+    ]
+   }
+  },
+  {
+   "name": "La Vélodyssée",
+   "short": "Zum Atlantik und in die Vendée",
+   "alt": "Radreisende mit Packtaschen auf einem Feldweg",
+   "desc": "Ab Nantes erreicht die Vélodyssée über das Pays de Retz den Atlantik und folgt dann der Küste der Vendée: Sümpfe, Strände und Wege durch Pinienwälder, mit frischer Meeresbrise inklusive.",
+   "dist": "≈ 240 km bis Les Sables-d'Olonne",
+   "km": "240 km",
+   "days": "4 bis 5 Tage",
+   "steps": [
+    "Nantes",
+    "Pornic",
+    "Saint-Jean-de-Monts",
+    "Les Sables-d'Olonne"
+   ],
+   "bike": "Reiserad oder E-Bike",
+   "page": {
+    "h1": "La Vélodyssée ab Nantes",
+    "title": "Vélodyssée ab Nantes: Pornic, Les Sables | Bike'N Tour",
+    "meta": "Die Vélodyssée ab Nantes: Loire-Mündung, Pornic, Küste der Vendée bis Les Sables-d'Olonne (≈ 240 km). Etappen, Rückfahrt per Zug, Fahrradverleih.",
+    "intro": "La Vélodyssée (EuroVelo 1) verbindet Roscoff mit Hendaye. Ab Nantes erreicht sie entlang der Loire-Mündung den Atlantik und folgt dann der Côte de Jade und der Küste der Vendée: Sümpfe, Strände, Pinienwälder und Fischerhäfen.",
+    "stages": [
+     {
+      "etape": "Nantes → Paimbœuf",
+      "texte": "Der Kunstparcours Estuaire, der Canal de la Martinière und die Fischerhütten mit Senknetzen."
+     },
+     {
+      "etape": "Paimbœuf → Pornic",
+      "texte": "Saint-Brevin-les-Pins, endlich der Atlantik, dann die Côte de Jade bis zum alten Hafen von Pornic."
+     },
+     {
+      "etape": "Pornic → Saint-Jean-de-Monts",
+      "texte": "Die Bucht von Bourgneuf und das Marais breton vendéen."
+     },
+     {
+      "etape": "Saint-Jean-de-Monts → Les Sables-d'Olonne",
+      "texte": "Wege durch Pinienwälder, Saint-Gilles-Croix-de-Vie und die Ankunft in Les Sables."
+     }
+    ],
+    "highlights": [
+     "Die Kunstwerke des Parcours Estuaire",
+     "Der alte Hafen von Pornic",
+     "Das Marais breton vendéen",
+     "Der Pinienwald der Côte de Lumière"
+    ],
+    "back": "Züge Pornic – Nantes (40 Min.) und Les Sables-d'Olonne – Nantes oder Einweg-Miete auf Anfrage.",
+    "faq": [
+     {
+      "question": "Kann man Nantes – Pornic an einem Wochenende mit dem Rad fahren?",
+      "reponse": "Ja: 100 km in 2 Tagen, mit einer Übernachtung in Paimbœuf oder Corsept und Rückfahrt mit dem Zug von Pornic nach Nantes in etwa 40 Minuten."
+     }
+    ]
+   }
+  },
+  {
+   "name": "La Régalante",
+   "short": "Bis zum Mont-Saint-Michel",
+   "alt": "Drei Radreisende auf einem Waldweg",
+   "desc": "Der neue Radfernweg von Nantes zum Mont-Saint-Michel durchs Landesinnere: Greenways, malerische Städtchen wie Châteaubriant, Vitré und Fougères und kaum Höhenmeter.",
+   "dist": "275 km bis zum Mont-Saint-Michel",
+   "km": "275 km",
+   "days": "9 Etappen",
+   "steps": [
+    "Nantes",
+    "Châteaubriant",
+    "Vitré",
+    "Fougères",
+    "Mont-Saint-Michel"
+   ],
+   "bike": "Reiserad oder E-Bike",
+   "page": {
+    "h1": "La Régalante, von Nantes zum Mont-Saint-Michel",
+    "title": "La Régalante: Radweg Nantes – Mont-Saint-Michel | Bike'N Tour",
+    "meta": "La Régalante: 275 km Radfernweg von Nantes zum Mont-Saint-Michel über Châteaubriant, Vitré und Fougères. 9 leichte Etappen, Fahrradverleih in Nantes.",
+    "intro": "La Régalante ist ein neuer Radfernweg, der Nantes durchs Landesinnere mit dem Mont-Saint-Michel verbindet. Die 275 km, aufgeteilt in 9 Etappen, verlaufen überwiegend auf Greenways mit sehr wenig Höhenmetern und führen durch malerische historische Städtchen.",
+    "stages": [
+     {
+      "etape": "Nantes → Nort-sur-Erdre",
+      "texte": "Das Tal der Erdre und seine Schlösser."
+     },
+     {
+      "etape": "Nort-sur-Erdre → Châteaubriant",
+      "texte": "Greenways und Wälder im Norden der Loire-Atlantique."
+     },
+     {
+      "etape": "Châteaubriant → Vitré",
+      "texte": "Ankunft in der Bretagne und die mittelalterliche Stadt Vitré."
+     },
+     {
+      "etape": "Vitré → Fougères",
+      "texte": "Die Burg von Fougères, eine der größten Europas."
+     },
+     {
+      "etape": "Fougères → Mont-Saint-Michel",
+      "texte": "Die normannische Heckenlandschaft und die Ankunft vor der Bucht."
+     }
+    ],
+    "highlights": [
+     "Das Tal der Erdre",
+     "Das Schloss von Châteaubriant",
+     "Die Stadtmauern von Vitré und Fougères",
+     "Die Ankunft am Mont-Saint-Michel"
+    ],
+    "back": "Rückfahrt mit Bus und Zug über Pontorson oder Rennes oder Einweg-Miete auf Anfrage.",
+    "faq": [
+     {
+      "question": "Ist La Régalante anspruchsvoll?",
+      "reponse": "Nein: Sie verläuft größtenteils auf Greenways mit wenig Höhenmetern. Rechnen Sie mit 9 Etappen von durchschnittlich 25 bis 35 km oder mit weniger Tagen, wenn Sie mehr fahren."
+     }
+    ]
+   }
+  },
+  {
+   "name": "Die Bretagne-Durchquerung",
+   "short": "Über die Küste, Rennes und Saint-Malo",
+   "alt": "Radfahrer auf einem E-Bike auf einer kleinen Landstraße",
+   "desc": "Die große Reise zum Mont-Saint-Michel: die Loire-Mündung und Guérande, die Vilaine bis Redon, Rennes, dann das Tal der Rance, Dinan und die Côte d'Émeraude.",
+   "dist": "485 km bis zum Mont-Saint-Michel",
+   "km": "485 km",
+   "days": "8 bis 10 Tage",
+   "steps": [
+    "Nantes",
+    "Saint-Nazaire",
+    "Redon",
+    "Rennes",
+    "Dinan",
+    "Saint-Malo",
+    "Mont-Saint-Michel"
+   ],
+   "bike": "Reiserad oder E-Bike",
+   "page": {
+    "h1": "Die Bretagne-Durchquerung, von Nantes zum Mont-Saint-Michel",
+    "title": "Bretagne-Durchquerung per Rad ab Nantes | Bike'N Tour",
+    "meta": "Die Bretagne-Durchquerung per Rad: 485 km von Nantes zum Mont-Saint-Michel über Guérande, Redon, Rennes, Dinan, Saint-Malo. Etappen, Tipps, Verleih.",
+    "intro": "Die große Radreise zum Mont-Saint-Michel: die Loire-Mündung und Guérande, die Vilaine bis Redon, Rennes, das Tal der Rance, Dinan und schließlich die Côte d'Émeraude und die Bucht. Eine abwechslungsreiche Route von fast 500 km.",
+    "stages": [
+     {
+      "etape": "Nantes → Saint-Nazaire",
+      "texte": "Die Vélidéale entlang der Loire-Mündung."
+     },
+     {
+      "etape": "Saint-Nazaire → Guérande",
+      "texte": "La Baule und die Salzgärten."
+     },
+     {
+      "etape": "Guérande → Redon",
+      "texte": "Die Vilaine, Arzal und La Roche-Bernard."
+     },
+     {
+      "etape": "Redon → Rennes",
+      "texte": "Der Treidelpfad an der Vilaine."
+     },
+     {
+      "etape": "Rennes → Dinan",
+      "texte": "Der Canal d'Ille-et-Rance."
+     },
+     {
+      "etape": "Dinan → Saint-Malo",
+      "texte": "Das Tal der Rance."
+     },
+     {
+      "etape": "Saint-Malo → Mont-Saint-Michel",
+      "texte": "Cancale, die Bucht und die Ankunft am Mont."
+     }
+    ],
+    "highlights": [
+     "Die Salzgärten von Guérande",
+     "Die mittelalterliche Altstadt von Dinan",
+     "Die Altstadt von Saint-Malo innerhalb der Mauern",
+     "Die Bucht des Mont-Saint-Michel"
+    ],
+    "back": "Rückfahrt mit dem Zug ab Rennes oder Saint-Malo oder Einweg-Miete auf Anfrage.",
+    "faq": [
+     {
+      "question": "Wie lange braucht man für die Bretagne-Durchquerung?",
+      "reponse": "Rechnen Sie mit 8 bis 10 Tagen für die 485 km, bei 50 bis 60 km pro Tag. Für die hügeligen Abschnitte empfehlen wir das E-Bike."
+     }
+    ]
+   }
+  },
+  {
+   "name": "Der Kanal von Nantes nach Brest",
+   "short": "Auf Treidelpfaden ins Finistère",
+   "alt": "Zwei Radreisende starten im Zentrum von Nantes",
+   "desc": "Schleusen, Schleusenwärterhäuser und topfebene Treidelpfade: Der Kanal durchquert die Bretagne im Landesinneren von Nantes bis ins Finistère. Sie können auch nur einen Teil fahren, bis Redon oder Josselin.",
+   "dist": "≈ 360 km bis Châteaulin",
+   "km": "360 km",
+   "days": "6 bis 8 Tage",
+   "steps": [
+    "Nantes",
+    "Nort-sur-Erdre",
+    "Redon",
+    "Josselin",
+    "Pontivy",
+    "Carhaix",
+    "Châteaulin"
+   ],
+   "bike": "Reiserad oder Gravelbike",
+   "page": {
+    "h1": "Der Kanal von Nantes nach Brest mit dem Rad",
+    "title": "Kanal von Nantes nach Brest per Rad | Bike'N Tour",
+    "meta": "Der Kanal von Nantes nach Brest per Rad ab Nantes: Treidelpfade über Redon, Josselin und Pontivy (≈ 360 km). Wochenende bis Redon oder große Reise.",
+    "intro": "Schleusen, Schleusenwärterhäuser und topfebene Treidelpfade: Der Kanal von Nantes nach Brest durchquert die Bretagne im Landesinneren. Sie können ihn an einem Wochenende bis Redon fahren oder als große Reise bis ins Finistère.",
+    "stages": [
+     {
+      "etape": "Nantes → Nort-sur-Erdre",
+      "texte": "Die Erdre und ihre Schlösser."
+     },
+     {
+      "etape": "Nort-sur-Erdre → Redon",
+      "texte": "Der Kanal durch die Heckenlandschaft, ideal für ein Wochenende."
+     },
+     {
+      "etape": "Redon → Josselin",
+      "texte": "Malestroit und das Schloss von Josselin."
+     },
+     {
+      "etape": "Josselin → Pontivy",
+      "texte": "Das Tal des Blavet."
+     },
+     {
+      "etape": "Pontivy → Carhaix",
+      "texte": "Der Lac de Guerlédan."
+     },
+     {
+      "etape": "Carhaix → Châteaulin",
+      "texte": "Die Aulne und die Ankunft im Finistère."
+     }
+    ],
+    "highlights": [
+     "Die 238 Schleusen des Kanals",
+     "Das Schloss von Josselin",
+     "Der Lac de Guerlédan",
+     "Die Schleusenwärterhäuser"
+    ],
+    "back": "Zug Redon – Nantes (etwa 45 Min.) für das Wochenende oder Rückfahrt ab Quimper oder Brest; Einweg-Miete auf Anfrage.",
+    "faq": [
+     {
+      "question": "Kann man den Kanal von Nantes nach Brest an einem Wochenende fahren?",
+      "reponse": "Ja: von Nantes bis Redon in 2 Tagen, mit Rückfahrt im Zug ab Redon."
+     }
+    ]
+   }
+  },
+  {
+   "name": "Die Weinberge von Nantes",
+   "short": "Ein Wochenende zwischen Sèvre und Muscadet",
+   "alt": "Radfahrer auf einer kleinen Straße in den Weinbergen von Nantes",
+   "desc": "Das ideale Wochenende direkt vor den Toren von Nantes: die Muscadet-Hänge, die Sèvre nantaise und Clisson mit seiner Burg und seinem italienischen Flair. Kleine Straßen und Wege, perfekt für das Gravelbike.",
+   "dist": "≈ 80 km als Rundtour",
+   "km": "80 km",
+   "days": "2 Tage",
+   "steps": [
+    "Nantes",
+    "Vertou",
+    "Clisson",
+    "Vallet"
+   ],
+   "bike": "Gravelbike oder E-Bike",
+   "page": {
+    "h1": "Die Weinberge von Nantes mit dem Rad",
+    "title": "Weinberge von Nantes per Rad: bis Clisson | Bike'N Tour",
+    "meta": "Ein Rad-Wochenende in den Weinbergen von Nantes: Sèvre nantaise, Vertou, Clisson und Muscadet-Hänge (≈ 80 km Rundtour). Gravelbike-Verleih in Nantes.",
+    "intro": "Das ideale Wochenende direkt vor den Toren von Nantes: die Ufer der Sèvre nantaise, die Muscadet-Hänge und Clisson mit seiner mittelalterlichen Festung und seinem italienischen Flair. Kleine Straßen und Wege, perfekt für das Gravelbike.",
+    "stages": [
+     {
+      "etape": "Nantes → Clisson",
+      "texte": "Die Ufer der Sèvre, die Chaussée des Moines in Vertou und die Weinberge (37 km)."
+     },
+     {
+      "etape": "Clisson → Nantes",
+      "texte": "Rückweg über Vallet und die Muscadet-Hänge, mit einer Weinprobe unterwegs."
+     }
+    ],
+    "highlights": [
+     "Die Chaussée des Moines in Vertou",
+     "Die Burg von Clisson",
+     "Die Garenne Lemot",
+     "Die Muscadet-Weingüter"
+    ],
+    "back": "Rundtour zurück nach Nantes oder Regionalzug (TER) Clisson – Nantes in 20 Minuten.",
+    "faq": [
+     {
+      "question": "Kann man Nantes – Clisson an einem Tag mit dem Rad fahren?",
+      "reponse": "Ja: 37 km entlang der Sèvre, mit Rückfahrt im Regionalzug (TER) ab Clisson."
+     }
+    ]
+   }
+  }
+ ]
+}

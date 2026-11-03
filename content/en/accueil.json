@@ -1,0 +1,38 @@
+{
+ "hero_surtitre": "Central Nantes · 19 rue Jean Jaurès · for 10 years",
+ "hero_titre_ligne1": "Touring bike hire",
+ "hero_titre_ligne2": "in the heart",
+ "hero_titre_accent": "of Nantes",
+ "hero_texte": "Six cycle routes start right from our shop. We get your bike, panniers and GPX track ready – all you have to do is pedal. One-way hire available.",
+ "hero_image_alt": "Cyclists on bikes hired from Bike'N Tour on a quiet lane in the Nantes vineyards",
+ "faq": [
+  {
+   "question": "Where can I hire a bike for the Loire à Vélo from Nantes?",
+   "reponse": "At Bike'N Tour, 19 rue Jean Jaurès in Nantes, inside the Ibis hotel (tram T3, Jean Jaurès stop). The shop sits at the start of the Loire à Vélo, La Vélodyssée and La Régalante: you pick up bikes fitted to your size, panniers and route advice."
+  },
+  {
+   "question": "Can I hire a bike one way from Nantes?",
+   "reponse": "Yes, on request. You set off from Nantes and leave the bike at your destination (Loire à Vélo, La Vélodyssée, La Régalante, Brittany): we arrange collection with our partners, with a quote based on your dates and drop-off point."
+  },
+  {
+   "question": "Which cycle route should I take from Nantes?",
+   "reponse": "Six routes start from the shop: the Loire à Vélo to Angers and Saumur, La Vélodyssée to the ocean, La Régalante (275 km) and the Brittany Crossing (485 km) to Mont-Saint-Michel, the Nantes–Brest Canal and the Nantes Vineyards. For a first family trip, the Loire à Vélo is the easiest: flat and well signposted."
+  },
+  {
+   "question": "How much does e-bike hire cost in Nantes?",
+   "reponse": "E-bike hire at Bike'N Tour starts at €35 a day, €62 for the weekend and €172 for the week (lower rates for longer hires). Lock, puncture repair kit, pump and charger are included; damage and theft cover is optional (€3 a day)."
+  },
+  {
+   "question": "What's included when I hire a bike from Bike'N Tour?",
+   "reponse": "Every bike comes with a lock, a puncture repair kit, a pump, a rear rack and lights (plus the charger for e-bikes). Waterproof Ortlieb panniers, helmet, baby seat, trailer, phone holder and damage and theft cover are available as extras."
+  },
+  {
+   "question": "Do I need to book my bike in advance?",
+   "reponse": "We recommend it from May to September, especially for e-bikes. You can book online in a few minutes or by phone, and you can change or cancel free of charge up to 48 hours before you set off."
+  },
+  {
+   "question": "Do you welcome visitors from abroad?",
+   "reponse": "Yes. Our team welcomes you in French and English, and this website is available in English, Dutch and German. The shop is just a few minutes from Nantes station by tram."
+  }
+ ]
+}

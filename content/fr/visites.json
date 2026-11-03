@@ -1,0 +1,142 @@
+{
+  "visites": [
+    {
+      "id": "panorama",
+      "url": "/fr/tour/tour-du-panorama-nantais",
+      "name": "Nantes Bike Tour : le panorama nantais",
+      "short": "Le best-seller",
+      "img": "/assets/img/v2-groupe-elephant.webp",
+      "alt": "Groupe en visite guidée à vélo devant le Grand Éléphant des Machines de l'île",
+      "price": 44,
+      "duration": "2 h 30",
+      "iso": "PT2H30M",
+      "when": "Du mardi au dimanche à 15 h",
+      "langs": "Français, anglais, espagnol",
+      "meet": "Place de Bretagne, au pied de la Tour de Bretagne",
+      "title": "Visite guidée de Nantes à vélo électrique | Bike'N Tour",
+      "meta": "Visitez Nantes à vélo électrique avec un guide local : Château des ducs, Machines de l'île, Voyage à Nantes. 2h30, 44 € par personne, 12 personnes max.",
+      "lead": "Le château des ducs de Bretagne, l'Éléphant des Machines de l'île, les œuvres du Voyage à Nantes et les bords de Loire, sans effort à vélo électrique et avec un guide qui connaît la ville comme sa poche.",
+      "stops": [
+        {
+          "lieu": "Tour de Bretagne",
+          "texte": "Briefing, réglage des vélos et présentation du parcours."
+        },
+        {
+          "lieu": "Saint-Mihiel et les bords de l'Erdre",
+          "texte": "Le quai de Versailles, les péniches et le jardin japonais de l'île de Versailles."
+        },
+        {
+          "lieu": "Quai Ceineray et cours des 50 Otages",
+          "texte": "Comment l'eau a façonné Nantes, des Vikings au comblement des bras de Loire."
+        },
+        {
+          "lieu": "Quartier médiéval et place du Bouffay",
+          "texte": "Les ruelles de l'ancienne ville fortifiée."
+        },
+        {
+          "lieu": "Château des ducs et Tour LU",
+          "texte": "Nantes est-elle en Bretagne ? La vie d'Anne de Bretagne, puis l'histoire gourmande des biscuits LU."
+        },
+        {
+          "lieu": "Île de Nantes",
+          "texte": "Les anciens chantiers navals devenus quartier de la création, et l'Éléphant géant."
+        },
+        {
+          "lieu": "Graslin, passage Pommeraye et place Royale",
+          "texte": "L'élégance du Nantes du XIXe siècle, avant le retour à la Tour de Bretagne."
+        }
+      ],
+      "included": [
+        "Vélo électrique et casque",
+        "Guide passionné",
+        "Gourmandises locales",
+        "Carte commentée de la ville"
+      ]
+    },
+    {
+      "id": "wine",
+      "url": "/fr/tour/tour-surprenantes",
+      "name": "Wine & Bike Tour à Nantes",
+      "short": "Avec dégustation",
+      "img": "/assets/img/v2-pause-nantes.webp",
+      "alt": "Pause pendant une visite guidée à vélo dans le centre de Nantes",
+      "price": 65,
+      "duration": "3 h 30",
+      "iso": "PT3H30M",
+      "when": "Du jeudi au dimanche à 14 h",
+      "langs": "Français, anglais",
+      "meet": "Place de Bretagne, au pied de la Tour de Bretagne (tram T3, arrêt Bretagne)",
+      "title": "Wine & Bike Tour : Nantes à vélo et dégustation | Bike'N Tour",
+      "meta": "Visite guidée de Nantes à vélo électrique avec dégustation de 3 vins de Loire et fromages locaux en bord de Loire. 3h30, 65 € par personne.",
+      "lead": "La ville et le vignoble nantais racontés en une balade : l'histoire du Muscadet et des vins de Loire, puis une dégustation de trois vins et de fromages locaux au bord du fleuve.",
+      "stops": [
+        {
+          "lieu": "Tour de Bretagne",
+          "texte": "Prise en main des vélos."
+        },
+        {
+          "lieu": "Bords de l'Erdre",
+          "texte": "Le quai de Versailles et l'île de Versailles."
+        },
+        {
+          "lieu": "Bouffay et château des ducs",
+          "texte": "La ville médiévale et l'histoire du commerce du vin."
+        },
+        {
+          "lieu": "Île de Nantes",
+          "texte": "Les anciens chantiers navals et les Machines de l'île."
+        },
+        {
+          "lieu": "Dégustation en bord de Loire",
+          "texte": "Trois vins du Vignoble nantais et des fromages locaux, commentés par votre guide."
+        }
+      ],
+      "included": [
+        "Vélo électrique et casque",
+        "Guide passionné",
+        "Dégustation de 3 vins et fromages locaux",
+        "Carte commentée de la ville"
+      ]
+    },
+    {
+      "id": "urbain",
+      "url": "/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes",
+      "name": "Tour « Culture urbaine » à vélo électrique",
+      "short": "Hors des sentiers battus",
+      "img": "/assets/img/v2-groupe-ile-de-nantes.webp",
+      "alt": "Groupe à vélo sur l'île de Nantes",
+      "price": 45,
+      "duration": "2 h 30",
+      "iso": "PT2H30M",
+      "when": "Tous les jours à 10 h, sauf le dimanche",
+      "langs": "Français, anglais",
+      "meet": "Place de Bretagne, sur les marches de la Tour de Bretagne",
+      "title": "Tour « Culture urbaine » à Nantes à vélo | Bike'N Tour",
+      "meta": "Visite guidée « hors cadre » de Nantes à vélo électrique : street art, Chantenay, île de Nantes, bords de Loire. 2h30, 45 € par personne.",
+      "lead": "Une visite « hors cadre » de Nantes : lieux détournés, street art, architecture et quartiers en mutation, de Chantenay à l'île de Nantes.",
+      "stops": [
+        {
+          "lieu": "Quartier Chantenay",
+          "texte": "L'ancien Nantes industriel et ses friches devenues lieux de création."
+        },
+        {
+          "lieu": "Bords de Loire",
+          "texte": "Les œuvres de l'estuaire et les quais."
+        },
+        {
+          "lieu": "Île de Nantes",
+          "texte": "Architecture contemporaine et Machines de l'île."
+        },
+        {
+          "lieu": "Champ de Mars",
+          "texte": "Les fresques et l'expression artistique nantaise."
+        }
+      ],
+      "included": [
+        "Vélo électrique et casque",
+        "Guide passionné",
+        "Gourmandises locales"
+      ]
+    }
+  ]
+}

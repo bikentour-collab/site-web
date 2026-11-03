@@ -1,0 +1,345 @@
+{
+ "itineraires": [
+  {
+   "name": "La Loire à Vélo",
+   "short": "Naar Angers en Saumur",
+   "alt": "Groep fietsers aan de oever van de Loire",
+   "desc": "De bekendste fietsroute van Frankrijk volgt vanuit Nantes de Loire stroomopwaarts: kastelen, wijngaarden en dorpjes aan de rivier, op een vlak en uitstekend bewegwijzerd traject. Perfect voor een eerste fietsreis, met het gezin of met vrienden.",
+   "dist": "≈ 165 km tot Saumur",
+   "km": "165 km",
+   "days": "3 tot 4 dagen",
+   "steps": [
+    "Nantes",
+    "Ancenis",
+    "Angers",
+    "Saumur"
+   ],
+   "bike": "Trekkingfiets of e-bike",
+   "page": {
+    "h1": "La Loire à Vélo vanuit Nantes",
+    "title": "Loire à Vélo fiets huren in Nantes: etappes | Bike'N Tour",
+    "meta": "De Loire à Vélo vanuit Nantes: 165 km tot Saumur in 3 à 4 dagen, aanbevolen etappes, terug met de trein en trekkingfiets of e-bike huren.",
+    "intro": "La Loire à Vélo (EuroVelo 6) is de drukst bereden fietsroute van Frankrijk. Vanuit Nantes volg je de rivier stroomopwaarts naar Angers en Saumur, over een vlak, uitstekend bewegwijzerd traject met veel vrijliggende fietspaden: de ideale reis voor een eerste meerdaagse tocht, met het gezin of met vrienden.",
+    "stages": [
+     {
+      "etape": "Nantes → Ancenis",
+      "texte": "Nantes uit langs de Loire, Mauves-sur-Loire met zijn guinguettes, Oudon en zijn toren."
+     },
+     {
+      "etape": "Ancenis → Angers",
+      "texte": "Champtoceaux, de wijnhellingen van de Layon en de Anjou, daarna Angers en zijn kasteel."
+     },
+     {
+      "etape": "Angers → Saumur",
+      "texte": "De tufstenen dorpjes, de grotwoningen en de aankomst aan de voet van het kasteel van Saumur."
+     }
+    ],
+    "highlights": [
+     "Het kasteel van de hertogen van Bretagne bij vertrek",
+     "De guinguettes van Mauves-sur-Loire",
+     "Het kasteel van Angers en het Apocalypswandtapijt",
+     "De grotwoningen en het kasteel van Saumur"
+    ],
+    "back": "Rechtstreekse treinen Saumur – Nantes en Angers – Nantes (TER, fietsen toegestaan afhankelijk van het seizoen), of enkele reis op aanvraag.",
+    "faq": [
+     {
+      "question": "Hoeveel dagen heb je nodig voor de Loire à Vélo van Nantes naar Saumur?",
+      "reponse": "Reken op 3 tot 4 dagen voor de 165 km tussen Nantes en Saumur, uitgaand van 40 tot 60 km per dag. Het weekend Nantes – Angers (110 km) doe je in 2 dagen."
+     },
+     {
+      "question": "Is de Loire à Vélo geschikt voor kinderen?",
+      "reponse": "Ja: de route is vlak en loopt vaak over vrijliggende fietspaden. Reken met kinderen op 20 tot 30 km per dag; wij verhuren kinderfietsen, kinderzitjes en aanhangers."
+     }
+    ]
+   }
+  },
+  {
+   "name": "La Vélodyssée",
+   "short": "Naar de oceaan en de Vendée",
+   "alt": "Reizigers met hun fietstassen op een landweg",
+   "desc": "Vanuit Nantes bereikt de Vélodyssée de oceaan via het Pays de Retz en volgt daarna de kust van de Vendée: moerassen, stranden en fietspaden door dennenbossen, met de zeewind er gratis bij.",
+   "dist": "≈ 240 km tot Les Sables-d'Olonne",
+   "km": "240 km",
+   "days": "4 tot 5 dagen",
+   "steps": [
+    "Nantes",
+    "Pornic",
+    "Saint-Jean-de-Monts",
+    "Les Sables-d'Olonne"
+   ],
+   "bike": "Trekkingfiets of e-bike",
+   "page": {
+    "h1": "La Vélodyssée vanuit Nantes",
+    "title": "Vélodyssée vanuit Nantes: Pornic, Les Sables | Bike'N Tour",
+    "meta": "De Vélodyssée vanuit Nantes: het estuarium, Pornic en de kust van de Vendée tot Les Sables-d'Olonne (≈ 240 km). Etappes, trein terug en fietsverhuur.",
+    "intro": "La Vélodyssée (EuroVelo 1) verbindt Roscoff met Hendaye. Vanuit Nantes bereik je de oceaan langs het estuarium van de Loire, waarna je de Côte de Jade en de kust van de Vendée afzakt: moerassen, stranden, dennenbossen en vissershavens.",
+    "stages": [
+     {
+      "etape": "Nantes → Paimbœuf",
+      "texte": "Het kunstparcours Estuaire, het kanaal van La Martinière en de visnetten van de carrelets."
+     },
+     {
+      "etape": "Paimbœuf → Pornic",
+      "texte": "Saint-Brevin-les-Pins, eindelijk de oceaan, en dan de Côte de Jade tot de oude haven van Pornic."
+     },
+     {
+      "etape": "Pornic → Saint-Jean-de-Monts",
+      "texte": "De baai van Bourgneuf en het Marais breton vendéen."
+     },
+     {
+      "etape": "Saint-Jean-de-Monts → Les Sables-d'Olonne",
+      "texte": "Fietspaden door de dennenbossen, Saint-Gilles-Croix-de-Vie en de aankomst in Les Sables."
+     }
+    ],
+    "highlights": [
+     "De kunstwerken van het parcours Estuaire",
+     "De oude haven van Pornic",
+     "Het Marais breton vendéen",
+     "Het dennenbos van de Côte de Lumière"
+    ],
+    "back": "Treinen Pornic – Nantes (40 min) en Les Sables-d'Olonne – Nantes, of enkele reis op aanvraag.",
+    "faq": [
+     {
+      "question": "Kun je Nantes – Pornic in een weekend fietsen?",
+      "reponse": "Ja: 100 km in 2 dagen, met een overnachting in Paimbœuf of Corsept, en met de trein terug van Pornic naar Nantes in ongeveer 40 minuten."
+     }
+    ]
+   }
+  },
+  {
+   "name": "La Régalante",
+   "short": "Tot aan de Mont-Saint-Michel",
+   "alt": "Drie fietsreizigers op een bospad",
+   "desc": "De nieuwe fietsroute die Nantes via het binnenland met de Mont-Saint-Michel verbindt: vrijliggende fietspaden, karakteristieke stadjes zoals Châteaubriant, Vitré en Fougères, en heel weinig hoogteverschil.",
+   "dist": "275 km tot de Mont-Saint-Michel",
+   "km": "275 km",
+   "days": "9 etappes",
+   "steps": [
+    "Nantes",
+    "Châteaubriant",
+    "Vitré",
+    "Fougères",
+    "Mont-Saint-Michel"
+   ],
+   "bike": "Trekkingfiets of e-bike",
+   "page": {
+    "h1": "La Régalante, van Nantes naar de Mont-Saint-Michel",
+    "title": "La Régalante: fietsen Nantes – Mont-Saint-Michel | Bike'N Tour",
+    "meta": "La Régalante, fietsroute van 275 km van Nantes naar de Mont-Saint-Michel via Châteaubriant, Vitré en Fougères: 9 makkelijke etappes, fiets huren in Nantes.",
+    "intro": "La Régalante is een nieuwe fietsroute die Nantes via het binnenland met de Mont-Saint-Michel verbindt. De 275 km, verdeeld over 9 etappes, lopen vooral over vrijliggende fietspaden met heel weinig hoogteverschil en voeren langs karakteristieke stadjes.",
+    "stages": [
+     {
+      "etape": "Nantes → Nort-sur-Erdre",
+      "texte": "Het dal van de Erdre en zijn kastelen."
+     },
+     {
+      "etape": "Nort-sur-Erdre → Châteaubriant",
+      "texte": "Vrijliggende fietspaden en bossen in het noorden van Loire-Atlantique."
+     },
+     {
+      "etape": "Châteaubriant → Vitré",
+      "texte": "Bretagne in en het middeleeuwse stadje Vitré."
+     },
+     {
+      "etape": "Vitré → Fougères",
+      "texte": "Het kasteel van Fougères, een van de grootste van Europa."
+     },
+     {
+      "etape": "Fougères → Mont-Saint-Michel",
+      "texte": "Het Normandische coulisselandschap en de aankomst met zicht op de baai."
+     }
+    ],
+    "highlights": [
+     "Het dal van de Erdre",
+     "Het kasteel van Châteaubriant",
+     "De stadsmuren van Vitré en Fougères",
+     "De aankomst bij de Mont-Saint-Michel"
+    ],
+    "back": "Terug met bus en trein via Pontorson of Rennes, of enkele reis op aanvraag.",
+    "faq": [
+     {
+      "question": "Is La Régalante zwaar?",
+      "reponse": "Nee: ze loopt grotendeels over vrijliggende fietspaden met weinig hoogteverschil. Reken op 9 etappes van gemiddeld 25 tot 35 km, of minder dagen als je meer fietst."
+     }
+    ]
+   }
+  },
+  {
+   "name": "De Bretagne-oversteek",
+   "short": "Langs de kust, Rennes en Saint-Malo",
+   "alt": "Fietser op een e-bike op een landweggetje",
+   "desc": "De grote reis naar de Mont-Saint-Michel: het estuarium en Guérande, de Vilaine tot Redon, Rennes, dan het dal van de Rance, Dinan en de Côte d'Émeraude.",
+   "dist": "485 km tot de Mont-Saint-Michel",
+   "km": "485 km",
+   "days": "8 tot 10 dagen",
+   "steps": [
+    "Nantes",
+    "Saint-Nazaire",
+    "Redon",
+    "Rennes",
+    "Dinan",
+    "Saint-Malo",
+    "Mont-Saint-Michel"
+   ],
+   "bike": "Trekkingfiets of e-bike",
+   "page": {
+    "h1": "De Bretagne-oversteek, van Nantes naar de Mont-Saint-Michel",
+    "title": "Bretagne-oversteek per fiets vanuit Nantes | Bike'N Tour",
+    "meta": "De Bretagne-oversteek: 485 km van Nantes naar de Mont-Saint-Michel via Guérande, Redon, Rennes, Dinan en Saint-Malo. Etappes, tips en fietsverhuur.",
+    "intro": "De grote fietsreis naar de Mont-Saint-Michel: het estuarium van de Loire en Guérande, de Vilaine tot Redon, Rennes, het dal van de Rance, Dinan en dan de Côte d'Émeraude en de baai. Een gevarieerde route van bijna 500 km.",
+    "stages": [
+     {
+      "etape": "Nantes → Saint-Nazaire",
+      "texte": "De Vélidéale langs het estuarium."
+     },
+     {
+      "etape": "Saint-Nazaire → Guérande",
+      "texte": "La Baule en de zoutpannen."
+     },
+     {
+      "etape": "Guérande → Redon",
+      "texte": "De Vilaine, Arzal en La Roche-Bernard."
+     },
+     {
+      "etape": "Redon → Rennes",
+      "texte": "Het jaagpad langs de Vilaine."
+     },
+     {
+      "etape": "Rennes → Dinan",
+      "texte": "Het kanaal van Ille-et-Rance."
+     },
+     {
+      "etape": "Dinan → Saint-Malo",
+      "texte": "Het dal van de Rance."
+     },
+     {
+      "etape": "Saint-Malo → Mont-Saint-Michel",
+      "texte": "Cancale, de baai en de aankomst bij de Mont."
+     }
+    ],
+    "highlights": [
+     "De zoutpannen van Guérande",
+     "Het middeleeuwse stadje Dinan",
+     "De ommuurde binnenstad van Saint-Malo",
+     "De baai van de Mont-Saint-Michel"
+    ],
+    "back": "Terug met de trein vanuit Rennes of Saint-Malo, of enkele reis op aanvraag.",
+    "faq": [
+     {
+      "question": "Hoelang doe je over de Bretagne-oversteek?",
+      "reponse": "Reken op 8 tot 10 dagen voor de 485 km, uitgaand van 50 tot 60 km per dag. Een e-bike is aan te raden voor de heuvelachtige stukken."
+     }
+    ]
+   }
+  },
+  {
+   "name": "Het kanaal van Nantes naar Brest",
+   "short": "Over jaagpaden naar de Finistère",
+   "alt": "Twee reizigers vertrekken op de fiets vanuit het centrum van Nantes",
+   "desc": "Sluizen, sluiswachtershuisjes en vlakke jaagpaden: het kanaal doorkruist het Bretonse binnenland van Nantes tot de Finistère. Je kunt ook een deel fietsen, tot Redon of Josselin.",
+   "dist": "≈ 360 km tot Châteaulin",
+   "km": "360 km",
+   "days": "6 tot 8 dagen",
+   "steps": [
+    "Nantes",
+    "Nort-sur-Erdre",
+    "Redon",
+    "Josselin",
+    "Pontivy",
+    "Carhaix",
+    "Châteaulin"
+   ],
+   "bike": "Trekkingfiets of gravelbike",
+   "page": {
+    "h1": "Het kanaal van Nantes naar Brest op de fiets",
+    "title": "Kanaal van Nantes naar Brest per fiets | Bike'N Tour",
+    "meta": "Het kanaal van Nantes naar Brest per fiets vanuit Nantes: jaagpaden via Redon, Josselin en Pontivy (≈ 360 km). Weekend tot Redon of een grote fietsreis.",
+    "intro": "Sluizen, sluiswachtershuisjes en vlakke jaagpaden: het kanaal van Nantes naar Brest doorkruist het Bretonse binnenland. Je fietst het in een weekend tot Redon of als grote reis tot in de Finistère.",
+    "stages": [
+     {
+      "etape": "Nantes → Nort-sur-Erdre",
+      "texte": "De Erdre en zijn kastelen."
+     },
+     {
+      "etape": "Nort-sur-Erdre → Redon",
+      "texte": "Het kanaal door het coulisselandschap, ideaal voor een weekend."
+     },
+     {
+      "etape": "Redon → Josselin",
+      "texte": "Malestroit en het kasteel van Josselin."
+     },
+     {
+      "etape": "Josselin → Pontivy",
+      "texte": "Het dal van de Blavet."
+     },
+     {
+      "etape": "Pontivy → Carhaix",
+      "texte": "Het meer van Guerlédan."
+     },
+     {
+      "etape": "Carhaix → Châteaulin",
+      "texte": "De Aulne en de aankomst in de Finistère."
+     }
+    ],
+    "highlights": [
+     "De 238 sluizen van het kanaal",
+     "Het kasteel van Josselin",
+     "Het meer van Guerlédan",
+     "De sluiswachtershuisjes"
+    ],
+    "back": "Trein Redon – Nantes (ongeveer 45 min) voor het weekend, of terug vanuit Quimper of Brest; enkele reis op aanvraag.",
+    "faq": [
+     {
+      "question": "Kun je het kanaal van Nantes naar Brest in een weekend fietsen?",
+      "reponse": "Ja: van Nantes naar Redon in 2 dagen, met de trein terug vanuit Redon."
+     }
+    ]
+   }
+  },
+  {
+   "name": "De wijngaarden van Nantes",
+   "short": "Een weekend tussen Sèvre en Muscadet",
+   "alt": "Fietsers op een smalle weg door de wijngaarden van Nantes",
+   "desc": "Het ideale weekend vlak bij Nantes: de Muscadet-hellingen, de Sèvre nantaise en Clisson, met zijn kasteel en Italiaanse sfeer. Smalle wegen en paden, perfect voor de gravelbike.",
+   "dist": "≈ 80 km rondrit",
+   "km": "80 km",
+   "days": "2 dagen",
+   "steps": [
+    "Nantes",
+    "Vertou",
+    "Clisson",
+    "Vallet"
+   ],
+   "bike": "Gravelbike of e-bike",
+   "page": {
+    "h1": "De wijngaarden van Nantes op de fiets",
+    "title": "Wijngaarden van Nantes per fiets: Clisson | Bike'N Tour",
+    "meta": "Een fietsweekend in de wijngaarden van Nantes: de Sèvre nantaise, Vertou, Clisson en de Muscadet-hellingen (≈ 80 km rondrit). Gravelbike huren in Nantes.",
+    "intro": "Het ideale weekend vlak bij Nantes: de oevers van de Sèvre nantaise, de Muscadet-hellingen en Clisson, met zijn middeleeuwse burcht en Italiaanse sfeer. Smalle wegen en paden, perfect voor de gravelbike.",
+    "stages": [
+     {
+      "etape": "Nantes → Clisson",
+      "texte": "De oevers van de Sèvre, de Chaussée des Moines in Vertou en de wijngaarden (37 km)."
+     },
+     {
+      "etape": "Clisson → Nantes",
+      "texte": "Terug via Vallet en de Muscadet-hellingen, met onderweg een wijnproeverij."
+     }
+    ],
+    "highlights": [
+     "De Chaussée des Moines in Vertou",
+     "Het kasteel van Clisson",
+     "De Garenne Lemot",
+     "De Muscadet-wijndomeinen"
+    ],
+    "back": "Rondrit terug naar Nantes, of de TER Clisson – Nantes in 20 minuten.",
+    "faq": [
+     {
+      "question": "Kun je Nantes – Clisson op één dag fietsen?",
+      "reponse": "Ja: 37 km langs de oevers van de Sèvre, met de TER terug vanuit Clisson."
+     }
+    ]
+   }
+  }
+ ]
+}

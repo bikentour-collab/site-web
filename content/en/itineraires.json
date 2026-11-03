@@ -1,0 +1,206 @@
+{
+ "itineraires": [
+  {
+   "name": "La Loire à Vélo",
+   "short": "To Angers and Saumur",
+   "alt": "A group of cyclists on the banks of the Loire",
+   "desc": "France's best-known cycle route follows the Loire upstream from Nantes: châteaux, vineyards and riverside villages, on a flat and very well signposted route. Perfect for a first cycling holiday, with family or friends.",
+   "dist": "≈ 165 km to Saumur",
+   "km": "165 km",
+   "days": "3 to 4 days",
+   "steps": ["Nantes", "Ancenis", "Angers", "Saumur"],
+   "bike": "Touring bike or e-bike",
+   "page": {
+    "h1": "La Loire à Vélo from Nantes",
+    "title": "Loire à Vélo from Nantes: Stages & Bike Hire | Bike'N Tour",
+    "meta": "La Loire à Vélo from Nantes: 165 km to Saumur in 3 to 4 days, suggested stages, train back and touring bike or e-bike hire.",
+    "intro": "La Loire à Vélo (EuroVelo 6) is France's most popular cycle route. From Nantes, it follows the river upstream to Angers and Saumur on a flat, very well signposted route that is largely traffic-free: the ideal trip for your first cycling holiday, with family or friends.",
+    "stages": [
+     {"etape": "Nantes → Ancenis", "texte": "Out of Nantes along the Loire, past Mauves-sur-Loire and its riverside guinguettes, and Oudon with its tower."},
+     {"etape": "Ancenis → Angers", "texte": "Champtoceaux, the hillsides of the Layon and Anjou, then Angers and its castle."},
+     {"etape": "Angers → Saumur", "texte": "Tufa-stone villages, cave dwellings and a finish at the foot of Saumur castle."}
+    ],
+    "highlights": [
+     "The Château des ducs de Bretagne at the start",
+     "The riverside guinguettes of Mauves-sur-Loire",
+     "Angers castle and the Apocalypse Tapestry",
+     "The cave dwellings and Saumur castle"
+    ],
+    "back": "Direct trains from Saumur and Angers to Nantes (TER, bikes accepted depending on the season), or one-way hire on request.",
+    "faq": [
+     {"question": "How many days does it take to cycle the Loire à Vélo from Nantes to Saumur?", "reponse": "Allow 3 to 4 days for the 165 km between Nantes and Saumur, at 40 to 60 km a day. The Nantes – Angers weekend (110 km) takes 2 days."},
+     {"question": "Is the Loire à Vélo suitable for children?", "reponse": "Yes: the route is flat and often traffic-free. With children, plan on 20 to 30 km a day; we hire out kids' bikes, baby seats and trailers."}
+    ]
+   }
+  },
+  {
+   "name": "La Vélodyssée",
+   "short": "To the ocean and the Vendée",
+   "alt": "Cyclists with panniers on a country track",
+   "desc": "From Nantes, La Vélodyssée heads to the ocean through the Pays de Retz, then follows the Vendée coast: marshes, beaches and pine-forest trails, with a fresh sea breeze thrown in.",
+   "dist": "≈ 240 km to Les Sables-d'Olonne",
+   "km": "240 km",
+   "days": "4 to 5 days",
+   "steps": ["Nantes", "Pornic", "Saint-Jean-de-Monts", "Les Sables-d'Olonne"],
+   "bike": "Touring bike or e-bike",
+   "page": {
+    "h1": "La Vélodyssée from Nantes",
+    "title": "Vélodyssée from Nantes: Pornic, Les Sables | Bike'N Tour",
+    "meta": "La Vélodyssée from Nantes: the estuary, Pornic and the Vendée coast to Les Sables-d'Olonne (≈ 240 km). Stages, train back and bike hire.",
+    "intro": "La Vélodyssée (EuroVelo 1) runs from Roscoff to Hendaye. From Nantes, it reaches the ocean along the Loire estuary, then heads down the Côte de Jade and the Vendée coast: marshes, beaches, pine forests and fishing ports.",
+    "stages": [
+     {"etape": "Nantes → Paimbœuf", "texte": "The Estuaire art trail, the Martinière canal and the fishermen's lift-net huts."},
+     {"etape": "Paimbœuf → Pornic", "texte": "Saint-Brevin-les-Pins, the ocean at last, then the Côte de Jade to Pornic's old harbour."},
+     {"etape": "Pornic → Saint-Jean-de-Monts", "texte": "The Bay of Bourgneuf and the Breton-Vendée marshes."},
+     {"etape": "Saint-Jean-de-Monts → Les Sables-d'Olonne", "texte": "Pine-forest trails, Saint-Gilles-Croix-de-Vie and the finish at Les Sables."}
+    ],
+    "highlights": [
+     "The artworks of the Estuaire trail",
+     "Pornic's old harbour",
+     "The Breton-Vendée marshes",
+     "The pine forest of the Côte de Lumière"
+    ],
+    "back": "Trains from Pornic to Nantes (40 min) and from Les Sables-d'Olonne to Nantes, or one-way hire on request.",
+    "faq": [
+     {"question": "Can I cycle from Nantes to Pornic in a weekend?", "reponse": "Yes: 100 km in 2 days, with a night in Paimbœuf or Corsept, and a train back from Pornic to Nantes in about 40 minutes."}
+    ]
+   }
+  },
+  {
+   "name": "La Régalante",
+   "short": "All the way to Mont-Saint-Michel",
+   "alt": "Three cyclists on a forest track",
+   "desc": "The new cycle route linking Nantes to Mont-Saint-Michel inland: greenways, historic towns like Châteaubriant, Vitré and Fougères, and very little climbing.",
+   "dist": "275 km to Mont-Saint-Michel",
+   "km": "275 km",
+   "days": "9 stages",
+   "steps": ["Nantes", "Châteaubriant", "Vitré", "Fougères", "Mont-Saint-Michel"],
+   "bike": "Touring bike or e-bike",
+   "page": {
+    "h1": "La Régalante, from Nantes to Mont-Saint-Michel",
+    "title": "La Régalante by Bike: Nantes – Mont-Saint-Michel",
+    "meta": "La Régalante, a 275 km cycle route from Nantes to Mont-Saint-Michel via Châteaubriant, Vitré and Fougères: 9 easy stages, bike hire in Nantes.",
+    "intro": "La Régalante is a recent cycle route linking Nantes to Mont-Saint-Michel through the heart of the countryside. Its 275 km, split into 9 stages, mostly follow greenways with very little climbing and pass through historic towns.",
+    "stages": [
+     {"etape": "Nantes → Nort-sur-Erdre", "texte": "The Erdre valley and its châteaux."},
+     {"etape": "Nort-sur-Erdre → Châteaubriant", "texte": "Greenways and forests in the north of Loire-Atlantique."},
+     {"etape": "Châteaubriant → Vitré", "texte": "Into Brittany and the medieval town of Vitré."},
+     {"etape": "Vitré → Fougères", "texte": "Fougères castle, one of the largest in Europe."},
+     {"etape": "Fougères → Mont-Saint-Michel", "texte": "The Normandy hedgerow country, then the finish facing the bay."}
+    ],
+    "highlights": [
+     "The Erdre valley",
+     "Châteaubriant castle",
+     "The ramparts of Vitré and Fougères",
+     "Arriving at Mont-Saint-Michel"
+    ],
+    "back": "Back by coach and train via Pontorson or Rennes, or one-way hire on request.",
+    "faq": [
+     {"question": "Is La Régalante difficult?", "reponse": "No: it mostly follows greenways with little climbing. Allow 9 stages of 25 to 35 km on average, or fewer days if you ride further."}
+    ]
+   }
+  },
+  {
+   "name": "The Brittany Crossing",
+   "short": "Via the coast, Rennes and Saint-Malo",
+   "alt": "A cyclist on an e-bike on a quiet country road",
+   "desc": "The big trip to Mont-Saint-Michel: the estuary and Guérande, the Vilaine to Redon, Rennes, then the Rance valley, Dinan and the Emerald Coast.",
+   "dist": "485 km to Mont-Saint-Michel",
+   "km": "485 km",
+   "days": "8 to 10 days",
+   "steps": ["Nantes", "Saint-Nazaire", "Redon", "Rennes", "Dinan", "Saint-Malo", "Mont-Saint-Michel"],
+   "bike": "Touring bike or e-bike",
+   "page": {
+    "h1": "The Brittany Crossing, from Nantes to Mont-Saint-Michel",
+    "title": "Brittany Crossing by Bike from Nantes (485 km) | Bike'N Tour",
+    "meta": "The Brittany Crossing by bike: 485 km from Nantes to Mont-Saint-Michel via Guérande, Redon, Rennes, Dinan and Saint-Malo. Stages, tips and bike hire.",
+    "intro": "The big cycling trip to Mont-Saint-Michel: the Loire estuary and Guérande, the Vilaine to Redon, Rennes, the Rance valley, Dinan, then the Emerald Coast and the bay. A varied route of almost 500 km.",
+    "stages": [
+     {"etape": "Nantes → Saint-Nazaire", "texte": "The Vélidéale along the estuary."},
+     {"etape": "Saint-Nazaire → Guérande", "texte": "La Baule and the salt marshes."},
+     {"etape": "Guérande → Redon", "texte": "The Vilaine, Arzal and La Roche-Bernard."},
+     {"etape": "Redon → Rennes", "texte": "The Vilaine towpath."},
+     {"etape": "Rennes → Dinan", "texte": "The Ille-et-Rance canal."},
+     {"etape": "Dinan → Saint-Malo", "texte": "The Rance valley."},
+     {"etape": "Saint-Malo → Mont-Saint-Michel", "texte": "Cancale, the bay and the finish at the Mont."}
+    ],
+    "highlights": [
+     "The Guérande salt marshes",
+     "The medieval town of Dinan",
+     "Saint-Malo's walled city",
+     "The bay of Mont-Saint-Michel"
+    ],
+    "back": "Train back from Rennes or Saint-Malo, or one-way hire on request.",
+    "faq": [
+     {"question": "How long does the Brittany Crossing take?", "reponse": "Allow 8 to 10 days for the 485 km, at 50 to 60 km a day. An e-bike is recommended for the hillier sections."}
+    ]
+   }
+  },
+  {
+   "name": "The Nantes–Brest Canal",
+   "short": "Towpaths all the way to Finistère",
+   "alt": "Two cyclists setting off from the centre of Nantes",
+   "desc": "Locks, lock-keepers' cottages and perfectly flat towpaths: the canal crosses inland Brittany from Nantes to Finistère. You can ride just part of it, as far as Redon or Josselin.",
+   "dist": "≈ 360 km to Châteaulin",
+   "km": "360 km",
+   "days": "6 to 8 days",
+   "steps": ["Nantes", "Nort-sur-Erdre", "Redon", "Josselin", "Pontivy", "Carhaix", "Châteaulin"],
+   "bike": "Touring bike or gravel bike",
+   "page": {
+    "h1": "The Nantes–Brest Canal by bike",
+    "title": "The Nantes–Brest Canal by Bike: Stages | Bike'N Tour",
+    "meta": "The Nantes–Brest Canal by bike from Nantes: towpaths via Redon, Josselin and Pontivy (≈ 360 km). A weekend to Redon or the full trip.",
+    "intro": "Locks, lock-keepers' cottages and perfectly flat towpaths: the Nantes–Brest Canal crosses inland Brittany. Ride it over a weekend as far as Redon, or make it a big trip all the way to Finistère.",
+    "stages": [
+     {"etape": "Nantes → Nort-sur-Erdre", "texte": "The Erdre and its châteaux."},
+     {"etape": "Nort-sur-Erdre → Redon", "texte": "The canal through hedgerow country, ideal for a weekend."},
+     {"etape": "Redon → Josselin", "texte": "Malestroit and Josselin castle."},
+     {"etape": "Josselin → Pontivy", "texte": "The Blavet valley."},
+     {"etape": "Pontivy → Carhaix", "texte": "Lac de Guerlédan."},
+     {"etape": "Carhaix → Châteaulin", "texte": "The Aulne and the finish in Finistère."}
+    ],
+    "highlights": [
+     "The canal's 238 locks",
+     "Josselin castle",
+     "Lac de Guerlédan",
+     "The lock-keepers' cottages"
+    ],
+    "back": "Train from Redon to Nantes (about 45 min) for the weekend, or back from Quimper or Brest; one-way hire on request.",
+    "faq": [
+     {"question": "Can I cycle the Nantes–Brest Canal in a weekend?", "reponse": "Yes: from Nantes to Redon in 2 days, with a train back from Redon."}
+    ]
+   }
+  },
+  {
+   "name": "The Nantes Vineyards",
+   "short": "A weekend between the Sèvre and Muscadet country",
+   "alt": "Cyclists on a quiet lane in the Nantes vineyards",
+   "desc": "The perfect weekend right on Nantes' doorstep: the Muscadet hillsides, the Sèvre Nantaise and Clisson, with its castle and Italian feel. Quiet lanes and tracks, perfect on a gravel bike.",
+   "dist": "≈ 80 km loop",
+   "km": "80 km",
+   "days": "2 days",
+   "steps": ["Nantes", "Vertou", "Clisson", "Vallet"],
+   "bike": "Gravel bike or e-bike",
+   "page": {
+    "h1": "The Nantes Vineyards by bike",
+    "title": "Nantes Vineyards by Bike: Nantes – Clisson | Bike'N Tour",
+    "meta": "A cycling weekend in the Nantes Vineyards: the Sèvre Nantaise, Vertou, Clisson and the Muscadet hillsides (≈ 80 km loop). Gravel bike hire in Nantes.",
+    "intro": "The perfect weekend right on Nantes' doorstep: the banks of the Sèvre Nantaise, the Muscadet hillsides and Clisson, with its medieval fortress and Italian feel. Quiet lanes and tracks, perfect on a gravel bike.",
+    "stages": [
+     {"etape": "Nantes → Clisson", "texte": "The banks of the Sèvre, the Chaussée des Moines at Vertou and the vineyards (37 km)."},
+     {"etape": "Clisson → Nantes", "texte": "Back via Vallet and the Muscadet hillsides, with a wine tasting along the way."}
+    ],
+    "highlights": [
+     "The Chaussée des Moines at Vertou",
+     "Clisson castle",
+     "La Garenne Lemot",
+     "The Muscadet wine estates"
+    ],
+    "back": "Loop back to Nantes, or the TER train from Clisson to Nantes in 20 minutes.",
+    "faq": [
+     {"question": "Can I cycle from Nantes to Clisson in a day?", "reponse": "Yes: 37 km along the banks of the Sèvre, with a TER train back from Clisson."}
+    ]
+   }
+  }
+ ]
+}

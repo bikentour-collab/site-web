@@ -1,0 +1,180 @@
+{
+ "velos": [
+  {
+   "name": "Reiserad",
+   "h1": "Reiserad mieten in Nantes",
+   "alt": "Reiserad Velo de Ville Trekking L200 zur Miete in Nantes",
+   "brand": "Velo de Ville (Deutschland)",
+   "model": "Trekking L200",
+   "title": "Reiserad mieten Nantes ab 22 €/Tag | Bike'N Tour",
+   "meta": "Reiserad (Trekkingrad) mieten in Nantes für Loire à Vélo oder Vélodyssée: Gepäckträger, Scheibenbremsen, 22 € pro Tag, 110 € pro Woche.",
+   "lead": "Unser Reiserad wird gemeinsam mit unserem deutschen Partner Velo de Ville speziell für Radreisen gebaut: robust, bequem und bereit für zwei Packtaschen.",
+   "specs": [
+    {
+     "label": "Laufräder",
+     "valeur": "28\", pannensichere Schwalbe-Reifen"
+    },
+    {
+     "label": "Bremsen",
+     "valeur": "Hydraulische Scheibenbremsen"
+    },
+    {
+     "label": "Antrieb",
+     "valeur": "Shimano Cues, 1-fach, 9 Gänge (Kassette 11-41)"
+    },
+    {
+     "label": "Ausstattung",
+     "valeur": "Gepäckträger, Schutzbleche, Nabendynamo-Beleuchtung vorne und hinten, ergonomischer Lenker, Royal-Sattel"
+    }
+   ],
+   "why": "Unser meistgefragtes Rad für die Loire à Vélo und die Vélodyssée: aufrechte Sitzposition, 9 gut abgestufte Gänge und ein Gepäckträger für zwei Ortlieb-Packtaschen mit je 20 Litern."
+  },
+  {
+   "name": "E-Bike",
+   "h1": "E-Bike mieten in Nantes",
+   "alt": "E-Bike Sunn Start S1 zur Miete in Nantes",
+   "brand": "Sunn (Loire-Atlantique)",
+   "model": "Start S1",
+   "title": "E-Bike mieten Nantes ab 35 €/Tag | Bike'N Tour",
+   "meta": "Reise-E-Bike mieten in Nantes: Bosch-Motor, rund 100 km Reichweite, Gepäckträger. 35 € pro Tag, 172 € pro Woche, Einweg-Miete möglich.",
+   "lead": "Das Reise-E-Bike von Sunn, nur wenige Kilometer von Nantes entfernt hergestellt, mit Bosch-Motor und herausnehmbarem Akku zum Laden an jeder Etappe.",
+   "specs": [
+    {
+     "label": "Motor",
+     "valeur": "Bosch Active Line Plus, Rahmenakku 400 Wh"
+    },
+    {
+     "label": "Reichweite",
+     "valeur": "Etwa 100 km im Eco-Modus"
+    },
+    {
+     "label": "Laufräder",
+     "valeur": "27,5\", pannensichere Schwalbe-Reifen"
+    },
+    {
+     "label": "Bremsen",
+     "valeur": "Hydraulische Scheibenbremsen"
+    },
+    {
+     "label": "Antrieb",
+     "valeur": "Shimano Cues, 1-fach, 9 Gänge"
+    },
+    {
+     "label": "Ausstattung",
+     "valeur": "Gepäckträger, Schutzbleche, Beleuchtung vorne und hinten, Ladegerät und Akkuschlüssel"
+    }
+   ],
+   "why": "Ideal für lange Etappen, Paare mit unterschiedlicher Kondition und hügelige Routen wie die Bretagne-Durchquerung. Der Akku lässt sich mit dem mitgelieferten Schlüssel herausnehmen und in Ihrer Unterkunft laden."
+  },
+  {
+   "name": "Gravelbike",
+   "h1": "Gravelbike mieten in Nantes",
+   "alt": "Gravelbike Sunn Venture S1 zur Miete in Nantes",
+   "brand": "Sunn (Loire-Atlantique)",
+   "model": "Venture S1",
+   "title": "Gravelbike mieten Nantes ab 35 €/Tag | Bike'N Tour",
+   "meta": "Sunn-Gravelbike mieten in Nantes für die Weinberge von Nantes, Treidelpfade oder Bikepacking: Shimano GRX, Gepäckträger. 35 € pro Tag.",
+   "lead": "Für Wege abseits der Straße: Treidelpfade, Waldwege und kleine Sträßchen durch die Weinberge, mit einem leichten und vielseitigen Rad.",
+   "specs": [
+    {
+     "label": "Laufräder",
+     "valeur": "28\", Continental-Gravelreifen"
+    },
+    {
+     "label": "Bremsen",
+     "valeur": "Hydraulische Scheibenbremsen"
+    },
+    {
+     "label": "Antrieb",
+     "valeur": "Shimano GRX 600, 1-fach, 11 Gänge"
+    },
+    {
+     "label": "Ausstattung",
+     "valeur": "Hinterer Gepäckträger, Flaschenhalter"
+    }
+   ],
+   "why": "Die richtige Wahl für ein Wochenende in den Weinbergen von Nantes oder für den Kanal von Nantes nach Brest, dessen Treidelpfade oft geschottert sind."
+  },
+  {
+   "name": "Kinderrad",
+   "h1": "Kinderrad mieten in Nantes",
+   "alt": "Kinderrad zur Miete in Nantes",
+   "brand": "Decathlon",
+   "model": "20, 24 oder 26 Zoll",
+   "title": "Kinderrad mieten Nantes ab 20 €/Tag | Bike'N Tour",
+   "meta": "Kinderrad (20, 24 oder 26 Zoll) mieten in Nantes für die Loire à Vélo mit der Familie: 20 € pro Tag, 88 € pro Woche. Kindersitz und Anhänger optional.",
+   "lead": "Für Familienreisen: Kinderräder von 20 bis 26 Zoll und für die Kleinsten optional ein Kindersitz oder ein Anhänger.",
+   "specs": [
+    {
+     "label": "Größen",
+     "valeur": "20, 24 und 26 Zoll"
+    },
+    {
+     "label": "Antrieb",
+     "valeur": "Shimano, 7 Gänge"
+    },
+    {
+     "label": "Ausstattung",
+     "valeur": "Schloss, Ständer"
+    }
+   ],
+   "why": "Auf der Loire à Vélo können Kinder dank eigener Radwege und sehr flachem Profil sicher fahren. Rechnen Sie mit Kindern mit 20 bis 30 km pro Tag."
+  },
+  {
+   "name": "Lastenrad",
+   "h1": "Elektro-Lastenrad mieten in Nantes",
+   "alt": "Elektro-Lastenrad von Babboe zur Miete in Nantes",
+   "brand": "Babboe",
+   "model": "Mini Mountain (elektrisch)",
+   "title": "Elektro-Lastenrad mieten Nantes | Bike'N Tour",
+   "meta": "Elektro-Lastenrad von Babboe mieten in Nantes für Ausflüge mit Kindern: Shimano-Motor, 80 km Reichweite, Regenverdeck. 50 € pro Tag.",
+   "lead": "Ein Elektro-Lastenrad, um Kinder (oder das Picknick) durch Nantes und entlang der Loire zu transportieren.",
+   "specs": [
+    {
+     "label": "Motor",
+     "valeur": "Shimano, etwa 80 km Reichweite"
+    },
+    {
+     "label": "Antrieb",
+     "valeur": "Stufenlose Nabenschaltung Enviolo"
+    },
+    {
+     "label": "Ausstattung",
+     "valeur": "Sitzkissen, Regenverdeck auf Anfrage"
+    }
+   ],
+   "why": "Perfekt für Tagesausflüge rund um Nantes, zum Beispiel nach Mauves-sur-Loire mit seinen Guinguettes (Ausflugslokalen am Fluss, 17,5 km)."
+  }
+ ],
+ "accessoires": [
+  {
+   "nom": "Paar wasserdichte Ortlieb-Hinterradtaschen (2 × 20 l)"
+  },
+  {
+   "nom": "Lenkertasche"
+  },
+  {
+   "nom": "Komfort-Sattelbezug"
+  },
+  {
+   "nom": "Smartphone-Halterung"
+  },
+  {
+   "nom": "Kindersitz (ab 1 Jahr)"
+  },
+  {
+   "nom": "Kinderanhänger (ab 1 Jahr)"
+  },
+  {
+   "nom": "Helm"
+  }
+ ],
+ "inclus": [
+  "Schloss",
+  "Pannenset und Pumpe",
+  "Gepäckträger",
+  "Beleuchtung vorne und hinten",
+  "Ladegerät und Akkuschlüssel (E-Bikes)",
+  "Einstellung des Rads auf Ihre Größe und Routentipps"
+ ]
+}

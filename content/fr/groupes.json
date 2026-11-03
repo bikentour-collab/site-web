@@ -1,0 +1,36 @@
+{
+  "offres": [
+    {
+      "id": "location",
+      "name": "Location de vélos pour groupes",
+      "price": "À partir de 16,67 € HT par vélo",
+      "items": [
+        "Vélos et vélos électriques au départ de Nantes ou livrés sur votre lieu",
+        "Proposition de parcours",
+        "Équipements de sécurité fournis",
+        "Mise en selle et conseils"
+      ]
+    },
+    {
+      "id": "visites",
+      "name": "Visites guidées privées",
+      "price": "À partir de 36 € HT par personne",
+      "items": [
+        "Panorama nantais ou Vignoble nantais",
+        "Thématique adaptable à votre groupe",
+        "1 guide pour 12 personnes"
+      ]
+    },
+    {
+      "id": "animations",
+      "name": "Animations et team building",
+      "price": "Sur devis",
+      "items": [
+        "Parcours et animation sur mesure (escape game à vélo…)",
+        "Location et livraison des vélos",
+        "Mise en selle et conseils",
+        "Adaptation à votre programme de séminaire"
+      ]
+    }
+  ]
+}

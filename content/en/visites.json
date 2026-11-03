@@ -1,0 +1,79 @@
+{
+ "visites": [
+  {
+   "name": "Nantes Bike Tour: the Nantes panorama",
+   "short": "Best-seller",
+   "alt": "A guided bike tour group in front of the Great Elephant at Les Machines de l'île",
+   "duration": "2.5 hrs",
+   "when": "From Tuesday to Sunday at 3pm",
+   "langs": "French, English, Spanish",
+   "meet": "Place de Bretagne, at the foot of the Tour de Bretagne",
+   "title": "Guided E-bike Tour of Nantes | Bike'N Tour",
+   "meta": "Explore Nantes by e-bike with a local guide: Château des ducs, Les Machines de l'île, Le Voyage à Nantes. 2.5 hrs, €44 per person, max 12 people.",
+   "lead": "The Château des ducs de Bretagne, the Elephant at Les Machines de l'île, the Voyage à Nantes artworks and the banks of the Loire – effortlessly by e-bike, with a guide who knows the city inside out.",
+   "stops": [
+    {"lieu": "Tour de Bretagne", "texte": "Briefing, bike fitting and an introduction to the route."},
+    {"lieu": "Saint-Mihiel and the banks of the Erdre", "texte": "Quai de Versailles, the barges and the Japanese garden on Île de Versailles."},
+    {"lieu": "Quai Ceineray and Cours des 50 Otages", "texte": "How water shaped Nantes, from the Vikings to the filling-in of the Loire's channels."},
+    {"lieu": "Medieval quarter and Place du Bouffay", "texte": "The narrow streets of the old walled town."},
+    {"lieu": "Château des ducs and Tour LU", "texte": "Is Nantes in Brittany? The life of Anne of Brittany, then the tasty story of LU biscuits."},
+    {"lieu": "Île de Nantes", "texte": "The former shipyards, now a creative quarter, and the giant Elephant."},
+    {"lieu": "Graslin, Passage Pommeraye and Place Royale", "texte": "The elegance of 19th-century Nantes, before heading back to the Tour de Bretagne."}
+   ],
+   "included": [
+    "E-bike and helmet",
+    "Passionate guide",
+    "Local treats",
+    "Annotated city map"
+   ]
+  },
+  {
+   "name": "Wine & Bike Tour in Nantes",
+   "short": "With wine tasting",
+   "alt": "A break during a guided bike tour in the centre of Nantes",
+   "duration": "3.5 hrs",
+   "when": "From Thursday to Sunday at 2pm",
+   "langs": "French, English",
+   "meet": "Place de Bretagne, at the foot of the Tour de Bretagne (tram T3, Bretagne stop)",
+   "title": "Wine & Bike Tour Nantes: Bike and Tasting | Bike'N Tour",
+   "meta": "Guided e-bike tour of Nantes with a tasting of 3 Loire wines and local cheeses on the banks of the Loire. 3.5 hrs, €65 per person.",
+   "lead": "The city and the Nantes vineyards in one ride: the story of Muscadet and Loire wines, then a tasting of three wines and local cheeses by the river.",
+   "stops": [
+    {"lieu": "Tour de Bretagne", "texte": "Getting to grips with the bikes."},
+    {"lieu": "Banks of the Erdre", "texte": "Quai de Versailles and Île de Versailles."},
+    {"lieu": "Bouffay and Château des ducs", "texte": "The medieval town and the history of the wine trade."},
+    {"lieu": "Île de Nantes", "texte": "The former shipyards and Les Machines de l'île."},
+    {"lieu": "Tasting on the banks of the Loire", "texte": "Three wines from the Nantes vineyards and local cheeses, introduced by your guide."}
+   ],
+   "included": [
+    "E-bike and helmet",
+    "Passionate guide",
+    "Tasting of 3 wines and local cheeses",
+    "Annotated city map"
+   ]
+  },
+  {
+   "name": "“Urban Culture” e-bike tour",
+   "short": "Off the beaten track",
+   "alt": "A group on bikes on Île de Nantes",
+   "duration": "2.5 hrs",
+   "when": "Every day at 10am except Sunday",
+   "langs": "French, English",
+   "meet": "Place de Bretagne, on the steps of the Tour de Bretagne",
+   "title": "“Urban Culture” Bike Tour in Nantes | Bike'N Tour",
+   "meta": "An “off-script” guided e-bike tour of Nantes: street art, Chantenay, Île de Nantes, the Loire banks. 2.5 hrs, €45 per person.",
+   "lead": "An “off-script” tour of Nantes: repurposed spaces, street art, architecture and changing neighbourhoods, from Chantenay to Île de Nantes.",
+   "stops": [
+    {"lieu": "Chantenay district", "texte": "Industrial old Nantes and its brownfield sites turned creative spaces."},
+    {"lieu": "Banks of the Loire", "texte": "The Estuaire artworks and the quaysides."},
+    {"lieu": "Île de Nantes", "texte": "Contemporary architecture and Les Machines de l'île."},
+    {"lieu": "Champ de Mars", "texte": "Murals and Nantes' artistic expression."}
+   ],
+   "included": [
+    "E-bike and helmet",
+    "Passionate guide",
+    "Local treats"
+   ]
+  }
+ ]
+}

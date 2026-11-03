@@ -1,0 +1,81 @@
+{
+ "balades": [
+  {
+   "name": "De Sèvre nantaise tot Clisson",
+   "km": "37 km (enkele reis)",
+   "time": "Hele dag",
+   "back": "Terug met de TER vanuit Clisson",
+   "text": "De oevers van de Sèvre, de Chaussée des Moines in Vertou, de Muscadet-wijngaarden en tot slot het middeleeuwse kasteel van Clisson."
+  },
+  {
+   "name": "De Loireoevers tot Oudon",
+   "km": "30 km",
+   "time": "Hele dag",
+   "back": "Terug met de TER vanuit Oudon",
+   "text": "Een van de mooiste stukken van de Loire à Vélo, via Mauves-sur-Loire en Le Cellier, bijna helemaal over vrijliggende fietspaden."
+  },
+  {
+   "name": "De Loire à Vélo tot Cordemais",
+   "km": "46 km",
+   "time": "Hele dag",
+   "back": "Terug met de TER vanuit Cordemais",
+   "text": "De moerassen van het estuarium, de reigers en de Villa Cheminée, een kunstwerk op 15 meter hoogte met uitzicht op de rivier."
+  },
+  {
+   "name": "Het meer van Grand-Lieu",
+   "km": "18 km",
+   "time": "Hele dag",
+   "back": "Terug met de TER vanuit Bouaye",
+   "text": "Van het Gedenkteken voor de afschaffing van de slavernij naar de Maison du lac in Bouaye, met een mogelijke heen-en-terugrit naar Pierre-Aigüe."
+  },
+  {
+   "name": "Het panorama van Nantes",
+   "km": "20 km",
+   "time": "Halve dag",
+   "back": "Rondrit vanuit het centrum",
+   "text": "De Groene Lijn van Nantes op de fiets: monumenten, kunstwerken van Le Voyage à Nantes en verrassende hoekjes van de stad."
+  },
+  {
+   "name": "De Erdre tot Sucé-sur-Erdre",
+   "km": "18 km",
+   "time": "Halve dag",
+   "back": "Terug met de TER vanuit Sucé-sur-Erdre",
+   "text": "De \"mooiste rivier van Frankrijk\" volgens Frans I, met haar kastelen en guinguettes."
+  },
+  {
+   "name": "Mauves-sur-Loire",
+   "km": "17,5 km",
+   "time": "Halve dag",
+   "back": "Terug over de dijk van de Divatte of met de TER",
+   "text": "De guinguettes, terrasjes aan het water, van Sainte-Luce-sur-Loire en Mauves: ideaal met het gezin."
+  },
+  {
+   "name": "Le Pellerin via de zuidoever",
+   "km": "24 km",
+   "time": "Hele dag",
+   "back": "Terug op de fiets of met het veer naar Couëron",
+   "text": "Trentemoult, Rezé en dan de moerassen ten zuiden van het estuarium tot de haven van Le Pellerin."
+  },
+  {
+   "name": "Nantes – Pornic in twee dagen",
+   "km": "100 km",
+   "time": "Weekend",
+   "back": "Terug met de TER vanuit Pornic (40 min)",
+   "text": "Het kunstparcours Estuaire, het kanaal van La Martinière, een overnachting in Paimbœuf of Corsept, en dan de oceaan bij Saint-Brevin en de Côte de Jade."
+  },
+  {
+   "name": "Nantes – Angers in twee dagen",
+   "km": "110 km",
+   "time": "Weekend",
+   "back": "Terug met de TER vanuit Angers (40 min)",
+   "text": "Twee etappes van ongeveer 55 km op de Loire à Vélo, langs Loiredorpjes, wijngaarden en natuurgebieden."
+  },
+  {
+   "name": "Nantes – Saint-Nazaire via de Vélidéale",
+   "km": "90 km",
+   "time": "Weekend",
+   "back": "Terug met de TER of TGV (40 min)",
+   "text": "Het noorden van het estuarium door de moerassen: The Settlers, de Villa Cheminée en het observatorium van Lavau-sur-Loire."
+  }
+ ]
+}

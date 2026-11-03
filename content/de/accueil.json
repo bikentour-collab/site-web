@@ -1,0 +1,38 @@
+{
+ "hero_surtitre": "Zentrum von Nantes · 19 rue Jean Jaurès · seit 10 Jahren",
+ "hero_titre_ligne1": "Fahrradverleih",
+ "hero_titre_ligne2": "für Radreisen",
+ "hero_titre_accent": "in Nantes",
+ "hero_texte": "Sechs Radrouten starten an unserem Laden. Wir bereiten Rad, Packtaschen und GPX-Track für Sie vor – Sie müssen nur noch in die Pedale treten. Einweg-Miete möglich.",
+ "hero_image_alt": "Radreisende mit Mieträdern von Bike'N Tour auf einer kleinen Straße in den Weinbergen von Nantes",
+ "faq": [
+  {
+   "question": "Wo kann man in Nantes ein Rad für die Loire à Vélo mieten?",
+   "reponse": "Bei Bike'N Tour, 19 rue Jean Jaurès in Nantes, im Hotel Ibis (Tram T3, Haltestelle Jean Jaurès). Der Laden liegt am Start der Loire à Vélo, der Vélodyssée und der Régalante: Sie erhalten eingestellte Räder, Packtaschen und Routentipps."
+  },
+  {
+   "question": "Kann man ab Nantes ein Rad als Einweg-Miete buchen?",
+   "reponse": "Ja, auf Anfrage. Sie starten in Nantes und lassen das Rad an Ihrem Zielort (Loire à Vélo, Vélodyssée, Régalante, Bretagne): Wir organisieren den Rücktransport mit unseren Partnern, nach Angebot je nach Datum und Abgabeort."
+  },
+  {
+   "question": "Welche Radroute kann man ab Nantes fahren?",
+   "reponse": "Sechs Routen starten am Laden: die Loire à Vélo nach Angers und Saumur, die Vélodyssée zum Atlantik, die Régalante (275 km) und die Bretagne-Durchquerung (485 km) bis zum Mont-Saint-Michel, der Kanal von Nantes nach Brest und die Weinberge von Nantes. Für die erste Radreise mit der Familie ist die Loire à Vélo am einfachsten: flach und gut ausgeschildert."
+  },
+  {
+   "question": "Was kostet ein E-Bike zur Miete in Nantes?",
+   "reponse": "Ein E-Bike bei Bike'N Tour kostet ab 35 € pro Tag, 62 € pro Wochenende und 172 € pro Woche (Staffelpreise). Schloss, Pannenset, Pumpe und Ladegerät sind inklusive; der Bruch- und Diebstahlschutz ist optional (3 € pro Tag)."
+  },
+  {
+   "question": "Was ist bei der Miete eines Rads von Bike'N Tour inklusive?",
+   "reponse": "Jedes Rad wird mit Schloss, Pannenset, Pumpe, Gepäckträger und Beleuchtung geliefert (bei E-Bikes zusätzlich mit Ladegerät). Wasserdichte Ortlieb-Packtaschen, Helm, Kindersitz, Anhänger, Smartphone-Halterung und Bruch- und Diebstahlschutz sind optional erhältlich."
+  },
+  {
+   "question": "Sollte man das Rad im Voraus reservieren?",
+   "reponse": "Von Mai bis September ist das empfehlenswert, vor allem für E-Bikes. Die Buchung dauert online nur wenige Minuten oder erfolgt telefonisch und lässt sich bis 48 Std. vor Abfahrt kostenlos ändern oder stornieren."
+  },
+  {
+   "question": "Empfangen Sie auch ausländische Gäste?",
+   "reponse": "Ja. Unser Team empfängt Sie auf Französisch und Englisch, und diese Website gibt es auf Deutsch, Englisch und Niederländisch. Der Laden liegt nur wenige Tram-Minuten vom Bahnhof Nantes entfernt."
+  }
+ ]
+}

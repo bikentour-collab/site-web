@@ -1,0 +1,127 @@
+{
+ "visites": [
+  {
+   "name": "Nantes Bike Tour: das Panorama von Nantes",
+   "short": "Der Bestseller",
+   "alt": "Gruppe bei einer geführten Radtour vor dem Großen Elefanten der Machines de l'île",
+   "duration": "2,5 Std.",
+   "when": "Dienstag bis Sonntag um 15 Uhr",
+   "langs": "Französisch, Englisch, Spanisch",
+   "meet": "Place de Bretagne, am Fuß der Tour de Bretagne",
+   "title": "Geführte Radtour Nantes per E-Bike | Bike'N Tour",
+   "meta": "Nantes per E-Bike mit lokalem Guide: Schloss der Herzöge, Machines de l'île, Voyage à Nantes. 2,5 Std., 44 € pro Person, max. 12 Personen.",
+   "lead": "Das Schloss der Herzöge der Bretagne, der Elefant der Machines de l'île, die Kunstwerke des Voyage à Nantes und die Loire-Ufer – mühelos auf dem E-Bike und mit einem Guide, der die Stadt wie seine Westentasche kennt.",
+   "stops": [
+    {
+     "lieu": "Tour de Bretagne",
+     "texte": "Begrüßung, Einstellen der Räder und Vorstellung der Strecke."
+    },
+    {
+     "lieu": "Saint-Mihiel und die Ufer der Erdre",
+     "texte": "Der Quai de Versailles, die Hausboote und der Japanische Garten auf der Île de Versailles."
+    },
+    {
+     "lieu": "Quai Ceineray und Cours des 50 Otages",
+     "texte": "Wie das Wasser Nantes geprägt hat, von den Wikingern bis zur Zuschüttung der Loire-Arme."
+    },
+    {
+     "lieu": "Mittelalterliches Viertel und Place du Bouffay",
+     "texte": "Die Gassen der einstigen befestigten Stadt."
+    },
+    {
+     "lieu": "Schloss der Herzöge und Tour LU",
+     "texte": "Gehört Nantes zur Bretagne? Das Leben der Anne de Bretagne und die süße Geschichte der LU-Kekse."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Die ehemaligen Werften, heute ein Kreativviertel, und der riesige Elefant."
+    },
+    {
+     "lieu": "Graslin, Passage Pommeraye und Place Royale",
+     "texte": "Die Eleganz des Nantes im 19. Jahrhundert, bevor es zurück zur Tour de Bretagne geht."
+    }
+   ],
+   "included": [
+    "E-Bike und Helm",
+    "Begeisterter Guide",
+    "Lokale Leckereien",
+    "Kommentierter Stadtplan"
+   ]
+  },
+  {
+   "name": "Wine & Bike Tour in Nantes",
+   "short": "Mit Weinprobe",
+   "alt": "Pause während einer geführten Radtour im Zentrum von Nantes",
+   "duration": "3,5 Std.",
+   "when": "Donnerstag bis Sonntag um 14 Uhr",
+   "langs": "Französisch, Englisch",
+   "meet": "Place de Bretagne, am Fuß der Tour de Bretagne (Tram T3, Haltestelle Bretagne)",
+   "title": "Wine & Bike Tour: Nantes mit Weinprobe | Bike'N Tour",
+   "meta": "Geführte E-Bike-Tour durch Nantes mit Verkostung von 3 Loire-Weinen und lokalem Käse am Ufer der Loire. 3,5 Std., 65 € pro Person.",
+   "lead": "Stadt und Weinberge von Nantes in einer Tour erzählt: die Geschichte des Muscadet und der Loire-Weine, dann eine Verkostung von drei Weinen und lokalem Käse am Flussufer.",
+   "stops": [
+    {
+     "lieu": "Tour de Bretagne",
+     "texte": "Einweisung in die Räder."
+    },
+    {
+     "lieu": "Ufer der Erdre",
+     "texte": "Der Quai de Versailles und die Île de Versailles."
+    },
+    {
+     "lieu": "Bouffay und Schloss der Herzöge",
+     "texte": "Die mittelalterliche Stadt und die Geschichte des Weinhandels."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Die ehemaligen Werften und die Machines de l'île."
+    },
+    {
+     "lieu": "Weinprobe am Ufer der Loire",
+     "texte": "Drei Weine aus den Weinbergen von Nantes und lokaler Käse, kommentiert von Ihrem Guide."
+    }
+   ],
+   "included": [
+    "E-Bike und Helm",
+    "Begeisterter Guide",
+    "Verkostung von 3 Weinen und lokalem Käse",
+    "Kommentierter Stadtplan"
+   ]
+  },
+  {
+   "name": "Tour „Urbane Kultur“ mit dem E-Bike",
+   "short": "Abseits der ausgetretenen Pfade",
+   "alt": "Radgruppe auf der Île de Nantes",
+   "duration": "2,5 Std.",
+   "when": "Täglich um 10 Uhr, außer sonntags",
+   "langs": "Französisch, Englisch",
+   "meet": "Place de Bretagne, auf den Stufen der Tour de Bretagne",
+   "title": "Tour „Urbane Kultur“ in Nantes per Rad | Bike'N Tour",
+   "meta": "Geführte E-Bike-Tour durch Nantes abseits der Klischees: Street-Art, Chantenay, Île de Nantes, Loire-Ufer. 2,5 Std., 45 € pro Person.",
+   "lead": "Nantes einmal anders: umgenutzte Orte, Street-Art, Architektur und Viertel im Wandel, von Chantenay bis zur Île de Nantes.",
+   "stops": [
+    {
+     "lieu": "Viertel Chantenay",
+     "texte": "Das einstige Industrie-Nantes und seine Brachen, die zu Orten der Kreativität wurden."
+    },
+    {
+     "lieu": "Ufer der Loire",
+     "texte": "Die Kunstwerke des Estuaire und die Kais."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Zeitgenössische Architektur und die Machines de l'île."
+    },
+    {
+     "lieu": "Champ de Mars",
+     "texte": "Wandbilder und die Kunstszene von Nantes."
+    }
+   ],
+   "included": [
+    "E-Bike und Helm",
+    "Begeisterter Guide",
+    "Lokale Leckereien"
+   ]
+  }
+ ]
+}

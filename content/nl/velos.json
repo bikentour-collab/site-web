@@ -1,0 +1,180 @@
+{
+ "velos": [
+  {
+   "name": "Trekkingfiets",
+   "h1": "Trekkingfiets huren in Nantes",
+   "alt": "Trekkingfiets Velo de Ville Trekking L200 te huur in Nantes",
+   "brand": "Velo de Ville (Duitsland)",
+   "model": "Trekking L200",
+   "title": "Trekkingfiets huren Nantes vanaf € 22/dag | Bike'N Tour",
+   "meta": "Huur een trekkingfiets in Nantes voor de Loire à Vélo of Vélodyssée: bagagedrager, schijfremmen, € 22 per dag, € 110 per week.",
+   "lead": "Onze trekkingfiets is op maat gebouwd met onze Duitse partner Velo de Ville, speciaal voor meerdaagse tochten: robuust, comfortabel en klaar voor twee fietstassen.",
+   "specs": [
+    {
+     "label": "Wielen",
+     "valeur": "28\", lekbestendige Schwalbe-banden"
+    },
+    {
+     "label": "Remmen",
+     "valeur": "Hydraulische schijfremmen"
+    },
+    {
+     "label": "Aandrijving",
+     "valeur": "Shimano Cues, 1x9 versnellingen (cassette 11-41)"
+    },
+    {
+     "label": "Uitrusting",
+     "valeur": "Bagagedrager, spatborden, naafdynamo met voor- en achterlicht, ergonomisch stuur, Royal-zadel"
+    }
+   ],
+   "why": "Onze populairste fiets voor de Loire à Vélo en de Vélodyssée: rechtop zitten, 9 goed verdeelde versnellingen en een bagagedrager voor twee Ortlieb-fietstassen van 20 liter."
+  },
+  {
+   "name": "E-bike",
+   "h1": "E-bike huren in Nantes",
+   "alt": "E-bike Sunn Start S1 te huur in Nantes",
+   "brand": "Sunn (Loire-Atlantique)",
+   "model": "Start S1",
+   "title": "E-bike huren Nantes vanaf € 35/dag | Bike'N Tour",
+   "meta": "Huur een e-bike in Nantes voor je fietsreis: Bosch-motor, 100 km bereik, bagagedrager. € 35 per dag, € 172 per week, enkele reis mogelijk.",
+   "lead": "De elektrische reisfiets van Sunn, gemaakt op een paar kilometer van Nantes, met een Bosch-motor en een uitneembare accu die je bij elke etappe kunt opladen.",
+   "specs": [
+    {
+     "label": "Motor",
+     "valeur": "Bosch Active Line Plus, frameaccu 400 Wh"
+    },
+    {
+     "label": "Bereik",
+     "valeur": "Ongeveer 100 km in eco-stand"
+    },
+    {
+     "label": "Wielen",
+     "valeur": "27,5\", lekbestendige Schwalbe-banden"
+    },
+    {
+     "label": "Remmen",
+     "valeur": "Hydraulische schijfremmen"
+    },
+    {
+     "label": "Aandrijving",
+     "valeur": "Shimano Cues, 1x9 versnellingen"
+    },
+    {
+     "label": "Uitrusting",
+     "valeur": "Bagagedrager, spatborden, voor- en achterlicht, oplader en accusleutel"
+    }
+   ],
+   "why": "Ideaal voor lange etappes, stellen met een verschillend niveau en heuvelachtige routes zoals de Bretagne-oversteek. Met de meegeleverde sleutel haal je de accu eruit om hem in je accommodatie op te laden."
+  },
+  {
+   "name": "Gravelbike",
+   "h1": "Gravelbike huren in Nantes",
+   "alt": "Gravelbike Sunn Venture S1 te huur in Nantes",
+   "brand": "Sunn (Loire-Atlantique)",
+   "model": "Venture S1",
+   "title": "Gravelbike huren Nantes vanaf € 35/dag | Bike'N Tour",
+   "meta": "Huur een Sunn gravelbike in Nantes voor de wijngaarden, jaagpaden of bikepacking: Shimano GRX, bagagedrager. € 35 per dag.",
+   "lead": "Voor wie van de gebaande paden af wil: jaagpaden, bospaden en smalle wegen door de wijngaarden, op een lichte en veelzijdige fiets.",
+   "specs": [
+    {
+     "label": "Wielen",
+     "valeur": "28\", Continental-gravelbanden"
+    },
+    {
+     "label": "Remmen",
+     "valeur": "Hydraulische schijfremmen"
+    },
+    {
+     "label": "Aandrijving",
+     "valeur": "Shimano GRX 600, 1x11 versnellingen"
+    },
+    {
+     "label": "Uitrusting",
+     "valeur": "Bagagedrager achter, bidonhouder"
+    }
+   ],
+   "why": "De juiste keuze voor een weekend in de wijngaarden van Nantes of voor het kanaal van Nantes naar Brest, waar de jaagpaden vaak halfverhard zijn."
+  },
+  {
+   "name": "Kinderfiets",
+   "h1": "Kinderfiets huren in Nantes",
+   "alt": "Kinderfiets te huur in Nantes",
+   "brand": "Decathlon",
+   "model": "20, 24 of 26 inch",
+   "title": "Kinderfiets huren Nantes vanaf € 20/dag | Bike'N Tour",
+   "meta": "Huur een kinderfiets (20, 24 of 26 inch) in Nantes voor de Loire à Vélo met het gezin: € 20 per dag, € 88 per week. Kinderzitje en aanhanger optioneel.",
+   "lead": "Op pad met het gezin: kinderfietsen van 20 tot 26 inch, en voor de allerkleinsten een kinderzitje of aanhanger als optie.",
+   "specs": [
+    {
+     "label": "Maten",
+     "valeur": "20, 24 en 26 inch"
+    },
+    {
+     "label": "Aandrijving",
+     "valeur": "Shimano 7 versnellingen"
+    },
+    {
+     "label": "Uitrusting",
+     "valeur": "Slot, standaard"
+    }
+   ],
+   "why": "Op de Loire à Vélo kunnen kinderen veilig fietsen dankzij de vrijliggende fietspaden en het zeer vlakke profiel. Reken op 20 tot 30 km per dag met kinderen."
+  },
+  {
+   "name": "Bakfiets",
+   "h1": "Elektrische bakfiets huren in Nantes",
+   "alt": "Elektrische bakfiets van Babboe te huur in Nantes",
+   "brand": "Babboe",
+   "model": "Mini Mountain (elektrisch)",
+   "title": "Elektrische bakfiets huren Nantes | Bike'N Tour",
+   "meta": "Huur een elektrische bakfiets van Babboe in Nantes om met de kinderen op pad te gaan: Shimano-motor, 80 km bereik, regenhoes. € 50 per dag.",
+   "lead": "Een elektrische bakfiets om de kinderen (of de picknick) te vervoeren door Nantes en langs de Loire.",
+   "specs": [
+    {
+     "label": "Motor",
+     "valeur": "Shimano, ongeveer 80 km bereik"
+    },
+    {
+     "label": "Aandrijving",
+     "valeur": "Enviolo traploze naaf"
+    },
+    {
+     "label": "Uitrusting",
+     "valeur": "Zitkussens, regenhoes op aanvraag"
+    }
+   ],
+   "why": "Perfect voor dagtochten rond Nantes, bijvoorbeeld naar Mauves-sur-Loire en zijn guinguettes, terrasjes aan het water (17,5 km)."
+  }
+ ],
+ "accessoires": [
+  {
+   "nom": "Set waterdichte Ortlieb-achtertassen (2 × 20 l)"
+  },
+  {
+   "nom": "Stuurtas"
+  },
+  {
+   "nom": "Comfortabele zadelhoes"
+  },
+  {
+   "nom": "Telefoonhouder"
+  },
+  {
+   "nom": "Kinderzitje (vanaf 1 jaar)"
+  },
+  {
+   "nom": "Fietskar voor kinderen (vanaf 1 jaar)"
+  },
+  {
+   "nom": "Helm"
+  }
+ ],
+ "inclus": [
+  "Slot",
+  "Bandenreparatieset en pomp",
+  "Bagagedrager",
+  "Voor- en achterlicht",
+  "Oplader en accusleutel (e-bikes)",
+  "Fiets afgesteld op jouw maat en routeadvies"
+ ]
+}

@@ -1,0 +1,274 @@
+{
+  "velos": [
+    {
+      "id": "voyage",
+      "url": "/fr/location-velo-de-voyage",
+      "name": "Vélo de voyage",
+      "h1": "Location de vélo de voyage à Nantes",
+      "img": "/assets/img/photo-voyage.webp",
+      "alt": "Vélo de voyage Velo de Ville Trekking L200 en location à Nantes",
+      "brand": "Velo de Ville (Allemagne)",
+      "model": "Trekking L200",
+      "title": "Location vélo de voyage Nantes dès 22 €/jour | Bike'N Tour",
+      "meta": "Louez un vélo de voyage (VTC) à Nantes pour la Loire à Vélo ou la Vélodyssée : porte-bagages, freins à disque, 22 € la journée, 110 € la semaine.",
+      "lead": "Notre vélo de voyage est construit sur mesure avec notre partenaire allemand Velo de Ville pour l'itinérance : robuste, confortable et prêt à porter deux sacoches.",
+      "specs": [
+        {
+          "label": "Roues",
+          "valeur": "28\", pneus Schwalbe anti-crevaison"
+        },
+        {
+          "label": "Freins",
+          "valeur": "À disque hydrauliques"
+        },
+        {
+          "label": "Transmission",
+          "valeur": "Shimano Cues, monoplateau 9 vitesses (cassette 11-41)"
+        },
+        {
+          "label": "Équipement",
+          "valeur": "Porte-bagages, garde-boues, éclairage avant et arrière à dynamo, guidon ergonomique, selle Royal"
+        }
+      ],
+      "grid": [
+        22,
+        39,
+        52,
+        70,
+        82,
+        96,
+        110
+      ],
+      "extra": 12,
+      "protect": 2,
+      "deposit": 500,
+      "day": 22,
+      "weekend": 39,
+      "week": 110,
+      "good": [
+        "loire",
+        "velodyssee",
+        "canal"
+      ],
+      "why": "C'est notre vélo le plus demandé pour la Loire à Vélo et la Vélodyssée : position droite, 9 vitesses bien étagées et un porte-bagages qui accepte deux sacoches Ortlieb de 20 litres."
+    },
+    {
+      "id": "electrique",
+      "url": "/fr/location-velo-electrique-voyage",
+      "name": "Vélo électrique",
+      "h1": "Location de vélo électrique à Nantes",
+      "img": "/assets/img/photo-electrique.webp",
+      "alt": "Vélo électrique Sunn Start S1 en location à Nantes",
+      "brand": "Sunn (Loire-Atlantique)",
+      "model": "Start S1",
+      "title": "Location vélo électrique Nantes dès 35 €/jour | Bike'N Tour",
+      "meta": "Louez un vélo électrique de voyage à Nantes : moteur Bosch, 100 km d'autonomie, porte-bagages. 35 € la journée, 172 € la semaine, aller simple possible.",
+      "lead": "Le vélo électrique de voyage Sunn, fabriqué à quelques kilomètres de Nantes, avec un moteur Bosch et une batterie amovible pour recharger à chaque étape.",
+      "specs": [
+        {
+          "label": "Moteur",
+          "valeur": "Bosch Active Line Plus, batterie cadre 400 Wh"
+        },
+        {
+          "label": "Autonomie",
+          "valeur": "Environ 100 km en mode éco"
+        },
+        {
+          "label": "Roues",
+          "valeur": "27,5\", pneus Schwalbe anti-crevaison"
+        },
+        {
+          "label": "Freins",
+          "valeur": "À disque hydrauliques"
+        },
+        {
+          "label": "Transmission",
+          "valeur": "Shimano Cues, monoplateau 9 vitesses"
+        },
+        {
+          "label": "Équipement",
+          "valeur": "Porte-bagages, garde-boues, éclairage avant et arrière, chargeur et clé de batterie"
+        }
+      ],
+      "grid": [
+        35,
+        62,
+        83,
+        106,
+        128,
+        150,
+        172
+      ],
+      "extra": 22,
+      "protect": 3,
+      "deposit": 1000,
+      "day": 35,
+      "weekend": 62,
+      "week": 172,
+      "good": [
+        "regalante",
+        "traversee",
+        "loire"
+      ],
+      "why": "Idéal pour les longues étapes, les couples aux niveaux différents et les itinéraires vallonnés comme la Traversée bretonne. La batterie se retire avec la clé fournie pour la recharger dans votre hébergement."
+    },
+    {
+      "id": "gravel",
+      "url": "/fr/location-gravel-nantes",
+      "name": "Vélo gravel",
+      "h1": "Location de vélo gravel à Nantes",
+      "img": "/assets/img/photo-gravel.webp",
+      "alt": "Vélo gravel Sunn Venture S1 en location à Nantes",
+      "brand": "Sunn (Loire-Atlantique)",
+      "model": "Venture S1",
+      "title": "Location gravel Nantes dès 35 €/jour | Bike'N Tour",
+      "meta": "Louez un vélo gravel Sunn à Nantes pour le Vignoble nantais, les chemins de halage ou le bikepacking : Shimano GRX, porte-bagages. 35 € la journée.",
+      "lead": "Pour sortir des sentiers battus : chemins de halage, pistes en forêt et petites routes du vignoble, avec un vélo léger et polyvalent.",
+      "specs": [
+        {
+          "label": "Roues",
+          "valeur": "28\", pneus gravel Continental"
+        },
+        {
+          "label": "Freins",
+          "valeur": "À disque hydrauliques"
+        },
+        {
+          "label": "Transmission",
+          "valeur": "Shimano GRX 600, monoplateau 11 vitesses"
+        },
+        {
+          "label": "Équipement",
+          "valeur": "Porte-bagages arrière, porte-gourde"
+        }
+      ],
+      "grid": null,
+      "extra": null,
+      "protect": 3,
+      "deposit": 1000,
+      "day": 35,
+      "weekend": 62,
+      "week": 172,
+      "good": [
+        "vignoble",
+        "canal"
+      ],
+      "why": "Le bon choix pour un week-end dans le Vignoble nantais ou pour le Canal de Nantes à Brest, dont les chemins de halage sont souvent en stabilisé."
+    },
+    {
+      "id": "enfant",
+      "url": "/fr/location-velo-enfant",
+      "name": "Vélo enfant",
+      "h1": "Location de vélo enfant à Nantes",
+      "img": "/assets/img/photo-enfant.webp",
+      "alt": "Vélo enfant en location à Nantes",
+      "brand": "Decathlon",
+      "model": "20, 24 ou 26 pouces",
+      "title": "Location vélo enfant Nantes dès 20 €/jour | Bike'N Tour",
+      "meta": "Louez un vélo enfant (20, 24 ou 26 pouces) à Nantes pour la Loire à Vélo en famille : 20 € la journée, 88 € la semaine. Siège bébé et remorque en option.",
+      "lead": "Pour partir en famille : des vélos enfant de 20 à 26 pouces, et pour les plus petits un siège bébé ou une remorque en option.",
+      "specs": [
+        {
+          "label": "Tailles",
+          "valeur": "20, 24 et 26 pouces"
+        },
+        {
+          "label": "Transmission",
+          "valeur": "Shimano 7 vitesses"
+        },
+        {
+          "label": "Équipement",
+          "valeur": "Cadenas, béquille"
+        }
+      ],
+      "grid": null,
+      "extra": null,
+      "protect": 2,
+      "deposit": 500,
+      "day": 20,
+      "weekend": 38,
+      "week": 88,
+      "good": [
+        "loire",
+        "vignoble"
+      ],
+      "why": "Sur la Loire à Vélo, les portions en site propre et le profil très plat permettent aux enfants de rouler en sécurité. Comptez 20 à 30 km par jour avec des enfants."
+    },
+    {
+      "id": "cargo",
+      "url": "/fr/location-velo-cargo",
+      "name": "Vélo cargo",
+      "h1": "Location de vélo cargo électrique à Nantes",
+      "img": "/assets/img/photo-cargo.webp",
+      "alt": "Vélo cargo électrique Babboe en location à Nantes",
+      "brand": "Babboe",
+      "model": "Mini Mountain (électrique)",
+      "title": "Location vélo cargo électrique Nantes | Bike'N Tour",
+      "meta": "Louez un vélo cargo électrique Babboe à Nantes pour balader les enfants : moteur Shimano, 80 km d'autonomie, protection pluie. 50 € la journée.",
+      "lead": "Un vélo cargo électrique pour transporter les enfants (ou les pique-niques) dans Nantes et sur les bords de Loire.",
+      "specs": [
+        {
+          "label": "Moteur",
+          "valeur": "Shimano, environ 80 km d'autonomie"
+        },
+        {
+          "label": "Transmission",
+          "valeur": "Moyeu à variation continue Enviolo"
+        },
+        {
+          "label": "Équipement",
+          "valeur": "Coussins d'assise, protection pluie sur demande"
+        }
+      ],
+      "grid": null,
+      "extra": null,
+      "protect": null,
+      "deposit": 1000,
+      "day": 50,
+      "weekend": 95,
+      "week": 200,
+      "good": [
+        "loire"
+      ],
+      "why": "Parfait pour les balades à la journée autour de Nantes, par exemple jusqu'à Mauves-sur-Loire et ses guinguettes (17,5 km)."
+    }
+  ],
+  "accessoires": [
+    {
+      "nom": "Paire de sacoches arrière Ortlieb étanches (2 × 20 L)",
+      "prix": 5
+    },
+    {
+      "nom": "Sacoche de guidon",
+      "prix": 5
+    },
+    {
+      "nom": "Housse de selle confort",
+      "prix": 1
+    },
+    {
+      "nom": "Porte-smartphone",
+      "prix": 1
+    },
+    {
+      "nom": "Siège bébé (dès 1 an)",
+      "prix": 5
+    },
+    {
+      "nom": "Remorque enfant (dès 1 an)",
+      "prix": 15
+    },
+    {
+      "nom": "Casque",
+      "prix": 1
+    }
+  ],
+  "inclus": [
+    "Antivol",
+    "Kit anti-crevaison et pompe",
+    "Porte-bagages",
+    "Éclairage avant et arrière",
+    "Chargeur et clé de batterie (vélos électriques)",
+    "Réglage du vélo à votre taille et conseils d'itinéraire"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+ "velos": [
+  {
+   "name": "Touring bike",
+   "h1": "Touring bike hire in Nantes",
+   "alt": "Velo de Ville Trekking L200 touring bike for hire in Nantes",
+   "brand": "Velo de Ville (Germany)",
+   "model": "Trekking L200",
+   "title": "Touring Bike Hire Nantes from €22/day | Bike'N Tour",
+   "meta": "Hire a touring bike in Nantes for the Loire à Vélo or La Vélodyssée: rear rack, disc brakes, €22 a day, €110 a week.",
+   "lead": "Our touring bike is custom-built for cycle touring with our German partner Velo de Ville: sturdy, comfortable and ready to carry two panniers.",
+   "specs": [
+    {"label": "Wheels", "valeur": "28\", Schwalbe puncture-resistant tyres"},
+    {"label": "Brakes", "valeur": "Hydraulic disc brakes"},
+    {"label": "Drivetrain", "valeur": "Shimano Cues, single chainring, 9 speeds (11-41 cassette)"},
+    {"label": "Equipment", "valeur": "Rear rack, mudguards, dynamo front and rear lights, ergonomic handlebar, Royal saddle"}
+   ],
+   "why": "It's our most popular bike for the Loire à Vélo and La Vélodyssée: upright riding position, 9 well-spaced gears and a rear rack that takes two 20-litre Ortlieb panniers."
+  },
+  {
+   "name": "E-bike",
+   "h1": "E-bike hire in Nantes",
+   "alt": "Sunn Start S1 e-bike for hire in Nantes",
+   "brand": "Sunn (Loire-Atlantique)",
+   "model": "Start S1",
+   "title": "E-bike Hire Nantes from €35/day | Bike'N Tour",
+   "meta": "Hire a touring e-bike in Nantes: Bosch motor, 100 km range, rear rack. €35 a day, €172 a week, one-way hire available.",
+   "lead": "The Sunn touring e-bike, made just a few kilometres from Nantes, with a Bosch motor and a removable battery you can recharge at every stop.",
+   "specs": [
+    {"label": "Motor", "valeur": "Bosch Active Line Plus, 400 Wh frame battery"},
+    {"label": "Range", "valeur": "Around 100 km in eco mode"},
+    {"label": "Wheels", "valeur": "27.5\", Schwalbe puncture-resistant tyres"},
+    {"label": "Brakes", "valeur": "Hydraulic disc brakes"},
+    {"label": "Drivetrain", "valeur": "Shimano Cues, single chainring, 9 speeds"},
+    {"label": "Equipment", "valeur": "Rear rack, mudguards, front and rear lights, charger and battery key"}
+   ],
+   "why": "Ideal for long stages, couples with different fitness levels and hilly routes like the Brittany Crossing. The battery comes out with the key provided, so you can recharge it where you're staying."
+  },
+  {
+   "name": "Gravel bike",
+   "h1": "Gravel bike hire in Nantes",
+   "alt": "Sunn Venture S1 gravel bike for hire in Nantes",
+   "brand": "Sunn (Loire-Atlantique)",
+   "model": "Venture S1",
+   "title": "Gravel Bike Hire Nantes from €35/day | Bike'N Tour",
+   "meta": "Hire a Sunn gravel bike in Nantes for the Nantes Vineyards, towpaths or bikepacking: Shimano GRX, rear rack. €35 a day.",
+   "lead": "For heading off the beaten track: towpaths, forest trails and quiet vineyard lanes, on a light and versatile bike.",
+   "specs": [
+    {"label": "Wheels", "valeur": "28\", Continental gravel tyres"},
+    {"label": "Brakes", "valeur": "Hydraulic disc brakes"},
+    {"label": "Drivetrain", "valeur": "Shimano GRX 600, single chainring, 11 speeds"},
+    {"label": "Equipment", "valeur": "Rear rack, bottle cage"}
+   ],
+   "why": "The right choice for a weekend in the Nantes Vineyards or for the Nantes–Brest Canal, where the towpaths are often compacted gravel."
+  },
+  {
+   "name": "Kids' bike",
+   "h1": "Kids' bike hire in Nantes",
+   "alt": "Kids' bike for hire in Nantes",
+   "brand": "Decathlon",
+   "model": "20, 24 or 26 inches",
+   "title": "Kids' Bike Hire Nantes from €20/day | Bike'N Tour",
+   "meta": "Hire a kids' bike (20, 24 or 26 inches) in Nantes for a family Loire à Vélo trip: €20 a day, €88 a week. Baby seat and trailer available.",
+   "lead": "For family trips: kids' bikes from 20 to 26 inches, plus a baby seat or trailer for the little ones as an extra.",
+   "specs": [
+    {"label": "Sizes", "valeur": "20, 24 and 26 inches"},
+    {"label": "Drivetrain", "valeur": "Shimano 7 speeds"},
+    {"label": "Equipment", "valeur": "Lock, kickstand"}
+   ],
+   "why": "On the Loire à Vélo, the traffic-free sections and very flat profile mean children can ride safely. Allow 20 to 30 km a day with children."
+  },
+  {
+   "name": "Cargo bike",
+   "h1": "Electric cargo bike hire in Nantes",
+   "alt": "Babboe electric cargo bike for hire in Nantes",
+   "brand": "Babboe",
+   "model": "Mini Mountain (electric)",
+   "title": "Electric Cargo Bike Hire Nantes | Bike'N Tour",
+   "meta": "Hire a Babboe electric cargo bike in Nantes to take the kids out: Shimano motor, 80 km range, rain cover. €50 a day.",
+   "lead": "An electric cargo bike to carry the kids (or the picnic) around Nantes and along the banks of the Loire.",
+   "specs": [
+    {"label": "Motor", "valeur": "Shimano, around 80 km range"},
+    {"label": "Drivetrain", "valeur": "Enviolo continuously variable hub"},
+    {"label": "Equipment", "valeur": "Seat cushions, rain cover on request"}
+   ],
+   "why": "Perfect for day rides around Nantes, for example to Mauves-sur-Loire and its riverside guinguettes (17.5 km)."
+  }
+ ],
+ "accessoires": [
+  {"nom": "Pair of waterproof Ortlieb rear panniers (2 × 20 L)"},
+  {"nom": "Handlebar bag"},
+  {"nom": "Comfort saddle cover"},
+  {"nom": "Phone holder"},
+  {"nom": "Baby seat (from 1 year)"},
+  {"nom": "Child trailer (from 1 year)"},
+  {"nom": "Helmet"}
+ ],
+ "inclus": [
+  "Lock",
+  "Puncture repair kit and pump",
+  "Rear rack",
+  "Front and rear lights",
+  "Charger and battery key (e-bikes)",
+  "Bike fitted to your size and route advice"
+ ]
+}

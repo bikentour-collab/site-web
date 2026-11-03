@@ -1,0 +1,38 @@
+{
+ "hero_surtitre": "Centrum van Nantes · 19 rue Jean Jaurès · al 10 jaar",
+ "hero_titre_ligne1": "Fietsverhuur",
+ "hero_titre_ligne2": "voor fietsreizen",
+ "hero_titre_accent": "in Nantes",
+ "hero_texte": "Zes fietsroutes beginnen bij onze winkel. Wij maken je fiets, je fietstassen en de GPX-track klaar, jij hoeft alleen nog te trappen. Enkele reis mogelijk.",
+ "hero_image_alt": "Reizigers op bij Bike'N Tour gehuurde fietsen op een smalle weg door de wijngaarden van Nantes",
+ "faq": [
+  {
+   "question": "Waar huur je een fiets voor de Loire à Vélo vanuit Nantes?",
+   "reponse": "Bij Bike'N Tour, 19 rue Jean Jaurès in Nantes, in hotel Ibis (tram T3, halte Jean Jaurès). De winkel ligt aan de start van de Loire à Vélo, de Vélodyssée en de Régalante: je krijgt fietsen die op jouw maat zijn afgesteld, fietstassen en routeadvies."
+  },
+  {
+   "question": "Kun je vanuit Nantes een fiets huren voor enkele reis?",
+   "reponse": "Ja, op aanvraag. Je vertrekt uit Nantes en laat de fiets achter op je eindbestemming (Loire à Vélo, Vélodyssée, Régalante, Bretagne): wij regelen het terughalen met onze partners, op offerte, afhankelijk van data en inleverplaats."
+  },
+  {
+   "question": "Welke fietsroute kun je vanuit Nantes fietsen?",
+   "reponse": "Zes routes beginnen bij de winkel: de Loire à Vélo naar Angers en Saumur, de Vélodyssée naar de oceaan, de Régalante (275 km) en de Bretagne-oversteek (485 km) tot de Mont-Saint-Michel, het kanaal van Nantes naar Brest en de wijngaarden van Nantes. Voor een eerste fietsreis met het gezin is de Loire à Vélo de makkelijkste: vlak en goed bewegwijzerd."
+  },
+  {
+   "question": "Wat kost een e-bike huren in Nantes?",
+   "reponse": "Een e-bike huren bij Bike'N Tour kost vanaf € 35 per dag, € 62 per weekend en € 172 per week (met staffelkorting). Slot, bandenreparatieset, pomp en oplader zijn inbegrepen; schade- en diefstalbescherming is optioneel (€ 3 per dag)."
+  },
+  {
+   "question": "Wat is er inbegrepen bij een huurfiets van Bike'N Tour?",
+   "reponse": "Elke fiets komt met een slot, een bandenreparatieset, een pomp, een bagagedrager en verlichting (plus de oplader bij e-bikes). Waterdichte Ortlieb-fietstassen, helm, kinderzitje, aanhanger, telefoonhouder en schade- en diefstalbescherming zijn optioneel."
+  },
+  {
+   "question": "Moet je je fiets vooraf reserveren?",
+   "reponse": "Dat is aan te raden van mei tot september, vooral voor e-bikes. Je reserveert online in een paar minuten of telefonisch, en je kunt tot 48 uur voor vertrek gratis wijzigen of annuleren."
+  },
+  {
+   "question": "Zijn buitenlandse reizigers welkom?",
+   "reponse": "Ja. Ons team spreekt Frans en Engels, en deze website is beschikbaar in het Nederlands, Engels en Duits. De winkel ligt op een paar minuten met de tram van het station van Nantes."
+  }
+ ]
+}

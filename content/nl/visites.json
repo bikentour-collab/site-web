@@ -1,0 +1,127 @@
+{
+ "visites": [
+  {
+   "name": "Nantes Bike Tour: het panorama van Nantes",
+   "short": "De bestseller",
+   "alt": "Groep tijdens een fietsrondleiding voor de Grote Olifant van de Machines de l'île",
+   "duration": "2,5 uur",
+   "when": "Dinsdag tot en met zondag om 15.00 uur",
+   "langs": "Frans, Engels, Spaans",
+   "meet": "Place de Bretagne, aan de voet van de Tour de Bretagne",
+   "title": "Rondleiding door Nantes op de e-bike | Bike'N Tour",
+   "meta": "Ontdek Nantes op de e-bike met een lokale gids: kasteel, Machines de l'île, Le Voyage à Nantes. 2,5 uur, € 44 per persoon, max. 12 personen.",
+   "lead": "Het kasteel van de hertogen van Bretagne, de Olifant van de Machines de l'île, de kunstwerken van Le Voyage à Nantes en de Loireoevers: moeiteloos op de e-bike, met een gids die de stad als zijn broekzak kent.",
+   "stops": [
+    {
+     "lieu": "Tour de Bretagne",
+     "texte": "Briefing, afstellen van de fietsen en uitleg over de route."
+    },
+    {
+     "lieu": "Saint-Mihiel en de oevers van de Erdre",
+     "texte": "De Quai de Versailles, de woonboten en de Japanse tuin op het Île de Versailles."
+    },
+    {
+     "lieu": "Quai Ceineray en Cours des 50 Otages",
+     "texte": "Hoe het water Nantes heeft gevormd, van de Vikingen tot het dempen van de Loire-armen."
+    },
+    {
+     "lieu": "Middeleeuwse wijk en Place du Bouffay",
+     "texte": "De straatjes van de oude vestingstad."
+    },
+    {
+     "lieu": "Kasteel van de hertogen en Tour LU",
+     "texte": "Ligt Nantes in Bretagne? Het leven van Anna van Bretagne, en daarna de smakelijke geschiedenis van de LU-koekjes."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "De oude scheepswerven, nu een creatieve wijk, en de reuzenolifant."
+    },
+    {
+     "lieu": "Graslin, Passage Pommeraye en Place Royale",
+     "texte": "De elegantie van het 19e-eeuwse Nantes, voordat we terugkeren naar de Tour de Bretagne."
+    }
+   ],
+   "included": [
+    "E-bike en helm",
+    "Gepassioneerde gids",
+    "Lokale lekkernijen",
+    "Stadskaart met toelichting"
+   ]
+  },
+  {
+   "name": "Wine & Bike Tour in Nantes",
+   "short": "Met proeverij",
+   "alt": "Pauze tijdens een fietsrondleiding in het centrum van Nantes",
+   "duration": "3,5 uur",
+   "when": "Donderdag tot en met zondag om 14.00 uur",
+   "langs": "Frans, Engels",
+   "meet": "Place de Bretagne, aan de voet van de Tour de Bretagne (tram T3, halte Bretagne)",
+   "title": "Wine & Bike Tour: fietsen en wijnproeven | Bike'N Tour",
+   "meta": "Rondleiding door Nantes op de e-bike met een proeverij van 3 Loirewijnen en lokale kazen aan de Loire. 3,5 uur, € 65 per persoon.",
+   "lead": "De stad en de wijngaarden van Nantes in één tocht: het verhaal van de Muscadet en de Loirewijnen, gevolgd door een proeverij van drie wijnen en lokale kazen aan de rivier.",
+   "stops": [
+    {
+     "lieu": "Tour de Bretagne",
+     "texte": "Kennismaken met de fietsen."
+    },
+    {
+     "lieu": "Oevers van de Erdre",
+     "texte": "De Quai de Versailles en het Île de Versailles."
+    },
+    {
+     "lieu": "Bouffay en kasteel van de hertogen",
+     "texte": "De middeleeuwse stad en de geschiedenis van de wijnhandel."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "De oude scheepswerven en de Machines de l'île."
+    },
+    {
+     "lieu": "Proeverij aan de Loire",
+     "texte": "Drie wijnen uit de wijngaarden van Nantes en lokale kazen, met uitleg van je gids."
+    }
+   ],
+   "included": [
+    "E-bike en helm",
+    "Gepassioneerde gids",
+    "Proeverij van 3 wijnen en lokale kazen",
+    "Stadskaart met toelichting"
+   ]
+  },
+  {
+   "name": "Tour \"Stadscultuur\" op de e-bike",
+   "short": "Buiten de gebaande paden",
+   "alt": "Groep op de fiets op het Île de Nantes",
+   "duration": "2,5 uur",
+   "when": "Elke dag om 10.00 uur, behalve zondag",
+   "langs": "Frans, Engels",
+   "meet": "Place de Bretagne, op de trappen van de Tour de Bretagne",
+   "title": "Tour \"Stadscultuur\" in Nantes per fiets | Bike'N Tour",
+   "meta": "Een alternatieve rondleiding door Nantes op de e-bike: streetart, Chantenay, Île de Nantes, Loireoevers. 2,5 uur, € 45 per persoon.",
+   "lead": "Een alternatieve kijk op Nantes: herbestemde plekken, streetart, architectuur en wijken in verandering, van Chantenay tot het Île de Nantes.",
+   "stops": [
+    {
+     "lieu": "Wijk Chantenay",
+     "texte": "Het oude industriële Nantes en zijn braakliggende terreinen, nu creatieve plekken."
+    },
+    {
+     "lieu": "Oevers van de Loire",
+     "texte": "De kunstwerken van het estuarium en de kades."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Hedendaagse architectuur en de Machines de l'île."
+    },
+    {
+     "lieu": "Champ de Mars",
+     "texte": "De muurschilderingen en de artistieke expressie van Nantes."
+    }
+   ],
+   "included": [
+    "E-bike en helm",
+    "Gepassioneerde gids",
+    "Lokale lekkernijen"
+   ]
+  }
+ ]
+}
