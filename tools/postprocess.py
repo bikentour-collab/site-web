@@ -3,7 +3,7 @@
 - lien de menu actif (aria-current)
 - page 404 au gabarit du site
 """
-import os, re, glob
+import os, re, glob, hashlib
 from PIL import Image
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -33,7 +33,7 @@ def variants(name):
 
 
 SIZES = {
-    'hero-img': '100vw', 'phero-media': '(max-width: 980px) 100vw, 50vw', 'tile': '(max-width: 640px) 100vw, (max-width: 980px) 50vw, 33vw',
+    'hero-img': '100vw', 'class="bike"': '(max-width: 640px) 100vw, (max-width: 980px) 50vw, 300px', 'phero-media': '(max-width: 980px) 100vw, 50vw', 'tile': '(max-width: 640px) 100vw, (max-width: 980px) 50vw, 33vw',
     'post': '(max-width: 980px) 100vw, 33vw', 'side-card': '(max-width: 980px) 100vw, 360px', 'rc-media': '(max-width: 980px) 100vw, 400px', 'class="post"': '(max-width: 980px) 100vw, 33vw', 'article-cover': '(max-width: 1200px) 100vw, 1100px', 'post-fig': '(max-width: 980px) 100vw, 680px',
 }
 
@@ -144,12 +144,56 @@ def markdown_twin(path, html):
     open(path[:-5] + '.md', 'w').write(h.unescape(head + md) + '\n')
 
 
+LASTMOD = os.path.join(os.path.dirname(__file__), 'lastmod.json')
+
+
+def lastmod(url, html, db, today):
+    """Date de dernière modification réelle : elle ne change que si le contenu de la page change."""
+    main = re.search(r'<main.*?</main>', html, re.S)
+    head = ''.join(re.findall(r'<title>.*?</title>|<meta name="description"[^>]*>', html))
+    body = re.sub(r'\?v=\w+|srcset="[^"]*"', '', (main.group(0) if main else html))
+    h = hashlib.sha1((head + body).encode()).hexdigest()[:16]
+    old = db.get(url)
+    if not old or old[0] != h:
+        db[url] = [h, today]
+    return db[url][1]
+
+
+def table_labels(s):
+    """Nom unique pour chaque tableau défilant (accessibilité) : le titre qui le précède."""
+    out, pos, seen = [], 0, {}
+    for m in re.finditer(r'<div class="table-wrap" tabindex="0" role="region" aria-label="([^"]*)">', s):
+        before = s[:m.start()]
+        hs = re.findall(r'<h[2-4][^>]*>(.*?)</h[2-4]>', before, re.S)
+        name = re.sub(r'<[^>]+>', '', hs[-1]).strip() if hs else m.group(1)
+        name = re.sub(r'\s+', ' ', name)[:80] or m.group(1)
+        seen[name] = seen.get(name, 0) + 1
+        if seen[name] > 1:
+            name = f'{name} ({seen[name]})'
+        out.append(s[pos:m.start()] + m.group(0).replace(f'aria-label="{m.group(1)}"', f'aria-label="{name.replace(chr(34), "&quot;")}"'))
+        pos = m.end()
+    return ''.join(out) + s[pos:]
+
+
+import og  # images de partage 1200 × 630
+
+
 def run():
+    import datetime, json as _j
+    sys_path = os.path.dirname(__file__)
+    import i18n
+    today = datetime.date.today().isoformat()
+    db = _j.load(open(LASTMOD)) if os.path.exists(LASTMOD) else {}
     files = [os.path.join(ROOT, 'index.html')] + glob.glob(os.path.join(ROOT, 'fr', '**', '*.html'), recursive=True) + glob.glob(os.path.join(ROOT, 'post', '*.html')) + [f for l in ('en', 'nl', 'de') for f in glob.glob(os.path.join(ROOT, l, '**', '*.html'), recursive=True)]
     for f in files:
         url = '/' + os.path.relpath(f, ROOT)[:-5]
         s = open(f).read()
         s = assets_and_fonts(responsive(s))
+        s, _ = og.apply(s, url)
+        s = table_labels(s)
+        d = lastmod(url, s, db, today)
+        lang = (re.search(r'<html lang="(\w+)"', s) or [None, 'fr'])[1]
+        s = s.replace('{{LASTMOD_ISO}}', d).replace('{{LASTMOD_TXT}}', i18n.date(datetime.date.fromisoformat(d), lang))
         # prix insécables : « 22 € », « € 22 » ne se coupent jamais en fin de ligne
         s = re.sub(r'(\d) €', '\\1\u00a0€', s)
         s = re.sub(r'€ (\d)', '€\u00a0\\1', s)
@@ -160,6 +204,7 @@ def run():
                    f'<link rel="alternate" type="text/markdown" href="{md_url}" title="Version Markdown de cette page">', s)
         open(f, 'w').write(s)
         markdown_twin(f, s)
+    _j.dump(db, open(LASTMOD, 'w'), indent=0, sort_keys=True)
     page_404()
     p404 = os.path.join(ROOT, '404.html')
     fixed = assets_and_fonts(open(p404).read())

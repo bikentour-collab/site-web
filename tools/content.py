@@ -12,7 +12,7 @@ LANG = os.environ.get('SITE_LANG', 'fr')
 # champs jamais repris d'une traduction (identifiants, liens, photos, prix, niveaux)
 KEEP = {'id', 'url', 'img', 'hero_image', 'color', 'dur', 'iso', 'good', 'level', 'grid', 'oneway', 'day', 'weekend', 'week',
         'extra', 'protect', 'deposit', 'prix', 'google_note', 'google_avis', 'tripadvisor_avis', 'reservation', 'telephone',
-        'telephone_affiche', 'email', 'analytics_ga4', 'matomo_url', 'matomo_id'}
+        'telephone_affiche', 'email', 'analytics_ga4', 'matomo_url', 'matomo_id', 'lat', 'lon', 'article'}
 
 
 def merge(fr, tr, key=None):
@@ -94,3 +94,4 @@ HOME = image(load('accueil.json'), 'hero_image')
 FAQ_HOME = pairs(HOME['faq'], 'question', 'reponse')
 
 PRESS = [(a['media'], a['titre'], a['url']) for a in load('presse.json')['articles']]
+REFS = [(a['media'], a['titre'], a['url']) for a in load('presse.json').get('references', [])]

@@ -19,11 +19,11 @@ if LANG == 'fr':
         sys.exit(0)
     for lang in i18n.LANGS[1:]:
         subprocess.run([sys.executable, 'generate.py'], check=True, env={**os.environ, 'SITE_LANG': lang})
-    pages.write_seo_files()
     import postprocess
-    postprocess.run()
+    postprocess.run()          # images, versions .md, dates de modification réelles
+    pages.write_seo_files()    # sitemap (dates réelles), robots, llms.txt
 else:
-    for f in I18N_PAGES:
+    for f in I18N_PAGES + (blog.build_lang,):
         f()
     pages.save_pages()
     print(len(pages.PAGES) + 1, f'pages générées ({LANG})')

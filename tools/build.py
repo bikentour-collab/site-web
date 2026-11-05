@@ -22,7 +22,9 @@ def ico(rid, cls='trace-ico'):
     return (f'<svg class="{cls} ti-{rid}" viewBox="0 0 32 32" aria-hidden="true"><path d="{i["d"]}"/>'
             f'<circle class="ti-start" cx="{i["start"][0]}" cy="{i["start"][1]}" r="2.6"/>'
             + ('' if rid == 'vignoble' else f'<circle class="ti-end" cx="{i["end"][0]}" cy="{i["end"][1]}" r="2.2"/>') + '</svg>')
-MAP = open('map.inc').read()  # généré par geo2.py
+from content_routes import map_svg
+from i18n import LANG as _L
+MAP = map_svg(_L)  # tracés générés par geo2.py + points de vue (content/fr/itineraires.json)
 
 from content_routes import ROUTES
 
@@ -87,11 +89,19 @@ for n in data['@graph']:
         n['aggregateRating']['ratingValue'] = str(HOME['google_note']).replace(',', '.')
         n['aggregateRating']['reviewCount'] = n['aggregateRating']['ratingCount'] = str(HOME['google_avis'])
         n['geo'] = {"@type": "GeoCoordinates", "latitude": 47.2178, "longitude": -1.5603}
+        from content import PRESS, REFS
+        n['subjectOf'] = ([{"@type": "NewsArticle", "headline": t, "url": u, "publisher": {"@type": "Organization", "name": m}} for m, t, u in PRESS]
+                          + [{"@type": "WebPage", "name": t, "url": u, "publisher": {"@type": "Organization", "name": m}} for m, t, u in REFS])
+        from content import SITE_CFG as _SC
+        _same = ["https://www.instagram.com/bikentour_nantes/", "https://www.facebook.com/BikentourNantes", "https://www.linkedin.com/company/bike'n-tour/",
+                 "https://www.francevelotourisme.com/pratique/loueurs-reparateurs-de-velo/bike-n-tour-nantes"]
+        _same += [u for u in (_SC.get('lien_tripadvisor'), _SC.get('lien_fiche_google')) if u]
+        n['sameAs'] = _same
         n['areaServed'] = [{"@type": "City", "name": "Nantes"}, {"@type": "AdministrativeArea", "name": "Loire-Atlantique"}]
     if n['@type'] == 'WebSite':
         n['inLanguage'] = 'fr'  # EN/NL/DE à rajouter à la mise en ligne des traductions
     if n['@type'] == 'WebPage':
-        n['dateModified'] = __import__('datetime').date.today().isoformat()
+        n['dateModified'] = '{{LASTMOD_ISO}}'  # vraie date de dernière modification, posée par postprocess.py
         n['primaryImageOfPage'] = 'https://www.bikentour.com/assets/img/v2-bord-de-loire.webp'
     if n['@type'] == 'ItemList':
         n['itemListElement'] = [{"@type": "ListItem", "position": i + 1, "item": {"@type": "TouristTrip", "name": r['name'], "description": r['desc'],
@@ -115,6 +125,9 @@ for k in ('hero_surtitre', 'hero_titre_ligne1', 'hero_titre_ligne2', 'hero_titre
     page = page.replace('{{' + k + '}}', html.escape(str(HOME[k]), quote=True))
 # coordonnées, réservation et mesure d'audience (content/site.json)
 from content import SITE_CFG
+_TRIPA = SITE_CFG.get('lien_tripadvisor') or 'https://www.tripadvisor.fr/Search?q=Bike%27N%20Tour%20Nantes'
+_GOOG = SITE_CFG.get('lien_google_avis') or 'https://www.google.com/search?q=bike%27n+tour+nantes+avis'
+page = page.replace('{{lien_tripadvisor}}', html.escape(_TRIPA, quote=True)).replace('{{lien_google_avis}}', html.escape(_GOOG, quote=True))
 for _k in ('reservation', 'telephone', 'telephone_affiche', 'analytics_ga4', 'matomo_url', 'matomo_id'):
     page = page.replace('{{' + _k + '}}', html.escape(str(SITE_CFG.get(_k) or ''), quote=True))
 # prix affichés sur l'accueil (content/velos.json, visites.json, groupes.json)

@@ -12,18 +12,27 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Bike'N Tour">
 <meta property="og:locale" content="fr_FR">
-<meta property="og:title" content="Location de vélos de voyage à Nantes – Bike'N Tour">
-<meta property="og:description" content="Six itinéraires à vélo au départ de Nantes : Loire à Vélo, Vélodyssée, Régalante, Traversée bretonne, Canal de Nantes à Brest, Vignoble nantais.">
-<meta property="og:image" content="https://www.bikentour.com/assets/img/v2-bord-de-loire.webp">
-<meta property="og:image:alt" content="Groupe de cyclistes au bord de la Loire, au départ de Nantes">
+<meta property="og:title" content="Location vélo à Nantes : voyage, électrique et gravel">
+<meta property="og:description" content="Louez votre vélo de voyage, électrique ou gravel en plein centre de Nantes. Six véloroutes partent de la boutique : Loire à Vélo, Vélodyssée, Vignoble nantais… Aller simple possible.">
+<meta property="og:image" content="https://www.bikentour.com/assets/img/og-accueil.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Cycliste à vélo électrique dans les vignes près de Nantes, logo Bike'N Tour">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
+<meta name="geo.region" content="FR-44">
+<meta name="geo.placename" content="Nantes">
+<meta name="geo.position" content="47.2178;-1.5603">
+<meta name="ICBM" content="47.2178, -1.5603">
+<link rel="alternate" type="application/rss+xml" title="Le blog de Bike'N Tour" href="/fr/blog.xml">
 <link rel="alternate" type="text/markdown" href="/llms.txt" title="Bike'N Tour en bref pour les assistants IA">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500..900&amp;display=swap">
+<link rel="preload" as="image" href="/assets/img/v2-hero-vignoble-w1200.webp" imagesrcset="/assets/img/v2-hero-vignoble-w480.webp 480w, /assets/img/v2-hero-vignoble-w800.webp 800w, /assets/img/v2-hero-vignoble-w1200.webp 1200w, /assets/img/v2-hero-vignoble-w1600.webp 1600w, /assets/img/v2-hero-vignoble.webp 2400w" imagesizes="100vw" fetchpriority="high">
 <link rel="stylesheet" href="/assets/css/style.css">
 <script src="/assets/js/main.js" defer></script>
 <!--JSONLD-->
@@ -136,7 +145,7 @@
               <button type="button" data-zoom="out" aria-label="Dézoomer">−</button>
             </div>
             <button type="button" class="map-reset" data-map-reset>Voir les 6 itinéraires</button>
-            <p class="map-legend" aria-hidden="true"><span class="lg-start"></span>Départ : la boutique <span class="lg-end"></span>Arrivée</p>
+            <p class="map-legend" aria-hidden="true"><span class="lg-start"></span>Départ : la boutique <span class="lg-end"></span>Arrivée <span class="lg-poi"></span>Point de vue</p>
           </div>
           <p class="map-credit">Fond de carte © contributeurs OpenStreetMap, OpenFreeMap · Tracés : France Vélo Tourisme, BRouter</p>
           <ul class="route-list" aria-label="Choisir un itinéraire" data-route-list>
@@ -248,8 +257,8 @@
           <h2 id="reviews-title">Ce qu'en disent nos voyageurs</h2>
         </div>
         <div class="scores">
-          <a class="score" href="https://www.google.com/search?q=bike%27n+tour+nantes+avis"><img src="/assets/img/logo-google.webp" alt="Avis Google" width="300" height="97" loading="lazy"><span><strong>5,0</strong>/5 · 161 avis</span></a>
-          <a class="score" href="https://www.tripadvisor.fr/"><img src="/assets/img/logo-tripadvisor.webp" alt="Avis Tripadvisor" width="278" height="94" loading="lazy"><span><strong>200+</strong> avis 5★</span></a>
+          <a class="score" href="{{lien_google_avis}}"><img src="/assets/img/logo-google.webp" alt="Avis Google" width="300" height="97" loading="lazy"><span><strong>{{google_note}}</strong>/5 · {{google_avis}} avis</span></a>
+          <a class="score" href="{{lien_tripadvisor}}"><img src="/assets/img/logo-tripadvisor.webp" alt="Avis Tripadvisor" width="278" height="94" loading="lazy"><span><strong>{{tripadvisor_avis}}</strong> avis 5★</span></a>
         </div>
       </div>
       <div class="quotes">
@@ -273,7 +282,7 @@
   <!-- En bref + FAQ -->
   <section class="section" aria-labelledby="faq-title">
     <div class="wrap brief-faq">
-      <aside class="brief" id="en-bref" aria-labelledby="brief-title">
+      <section class="brief" id="en-bref" aria-labelledby="brief-title">
         <h2 id="brief-title">Bike'N Tour en bref</h2>
         <p>Loueur de vélos de voyage installé dans le centre de Nantes depuis 10 ans, au départ de six grands itinéraires cyclables.</p>
         <dl>
@@ -285,7 +294,8 @@
           <div><dt>Langues</dt><dd>Accueil en français et en anglais</dd></div>
           <div><dt>Contact</dt><dd><a href="tel:+33652629464">06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</a> · <a href="mailto:contact@bikentour.com">contact@bikentour.com</a></dd></div>
         </dl>
-      </aside>
+        <a class="btn btn-yellow brief-cta" href="{{reservation}}">Réserver mes vélos</a>
+      </section>
       <div class="faq">
         <p class="eyebrow">Questions fréquentes</p>
         <h2 id="faq-title">Louer un vélo à Nantes : vos questions</h2>

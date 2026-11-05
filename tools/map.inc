@@ -1,7 +1,7 @@
-<svg class="map-svg" data-extent="0 0 1000 813.5" viewBox="0 0 1000 813.5" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="map-title map-desc">
+<svg class="map-svg" data-extent="0 0 1000 813.5" viewBox="0 0 1000 813.5" preserveAspectRatio="xMidYMid meet" role="group" aria-labelledby="map-title" aria-describedby="map-desc">
 <title id="map-title">Carte des itinéraires à vélo au départ de Nantes</title>
 <desc id="map-desc">Six véloroutes partent de Nantes : la Loire à Vélo vers Angers et Saumur, la Vélodyssée vers Pornic et Les Sables-d'Olonne, la Régalante et la Traversée bretonne vers le Mont-Saint-Michel, le Canal de Nantes à Brest et le Vignoble nantais vers Clisson.</desc>
-<image class="basemap" href="/assets/img/carte-ouest.webp" x="0" y="0" width="1000" height="813.5" preserveAspectRatio="none"/>
+<image class="basemap" data-src="/assets/img/carte-ouest-2048.webp" data-hd="/assets/img/carte-ouest.webp" x="0" y="0" width="1000" height="813.5" preserveAspectRatio="none"/>
 <text class="sea-label" x="209.7" y="615.0">Océan Atlantique</text>
 <text class="sea-label" x="306.5" y="44.4">Manche</text>
 <text class="river-label" x="685.5" y="476.6">la Loire</text>

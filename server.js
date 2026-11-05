@@ -184,6 +184,48 @@ async function handleLogin(req, res) {
   return loginPage(res, { status: 401, error: 'Identifiant ou mot de passe incorrect.', next });
 }
 
+// ---------- Demande de fiche / trace GPX (formulaire des pages itinéraires) ----------
+// Envoi par Brevo (variable BREVO_API_KEY). Sans clé, le navigateur revient à l'ouverture de la messagerie.
+const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'contact@bikentour.com';
+const gpxHits = new Map();
+async function brevoSend(payload) {
+  const r = await fetch('https://api.brevo.com/v3/smtp/email', {
+    method: 'POST', headers: { 'api-key': process.env.BREVO_API_KEY, 'content-type': 'application/json', accept: 'application/json' },
+    body: JSON.stringify(payload),
+  });
+  if (!r.ok) throw new Error('brevo ' + r.status);
+}
+async function handleGpx(req, res) {
+  const json = (code, obj) => { res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); res.end(JSON.stringify(obj)); };
+  if (!process.env.BREVO_API_KEY) return json(501, { ok: false });
+  const ip = clientIp(req), now = Date.now();
+  const recent = (gpxHits.get(ip) || []).filter(t => now - t < 60 * 60 * 1000);
+  if (recent.length >= 5) return json(429, { ok: false });
+  recent.push(now); gpxHits.set(ip, recent);
+  const form = await readBody(req);
+  const email = (form.get('email') || '').trim().slice(0, 200);
+  const route = (form.get('route') || '').replace(/[^\p{L}\p{N} '’–-]/gu, '').slice(0, 80);
+  const lang = (form.get('lang') || 'fr').slice(0, 2);
+  if (form.get('site')) return json(200, { ok: true }); // champ piège anti-robots
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json(400, { ok: false });
+  const sender = { name: "Bike'N Tour", email: process.env.SENDER_EMAIL || CONTACT_EMAIL };
+  try {
+    await brevoSend({ sender, to: [{ email: CONTACT_EMAIL }], replyTo: { email },
+      subject: `Demande de fiche et trace GPX : ${route}`,
+      textContent: `Nouvelle demande depuis le site (${lang}).\nItinéraire : ${route}\nEmail : ${email}\n\nRépondez directement à ce message pour envoyer la fiche et la trace GPX.` });
+    const T = {
+      fr: ['Votre demande de trace GPX', `Bonjour,\n\nMerci pour votre demande. Nous vous envoyons la fiche et la trace GPX de l'itinéraire « ${route} » sous 24 h.\n\nÀ bientôt à la boutique,\nL'équipe Bike'N Tour\n19 rue Jean Jaurès, Nantes`],
+      en: ['Your GPX track request', `Hello,\n\nThank you for your request. We will send you the route sheet and GPX track for "${route}" within 24 hours.\n\nSee you soon at the shop,\nThe Bike'N Tour team\n19 rue Jean Jaurès, Nantes`],
+      nl: ['Uw aanvraag voor de GPX-track', `Hallo,\n\nBedankt voor uw aanvraag. We sturen u de routekaart en GPX-track van "${route}" binnen 24 uur.\n\nTot snel in de winkel,\nHet team van Bike'N Tour\n19 rue Jean Jaurès, Nantes`],
+      de: ['Ihre Anfrage für den GPX-Track', `Hallo,\n\nvielen Dank für Ihre Anfrage. Wir senden Ihnen das Routenblatt und den GPX-Track für „${route}“ innerhalb von 24 Stunden.\n\nBis bald im Laden,\nIhr Bike'N Tour-Team\n19 rue Jean Jaurès, Nantes`],
+    }[lang] || null;
+    if (T) await brevoSend({ sender, to: [{ email }], replyTo: { email: CONTACT_EMAIL }, subject: T[0], textContent: T[1] }).catch(() => {});
+    return json(200, { ok: true });
+  } catch (e) {
+    return json(502, { ok: false });
+  }
+}
+
 function adminConfig(res) {
   const yml = fs.readFileSync(path.join(ROOT, 'admin', 'config.yml'), 'utf8')
     .replace('__GITHUB_REPO__', process.env.GITHUB_REPO || 'compte/bikentour')
@@ -204,6 +246,7 @@ http.createServer((req, res) => {
       return res.end();
     }
     if (u.pathname === '/cms/auth' || u.pathname === '/cms/callback') return void cmsAuth(req, res, u);
+    if (u.pathname === '/api/gpx' && req.method === 'POST') return void handleGpx(req, res);
     if (u.pathname === '/admin' || u.pathname.startsWith('/admin/')) {
       if (!loggedIn(req)) {
         if (u.pathname === '/admin' || u.pathname === '/admin/' || u.pathname.endsWith('.html')) { res.writeHead(303, { Location: '/admin/login', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end(); }

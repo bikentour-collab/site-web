@@ -26,6 +26,9 @@ GitHub (dépôt unique)  ──push──▶  GitHub Action « Générer le site
 | `GITHUB_TOKEN` | **mode simple** : jeton GitHub « fine-grained » limité à ce dépôt, permission *Contents : Read and write*. Antoine se connecte alors uniquement avec identifiant + mot de passe. |
 | `GITHUB_CLIENT_ID` / `GITHUB_CLIENT_SECRET` | **mode alternatif** (sans `GITHUB_TOKEN`) : application OAuth GitHub, callback `https://www.bikentour.com/cms/callback` ; chaque éditeur se connecte avec son compte GitHub. |
 | `SITE_URL` | facultatif, `https://www.bikentour.com` par défaut |
+| `BREVO_API_KEY` | facultatif : clé API Brevo (gratuit jusqu'à 300 emails/jour). Le formulaire « trace GPX » envoie alors la demande à Antoine et un accusé de réception au visiteur, sans ouvrir sa messagerie. Sans clé, la messagerie du visiteur s'ouvre comme avant. |
+| `SENDER_EMAIL` | facultatif : adresse d'expédition validée dans Brevo (par défaut `contact@bikentour.com`) |
+| `CONTACT_EMAIL` | facultatif : adresse qui reçoit les demandes (par défaut `contact@bikentour.com`) |
 
 4. Vérifier : `https://www.bikentour.com/admin` → écran de connexion → « Se connecter avec GitHub » (mode simple : connexion immédiate).
 
@@ -61,6 +64,9 @@ L'admin fonctionne aussi en local avec « Travailler avec un dépôt local » (C
 3. Une phrase non traduite s'affiche en français : rien ne casse.
 
 ## SEO, GEO, performances
+- Dates de modification réelles par page (`tools/lastmod.json`, mis à jour par la génération) : sitemap, « Mis à jour le », `dateModified`
+- Sitemap avec images, flux RSS du blog (`/fr/blog.xml`), géolocalisation de la boutique dans l'en-tête
+- Points de vue des itinéraires (carte, pages, JSON-LD TouristAttraction avec coordonnées, `llms.txt`) ; guide avec procédure HowTo
 - 4 langues avec `hreflang` réciproques, sitemap multilingue, 36 anciennes URL EN/NL/DE conservées, 140 anciennes URL Webflow toutes servies (200 ou 301)
 - JSON-LD complet par page (BikeStore, TouristTrip, Product, FAQPage, BlogPosting, BreadcrumbList…), encadrés « En bref » (speakable)
 - `llms.txt`, `llms-full.txt`, version Markdown de chaque page (`/page.md`), `robots.txt` ouvert aux robots IA
@@ -71,4 +77,4 @@ L'admin fonctionne aussi en local avec « Travailler avec un dépôt local » (C
 - Adresse de l'hébergeur Railway dans les mentions légales ; texte « Notre histoire » ; lien Tripadvisor ; droits photos
 - Protection casse et vol : 2 €/j (voyage, enfant) et 3 €/j (électrique, gravel) selon la grille 2026
 - Formulaire « trace GPX » : ouvre la messagerie du visiteur (brancher un service d'envoi si besoin)
-- Blog : articles de 2021 à rafraîchir ; traduction des articles les plus lus si souhaité
+- Blog : 12 articles réécrits le 4/11/2026 ; points à valider listés dans `docs/audit.md` ; 34 articles anciens restent à rafraîchir

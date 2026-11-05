@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.bikentour.com/</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>1.0</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og-accueil.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl"/>
@@ -12,8 +13,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-loire-a-velo-6ab6ac1ca3.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/loire-by-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/loire-a-velo"/>
@@ -22,8 +24,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-velodyssee-be381eadb8.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/velodyssee"/>
@@ -32,8 +35,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes/regalante</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-regalante-24bc5daa1e.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/regalante"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/la-regalante"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/la-regalante"/>
@@ -42,8 +46,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes/traversee-bretonne</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-traversee-bretonne-9b4514ad4e.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/traversee-bretonne"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/brittany-crossing"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen"/>
@@ -52,8 +57,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-canal-nantes-brest-0e2ea82d19.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-brest-canal"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/kanaal-nantes-brest"/>
@@ -62,8 +68,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-vignoble-nantais-839f04643e.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-vineyards"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes"/>
@@ -72,8 +79,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/itineraires-velo-depart-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-itineraires-velo-depart-nantes-61b3346e99.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen"/>
@@ -82,8 +90,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/idees-de-balades</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-idees-de-balades-c6c06667ae.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/idees-de-balades"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/day-rides-from-nantes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietstochten-vanuit-nantes"/>
@@ -92,8 +101,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/location-velo-de-voyage</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-location-velo-de-voyage-224ec409a1.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-de-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/touring-bicycle-hybrid-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/toerfiets"/>
@@ -102,8 +112,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/location-velo-electrique-voyage</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-location-velo-electrique-voyage-92e4c94924.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-electrique-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/electric-touring-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/elektrische-fiets"/>
@@ -112,8 +123,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/location-gravel-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-location-gravel-nantes-10db8bd053.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-gravel-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/gravel-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/gravelfiets"/>
@@ -122,8 +134,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/location-velo-enfant</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-location-velo-enfant-709e08609c.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-enfant"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/childrens-bicycle"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/kinderfiets"/>
@@ -132,8 +145,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/location-velo-cargo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-location-velo-cargo-e5e6051427.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-cargo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cargo-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/bakfiets"/>
@@ -142,8 +156,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/nos-velos-location</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-nos-velos-location-c3766be153.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-velos-location"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bikes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietsen"/>
@@ -152,8 +167,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/nos-tarifs-reservation</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-nos-tarifs-reservation-d350908694.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-tarifs-reservation"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/biken-tour-prices"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/prijs"/>
@@ -162,8 +178,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/tour/tour-du-panorama-nantais</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-tour-tour-du-panorama-nantais-1870e136e5.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-du-panorama-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/the-panorama-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/de-panoramische-fietstour-door-nantes"/>
@@ -172,8 +189,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/tour/tour-surprenantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-tour-tour-surprenantes-d078b8c49f.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-surprenantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/wine-and-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/wine-and-bike-tour"/>
@@ -182,8 +200,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-tour-tour-a-velo-electrique-culture-urbaine-a-nantes-7eaad73001.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/urban-culture-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/stadscultuur-fietstour"/>
@@ -192,8 +211,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/visites-guidees-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-visites-guidees-nantes-1aaed774b2.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/visites-guidees-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/guided-tours"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/begeleide-wandelingen"/>
@@ -202,8 +222,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/offre-groupes-seminaires</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-offre-groupes-seminaires-95b4b816b6.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/offre-groupes-seminaires"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/groups-and-companies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/groepen-en-bedrijven"/>
@@ -212,8 +233,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/qui-sommes-nous-nous-contacter</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-qui-sommes-nous-nous-contacter-f476306abb.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/qui-sommes-nous-nous-contacter"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/contact"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/contact"/>
@@ -222,8 +244,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/faq-locationdeveloanantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-faq-locationdeveloanantes-2a162c3a17.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/faq-locationdeveloanantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/faq"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/faq"/>
@@ -232,8 +255,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/guide-location-velo-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-guide-location-velo-nantes-bf7e81fc98.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/guide-location-velo-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bike-rental-nantes-guide"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fiets-huren-nantes-gids"/>
@@ -242,8 +266,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/cookies</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.2</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-cookies-83e776952f.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/cookies"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cookies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/cookies"/>
@@ -252,263 +277,350 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/mentions-legales</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.3</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-mentions-legales-a9bbace6a4.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/conditions-generales-de-vente</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.3</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-conditions-generales-de-vente-6155a669cf.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/nous-rejoindre</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.3</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-nous-rejoindre-2c8fc77655.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/ils-parlent-de-nous-tv-radio-presse-blogs</loc>
-    <lastmod>2026-11-03</lastmod>
-    <priority>0.4</priority>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-ils-parlent-de-nous-tv-radio-presse-blogs-39cdfb83b1.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-presquile-de-guerande-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-presquile-de-guerande-a-velo-ebd5f11948.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/les-bords-de-loire-oudon</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-les-bords-de-loire-oudon-e56a86beb8.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/chantenay-sur-loire</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-chantenay-sur-loire-7b56889c3b.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/chateau-de-chassay</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-chateau-de-chassay-7b12c972f5.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-baule-et-ses-environs</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-baule-et-ses-environs-a16d0ae87d.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-butte-de-la-roche</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-butte-de-la-roche-09089a4d79.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-vignoble-nantais</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-vignoble-nantais-dfa9f43990.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/les-titans-de-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-les-titans-de-nantes-2a7d7fc811.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-butte-saint-anne</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-butte-saint-anne-26dd2fa567.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/les-bords-de-loire-la-villa-cheminee</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-les-bords-de-loire-la-villa-cheminee-32845946d8.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/pornic-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-pornic-a-velo-8bb8425121.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pornic-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/nantes-to-pornic-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/von-nantes-nach-pornic-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pornic-a-velo"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-top-5-des-balades-incontournables-a-velo-0b714f6eae.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/best-bike-rides-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-la-balade-des-2-bacs-a3d6e11779.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-le-parcours-de-lestuaire-de-nante-5314bbaeb6.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-le-voyage-a-velo-8fa693e40b.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/erste-radreise-ab-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-lile-de-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-lile-de-nantes-ae3fecb968.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/ile-de-nantes-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/ile-de-nantes-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-la-loire-a-velo-de-nantes-a-corde-06ac5750a2.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-marais-de-goulaine</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-marais-de-goulaine-7c9fd2cebc.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-indre</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-la-loire-a-velo-de-nantes-a-indre-e50dbaa7f0.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-lerdre-a-velo-2423875059.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-de-nantes-au-lac-de-grand-lieu-1e3439907b.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-la-loire-a-velo-de-nantes-a-mauve-a860b10cf7.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balade-incontournable-la-sevre-nantaise-f10d5f758b.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/chateau-des-dervallieres</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-chateau-des-dervallieres-9c34f6db07.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-nantes-2eme-ville-cyclable-de-france-a28e8c9980.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balades-etonnantes-le-jardin-des-plantes-7405589e9d.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-nouvelle-gare-de-nantes-un-belvedere-sur-la-ville</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-nouvelle-gare-de-nantes-un-belvedere-sur-la-ville-ffd62fe093.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-place-de-bretagne-un-lieu-charge-dhistoire</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-place-de-bretagne-un-lieu-charge-dhistoire-be7d1c60bd.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-lac-de-grand-lieu</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-lac-de-grand-lieu-ca118c3771.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-porte-vue-un-belvedere-exceptionnel</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-porte-vue-un-belvedere-exceptionnel-f4fb33aa69.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-voyage-a-nantes-2021-a-deja-commence</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-voyage-a-nantes-2021-a-deja-commence-3d14b29d88.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/trentemoult-un-village-pittoresque</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-trentemoult-un-village-pittoresque-1a706439cb.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/une-creature-mythique-aux-portes-de-lestuaire</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-une-creature-mythique-aux-portes-de-lestuaire-d9ebaf018a.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/balades-etonnantes-le-canal-saint-felix</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-balades-etonnantes-le-canal-saint-felix-476777fa6f.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-tour-bretagne-plus-grande-tour-de-louest</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-tour-bretagne-plus-grande-tour-de-louest-d0de893f78.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-bassin-ceineray</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-bassin-ceineray-65851c1b2d.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-velo-cargo-un-moyen-de-redecouvrir-la-ville-6645887831.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-les-bords-de-loire-mauves-sur-loire-c3a86d4e20.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/little-atlantique-brewery-une-brasserie-nantaise</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-little-atlantique-brewery-une-brasserie-nantaise-e055428d4c.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/monument-aux-50-otages</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-monument-aux-50-otages-60daf1e5ee.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/nantes-la-baule-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-nantes-la-baule-a-velo-7642139523.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/un-lieu-unique-et-historique</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-un-lieu-unique-et-historique-f0d2d8e06e.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/une-ile-remplie-dhistoire-ile-de-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-une-ile-remplie-dhistoire-ile-de-nantes-90ccaf746a.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-le-slow-tourisme-voyager-plus-pour-polluer-moins-ce3b8ab354.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-pourquoi-tester-un-velo-a-assistance-electrique-vae-a-n-c1578f3cc9.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/e-bike-hire-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/elektrische-fiets-huren-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/e-bike-mieten-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
   </url>
   <url>
     <loc>https://www.bikentour.com/post/la-sevre-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/post-la-sevre-a-velo-9afc232e71.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/fr/blog</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/fr-blog-b2ea7993dd.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.bikentour.com/en</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>1.0</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og-accueil-en.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl"/>
@@ -517,8 +629,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas/loire-by-bike</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-loire-by-bike-1dfad0ff69.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/loire-by-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/loire-a-velo"/>
@@ -527,8 +640,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas/velodyssee</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-velodyssee-38d4768941.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/velodyssee"/>
@@ -537,8 +651,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas/la-regalante</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-la-regalante-e74970f002.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/regalante"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/la-regalante"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/la-regalante"/>
@@ -547,8 +662,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas/brittany-crossing</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-brittany-crossing-dcb477360a.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/traversee-bretonne"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/brittany-crossing"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen"/>
@@ -557,8 +673,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas/nantes-brest-canal</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-nantes-brest-canal-3ef3124228.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-brest-canal"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/kanaal-nantes-brest"/>
@@ -567,8 +684,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas/nantes-vineyards</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-nantes-vineyards-2dc34a75c5.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-vineyards"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes"/>
@@ -577,8 +695,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/travel-ideas</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-travel-ideas-cdfc8e99d9.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen"/>
@@ -587,8 +706,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/day-rides-from-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-day-rides-from-nantes-e28a16e3b4.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/idees-de-balades"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/day-rides-from-nantes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietstochten-vanuit-nantes"/>
@@ -597,8 +717,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/touring-bicycle-hybrid-bike</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-touring-bicycle-hybrid-bike-64a9be2f0d.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-de-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/touring-bicycle-hybrid-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/toerfiets"/>
@@ -607,8 +728,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/electric-touring-bike</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-electric-touring-bike-3005d4633e.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-electrique-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/electric-touring-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/elektrische-fiets"/>
@@ -617,8 +739,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/gravel-bike</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-gravel-bike-1776717232.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-gravel-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/gravel-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/gravelfiets"/>
@@ -627,8 +750,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/childrens-bicycle</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-childrens-bicycle-26f88a7a1b.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-enfant"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/childrens-bicycle"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/kinderfiets"/>
@@ -637,8 +761,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/cargo-bike</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-cargo-bike-d7e0539450.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-cargo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cargo-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/bakfiets"/>
@@ -647,8 +772,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/bikes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-bikes-d21f312147.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-velos-location"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bikes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietsen"/>
@@ -657,8 +783,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/biken-tour-prices</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-biken-tour-prices-4d1349cef2.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-tarifs-reservation"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/biken-tour-prices"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/prijs"/>
@@ -667,8 +794,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/the-panorama-tour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-the-panorama-tour-da0ab37f9f.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-du-panorama-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/the-panorama-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/de-panoramische-fietstour-door-nantes"/>
@@ -677,8 +805,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/wine-and-bike-tour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-wine-and-bike-tour-96477c55ce.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-surprenantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/wine-and-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/wine-and-bike-tour"/>
@@ -687,8 +816,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/urban-culture-bike-tour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-urban-culture-bike-tour-7e668a71cb.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/urban-culture-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/stadscultuur-fietstour"/>
@@ -697,8 +827,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/guided-tours</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-guided-tours-4da9627e7e.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/visites-guidees-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/guided-tours"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/begeleide-wandelingen"/>
@@ -707,8 +838,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/groups-and-companies</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-groups-and-companies-be602047f9.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/offre-groupes-seminaires"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/groups-and-companies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/groepen-en-bedrijven"/>
@@ -717,8 +849,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/contact</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-contact-28a2eee5de.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/qui-sommes-nous-nous-contacter"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/contact"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/contact"/>
@@ -727,8 +860,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/faq</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-faq-1ce1360100.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/faq-locationdeveloanantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/faq"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/faq"/>
@@ -737,8 +871,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/bike-rental-nantes-guide</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-bike-rental-nantes-guide-2def451d35.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/guide-location-velo-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bike-rental-nantes-guide"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fiets-huren-nantes-gids"/>
@@ -747,8 +882,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/en/cookies</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.2</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-cookies-af97fe82bb.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/cookies"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cookies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/cookies"/>
@@ -756,9 +892,87 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/fr/cookies"/>
   </url>
   <url>
+    <loc>https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-sevre-nantaise-by-bike-to-clisson-4637642682.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-loire-estuary-by-bike-nantes-saint-brevin-139c620a2f.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-first-cycling-trip-from-nantes-7909ba4ee9.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/erste-radreise-ab-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/en/blog/ile-de-nantes-by-bike</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-ile-de-nantes-by-bike-a2c99b32d6.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/ile-de-nantes-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/ile-de-nantes-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/en/blog/best-bike-rides-from-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-best-bike-rides-from-nantes-898bb48c15.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/best-bike-rides-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/en/blog/nantes-to-pornic-by-bike</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-nantes-to-pornic-by-bike-b6c1d17cbf.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pornic-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/nantes-to-pornic-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/von-nantes-nach-pornic-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pornic-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/en/blog/e-bike-hire-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/en-blog-e-bike-hire-nantes-b98697489c.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/e-bike-hire-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/elektrische-fiets-huren-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/e-bike-mieten-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
+  </url>
+  <url>
     <loc>https://www.bikentour.com/nl</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>1.0</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og-accueil-nl.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl"/>
@@ -767,8 +981,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen/loire-a-velo</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-loire-a-velo-e6a143664b.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/loire-by-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/loire-a-velo"/>
@@ -777,8 +992,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen/velodyssee</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-velodyssee-4c7211ae8d.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/velodyssee"/>
@@ -787,8 +1003,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen/la-regalante</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-la-regalante-ba7fa05566.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/regalante"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/la-regalante"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/la-regalante"/>
@@ -797,8 +1014,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-bretagne-doorkruisen-d5b43eb605.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/traversee-bretonne"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/brittany-crossing"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen"/>
@@ -807,8 +1025,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen/kanaal-nantes-brest</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-kanaal-nantes-brest-3eebea7e3a.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-brest-canal"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/kanaal-nantes-brest"/>
@@ -817,8 +1036,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-wijngaarden-nantes-fb10298e4a.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-vineyards"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes"/>
@@ -827,8 +1047,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/reisideeen</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-reisideeen-97d9194eeb.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen"/>
@@ -837,8 +1058,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/fietstochten-vanuit-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-fietstochten-vanuit-nantes-b76720b318.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/idees-de-balades"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/day-rides-from-nantes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietstochten-vanuit-nantes"/>
@@ -847,8 +1069,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/toerfiets</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-toerfiets-113e551ced.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-de-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/touring-bicycle-hybrid-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/toerfiets"/>
@@ -857,8 +1080,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/elektrische-fiets</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-elektrische-fiets-e52d74f804.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-electrique-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/electric-touring-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/elektrische-fiets"/>
@@ -867,8 +1091,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/gravelfiets</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-gravelfiets-4fbb27b542.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-gravel-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/gravel-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/gravelfiets"/>
@@ -877,8 +1102,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/kinderfiets</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-kinderfiets-1f8c92bca4.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-enfant"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/childrens-bicycle"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/kinderfiets"/>
@@ -887,8 +1113,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/bakfiets</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-bakfiets-3fa314e1a8.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-cargo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cargo-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/bakfiets"/>
@@ -897,8 +1124,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/fietsen</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-fietsen-4600b54b01.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-velos-location"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bikes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietsen"/>
@@ -907,8 +1135,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/prijs</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-prijs-ac6228a467.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-tarifs-reservation"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/biken-tour-prices"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/prijs"/>
@@ -917,8 +1146,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/de-panoramische-fietstour-door-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-de-panoramische-fietstour-door-nantes-9b51ec5ea1.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-du-panorama-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/the-panorama-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/de-panoramische-fietstour-door-nantes"/>
@@ -927,8 +1157,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/wine-and-bike-tour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-wine-and-bike-tour-a837a60c12.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-surprenantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/wine-and-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/wine-and-bike-tour"/>
@@ -937,8 +1168,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/stadscultuur-fietstour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-stadscultuur-fietstour-1f549af69b.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/urban-culture-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/stadscultuur-fietstour"/>
@@ -947,8 +1179,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/begeleide-wandelingen</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-begeleide-wandelingen-9e8cf0a618.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/visites-guidees-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/guided-tours"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/begeleide-wandelingen"/>
@@ -957,8 +1190,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/groepen-en-bedrijven</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-groepen-en-bedrijven-e05532a1e0.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/offre-groupes-seminaires"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/groups-and-companies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/groepen-en-bedrijven"/>
@@ -967,8 +1201,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/contact</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-contact-47c2a32393.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/qui-sommes-nous-nous-contacter"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/contact"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/contact"/>
@@ -977,8 +1212,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/faq</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-faq-07c525a71f.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/faq-locationdeveloanantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/faq"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/faq"/>
@@ -987,8 +1223,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/fiets-huren-nantes-gids</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-fiets-huren-nantes-gids-44d9ae1551.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/guide-location-velo-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bike-rental-nantes-guide"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fiets-huren-nantes-gids"/>
@@ -997,8 +1234,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/nl/cookies</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.2</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-cookies-3196f73a99.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/cookies"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cookies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/cookies"/>
@@ -1006,9 +1244,87 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/fr/cookies"/>
   </url>
   <url>
+    <loc>https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-sevre-nantaise-per-fiets-naar-clisson-1c6ad0e2ab.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-loire-estuarium-per-fiets-nantes-saint-brevin-af4ffd5f7a.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-eerste-fietsreis-vanuit-nantes-f254819b5c.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/erste-radreise-ab-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-ile-de-nantes-per-fiets-1e1981bd9f.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/ile-de-nantes-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/ile-de-nantes-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-fietstochten-vanuit-nantes-96195496fc.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/best-bike-rides-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-van-nantes-naar-pornic-per-fiets-66b2a7a8b9.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pornic-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/nantes-to-pornic-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/von-nantes-nach-pornic-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pornic-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/nl/blog/elektrische-fiets-huren-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/nl-blog-elektrische-fiets-huren-nantes-e38d9e88fb.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/e-bike-hire-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/elektrische-fiets-huren-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/e-bike-mieten-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
+  </url>
+  <url>
     <loc>https://www.bikentour.com/de</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>1.0</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og-accueil-de.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl"/>
@@ -1017,8 +1333,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen/loire-radweg</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-loire-radweg-eb91fc0882.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/loire-by-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/loire-a-velo"/>
@@ -1027,8 +1344,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen/velodyssee</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-velodyssee-7ceefd0ae4.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/velodyssee"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/velodyssee"/>
@@ -1037,8 +1355,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen/la-regalante</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-la-regalante-43ba40e511.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/regalante"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/la-regalante"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/la-regalante"/>
@@ -1047,8 +1366,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen/bretagne-durchquerung</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-bretagne-durchquerung-589c2cbf60.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/traversee-bretonne"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/brittany-crossing"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen"/>
@@ -1057,8 +1377,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen/nantes-brest-kanal</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-nantes-brest-kanal-fa877800b6.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-brest-canal"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/kanaal-nantes-brest"/>
@@ -1067,8 +1388,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen/weinberge-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-weinberge-nantes-fc3b3e9a44.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas/nantes-vineyards"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes"/>
@@ -1077,8 +1399,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/reiseideen</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-reiseideen-475162b306.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/itineraires-velo-depart-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/travel-ideas"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/reisideeen"/>
@@ -1087,8 +1410,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/radtouren-ab-nantes</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-radtouren-ab-nantes-c3229aca8f.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/idees-de-balades"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/day-rides-from-nantes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietstochten-vanuit-nantes"/>
@@ -1097,8 +1421,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/trekkingrad</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-trekkingrad-408d632332.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-de-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/touring-bicycle-hybrid-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/toerfiets"/>
@@ -1107,8 +1432,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/elektrofahrrad</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-elektrofahrrad-5ada0ca666.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-electrique-voyage"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/electric-touring-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/elektrische-fiets"/>
@@ -1117,8 +1443,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/gravelbike</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-gravelbike-c07a74057c.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-gravel-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/gravel-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/gravelfiets"/>
@@ -1127,8 +1454,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/kinderfahrrad</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-kinderfahrrad-2e710b0f14.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-enfant"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/childrens-bicycle"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/kinderfiets"/>
@@ -1137,8 +1465,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/lastenrad</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-lastenrad-5648095161.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/location-velo-cargo"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cargo-bike"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/bakfiets"/>
@@ -1147,8 +1476,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/fahrrader</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-fahrrader-84443f074a.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-velos-location"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bikes"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fietsen"/>
@@ -1157,8 +1487,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/preis</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-preis-6fe88ae8e8.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/nos-tarifs-reservation"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/biken-tour-prices"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/prijs"/>
@@ -1167,8 +1498,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/die-panorama-tour-von-nantes-mit-dem-fahrrad</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-die-panorama-tour-von-nantes-mit-dem-fahrrad-c87992821d.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-du-panorama-nantais"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/the-panorama-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/de-panoramische-fietstour-door-nantes"/>
@@ -1177,8 +1509,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/wine-and-bike-tour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-wine-and-bike-tour-819f0235f0.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-surprenantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/wine-and-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/wine-and-bike-tour"/>
@@ -1187,8 +1520,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/urbane-kultur-radtour</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-urbane-kultur-radtour-3a906bc2a4.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/urban-culture-bike-tour"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/stadscultuur-fietstour"/>
@@ -1197,8 +1531,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/gefuhrte-touren</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-gefuhrte-touren-f250c6590d.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/visites-guidees-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/guided-tours"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/begeleide-wandelingen"/>
@@ -1207,8 +1542,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/gruppen-und-unternehmen</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.8</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-gruppen-und-unternehmen-4c3b31fa32.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/offre-groupes-seminaires"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/groups-and-companies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/groepen-en-bedrijven"/>
@@ -1217,8 +1553,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/kontakt</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.6</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-kontakt-960ed00570.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/qui-sommes-nous-nous-contacter"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/contact"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/contact"/>
@@ -1227,8 +1564,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/faq</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <priority>0.7</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-faq-bd46b792ae.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/faq-locationdeveloanantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/faq"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/faq"/>
@@ -1237,8 +1575,9 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/fahrradverleih-nantes-ratgeber</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.9</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-fahrradverleih-nantes-ratgeber-820847ffd8.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/guide-location-velo-nantes"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/bike-rental-nantes-guide"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/fiets-huren-nantes-gids"/>
@@ -1247,12 +1586,90 @@
   </url>
   <url>
     <loc>https://www.bikentour.com/de/cookies</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <priority>0.2</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-cookies-33e0f5e2f2.jpg</image:loc></image:image>
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/fr/cookies"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/cookies"/>
     <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/cookies"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/cookies"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/fr/cookies"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-sevre-nantaise-mit-dem-rad-nach-clisson-bc6e4320e0.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-loire-muendung-mit-dem-rad-nantes-saint-brevin-79045c23d5.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/erste-radreise-ab-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-erste-radreise-ab-nantes-6409cc96e9.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/erste-radreise-ab-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/ile-de-nantes-mit-dem-rad</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-ile-de-nantes-mit-dem-rad-ed0650cb07.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/ile-de-nantes-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/ile-de-nantes-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/balade-incontournable-lile-de-nantes"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-radtouren-ab-nantes-top-5-b4e3e54634.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/best-bike-rides-from-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/von-nantes-nach-pornic-mit-dem-rad</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-von-nantes-nach-pornic-mit-dem-rad-86fc667d49.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pornic-a-velo"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/nantes-to-pornic-by-bike"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/von-nantes-nach-pornic-mit-dem-rad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pornic-a-velo"/>
+  </url>
+  <url>
+    <loc>https://www.bikentour.com/de/blog/e-bike-mieten-nantes</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.5</priority>
+    <image:image><image:loc>https://www.bikentour.com/assets/img/og/de-blog-e-bike-mieten-nantes-a1cfd54c7e.jpg</image:loc></image:image>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.bikentour.com/en/blog/e-bike-hire-nantes"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.bikentour.com/nl/blog/elektrische-fiets-huren-nantes"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.bikentour.com/de/blog/e-bike-mieten-nantes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes"/>
   </url>
 </urlset>

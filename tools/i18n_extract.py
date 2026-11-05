@@ -32,6 +32,13 @@ for k in keys:
         continue
     if any(o in k for o in outputs):
         continue
+    # phrase entièrement composée de textes du contenu (déjà traduits dans content/<langue>/)
+    rest = re.sub(r'<[^>]+>', ' ', k)
+    for v in sorted(content_vals, key=len, reverse=True):
+        if len(v) > 2 and v in rest:
+            rest = rest.replace(v, ' ')
+    if not i18n.LETTER.search(rest):
+        continue
     seen.add(k); out.append(k)
 json.dump({'html': out, 't': rec['t']}, open(os.path.join(i18n.TOOLS, 'i18n', 'catalog.json'), 'w'), ensure_ascii=False, indent=1)
 print(len(out), 'phrases,', len(rec['t']), 'modèles T(),', sum(len(k) for k in out) + sum(len(k) for k in rec['t']), 'caractères')

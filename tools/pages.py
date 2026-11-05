@@ -58,7 +58,8 @@ esc = html.escape
 INDEX = open(os.path.join(ROOT, 'index.html' if LANG == 'fr' else f'{LANG}/index.html')).read()
 HEADER = re.search(r'(<header class="hd".*?</header>)', INDEX, re.S).group(1)
 FOOTER = re.search(r'(<footer class="ft">.*?</footer>)', INDEX, re.S).group(1)
-MAP = open(os.path.join(os.path.dirname(__file__), 'map.inc')).read()
+from content_routes import map_svg
+MAP = map_svg(LANG)
 LEVELS = {'Facile': 1, 'Modéré': 2, 'Difficile': 3}
 PAGES = []  # (url, priority)
 
@@ -112,7 +113,7 @@ def page(url, title, meta, crumbs_items, body, ld_extra=(), img='v2-hero-vignobl
         body = body[:i + 10] + '\n' + box + body[i + 10:] if i >= 0 else box + body
     canon = SITE + url
     graph = [WEBSITE_LD, BIZ_LD, {"@type": kind, "@id": canon + '#webpage', "url": canon, "name": title, "description": meta, "inLanguage": "fr",
-                      "isPartOf": {"@id": SITE + '/#website'}, "about": {"@id": BIZ}, "dateModified": TODAY,
+                      "isPartOf": {"@id": SITE + '/#website'}, "about": {"@id": BIZ}, "dateModified": "{{LASTMOD_ISO}}",
                       "primaryImageOfPage": SITE + '/assets/img/' + img,
                       **({"speakable": {"@type": "SpeakableSpecification", "cssSelector": ["#en-bref"]}} if brief else {})},
              breadcrumb_ld(crumbs_items, url)] + list(ld_extra)
@@ -139,6 +140,11 @@ def page(url, title, meta, crumbs_items, body, ld_extra=(), img='v2-hero-vignobl
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
+<meta name="geo.region" content="FR-44">
+<meta name="geo.placename" content="Nantes">
+<meta name="geo.position" content="47.2178;-1.5603">
+<meta name="ICBM" content="47.2178, -1.5603">
+<link rel="alternate" type="application/rss+xml" title="Le blog de Bike'N Tour" href="/fr/blog.xml">
 <link rel="alternate" type="text/markdown" href="/llms.txt" title="Bike'N Tour en bref pour les assistants IA">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -184,7 +190,7 @@ def fr_date(iso):
 
 
 def tldr(text):
-    upd = T("Mis à jour le {date} · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes", date=f'<time datetime="{TODAY}">{fr_date(TODAY)}</time>')
+    upd = T("Mis à jour le {date} · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes", date='<time datetime="{{LASTMOD_ISO}}">{{LASTMOD_TXT}}</time>')
     return (f'<div class="wrap"><div class="tldr" id="en-bref"><p><strong>{T("En bref.")}</strong> {text}</p>'
             f'<p class="tldr-date">{upd}</p></div></div>')
 
@@ -268,11 +274,12 @@ def route_pages():
       {profile(r['id'], True)}
       <h2>À ne pas manquer</h2>
       <ul class="ticks">{hl}</ul>
+      {pois_block(r)}
       <h2>Le retour</h2>
       <p>{esc(x['back'])}</p>
       {faq_block(qas)}
     </div>
-    <aside class="side">
+    <div class="side">
       <div class="side-card">
         <img src="/assets/img/{r['img']}" alt="{esc(r['alt'])}" width="{r['iw']}" height="{r['ih']}" loading="lazy" decoding="async">
         <div class="side-body">
@@ -282,7 +289,9 @@ def route_pages():
           {BOOK_BTN}
         </div>
       </div>
-      <form class="side-card gpx" id="gpx" action="mailto:{EMAIL}" method="post" data-mailto="{EMAIL}" data-subject="Fiche et trace GPX : {esc(r['name'])}" data-body="Bonjour,||Merci de m'envoyer la fiche de l'itinéraire et la trace GPX à cette adresse : {{email}}||Merci !" data-msg="Votre messagerie s'ouvre : envoyez le message, on vous répond sous 24 h.">
+      <form class="side-card gpx" id="gpx" action="mailto:{EMAIL}" method="post" data-mailto="{EMAIL}" data-subject="Fiche et trace GPX : {esc(r['name'])}" data-body="Bonjour,||Merci de m'envoyer la fiche de l'itinéraire et la trace GPX à cette adresse : {{email}}||Merci !" data-msg="Votre messagerie s'ouvre : envoyez le message, on vous répond sous 24 h." data-api="/api/gpx" data-ok="C'est noté : la fiche et la trace GPX arrivent par email sous 24 h.">
+        <input type="hidden" name="route" value="{esc(r['name'])}">
+        <div class="hp" aria-hidden="true"><label>Site web <input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
         <p class="eyebrow">Fiche PDF et trace GPX</p>
         <p class="small">Recevez par email la fiche de l'itinéraire, la trace GPX et nos bonnes adresses.</p>
         <label class="sr-only" for="gpx-{r['id']}">Votre email</label>
@@ -290,7 +299,7 @@ def route_pages():
         <button class="btn btn-yellow" type="submit">Recevoir la trace</button>
         <p class="small form-status" role="status" aria-live="polite"></p>
       </form>
-    </aside>
+    </div>
   </div>
 </section>
 
@@ -303,8 +312,14 @@ def route_pages():
 </section>
 {blog.blog_block('route', r['id'], 'À lire sur le blog : ' + r['name'], extra=BLOG_EXTRA.get(r['id'], ()))}
 {cta_band()}'''
+        pois_ld = [{"@type": "TouristAttraction", "name": p['nom'], "description": p.get('texte', ''),
+                    "geo": {"@type": "GeoCoordinates", "latitude": p['lat'], "longitude": p['lon']},
+                    **({"subjectOf": {"@type": "BlogPosting", "url": f"{SITE}/post/{p['article']}"}} if p.get('article') and LANG == 'fr' else {})}
+                   for p in (r.get('points') or []) if p.get('lat') is not None]
+        extra_ld = [{"@type": "ItemList", "@id": SITE + r['url'] + '#points-de-vue', "name": T("Points de vue sur le parcours") + (' : ' if LANG == 'fr' else ': ') + r['name'],
+                     "itemListElement": [{"@type": "ListItem", "position": i + 1, "item": a} for i, a in enumerate(pois_ld)]}] if pois_ld else []
         page(r['url'], x['title'], x['meta'], [CRUMB_HOME, ('Itinéraires', HUB), (r['name'], None)], body,
-             [trip, faq_ld(qas)], img=r['img'], priority='0.9', kind='WebPage', brief=route_brief(r, bikes))
+             [trip, faq_ld(qas)] + extra_ld, img=r['img'], priority='0.9', kind='WebPage', brief=route_brief(r, bikes))
 
 
 PLURAL = {'voyage': 'vélos de voyage', 'electrique': 'vélos électriques', 'gravel': 'vélos gravel', 'enfant': 'vélos enfant', 'cargo': 'vélos cargo'}
@@ -347,6 +362,17 @@ def fleet_brief():
              "Livraison dans la métropole nantaise 10 €, aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.", year=datetime.date.today().year, list=lst)
 
 
+def pois_block(r):
+    pts = r.get('points') or []
+    if not pts:
+        return ''
+    def name(p):
+        n = esc(p['nom'])
+        return f'<a href="/post/{p["article"]}">{n}</a>' if p.get('article') and LANG == 'fr' else n
+    lis = ''.join(f'<li><strong>{name(p)}</strong><span>{esc(p.get("texte") or "")}</span></li>' for p in pts)
+    return f'<h2>{T("Points de vue sur le parcours")}</h2><ul class="poi-list">{lis}</ul>'
+
+
 def route_tile(o):
     return f'''<a class="tile" href="{o['url']}"><img src="/assets/img/{o['img']}" alt="" width="{o['iw']}" height="{o['ih']}" loading="lazy" decoding="async">
 <span class="tile-body"><span class="tile-meta">{lvl(o['level'])}<span>{esc(o['km'])} · {esc(o['days'])}</span></span><strong>{esc(o['name'])}</strong><span class="small">{esc(o['short'])}</span></span></a>'''
@@ -361,7 +387,7 @@ def hub():
 <section class="section">
   <div class="wrap">
     <h2>Les 6 véloroutes en un coup d'œil</h2>
-    <div class="table-wrap"><table class="data"><thead><tr><th scope="col">Itinéraire</th><th scope="col">Distance</th><th scope="col">Durée conseillée</th><th scope="col">Niveau</th><th scope="col">Aller simple</th></tr></thead><tbody>{rows}</tbody></table></div>
+    <div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><thead><tr><th scope="col">Itinéraire</th><th scope="col">Distance</th><th scope="col">Durée conseillée</th><th scope="col">Niveau</th><th scope="col">Aller simple</th></tr></thead><tbody>{rows}</tbody></table></div>
     <p class="small muted">Distances calculées sur les tracés officiels France Vélo Tourisme depuis la boutique, durées indicatives sur une base de 40 à 60 km par jour.</p>
     <div class="cards cards-3">{''.join(route_tile(r) for r in ROUTES)}</div>
   </div>
@@ -373,7 +399,7 @@ def hub():
   <p><strong>Pour le Mont-Saint-Michel</strong>, la <a href="{ROUTE['regalante']['url']}">Régalante</a> passe par les terres (275 km, très peu de dénivelé), la <a href="{ROUTE['traversee']['url']}">Traversée bretonne</a> par la côte, Rennes et Saint-Malo (485 km).</p>
   <p><strong>Pour un week-end</strong>, le <a href="{ROUTE['vignoble']['url']}">Vignoble nantais</a> en gravel ou le <a href="{ROUTE['canal']['url']}">Canal de Nantes à Brest</a> jusqu'à Redon.</p>
   <p>Prix, choix du vélo, aller simple, caution : toutes les réponses dans notre <a href="/fr/guide-location-velo-nantes">guide de la location de vélo à Nantes</a>.</p></div>
-  <aside class="side"><div class="side-card side-body"><p class="eyebrow">Inclus avec chaque itinéraire</p><ul class="ticks"><li>Fiche PDF et trace GPX par email</li><li>Parcours sur Komoot</li><li>Accès en train et retour</li><li>Nos bonnes adresses</li></ul>{BOOK_BTN}</div></aside>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Inclus avec chaque itinéraire</p><ul class="ticks"><li>Fiche PDF et trace GPX par email</li><li>Parcours sur Komoot</li><li>Accès en train et retour</li><li>Nos bonnes adresses</li></ul>{BOOK_BTN}</div></div>
 </div></section>
 {blog.blog_block('hub', None, 'Préparer son voyage à vélo', extra=('le-voyage-a-velo', 'slow-tourisme', 'le-top-5'))}
 {cta_band()}'''
@@ -388,13 +414,13 @@ BALADE_POST = {'Sèvre': 'balade-incontournable-la-sevre-nantaise', 'Oudon': 'le
                'Grand-Lieu': 'balade-incontournable-de-nantes-au-lac-de-grand-lieu', "L'Erdre": 'lerdre-a-velo', 'Mauves': 'la-loire-a-velo-de-nantes-a-mauves',
                'Pornic': 'pornic-a-velo', 'Pellerin': 'la-balade-des-2-bacs', 'Saint-Nazaire': 'parcours-de-lestuaire'}
 # articles à mettre en avant sur certaines pages (en plus des articles liés automatiquement)
-BLOG_EXTRA = {'loire': ('la-loire-a-velo-de-nantes-a-mauves', 'les-bords-de-loire-oudon', 'parcours-de-lestuaire'),
-              'velodyssee': ('pornic-a-velo', 'grand-lieu', 'nantes-la-baule'), 'vignoble': ('la-sevre-nantaise', 'le-vignoble-nantais', 'chateau-de-chassay'),
+BLOG_EXTRA = {'loire': ('la-loire-a-velo-de-nantes-a-mauves', 'la-loire-a-velo-de-nantes-a-cordemais', 'parcours-de-lestuaire'),
+              'velodyssee': ('pornic-a-velo', 'de-nantes-au-lac-de-grand-lieu', 'parcours-de-lestuaire'), 'vignoble': ('la-sevre-nantaise', 'le-vignoble-nantais', 'chateau-de-chassay'),
               'canal': ('lerdre-a-velo', 'le-bassin-ceineray', 'le-voyage-a-velo'), 'regalante': ('le-voyage-a-velo', 'slow-tourisme', 'lerdre-a-velo'),
               'traversee': ('le-voyage-a-velo', 'slow-tourisme', 'guerande'), 'voyage': ('le-voyage-a-velo', 'slow-tourisme', 'le-top-5'),
-              'gravel': ('le-vignoble-nantais', 'la-sevre-a-velo', 'marais-de-goulaine'), 'enfant': ('jardin-des-plantes', 'lile-de-nantes', 'le-top-5'),
-              'wine': ('le-vignoble-nantais', 'la-sevre-nantaise', 'chateau-de-chassay'), 'urbain': ('little-atlantique', 'trentemoult', 'le-voyage-a-nantes-2021'),
-              'panorama': ('les-titans', 'la-butte-saint-anne', 'une-ile-remplie')}
+              'gravel': ('le-vignoble-nantais', 'la-sevre-a-velo', 'marais-de-goulaine'), 'enfant': ('balade-incontournable-lile-de-nantes', 'jardin-des-plantes', 'le-top-5'),
+              'wine': ('le-vignoble-nantais', 'la-sevre-nantaise', 'chateau-de-chassay'), 'urbain': ('le-voyage-a-nantes-2021', 'little-atlantique', 'trentemoult'),
+              'panorama': ('balade-incontournable-lile-de-nantes', 'le-voyage-a-nantes-2021', 'les-titans')}
 
 
 def balade_link(name):
@@ -409,7 +435,7 @@ def balade_link(name):
 
 
 def balades():
-    items = ''.join(f'''<article class="balade"><div class="balade-head"><h3>{esc(b['name'])}</h3>{lvl(b['level'])}</div>
+    items = ''.join(f'''<article class="balade"><div class="balade-head"><h2>{esc(b['name'])}</h2>{lvl(b['level'])}</div>
 <p class="balade-meta"><span>{esc(b['km'])}</span><span>{esc(b['time'])}</span></p><p>{esc(b['text'])}</p><p class="small muted">{esc(b['back'])}</p>{balade_link(b['name'])}</article>''' for b in BALADES)
     lst = {"@type": "ItemList", "name": "Balades à vélo autour de Nantes", "itemListElement": [
         {"@type": "ListItem", "position": i + 1, "item": {"@type": "TouristTrip", "name": b['name'], "description": b['text'], "provider": {"@id": BIZ}}} for i, b in enumerate(BALADES)]}
@@ -431,8 +457,8 @@ def price_table(b):
     if b['grid']:
         head = ''.join(f'<th scope="col">{d} jour{"s" if d > 1 else ""}</th>' for d in range(1, 8))
         cells = ''.join(f'<td>{p} €</td>' for p in b['grid'])
-        return f'<div class="table-wrap"><table class="data price"><thead><tr>{head}<th scope="col">Jour suppl.</th></tr></thead><tbody><tr>{cells}<td>+{b["extra"]} €</td></tr></tbody></table></div>'
-    return f'<div class="table-wrap"><table class="data price"><thead><tr><th scope="col">1 jour</th><th scope="col">Week-end</th><th scope="col">Semaine</th></tr></thead><tbody><tr><td>{b["day"]} €</td><td>{b["weekend"]} €</td><td>{b["week"]} €</td></tr></tbody></table></div>'
+        return f'<div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data price"><thead><tr>{head}<th scope="col">Jour suppl.</th></tr></thead><tbody><tr>{cells}<td>+{b["extra"]} €</td></tr></tbody></table></div>'
+    return f'<div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data price"><thead><tr><th scope="col">1 jour</th><th scope="col">Week-end</th><th scope="col">Semaine</th></tr></thead><tbody><tr><td>{b["day"]} €</td><td>{b["weekend"]} €</td><td>{b["week"]} €</td></tr></tbody></table></div>'
 
 
 def product_ld(b):
@@ -462,7 +488,7 @@ def bike_pages():
     <h2>Pour quels voyages ?</h2><p>{esc(b['why'])}</p>
     {faq_block(qas)}
   </div>
-  <aside class="side"><div class="side-card side-body"><p class="eyebrow">Inclus</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in INCLUDED)}</ul>{BOOK_BTN}<p class="small">Ou au <a href="tel:{PHONE}">{PHONE_TXT}</a></p></div></aside>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Inclus</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in INCLUDED)}</ul>{BOOK_BTN}<p class="small">Ou au <a href="tel:{PHONE}">{PHONE_TXT}</a></p></div></div>
 </div></section>
 <section class="section section-tint"><div class="wrap"><h2>Idéal pour</h2><div class="cards cards-3">{good}</div>
 <p class="more"><a class="arrow-link" href="/fr/nos-velos-location">Comparer tous nos vélos</a></p></div></section>
@@ -485,12 +511,12 @@ def fleet():
 <section class="section"><div class="wrap"><h2>La flotte</h2><div class="bikes bikes-5">{cards}</div></div></section>
 <section class="section section-tint"><div class="wrap two-col">
   <div class="prose">
-    <h2>Accessoires en option</h2><div class="table-wrap"><table class="data"><tbody>{acc}</tbody></table></div>
+    <h2>Accessoires en option</h2><div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><tbody>{acc}</tbody></table></div>
     <h2 id="livraison">Livraison à votre hébergement</h2><p>Nous livrons et récupérons les vélos dans la métropole nantaise : hôtel, gîte, Airbnb ou gare de Nantes. <strong>10 € par livraison</strong>, jusqu'à 4 vélos. On convient ensemble de l'heure et du lieu.</p>
     <h2 id="aller-simple">Aller simple (One Way)</h2><p>Vous partez de Nantes et terminez votre voyage ailleurs ? Nous organisons la récupération des vélos à l'arrivée, sur la Loire à Vélo, la Vélodyssée, la Régalante ou en Bretagne, avec nos partenaires. <strong>Tarif sur devis</strong> selon les dates et le lieu de dépôt : contactez-nous à l'avance.</p>
     <h2>Protection casse et vol</h2><p>En option : {grouped('protect', lambda v: f'<strong>{v} € par jour</strong>')}. La casse est prise en charge à 100 % (hors usage abusif) et, en cas de vol, seuls 10 % de la valeur neuve restent à votre charge.</p>
   </div>
-  <aside class="side"><div class="side-card side-body"><p class="eyebrow">Inclus avec chaque vélo</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in INCLUDED)}</ul>{BOOK_BTN}</div></aside>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Inclus avec chaque vélo</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in INCLUDED)}</ul>{BOOK_BTN}</div></div>
 </div></section>
 {cta_band()}'''
     offers = {"@type": "OfferCatalog", "name": "Location de vélos à Nantes", "itemListElement": [{"@type": "Offer", "itemOffered": {"@id": SITE + b['url'] + '#product'}, "price": str(b['day']), "priceCurrency": "EUR"} for b in BIKES]}
@@ -510,16 +536,16 @@ def pricing():
 {phero('Tarifs 2026', 'Tarifs de location de vélos à Nantes', "Des tarifs simples et dégressifs, cadenas, kit anti-crevaison et éclairage compris. Réservez en ligne en quelques minutes, annulation gratuite jusqu'à 48 h avant le départ.", 'v2-depart-boutique.webp', 1400, 933, 'Départ à vélo depuis la boutique à Nantes', f'<div class="hero-actions">{BOOK_BTN}</div>{REASSURE}')}
 <section class="section"><div class="wrap">
   <h2>Location de vélos</h2>
-  <div class="table-wrap"><table class="data"><thead><tr><th scope="col">Vélo</th><th scope="col">1 jour</th><th scope="col">Week-end</th><th scope="col">Semaine</th><th scope="col">Protection casse et vol</th><th scope="col">Caution</th></tr></thead><tbody>{rows}</tbody></table></div>
+  <div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><thead><tr><th scope="col">Vélo</th><th scope="col">1 jour</th><th scope="col">Week-end</th><th scope="col">Semaine</th><th scope="col">Protection casse et vol</th><th scope="col">Caution</th></tr></thead><tbody>{rows}</tbody></table></div>
   <h2>Tarifs dégressifs, jour par jour</h2>{grids}
   <p class="small muted">Location à la journée : de 9 h 30 à 18 h 30. Caution plafonnée à 2 000 € pour plusieurs vélos.</p>
 </div></section>
 <section class="section section-tint"><div class="wrap two-col">
-  <div class="prose"><h2>Accessoires et services</h2><div class="table-wrap"><table class="data"><tbody>{acc}
+  <div class="prose"><h2>Accessoires et services</h2><div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><tbody>{acc}
   <tr><th scope="row"><a href="/fr/nos-velos-location#livraison">Livraison dans la métropole nantaise</a></th><td>10 € (jusqu'à 4 vélos)</td></tr>
   <tr><th scope="row"><a href="/fr/nos-velos-location#aller-simple">Aller simple / récupération des vélos</a></th><td>Sur devis</td></tr></tbody></table></div>
   {faq_block(qas)}</div>
-  <aside class="side"><div class="side-card side-body"><p class="eyebrow">Visites guidées</p><p>{T("Nantes à vélo électrique avec un guide, <strong>dès {price} € par personne</strong>.", price=TOUR_MIN)}</p><a class="btn btn-ghost" href="/fr/visites-guidees-nantes">Voir les visites</a></div></aside>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Visites guidées</p><p>{T("Nantes à vélo électrique avec un guide, <strong>dès {price} € par personne</strong>.", price=TOUR_MIN)}</p><a class="btn btn-ghost" href="/fr/visites-guidees-nantes">Voir les visites</a></div></div>
 </div></section>
 {cta_band()}'''
     page('/fr/nos-tarifs-reservation', T("Tarifs location vélo Nantes {year} : dès {price} €/jour | Bike'N Tour", year=datetime.date.today().year, price=MIN_DAY),
@@ -545,8 +571,8 @@ def tours():
 {phero('Visite guidée à vélo électrique', esc(t['name']), esc(t['lead']), t['img'], t['iw'], t['ih'], t['alt'], f'<ul class="facts"><li><span>{T("Prix")}</span><strong>{T("{price} € / personne", price=t["price"])}</strong></li><li><span>{T("Durée")}</span><strong>{t["duration"]}</strong></li><li><span>{T("Départs")}</span><strong>{esc(t["when"])}</strong></li><li><span>{T("Langues")}</span><strong>{esc(t["langs"])}</strong></li></ul><div class="hero-actions"><a class="btn btn-primary" href="{BOOK}">Réserver la visite</a></div><ul class="reassure"><li>Annulation gratuite jusqu\'à 48 h</li><li>12 personnes maximum</li><li>100 % pistes cyclables</li></ul>')}
 <section class="section"><div class="wrap two-col">
   <div class="prose"><h2>Le parcours</h2><ol class="stages">{stops}</ol>{faq_block(qas)}</div>
-  <aside class="side"><div class="side-card side-body"><p class="eyebrow">Inclus</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in t['included'])}</ul>
-  <p class="small"><strong>Rendez-vous :</strong> {esc(t['meet'])}. Venez 10 minutes avant le départ.</p><a class="btn btn-primary" href="{BOOK}">Réserver</a></div></aside>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Inclus</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in t['included'])}</ul>
+  <p class="small"><strong>Rendez-vous :</strong> {esc(t['meet'])}. Venez 10 minutes avant le départ.</p><a class="btn btn-primary" href="{BOOK}">Réserver</a></div></div>
 </div></section>
 <section class="section section-tint"><div class="wrap"><h2>Nos autres visites</h2><div class="cards cards-3">{''.join(tour_tile(o) for o in TOURS if o['id'] != t['id'])}</div></div></section>
 {blog.blog_block('tour', 'panorama', 'Les lieux de la visite, sur notre blog', extra=BLOG_EXTRA.get(t['id'], ()))}
@@ -575,9 +601,9 @@ def visits():
   <p>Le vélo est la meilleure façon de découvrir Nantes : le centre historique, l'île de Nantes et les bords de Loire sont reliés par des pistes cyclables, et l'on voit en deux heures ce qu'une journée à pied ne suffirait pas à couvrir.</p>
   <p>Avec l'assistance électrique, personne ne force : les grands enfants, les grands-parents et les sportifs avancent au même rythme. Le guide règle votre vélo au départ et vous montre comment l'utiliser avant de partir.</p>
   <p>Nos guides vivent à Nantes. Ils racontent l'histoire de la ville, des ducs de Bretagne aux Machines de l'île, et partagent leurs adresses préférées pour prolonger la visite.</p>
-</div><aside class="side"><div class="side-card side-body"><p class="eyebrow">Une visite privée ?</p><p>Famille, amis, collègues : nous organisons votre visite à l'horaire de votre choix.</p><a class="btn btn-ghost" href="/fr/offre-groupes-seminaires#visites">Demander une visite privée</a></div></aside></div></section>
+</div><div class="side"><div class="side-card side-body"><p class="eyebrow">Une visite privée ?</p><p>Famille, amis, collègues : nous organisons votre visite à l'horaire de votre choix.</p><a class="btn btn-ghost" href="/fr/offre-groupes-seminaires#visites">Demander une visite privée</a></div></div></div></section>
 <section class="section section-tint"><div class="wrap narrow">{faq_block(qas)}</div></section>
-{blog.blog_block('tour', 'panorama', 'Nantes à vélo, sur notre blog', extra=('les-titans', 'trentemoult', 'la-butte-saint-anne'))}
+{blog.blog_block('tour', 'panorama', 'Nantes à vélo, sur notre blog', extra=('balade-incontournable-lile-de-nantes', 'le-voyage-a-nantes-2021', 'les-titans'))}
 {cta_band('Envie de voir Nantes autrement ?', 'Départ au pied de la Tour de Bretagne.')}'''
     page('/fr/visites-guidees-nantes', T("Visite guidée de Nantes à vélo électrique dès {price} € | Bike'N Tour", price=TOUR_MIN),
          T('Visites guidées de Nantes à vélo électrique avec un guide local : {list}. 12 personnes max.', list=', '.join(f"{T(TOUR_LABEL[t['id']]) if t['id'] in TOUR_LABEL else t['name']} ({t['price']} €)" for t in TOURS)),
@@ -598,8 +624,8 @@ def groups():
 <section class="section"><div class="wrap"><h2>Nos formules</h2><div class="offers">{offers}</div>
 <p class="small muted">10 % de réduction dès 10 personnes. Vélos récents fabriqués en Europe, cadenas et kit anti-crevaison pour chaque vélo, protection casse et vol en option.</p></div></section>
 <section class="section section-tint"><div class="wrap two-col"><div class="prose">{faq_block(qas)}</div>
-<aside class="side"><div class="side-card side-body"><p class="eyebrow">Votre demande</p><p>Indiquez le nombre de participants, la date, le lieu et le type de sortie : nous revenons vers vous rapidement avec une proposition.</p>
-<a class="btn btn-primary" href="mailto:{EMAIL}?subject=Demande%20de%20devis%20groupe">{EMAIL}</a></div></aside></div></section>
+<div class="side"><div class="side-card side-body"><p class="eyebrow">Votre demande</p><p>Indiquez le nombre de participants, la date, le lieu et le type de sortie : nous revenons vers vous rapidement avec une proposition.</p>
+<a class="btn btn-primary" href="mailto:{EMAIL}?subject=Demande%20de%20devis%20groupe">{EMAIL}</a></div></div></div></section>
 {cta_band('Un projet de sortie ?', 'On le construit avec vous.')}'''
     page('/fr/offre-groupes-seminaires', 'Team building et séminaire à vélo à Nantes | Bike\'N Tour',
          T("Sorties à vélo pour groupes et entreprises à Nantes : location {location}, visites privées {visits}, team building.", location=offer_price('location'), visits=offer_price('visites')),
@@ -622,8 +648,8 @@ def about():
     <address class="addr"><strong>Bike'N Tour</strong><br>19 rue Jean Jaurès, 44000 Nantes<br>Dans l'hôtel Ibis Nantes Centre Tour Bretagne<br>Tram T3, arrêt Jean Jaurès · Parking Bretagne<br><a href="tel:{PHONE}">{PHONE_TXT}</a> · <a href="mailto:{EMAIL}">{EMAIL}</a></address>
     <p><a class="arrow-link" href="https://www.google.com/maps/search/?api=1&amp;query=Bike%27N+Tour+19+rue+Jean+Jaur%C3%A8s+Nantes">Ouvrir dans Google Maps</a></p>
   </div>
-  <aside class="side"><div class="side-card side-body"><p class="eyebrow">Horaires</p><p>D'avril à octobre, du mardi au dimanche<br>Tous les jours en juillet et août<br><strong>9 h 30 – 12 h · 14 h – 18 h 30</strong></p>
-  <p class="small">Retrait en boutique ou livraison dans le centre de Nantes. Paiement en ligne ou en boutique, carte bancaire et chèque.</p>{BOOK_BTN}</div></aside>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Horaires</p><p>D'avril à octobre, du mardi au dimanche<br>Tous les jours en juillet et août<br><strong>9 h 30 – 12 h · 14 h – 18 h 30</strong></p>
+  <p class="small">Retrait en boutique ou livraison dans le centre de Nantes. Paiement en ligne ou en boutique, carte bancaire et chèque.</p>{BOOK_BTN}</div></div>
 </div></section>
 {cta_band()}'''
     page('/fr/qui-sommes-nous-nous-contacter', 'Qui sommes-nous et contact | Bike\'N Tour Nantes',
@@ -659,9 +685,23 @@ def write_seo_files():
         p = os.path.join(os.path.dirname(__file__), f'.pages-{l}.json')
         if os.path.exists(p):
             allp += [tuple(x) for x in json.load(open(p))]
-    xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
+    lm_path = os.path.join(os.path.dirname(__file__), 'lastmod.json')
+    lm = json.load(open(lm_path)) if os.path.exists(lm_path) else {}
+    def page_file(u):
+        return os.path.join(ROOT, 'index.html' if u == '/' else (u.strip('/') + '/index.html' if os.path.isdir(os.path.join(ROOT, u.strip('/'))) and not os.path.exists(os.path.join(ROOT, u.strip('/') + '.html')) else u.strip('/') + '.html'))
+    def last(u):
+        e = lm.get(u) or lm.get(u.rstrip('/') + '/index') or lm.get('/index' if u == '/' else u)
+        return e[1] if e else TODAY
+    xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
     for u, pr, fr in allp:
-        xml.append(f'  <url>\n    <loc>{SITE}{u}</loc>\n    <lastmod>{TODAY}</lastmod>\n    <priority>{pr}</priority>')
+        xml.append(f'  <url>\n    <loc>{SITE}{u}</loc>\n    <lastmod>{last(u)}</lastmod>\n    <priority>{pr}</priority>')
+        try:  # image principale de la page (sitemap images)
+            h = open(page_file(u), encoding='utf-8').read()
+            img = re.search(r'<meta property="og:image" content="([^"]+)"', h)
+            if img:
+                xml.append(f'    <image:image><image:loc>{img.group(1)}</image:loc></image:image>')
+        except OSError:
+            pass
         alts = i18n.alternates(fr)
         if len(alts) > 1:
             for l, h in alts.items():
@@ -689,12 +729,15 @@ def write_seo_files():
          '', '## Tarifs de location']
     L += [f"- [{b['name']}]({SITE}{b['url']}) ({b['brand']}, {b['model']}) : {b['day']} €/jour, {b['weekend']} € le week-end, {b['week']} € la semaine ; caution {nb(b['deposit'])} €" for b in BIKES]
     L += ['', '## Itinéraires au départ de Nantes']
-    L += [f"- [{r['name']}]({SITE}{r['url']}) : {r['dist']}, {r['days']}, niveau {r['level'].lower()}, étapes {' → '.join(r['steps'])}" for r in ROUTES]
+    L += [f"- [{r['name']}]({SITE}{r['url']}) : {r['dist']}, {r['days']}, niveau {r['level'].lower()}, étapes {' → '.join(r['steps'])}"
+          + (f" ; à voir : {', '.join(p['nom'] for p in r.get('points') or [])}" if r.get('points') else '') for r in ROUTES]
     L += [f"- [Idées de balades à la journée]({SITE}/fr/idees-de-balades)", '', '## Visites guidées']
     L += [f"- [{t['name']}]({SITE}{t['url']}) : {t['price']} €/personne, {t['duration']}, {t['when'].lower()}" for t in TOURS]
     L += ['', '## Groupes et entreprises'] + [f"- {o['name']} : {o['price']}" for o in GROUP_OFFERS]
     L += ['', '## Blog : balades et lieux à vélo autour de Nantes', f"- [Tous les articles]({SITE}/fr/blog)"]
     L += [f"- [{p['h1']}]({SITE}{p['url']})" for p in blog.all_posts() if p['cat'] == 'balades'][:12]
+    from content import PRESS, REFS
+    L += ['', '## Ils parlent de Bike\'N Tour (sources externes)'] + [f"- {m} : [{t}]({u})" for m, t, u in PRESS + REFS]
     L += ['', '## Other languages / Andere talen / Andere Sprachen',
           f"- English: [{SITE}/en]({SITE}/en) · [bike rental prices]({SITE}{i18n.url('/fr/nos-tarifs-reservation', 'en')}) · [cycle routes from Nantes]({SITE}{i18n.url('/fr/itineraires-velo-depart-nantes', 'en')})",
           f"- Nederlands: [{SITE}/nl]({SITE}/nl) · [prijzen fietsverhuur]({SITE}{i18n.url('/fr/nos-tarifs-reservation', 'nl')}) · [fietsroutes vanuit Nantes]({SITE}{i18n.url('/fr/itineraires-velo-depart-nantes', 'nl')})",
@@ -713,6 +756,8 @@ def write_seo_files():
     for r in ROUTES:
         x = ROUTE_EXTRA[r['id']]
         F.append(f"\n### {r['name']}\n{x['intro']}\nÉtapes conseillées : " + SEMI.join(f'{a} ({t})' for a, t in x['stages']) + f"\nRetour : {x['back']}")
+        if r.get('points'):
+            F.append('Points de vue : ' + SEMI.join(f"{p['nom']} ({p.get('texte', '').rstrip('.')}, coordonnées {p['lat']}, {p['lon']})" for p in r['points']))
     F.append('\n## Balades à la journée')
     F += [f"- {b['name']} : {b['km']}, {b['time'].lower()}, niveau {b['level'].lower()}. {b['text']} {b['back']}." for b in BALADES]
     F.append('\n## Articles du blog')
@@ -744,13 +789,13 @@ def guide():
          T("Chez Bike'N Tour, la location à la journée coûte {list}. Les tarifs sont dégressifs : un vélo de voyage coûte {week} € la semaine, un vélo électrique {eweek} €.",
            list=enum([T("{price} € pour un vélo {kind}", price=b['day'], kind=kind(b) if LANG == 'fr' else low(b['name'])) for b in sorted(BIKES, key=lambda b: b['day'])]),
            week=BIKE['voyage']['week'], eweek=BIKE['electrique']['week']),
-         f'<div class="table-wrap"><table class="data"><thead><tr><th scope="col">Vélo</th><th scope="col">Modèle</th><th scope="col">1 jour</th><th scope="col">Week-end</th><th scope="col">Semaine</th><th scope="col">Caution</th></tr></thead><tbody>{bikes_rows}</tbody></table></div><p class="small muted">Tous les tarifs jour par jour : <a href="/fr/nos-tarifs-reservation">page Tarifs</a>.</p>'),
+         f'<div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><thead><tr><th scope="col">Vélo</th><th scope="col">Modèle</th><th scope="col">1 jour</th><th scope="col">Week-end</th><th scope="col">Semaine</th><th scope="col">Caution</th></tr></thead><tbody>{bikes_rows}</tbody></table></div><p class="small muted">Tous les tarifs jour par jour : <a href="/fr/nos-tarifs-reservation">page Tarifs</a>.</p>'),
         ('Quel vélo choisir pour son voyage ?',
          "Le vélo de voyage suffit pour les itinéraires plats comme la Loire à Vélo ou la Vélodyssée ; le vélo électrique est conseillé pour les longues étapes, les itinéraires vallonnés comme la Traversée bretonne et les couples aux niveaux différents ; le gravel convient aux chemins en stabilisé du Vignoble nantais et du Canal de Nantes à Brest.",
-         f'<div class="table-wrap"><table class="data"><thead><tr><th scope="col">Vélo</th><th scope="col">Pour quels voyages ?</th></tr></thead><tbody>{use_rows}</tbody></table></div>'),
+         f'<div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><thead><tr><th scope="col">Vélo</th><th scope="col">Pour quels voyages ?</th></tr></thead><tbody>{use_rows}</tbody></table></div>'),
         ('Quels itinéraires à vélo partent de Nantes ?',
          "Six véloroutes partent du centre de Nantes, de 80 km (le Vignoble nantais, en boucle) à 485 km (la Traversée bretonne jusqu'au Mont-Saint-Michel). La Loire à Vélo jusqu'à Saumur (165 km, 3 à 4 jours) est la plus simple pour un premier voyage.",
-         f'<div class="table-wrap"><table class="data"><thead><tr><th scope="col">Itinéraire</th><th scope="col">Distance</th><th scope="col">Durée conseillée</th><th scope="col">Niveau</th><th scope="col">Étapes</th></tr></thead><tbody>{route_rows}</tbody></table></div><p class="small muted">Distances calculées sur les tracés officiels France Vélo Tourisme depuis la boutique. Pour une seule journée : <a href="/fr/idees-de-balades">{len(BALADES)} idées de balades</a>.</p>'),
+         f'<div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><thead><tr><th scope="col">Itinéraire</th><th scope="col">Distance</th><th scope="col">Durée conseillée</th><th scope="col">Niveau</th><th scope="col">Étapes</th></tr></thead><tbody>{route_rows}</tbody></table></div><p class="small muted">Distances calculées sur les tracés officiels France Vélo Tourisme depuis la boutique. Pour une seule journée : <a href="/fr/idees-de-balades">{len(BALADES)} idées de balades</a>.</p>'),
         ('Que comprend la location ?',
          T("Chaque vélo est loué avec {list}. À la demande, Bike'N Tour envoie aussi par email la fiche de l'itinéraire et la trace GPX.", list=enum([i[0].lower() + i[1:] for i in INCLUDED])),
          '<p>' + T('Accessoires en option : {list}.', list=acc) + '</p>'),
@@ -774,18 +819,31 @@ def guide():
     ]
     toc = ''.join(f'<li><a href="#q{i + 1}">{esc(q)}</a></li>' for i, (q, _, _) in enumerate(qa))
     secs = ''.join(f'<section class="guide-q" id="q{i + 1}"><h2>{esc(q)}</h2><p class="answer">{a}</p>{more}</section>' for i, (q, a, more) in enumerate(qa))
+    # « Louer un vélo en 4 étapes » : contenu visible + balisage HowTo (procédure reprise par Google et les assistants IA)
+    st = [(T("Choisissez votre vélo et vos dates"), T("Réservez en ligne en quelques minutes, par téléphone ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ.")),
+          (T("Récupérez votre vélo"), T("À la boutique, 19 rue Jean Jaurès à Nantes (tram T3, arrêt Jean Jaurès), ou livré à votre hébergement dans la métropole nantaise pour 10 €. Le vélo est réglé à votre taille.")),
+          (T("Partez avec votre itinéraire"), T("Nous vous envoyons la fiche de l'itinéraire et la trace GPX, avec nos conseils d'étapes et nos bonnes adresses.")),
+          (T("Rendez le vélo"), T("À la boutique aux horaires d'ouverture, ou à l'arrivée de votre voyage avec l'option aller simple (sur devis)."))]
+    howto_title = T("Louer un vélo chez Bike'N Tour en 4 étapes")
+    howto_html = (f'<section class="guide-q" id="etapes"><h2>{esc(howto_title)}</h2><ol class="stages">'
+                  + ''.join(f'<li><span class="st-num">{i + 1}</span><div><h3>{esc(n)}</h3><p>{esc(t)}</p></div></li>' for i, (n, t) in enumerate(st))
+                  + '</ol></section>')
+    secs = secs.replace('</section>', '</section>' + howto_html, 1)  # juste après « Où louer un vélo à Nantes ? »
+    howto_ld = {"@type": "HowTo", "@id": SITE + GUIDE + '#etapes', "name": howto_title, "inLanguage": LANG,
+                "step": [{"@type": "HowToStep", "position": i + 1, "name": n, "text": t, "url": SITE + GUIDE + '#etapes'} for i, (n, t) in enumerate(st)]}
     body = f"""
 <section class="phero phero-slim"><div class="wrap"><p class="eyebrow">Le guide</p><h1>Louer un vélo à Nantes&nbsp;: le guide complet</h1>
 <p class="lead">Prix, choix du vélo, itinéraires au départ de Nantes, aller simple, livraison, caution : tout ce qu'il faut savoir avant de louer un vélo pour une balade ou un voyage, par l'équipe de Bike'N Tour.</p></div></section>
 <section class="section"><div class="wrap two-col">
   <div class="prose guide">{secs}</div>
-  <aside class="side"><nav class="side-card side-body" aria-label="Sommaire du guide"><p class="eyebrow">Sommaire</p><ol class="toc">{toc}</ol>{BOOK_BTN}</nav></aside>
+  <div class="side"><nav class="side-card side-body" aria-label="Sommaire du guide"><p class="eyebrow">Sommaire</p><ol class="toc">{toc}</ol>{BOOK_BTN}</nav></div>
 </div></section>
+{blog.blog_block('hub', None, 'Pour aller plus loin', tint=True, extra=('balade-incontournable-le-voyage-a-velo', 'pourquoi-tester-un-velo', 'le-top-5'))}
 {cta_band()}"""
     page(GUIDE, "Louer un vélo à Nantes : prix et conseils | Bike'N Tour",
          T('Guide pour louer un vélo à Nantes : prix de {min} à {max} € la journée, quel vélo choisir, 6 itinéraires au départ de Nantes, aller simple, livraison, caution.', min=MIN_DAY, max=MAX_DAY),
          [CRUMB_HOME, ('Guide de la location', None)], body,
-         [faq_ld([(q, a) for q, a, _ in qa])], img='v2-depart-boutique.webp', priority='0.9',
+         [faq_ld([(q, a) for q, a, _ in qa]), howto_ld], img='v2-depart-boutique.webp', priority='0.9',
          brief=T("Pour louer un vélo à Nantes et partir en voyage, Bike'N Tour (19 rue Jean Jaurès, centre-ville) loue {list} la journée, avec livraison à 10 €, aller simple sur devis et annulation gratuite jusqu'à 48 h. Six véloroutes partent de la boutique, dont la Loire à Vélo (165 km jusqu'à Saumur).",
                  list=enum([T("des {bikes} dès {price} €", bikes=PLURAL[b['id']] if LANG == 'fr' else low(b['name']), price=b['day']) for b in BIKES])))
 
@@ -806,7 +864,7 @@ def cookies():
   <p>Vous pouvez accepter ou refuser la mesure d'audience, et changer d'avis à tout moment. Votre choix est conservé 6 mois, puis nous vous le redemandons.</p>
   <p><button type="button" class="btn btn-primary" data-cc-open>Gérer mes cookies</button></p>
   <h2>Les cookies utilisés sur ce site</h2>
-  <div class="table-wrap"><table class="data"><thead><tr><th scope="col">Nom</th><th scope="col">Éditeur</th><th scope="col">Finalité</th><th scope="col">Durée</th><th scope="col">Statut</th></tr></thead><tbody>{trs}</tbody></table></div>
+  <div class="table-wrap" tabindex="0" role="region" aria-label="Tableau"><table class="data"><thead><tr><th scope="col">Nom</th><th scope="col">Éditeur</th><th scope="col">Finalité</th><th scope="col">Durée</th><th scope="col">Statut</th></tr></thead><tbody>{trs}</tbody></table></div>
   <h2>Réservation en ligne</h2>
   <p>Le bouton « Réserver mes vélos » ouvre le site de réservation de notre partenaire Lokki, qui applique sa propre politique de cookies.</p>
   <h2>Vos droits</h2>

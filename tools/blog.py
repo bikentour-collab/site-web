@@ -5,6 +5,7 @@ import yaml, markdown
 from PIL import Image
 import pages
 from pages import page, esc, cta_band, lvl, BOOK_BTN, CRUMB_HOME, ROUTE, BIZ, SITE
+from i18n import T
 from content import BIKES, TOURS
 
 BLOGDIR = os.path.join(pages.ROOT, 'content', 'blog')
@@ -39,6 +40,51 @@ def cta_target(slug, lien='auto'):
     return 'tour', 'panorama'
 
 
+# Textes des articles traduits (le reste de la page passe par le catalogue i18n)
+L10N = {
+    'en': {'cat': {'balades': 'Bike rides', 'nantes': 'Things to see in Nantes', 'conseils': 'Cycling tips'},
+           'upd': 'Updated', 'pub': 'Published', 'sign': "by the Bike'N Tour team, bike hire at 19 rue Jean Jaurès in Nantes.",
+           'also': 'Also on our blog', 'band': ('Fancy riding there?', 'We get your bike ready in Nantes.'), 'block': 'From our blog'},
+    'nl': {'cat': {'balades': 'Fietstochten', 'nantes': 'Bezienswaardigheden in Nantes', 'conseils': 'Fietstips'},
+           'upd': 'Bijgewerkt op', 'pub': 'Gepubliceerd op', 'sign': "door het team van Bike'N Tour, fietsverhuur aan de rue Jean Jaurès 19 in Nantes.",
+           'also': 'Ook op onze blog', 'band': ('Zin om erheen te fietsen?', 'Wij zetten uw fiets klaar in Nantes.'), 'block': 'Van onze blog'},
+    'de': {'cat': {'balades': 'Radtouren', 'nantes': 'Sehenswertes in Nantes', 'conseils': 'Tipps zum Radreisen'},
+           'upd': 'Aktualisiert am', 'pub': 'Veröffentlicht am', 'sign': "vom Team von Bike'N Tour, Fahrradverleih in der Rue Jean Jaurès 19 in Nantes.",
+           'also': 'Mehr aus unserem Blog', 'band': ('Lust, mit dem Rad hinzufahren?', 'Wir machen Ihr Rad in Nantes startklar.'), 'block': 'Aus unserem Blog'},
+}
+
+
+def lang_posts(lang=None):
+    """Articles traduits dans une langue : l'article français, avec titre, résumé et texte traduits."""
+    lang = lang or pages.LANG
+    d = os.path.join(BLOGDIR, lang)
+    if lang == 'fr' or not os.path.isdir(d):
+        return []
+    fr = {p['slug']: p for p in all_posts()}
+    out = []
+    for f in sorted(os.listdir(d)):
+        if not f.endswith('.md') or f[:-3] not in fr:
+            continue
+        fm, text = read_md(os.path.join(d, f))
+        if not fm.get('url') or not fm.get('titre'):
+            continue
+        body = md_html(text)
+        resume = str(fm.get('resume') or '')
+        p = dict(fr[f[:-3]], h1=str(fm['titre']), body_html=body, meta=trunc(resume), lead=trunc(resume, 400), lang=lang,
+                 words=len(re.sub(r'<[^>]+>', ' ', body).split()), catname=L10N[lang]['cat'][fr[f[:-3]]['cat']])
+        out.append(p)
+    return out
+
+
+def build_lang():
+    """Pages des articles traduits (anglais, néerlandais, allemand)."""
+    import i18n
+    lp = lang_posts()
+    for p in lp:
+        post_page(p, lp, date_fn=lambda d: i18n.date(d, p['lang']))
+    return lp
+
+
 def fr_date(d):
     return f'{d.day} {MOIS[d.month - 1]} {d.year}'
 
@@ -56,7 +102,10 @@ def seo_title(h1):
     h1 = h1.replace('’', "'")
     short = h1.split(' : ', 1)[1] if ' : ' in h1 else h1  # « Balade incontournable à vélo : X » -> « X »
     short = short[0].upper() + short[1:]
-    for t in (f"{h1} | Bike'N Tour", f'{h1} | Blog vélo Nantes', f"{short} | Bike'N Tour", f"{short} à vélo | Blog Nantes", short):
+    generic = h1.lower().startswith(('balade incontournable', 'le blog'))  # préfixe sans valeur : on peut le couper
+    cands = [f"{h1} | Bike'N Tour", f'{h1} | Blog vélo Nantes']
+    cands += ([f"{short} | Bike'N Tour", f"{short} à vélo | Blog Nantes", short, h1] if generic else [h1, f"{short} | Bike'N Tour", short])
+    for t in cands:
         if len(t) <= 62:
             return t
     return h1[:60].rsplit(' ', 1)[0] + '…'
@@ -83,7 +132,10 @@ def figure(tag):
     return f'<figure class="post-fig"><img src="{src}" alt="{alt}" width="{w}" height="{h}" loading="lazy" decoding="async"></figure>'
 
 
-FACT_LABELS = {'distance', 'durée', 'niveau', 'dénivelé', 'départ', 'arrivée', 'retour', 'boucle', 'accès'}
+FACT_LABELS = {'distance', 'durée', 'niveau', 'dénivelé', 'départ', 'arrivée', 'retour', 'boucle', 'accès',
+               'duration', 'level', 'elevation', 'start', 'finish', 'return', 'loop', 'access',  # en
+               'afstand', 'duur', 'hoogteverschil', 'aankomst', 'terug', 'lus', 'toegang',  # nl
+               'strecke', 'dauer', 'höhenmeter', 'ziel', 'rückfahrt', 'rundtour', 'anfahrt'}  # de
 
 
 def md_html(text):
@@ -102,7 +154,9 @@ def md_html(text):
             k -= 1
         if len(items) - k < 2:
             return m.group(0)
-        dl = '<dl class="post-facts">' + ''.join('<div><dt>{}</dt><dd>{}</dd></div>'.format(*fact(li)) for li in items[k:]) + '</dl>'
+        fs = [fact(li) for li in items[k:]]
+        rows = ' post-facts-rows' if max(len(re.sub(r'<[^>]+>', '', v)) for _, v in fs) > 28 else ''  # valeurs longues : une ligne par info
+        dl = f'<dl class="post-facts{rows}">' + ''.join('<div><dt>{}</dt><dd>{}</dd></div>'.format(*f) for f in fs) + '</dl>'
         return ('<ul>' + ''.join(f'<li>{li}</li>' for li in items[:k]) + '</ul>' if k else '') + dl
     h = re.sub(r'<ul>(.*?)</ul>', facts, h, flags=re.S)
     h = re.sub(r'<a href="(https?://(?!www\.bikentour\.com)[^"]+)"', r'<a href="\1" rel="noopener"', h)
@@ -130,15 +184,38 @@ def prepare():
             d = d.date()
         elif isinstance(d, str):
             d = datetime.date.fromisoformat(d[:10])
+        m = fm.get('mise_a_jour')
+        if isinstance(m, datetime.datetime):
+            m = m.date()
+        elif isinstance(m, str) and m.strip():
+            m = datetime.date.fromisoformat(m.strip()[:10])
+        if not isinstance(m, datetime.date) or m <= d:
+            m = None
         body = md_html(text)
         resume = str(fm.get('resume') or re.sub(r'<[^>]+>', ' ', body))
         cat = fm.get('categorie') if fm.get('categorie') in CATNAME else 'balades'
         hero = local_img(fm.get('image') or '/assets/img/v2-bord-de-loire.webp')
-        posts.append(dict(slug=slug, h1=str(fm.get('titre') or slug), d=d, body_html=body, hero=hero, cat=cat,
+        posts.append(dict(slug=slug, h1=str(fm.get('titre') or slug), d=d, maj=m, body_html=body, hero=hero, cat=cat,
                           cta=cta_target(slug, fm.get('lien', 'auto')), url='/post/' + slug, meta=trunc(resume), lead=trunc(resume, 400),
                           words=len(re.sub(r'<[^>]+>', ' ', body).split())))
     posts.sort(key=lambda x: x['d'], reverse=True)
     return posts
+
+
+def rss(posts):
+    """Flux RSS du blog (/fr/blog.xml) : découverte des nouveaux articles par les agrégateurs et les moteurs."""
+    from email.utils import format_datetime
+    from xml.sax.saxutils import escape as x
+    items = ''.join(
+        f'<item><title>{x(p["h1"])}</title><link>{SITE}{p["url"]}</link><guid isPermaLink="true">{SITE}{p["url"]}</guid>'
+        f'<pubDate>{format_datetime(datetime.datetime.combine(p["d"], datetime.time(9), datetime.timezone.utc))}</pubDate>'
+        f'<category>{x(CATNAME[p["cat"]])}</category><description>{x(p["meta"])}</description>'
+        f'<enclosure url="{SITE}/assets/img/{p["hero"]}" type="image/webp" length="0"/></item>' for p in posts[:50])
+    xml = ('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
+           f'<title>Le blog de Bike\'N Tour</title><link>{SITE}{BLOG}</link><language>fr</language>'
+           f'<description>Balades à vélo, lieux à voir et conseils de voyage à vélo au départ de Nantes.</description>'
+           f'<atom:link href="{SITE}/fr/blog.xml" rel="self" type="application/rss+xml"/>{items}</channel></rss>\n')
+    open(os.path.join(pages.ROOT, 'fr', 'blog.xml'), 'w', encoding='utf-8').write(xml)
 
 
 def build():
@@ -146,13 +223,14 @@ def build():
     for p in posts:
         post_page(p, posts)
     index(posts)
+    rss(posts)
     return posts
 
 
 def card(p, heading='h3'):
     w, h = size(p['hero'])
     return (f'<a class="post" href="{p["url"]}"><img src="/assets/img/{p["hero"]}" alt="" width="{w}" height="{h}" loading="lazy" decoding="async">'
-            f'<span class="post-tag">{esc(CATNAME[p["cat"]])}</span><{heading} class="post-title">{esc(p["h1"])}</{heading}>'
+            f'<span class="post-tag">{esc(p.get("catname") or CATNAME[p["cat"]])}</span><{heading} class="post-title">{esc(p["h1"])}</{heading}>'
             f'<span class="post-meta">{esc(p["meta"][:110].rsplit(" ", 1)[0])}…</span></a>')
 
 
@@ -167,12 +245,12 @@ def cta_card(kind, ident):
         b = BIKE[ident]
         return (f'<div class="side-card"><img src="/assets/img/{b["img"]}" alt="" width="{b["iw"]}" height="{b["ih"]}" loading="lazy" decoding="async">'
                 f'<div class="side-body"><p class="eyebrow">À louer à Nantes</p><p class="side-title"><a href="{b["url"]}">{esc(b["name"])}</a></p>'
-                f'<p class="small">Dès {b["day"]} € / jour, {b["week"]} € la semaine.</p><a class="btn btn-ghost" href="{b["url"]}">Voir le vélo</a> {BOOK_BTN}</div></div>')
+                f'<p class="small">{T("Dès {day} € / jour, {week} € la semaine.", day=b["day"], week=b["week"])}</p><a class="btn btn-ghost" href="{b["url"]}">Voir le vélo</a> {BOOK_BTN}</div></div>')
     if kind == 'tour':
         t = TOUR[ident]
         return (f'<div class="side-card"><img src="/assets/img/{t["img"]}" alt="" width="{t["iw"]}" height="{t["ih"]}" loading="lazy" decoding="async">'
                 f'<div class="side-body"><p class="eyebrow">Visite guidée à vélo électrique</p><p class="side-title"><a href="{t["url"]}">{esc(t["name"])}</a></p>'
-                f'<p class="small">{t["duration"]} · {t["price"]} € par personne · {esc(t["when"])}</p><a class="btn btn-primary" href="{t["url"]}">Découvrir la visite</a></div></div>')
+                f'<p class="small">{t["duration"]} · {T("{price} € par personne", price=t["price"])} · {esc(t["when"])}</p><a class="btn btn-primary" href="{t["url"]}">Découvrir la visite</a></div></div>')
     return (f'<div class="side-card side-body"><p class="eyebrow">Partir à vélo depuis Nantes</p><p>Six véloroutes partent de notre boutique, en plein centre de Nantes : on vous prépare le vélo, les sacoches et la trace GPX.</p>'
             f'<a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes">Les itinéraires</a> {BOOK_BTN}</div>')
 
@@ -183,15 +261,36 @@ def related(p, posts, n=3):
     return sorted((o for o in posts if o is not p), key=lambda o: (-score(o), -o['d'].toordinal()))[:n]
 
 
-def post_page(p, posts):
+def post_page(p, posts, date_fn=None):
     w, h = size(p['hero'])
     # la couverture n'est pas répétée dans le corps de l'article
     p['body_html'] = re.sub(r'<figure class="post-fig"><img src="/assets/img/' + re.escape(p['hero']) + r'"[^>]*></figure>', '', p['body_html'], count=1)
     rel = related(p, posts)
+    lang = p.get('lang', 'fr')
+    L = L10N.get(lang)
+    dt = date_fn or fr_date
+    if L:  # article traduit
+        when = (f'{L["upd"]} <time datetime="{p["maj"].isoformat()}">{dt(p["maj"])}</time>' if p['maj']
+                else f'<time datetime="{p["d"].isoformat()}">{dt(p["d"])}</time>')
+        eyebrow = f'{esc(p["catname"])} · {when}'
+        sign = f'{L["pub"]} {dt(p["d"])} {L["sign"]}'
+        more = f'<section class="section section-tint"><div class="wrap"><h2>{L["also"]}</h2><div class="posts">{"".join(card(o) for o in rel)}</div></div></section>' if rel else ''
+        band = cta_band(*L['band'])
+    else:
+        when = (f'Mis à jour le <time datetime="{p["maj"].isoformat()}">{fr_date(p["maj"])}</time>' if p['maj']
+                else f'<time datetime="{p["d"].isoformat()}">{fr_date(p["d"])}</time>')
+        eyebrow = f'<a href="{BLOG}#{p["cat"]}">{esc(CATNAME[p["cat"]])}</a> · {when}'
+        sign = f"Article publié le {fr_date(p['d'])}" + (f", mis à jour le {fr_date(p['maj'])}" if p['maj'] else '') + " par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes."
+        more = f'''<section class="section section-tint"><div class="wrap">
+  <h2>À lire aussi</h2>
+  <div class="posts">{''.join(card(o) for o in rel)}</div>
+  <p class="more"><a class="arrow-link" href="{BLOG}">Tous les articles du blog</a></p>
+</div></section>'''
+        band = cta_band('Envie d\'y aller à vélo ?', 'On vous prépare le vélo au départ de Nantes.')
     body = f'''
 <article class="article">
   <header class="wrap article-head">
-    <p class="eyebrow"><a href="{BLOG}#{p['cat']}">{esc(CATNAME[p['cat']])}</a> · <time datetime="{p['d'].isoformat()}">{fr_date(p['d'])}</time></p>
+    <p class="eyebrow">{eyebrow}</p>
     <h1>{esc(p['h1'])}</h1>
     <p class="lead">{esc(p['lead'])}</p>
   </header>
@@ -199,22 +298,28 @@ def post_page(p, posts):
   <div class="wrap two-col">
     <div class="prose article-body">
 {p['body_html']}
-      <p class="article-sign small muted">Article publié le {fr_date(p['d'])} par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.</p>
+      <p class="article-sign small muted">{sign}</p>
     </div>
-    <aside class="side">{cta_card(*p['cta'])}</aside>
+    <div class="side">{cta_card(*p['cta'])}</div>
   </div>
 </article>
-<section class="section section-tint"><div class="wrap">
-  <h2>À lire aussi</h2>
-  <div class="posts">{''.join(card(o) for o in rel)}</div>
-  <p class="more"><a class="arrow-link" href="{BLOG}">Tous les articles du blog</a></p>
-</div></section>
-{cta_band('Envie d\'y aller à vélo ?', 'On vous prépare le vélo au départ de Nantes.')}'''
+{more}
+{band}'''
     art = {"@type": "BlogPosting", "@id": SITE + p['url'] + '#article', "headline": p['h1'], "description": p['meta'],
-           "datePublished": p['d'].isoformat(), "inLanguage": "fr", "image": f"{SITE}/assets/img/{p['hero']}",
+           "datePublished": p['d'].isoformat(), "dateModified": (p['maj'] or p['d']).isoformat(), "inLanguage": lang, "image": f"{SITE}/assets/img/{p['hero']}",
            "wordCount": p['words'], "articleSection": CATNAME[p['cat']],
            "author": {"@type": "Organization", "@id": BIZ, "name": "Bike'N Tour"}, "publisher": {"@id": BIZ},
-           "mainEntityOfPage": {"@id": SITE + p['url'] + '#webpage'}, "isPartOf": {"@id": SITE + BLOG + '#blog'}}
+           "mainEntityOfPage": {"@id": SITE + p['url'] + '#webpage'}}
+    if L:
+        import i18n
+        own = i18n.url(p['url'])
+        art.update({"@id": SITE + own + '#article', "mainEntityOfPage": {"@id": SITE + own + '#webpage'}, "articleSection": p['catname'],
+                    "translationOfWork": {"@id": SITE + p['url'] + '#article'}})
+        t = f"{p['h1']} | Bike'N Tour"
+        page(p['url'], t if len(t) <= 62 else p['h1'], p['meta'], [CRUMB_HOME, (p['h1'], None)], body, [art],
+             img=p['hero'], priority='0.5', og_type='article')
+        return
+    art["isPartOf"] = {"@id": SITE + BLOG + '#blog'}
     page(p['url'], seo_title(p['h1']), p['meta'], [CRUMB_HOME, ('Blog', BLOG), (p['h1'], None)], body, [art],
          img=p['hero'], priority='0.5', og_type='article')
 
@@ -257,8 +362,15 @@ def by_slug(part):
 
 def blog_block(kind, ident=None, title='Sur le blog', n=3, tint=False, extra=()):
     """Section « Sur le blog » : articles liés à un itinéraire, un vélo ou une visite (articles en français uniquement)."""
-    if pages.LANG != 'fr' or os.environ.get('NO_BLOG'):
+    if os.environ.get('NO_BLOG'):
         return ''
+    if pages.LANG != 'fr':
+        lp = lang_posts()
+        if not lp:
+            return ''
+        lp.sort(key=lambda p: (p['cta'] != (kind, ident), p['slug']))
+        return (f'<section class="section{" section-tint" if tint else ""}"><div class="wrap"><h2>{L10N[pages.LANG]["block"]}</h2>'
+                f'<div class="posts">{"".join(card(p) for p in lp[:n])}</div></div></section>')
     lst = [p for p in all_posts() if p['cta'] == (kind, ident)]
     first = [by_slug(s) for s in extra if by_slug(s)]
     lst = first + [p for p in lst if p not in first]

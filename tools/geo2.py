@@ -175,10 +175,10 @@ towns = [
     ('Guérande', -2.428, 47.328, '', 'w'),
 ]
 
-parts = [f'<svg class="map-svg" data-extent="0 0 {W} {H:.1f}" viewBox="0 0 {W} {H:.1f}" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="map-title map-desc">',
+parts = [f'<svg class="map-svg" data-extent="0 0 {W} {H:.1f}" viewBox="0 0 {W} {H:.1f}" preserveAspectRatio="xMidYMid meet" role="group" aria-labelledby="map-title" aria-describedby="map-desc">',
          '<title id="map-title">Carte des itinéraires à vélo au départ de Nantes</title>',
          "<desc id=\"map-desc\">Six véloroutes partent de Nantes : la Loire à Vélo vers Angers et Saumur, la Vélodyssée vers Pornic et Les Sables-d'Olonne, la Régalante et la Traversée bretonne vers le Mont-Saint-Michel, le Canal de Nantes à Brest et le Vignoble nantais vers Clisson.</desc>",
-         f'<image class="basemap" href="/assets/img/carte-ouest.webp" x="0" y="0" width="{W}" height="{H:.1f}" preserveAspectRatio="none"/>']
+         f'<image class="basemap" data-src="/assets/img/carte-ouest-2048.webp" data-hd="/assets/img/carte-ouest.webp" x="0" y="0" width="{W}" height="{H:.1f}" preserveAspectRatio="none"/>']
 lbl = [('Océan Atlantique', -3.9, 46.75, 'sea-label'), ('Manche', -3.3, 49.12, 'sea-label'), ('la Loire', -0.95, 47.335, 'river-label'),
        ('BRETAGNE', -3.0, 48.25, 'region-label'), ('PAYS DE LA LOIRE', -0.75, 47.75, 'region-label'), ('NORMANDIE', -0.70, 48.85, 'region-label'), ('VENDÉE', -1.35, 46.62, 'region-label')]
 for t, lo, la, c in lbl:

@@ -30,6 +30,26 @@ PAGE_KEYS = _U['pages']          # clé -> adresse française
 URLS = _U['urls']                # adresse française -> {langue: adresse}
 
 
+def _blog_urls():
+    """Articles du blog traduits : content/blog/<langue>/<slug>.md (clé « url » de l'en-tête)."""
+    import yaml
+    base = os.path.join(os.path.dirname(TOOLS), 'content', 'blog')
+    for lang in ('en', 'nl', 'de'):
+        d = os.path.join(base, lang)
+        if not os.path.isdir(d):
+            continue
+        for f in os.listdir(d):
+            if not f.endswith('.md') or not os.path.exists(os.path.join(base, f)):
+                continue
+            m = re.match(r'^---\s*\n(.*?)\n---', open(os.path.join(d, f), encoding='utf-8').read(), re.S)
+            u = m and (yaml.safe_load(m.group(1)) or {}).get('url')
+            if u and re.fullmatch(r'/' + lang + r'/blog/[a-z0-9-]+', u):
+                URLS.setdefault('/post/' + f[:-3], {})[lang] = u
+
+
+_blog_urls()
+
+
 def _load_cat(lang):
     p = os.path.join(TOOLS, 'i18n', f'{lang}.json')
     return json.load(open(p, encoding='utf-8')) if lang != 'fr' and os.path.exists(p) else {'html': {}, 't': {}}
@@ -55,7 +75,7 @@ def T(key, **kw):
         out = tpl.format(**kw) if kw else tpl
     except (KeyError, IndexError, ValueError):
         out = key.format(**kw) if kw else key
-    if RECORD is not None and kw:
+    if RECORD is not None:
         _outputs.add(norm(out))
     return out
 
@@ -200,7 +220,7 @@ def segments(s):
     return out
 
 
-ATTRS = re.compile(r'(\s(?:alt|title|aria-label|placeholder|data-subject|data-body|data-msg)=")([^"]*)(")')
+ATTRS = re.compile(r'(\s(?:alt|title|aria-label|placeholder|data-subject|data-body|data-msg|data-ok)=")([^"]*)(")')
 META = re.compile(r'(<meta (?:name|property)="(?:description|og:title|og:description|og:image:alt|twitter:title|twitter:description)" content=")([^"]*)(")')
 JSONLD = re.compile(r'(<script type="application/ld\+json">)(.*?)(</script>)', re.S)
 HREF = re.compile(r'((?:href|data-href)=")((?:https://www\.bikentour\.com)?/[^"#?]*)([#?][^"]*)?(")')
@@ -264,6 +284,7 @@ def localize_html(s, lang=None):
     # 5. langue du document
     s = s.replace('<html lang="fr">', f'<html lang="{lang}">', 1)
     s = s.replace('<meta property="og:locale" content="fr_FR">', f'<meta property="og:locale" content="{LOCALE[lang]}">')
+    s = s.replace('/assets/img/og-accueil.jpg', f'/assets/img/og-accueil-{lang}.jpg')  # image de partage avec le texte dans la langue
     return s
 
 
