@@ -16,7 +16,7 @@ Sechs große Radfernwege starten an unserem Laden mitten in Nantes: La Loire à 
 
 **Kurz gesagt.** Sechs große Radrouten starten am Laden von Bike'N Tour, 19 rue Jean Jaurès im Zentrum von Nantes: La Loire à Vélo (165 km, 3 bis 4 Tage, Schwierigkeit leicht); La Vélodyssée (240 km, 4 bis 5 Tage, Schwierigkeit leicht); La Régalante (275 km, 9 Etappen, Schwierigkeit leicht); Die Bretagne-Durchquerung (485 km, 8 bis 10 Tage, Schwierigkeit mittel); Der Kanal von Nantes nach Brest (360 km, 6 bis 8 Tage, Schwierigkeit leicht); Die Weinberge von Nantes (80 km, 2 Tage, Schwierigkeit leicht). Für die erste Radreise oder mit der Familie ist die Loire à Vélo am einfachsten: flach, sehr gut ausgeschildert und für die Rückfahrt gut mit dem Zug erreichbar.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Die 6 Radrouten auf einen Blick
 
@@ -59,3 +59,19 @@ Bei jeder Route inklusive
 - Unsere Lieblingsadressen
 
 [Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+
+## Aus unserem Blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Tipps zum Radreisen
+
+### Erste Radreise ab Nantes: gut vorbereitet
+
+Ihre erste Radreise ab Nantes vorbereiten: Route wählen, Etappen planen, packen und mit dem Zug…](https://www.bikentour.com/de/blog/erste-radreise-ab-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Radtouren
+
+### Radtouren ab Nantes: unsere Top 5
+
+Unsere 5 Lieblingsradtouren ab Nantes, von 10 bis 46 km: Sèvre nantaise, Erdre, Loire-Mündung, Île de Nantes…](https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Radtouren
+
+### Sèvre nantaise mit dem Rad: von Nantes nach Clisson
+
+Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch die Weinberge des Muscadet,…](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)

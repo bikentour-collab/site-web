@@ -20,7 +20,7 @@ Einfache Preise mit Staffelrabatt, Schloss, Pannenset und Beleuchtung inklusive.
 
 **Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 19 rue Jean Jaurès in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche; Lastenrad: 50 € pro Tag, 200 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Lieferung im Großraum Nantes 10 €, Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Location de vélos
 

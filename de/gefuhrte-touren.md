@@ -16,7 +16,7 @@ Vom Hafen geprägt, hat Nantes tausend Geschichten zu erzählen. Unsere lokalen 
 
 **Kurz gesagt.** Bike'N Tour bietet drei geführte E-Bike-Touren durch Nantes an, mit lokalem Guide und max. 12 Personen: Nantes Bike Tour: das Panorama von Nantes (2,5 Std., 44 € pro Person); Wine & Bike Tour in Nantes (3,5 Std., 65 € pro Person); Tour „Urbane Kultur“ mit dem E-Bike (2,5 Std., 45 € pro Person). E-Bike und Helm inklusive, Strecke zu 100 % auf Radwegen, kostenlose Stornierung bis 48 Std. vorher.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Wählen Sie Ihre Tour
 
@@ -53,3 +53,19 @@ Je nach Tour 44 € bis 65 € pro Person, E-Bike, Helm und Guide inklusive.
 ### Sind die Touren für Familien geeignet?
 
 Ja: Die Strecke verläuft zu 100 % auf Radwegen, und die E-Bikes gleichen Unterschiede in der Fitness aus.
+
+## Aus unserem Blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Radtouren
+
+### Île de Nantes mit dem Rad: 10,5 km Rundtour
+
+Umrunden Sie die Île de Nantes mit dem Rad: eine flache Rundtour von 10,5 km, von den Machines de l'île über…](https://www.bikentour.com/de/blog/ile-de-nantes-mit-dem-rad)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Radtouren
+
+### Sèvre nantaise mit dem Rad: von Nantes nach Clisson
+
+Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch die Weinberge des Muscadet,…](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Radtouren
+
+### Loire-Mündung mit dem Rad: Nantes – Saint-Brevin
+
+Von Nantes nach Saint-Brevin-les-Pins, rund 63 km mit dem Rad entlang der Mündung, vom Canal de la Martinière…](https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin)

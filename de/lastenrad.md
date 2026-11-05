@@ -22,7 +22,7 @@ Ab **50 €** pro Tag
 
 **Kurz gesagt.** Bike'N Tour vermietet in Nantes das Modell Babboe Mini Mountain (elektrisch) (Lastenrad): 50 € pro Tag, 95 € pro Wochenende und 200 € pro Woche, Staffelpreise, Kaution 1.000 €. Schloss, Pannenset, Pumpe und Beleuchtung sind inklusive, und das Rad wird auf Ihre Größe eingestellt. Empfohlen für La Loire à Vélo. Abholung in der 19 rue Jean Jaurès in Nantes oder Lieferung an Ihre Unterkunft (10 €).
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Technische Daten
 
@@ -82,3 +82,19 @@ Oder telefonisch unter [06 52 62 94 64](tel:+33652629464)
 Leicht165 km · 3 bis 4 Tage**La Loire à Vélo**Nach Angers und Saumur](https://www.bikentour.com/de/reiseideen/loire-radweg)
 
 [Alle Räder vergleichen](https://www.bikentour.com/de/fahrrader)
+
+## Aus unserem Blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Radtouren
+
+### Sèvre nantaise mit dem Rad: von Nantes nach Clisson
+
+Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch die Weinberge des Muscadet,…](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Radtouren
+
+### Loire-Mündung mit dem Rad: Nantes – Saint-Brevin
+
+Von Nantes nach Saint-Brevin-les-Pins, rund 63 km mit dem Rad entlang der Mündung, vom Canal de la Martinière…](https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Tipps zum Radreisen
+
+### Erste Radreise ab Nantes: gut vorbereitet
+
+Ihre erste Radreise ab Nantes vorbereiten: Route wählen, Etappen planen, packen und mit dem Zug…](https://www.bikentour.com/de/blog/erste-radreise-ab-nantes)

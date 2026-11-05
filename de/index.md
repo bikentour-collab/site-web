@@ -33,7 +33,7 @@ Ein Wochenende
 
 Alle 6 Routen ansehen
 
-Start: unser Laden Ziel
+Start: unser Laden Ziel Sehenswürdigkeit
 
 - **La Loire à Vélo**Nach Angers und SaumurLeicht**165 km**3 bis 4 Tage
 - **La Vélodyssée**Zum Atlantik und in die VendéeLeicht**240 km**4 bis 5 Tage
@@ -331,7 +331,7 @@ Verifizierte Bewertungen
 ## Das sagen unsere Gäste
 
 [![Google-Bewertungen](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 161 Bewertungen](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
-[![Tripadvisor-Bewertungen](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** 5★-Bewertungen](https://www.tripadvisor.fr/)
+[![Tripadvisor-Bewertungen](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** 5★-Bewertungen](https://www.tripadvisor.fr/Search?q=Bike%27N%20Tour%20Nantes)
 
 > „Eine wunderbare Radreise entlang der Régalante bis zum Mont-Saint-Michel mit super Ausrüstung. Sehr netter Empfang, nagelneues Rad!“
 >
@@ -378,6 +378,8 @@ Sprachen
 Kontakt
 :   [06 52 62 94 64](tel:+33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
+[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+
 Häufige Fragen
 
 ## Fahrrad mieten in Nantes: Ihre Fragen
@@ -418,6 +420,6 @@ Reisetagebuch
 
 [Zum Blog](https://www.bikentour.com/fr/blog)
 
-[![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)Ausflüge**Die Top 5 der schönsten Radausflüge rund um Nantes**Ideen für Tagesausflüge](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
-[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Weinberge**Ein Muss: die Sèvre nantaise mit dem Rad**Von Nantes nach Clisson](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)
-[![](https://www.bikentour.com/assets/img/photo-sacoches.webp)Tipps**Radreisen ab Nantes**Ihre Radreise vorbereiten](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
+[![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)Ausflüge**Die Top 5 der schönsten Radausflüge rund um Nantes**Ideen für Tagesausflüge](https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5)
+[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Weinberge**Ein Muss: die Sèvre nantaise mit dem Rad**Von Nantes nach Clisson](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)
+[![](https://www.bikentour.com/assets/img/photo-sacoches.webp)Tipps**Radreisen ab Nantes**Ihre Radreise vorbereiten](https://www.bikentour.com/de/blog/erste-radreise-ab-nantes)

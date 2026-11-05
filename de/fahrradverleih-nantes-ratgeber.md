@@ -12,11 +12,34 @@ Preise, Radwahl, Routen ab Nantes, Einweg-Miete, Lieferung, Kaution: alles, was 
 
 **Kurz gesagt.** Um in Nantes ein Fahrrad für eine Radreise zu mieten: Bike'N Tour (19 rue Jean Jaurès, Innenstadt) vermietet Reiserad ab 22 €, E-Bike ab 35 €, Gravelbike ab 35 €, Kinderrad ab 20 € und Lastenrad ab 50 € pro Tag, mit Lieferung für 10 €, Einweg-Miete nach Angebot und kostenloser Stornierung bis 48 Std. vorher. Sechs Radrouten starten am Laden, darunter die Loire à Vélo (165 km bis Saumur).
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Wo kann man in Nantes ein Fahrrad für eine Radreise mieten?
 
 Bei Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes, im Hotel Ibis Nantes Centre Tour Bretagne: Der Laden liegt mitten in der Innenstadt, erreichbar mit der Tram T3 (Haltestelle Jean Jaurès) und nahe dem Parkhaus Bretagne. Geöffnet ist er von April bis Oktober, Dienstag bis Sonntag (im Juli und August täglich), 9:30–12:00 und 14:00–18:30 Uhr. Von hier starten sechs große Radrouten: La Loire à Vélo, La Vélodyssée, La Régalante, die Bretagne-Durchquerung, der Kanal von Nantes nach Brest und die Weinberge von Nantes.
+
+## In 4 Schritten ein Fahrrad bei Bike'N Tour mieten
+
+1. 1
+
+   ### Wählen Sie Fahrrad und Termine
+
+   Buchen Sie in wenigen Minuten online, telefonisch oder im Laden. Die Stornierung ist bis 48 Stunden vor Abfahrt kostenlos.
+2. 2
+
+   ### Holen Sie Ihr Fahrrad ab
+
+   Im Laden, 19 rue Jean Jaurès in Nantes (Tram T3, Haltestelle Jean Jaurès), oder für 10 € an Ihre Unterkunft im Großraum Nantes geliefert. Das Rad wird auf Ihre Größe eingestellt.
+3. 3
+
+   ### Starten Sie auf Ihrer Route
+
+   Wir senden Ihnen die Routenbeschreibung und den GPX-Track, mit unseren Etappentipps und Lieblingsadressen.
+4. 4
+
+   ### Geben Sie das Fahrrad zurück
+
+   Im Laden zu den Öffnungszeiten oder am Ende Ihrer Reise mit der Einweg-Option (auf Anfrage).
 
 ## Was kostet ein Mietfahrrad in Nantes?
 
@@ -110,3 +133,19 @@ Inhalt
 11. [Und für Gruppen oder Unternehmen?](#q11)
 
 [Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+
+## Aus unserem Blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Tipps zum Radreisen
+
+### Erste Radreise ab Nantes: gut vorbereitet
+
+Ihre erste Radreise ab Nantes vorbereiten: Route wählen, Etappen planen, packen und mit dem Zug…](https://www.bikentour.com/de/blog/erste-radreise-ab-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Radtouren
+
+### Radtouren ab Nantes: unsere Top 5
+
+Unsere 5 Lieblingsradtouren ab Nantes, von 10 bis 46 km: Sèvre nantaise, Erdre, Loire-Mündung, Île de Nantes…](https://www.bikentour.com/de/blog/radtouren-ab-nantes-top-5)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Radtouren
+
+### Sèvre nantaise mit dem Rad: von Nantes nach Clisson
+
+Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch die Weinberge des Muscadet,…](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)

@@ -23,7 +23,7 @@ Die große Radreise zum Mont-Saint-Michel: die Loire-Mündung und Guérande, die
 
 **Kurz gesagt.** Die Bretagne-Durchquerung ab Nantes: 485 km bis zum Mont-Saint-Michel ab dem Laden von Bike'N Tour (19 rue Jean Jaurès), empfohlene Dauer 8 bis 10 Tage, Schwierigkeit mittel. Wichtigste Etappen: Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Verleih: E-Bike ab 35 € pro Tag, wasserdichte Packtaschen optional (5 € pro Tag); Einweg-Miete nach Angebot möglich (Räder werden am Ziel abgeholt). GPX-Track und Routenblatt per E-Mail.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Empfohlene Etappen
 
@@ -72,6 +72,12 @@ Etappeneinteilung als Richtwert ab unserem Laden – passen Sie sie Ihrem Tempo 
 - Die Altstadt von Saint-Malo innerhalb der Mauern
 - Die Bucht des Mont-Saint-Michel
 
+## Sehenswertes entlang der Route
+
+- **La Roche-Bernard**Charmantes Städtchen über der Vilaine und ihrem Hafen.
+- **Barrage de la Rance**Gezeitenkraftwerk mit Blick auf die Rance-Mündung.
+- **Cancale**Austernhafen mit Blick auf die Bucht des Mont-Saint-Michel.
+
 ## Die Rückfahrt
 
 Rückfahrt mit dem Zug ab Rennes oder Saint-Malo oder Einweg-Miete auf Anfrage.
@@ -104,3 +110,19 @@ Leicht240 km · 4 bis 5 Tage**La Vélodyssée**Zum Atlantik und in die Vendée](
 Leicht275 km · 9 Etappen**La Régalante**Bis zum Mont-Saint-Michel](https://www.bikentour.com/de/reiseideen/la-regalante)
 
 [Alle Radrouten ansehen](https://www.bikentour.com/de/reiseideen)
+
+## Aus unserem Blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Radtouren
+
+### Sèvre nantaise mit dem Rad: von Nantes nach Clisson
+
+Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch die Weinberge des Muscadet,…](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Radtouren
+
+### Loire-Mündung mit dem Rad: Nantes – Saint-Brevin
+
+Von Nantes nach Saint-Brevin-les-Pins, rund 63 km mit dem Rad entlang der Mündung, vom Canal de la Martinière…](https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Tipps zum Radreisen
+
+### Erste Radreise ab Nantes: gut vorbereitet
+
+Ihre erste Radreise ab Nantes vorbereiten: Route wählen, Etappen planen, packen und mit dem Zug…](https://www.bikentour.com/de/blog/erste-radreise-ab-nantes)

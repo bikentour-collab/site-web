@@ -23,7 +23,7 @@ La Vélodyssée (EuroVelo 1) verbindet Roscoff mit Hendaye. Ab Nantes erreicht s
 
 **Kurz gesagt.** La Vélodyssée ab Nantes: 240 km bis Les Sables-d'Olonne ab dem Laden von Bike'N Tour (19 rue Jean Jaurès), empfohlene Dauer 4 bis 5 Tage, Schwierigkeit leicht. Wichtigste Etappen: Nantes → Pornic → Saint-Jean-de-Monts → Les Sables-d'Olonne. Verleih: Reiserad ab 22 € pro Tag, wasserdichte Packtaschen optional (5 € pro Tag); Einweg-Miete nach Angebot möglich (Räder werden am Ziel abgeholt). GPX-Track und Routenblatt per E-Mail.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Empfohlene Etappen
 
@@ -57,6 +57,14 @@ Etappeneinteilung als Richtwert ab unserem Laden – passen Sie sie Ihrem Tempo 
 - Das Marais breton vendéen
 - Der Pinienwald der Côte de Lumière
 
+## Sehenswertes entlang der Route
+
+- **Canal de la Martinière**Flacher Kanal aus dem 19. Jahrhundert entlang der Loire-Mündung.
+- **Paimbœuf**Ehemaliger Vorhafen von Nantes mit Kais und Leuchtturm.
+- **Serpent d'océan**Riesiges Seeschlangen-Skelett am Strand von Saint-Brevin, Kunstwerk der Estuaire-Route.
+- **Passage du Gois**Gezeitenstraße nach Noirmoutier, bei Ebbe befahrbar, 3 km abseits der Route.
+- **Saint-Gilles-Croix-de-Vie**Lebhafter Fischerhafen und lange Strände an der Vendée-Küste.
+
 ## Die Rückfahrt
 
 Züge Pornic – Nantes (40 Min.) und Les Sables-d'Olonne – Nantes oder Einweg-Miete auf Anfrage.
@@ -89,3 +97,19 @@ Leicht275 km · 9 Etappen**La Régalante**Bis zum Mont-Saint-Michel](https://www
 Mittel485 km · 8 bis 10 Tage**Die Bretagne-Durchquerung**Über die Küste, Rennes und Saint-Malo](https://www.bikentour.com/de/reiseideen/bretagne-durchquerung)
 
 [Alle Radrouten ansehen](https://www.bikentour.com/de/reiseideen)
+
+## Aus unserem Blog
+
+[![](https://www.bikentour.com/assets/img/blog-pornic-a-velo-1.webp)Radtouren
+
+### Pornic mit dem Rad: ab Nantes über die Vélodyssée
+
+Von Nantes nach Pornic mit dem Rad: 100 km auf der Vélodyssée in zwei Tagen, durch die Loire-Mündung und…](https://www.bikentour.com/de/blog/von-nantes-nach-pornic-mit-dem-rad)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Radtouren
+
+### Sèvre nantaise mit dem Rad: von Nantes nach Clisson
+
+Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch die Weinberge des Muscadet,…](https://www.bikentour.com/de/blog/sevre-nantaise-mit-dem-rad-nach-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Radtouren
+
+### Loire-Mündung mit dem Rad: Nantes – Saint-Brevin
+
+Von Nantes nach Saint-Brevin-les-Pins, rund 63 km mit dem Rad entlang der Mündung, vom Canal de la Martinière…](https://www.bikentour.com/de/blog/loire-muendung-mit-dem-rad-nantes-saint-brevin)

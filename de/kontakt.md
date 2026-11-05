@@ -14,7 +14,7 @@ Seit 10 Jahren bereiten Antoine und das Team von Bike'N Tour die Räder für all
 
 **Kurz gesagt.** Bike'N Tour ist ein Verleih für Reiseräder, E-Bikes und Gravelbikes, seit 10 Jahren in der 19 rue Jean Jaurès, 44000 Nantes (im Hotel Ibis Nantes Centre Tour Bretagne, Tram T3, Haltestelle Jean Jaurès). Geöffnet von April bis Oktober, Dienstag bis Sonntag, im Juli und August täglich, 9:30–12:00 und 14:00–18:30 Uhr. Kontakt: 06 52 62 94 64, contact@bikentour.com.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Unsere Geschichte
 

@@ -16,7 +16,7 @@ Teambuilding, Seminar, Teamausflug oder Tour mit Freunden: Dank Elektrounterstü
 
 **Kurz gesagt.** Bike'N Tour organisiert in Nantes Radausflüge für Gruppen und Unternehmen: Fahrradverleih für Gruppen Ab 16,67 € zzgl. MwSt. pro Rad; Private geführte Touren Ab 36 € zzgl. MwSt. pro Person und Events und Teambuilding Auf Anfrage. 10 % Rabatt ab 10 Personen, E-Bikes, damit alle gemeinsam fahren, Lieferung an den Seminarort.
 
-Aktualisiert am 3. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Aktualisiert am 5. November 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Unsere Angebote
 
