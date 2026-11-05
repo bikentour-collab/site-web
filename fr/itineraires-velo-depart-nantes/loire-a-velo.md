@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) est la véloroute la plus fréquentée de France.
 
 **En bref.** La Loire à Vélo au départ de Nantes : 165 km jusqu'à Saumur depuis la boutique Bike'N Tour (19 rue Jean Jaurès), durée conseillée 3 à 4 jours, niveau facile. Principales étapes : Nantes → Ancenis → Angers → Saumur. Location : vélo de voyage dès 22 € la journée ou vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les étapes conseillées
 
@@ -51,6 +51,14 @@ Découpage indicatif au départ de notre boutique, à adapter à votre rythme. O
 - Les guinguettes de Mauves-sur-Loire
 - Le château d'Angers et la tapisserie de l'Apocalypse
 - Les maisons troglodytes et le château de Saumur
+
+## Points de vue sur le parcours
+
+- **[Mauves-sur-Loire](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)**Guinguettes et pause au bord de la Loire, idéal pour une première étape.
+- **[Château d'Oudon](https://www.bikentour.com/post/les-bords-de-loire-oudon)**Donjon octogonal du XIVe siècle, avec vue sur la vallée de la Loire.
+- **Saint-Florent-le-Vieil**Village perché et son abbatiale qui domine la Loire.
+- **Château de Serrant**Grand château Renaissance, à 4 km de l'itinéraire.
+- **Béhuard**Petit village sur une île de la Loire, sa chapelle bâtie sur le rocher.
 
 ## Le retour
 
@@ -96,16 +104,16 @@ Modéré485 km · 8 à 10 jours**La Traversée bretonne**Par la côte, Rennes et
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire
+### Nantes – Mauves-sur-Loire à vélo par la Loire à Vélo
 
-Découvrez la balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire. Parcourez les…](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2.webp)Balades à vélo
+De Nantes à Mauves-sur-Loire, 17,5 km tout plats sur la Loire à Vélo : une demi-journée au bord du fleuve,…](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais.webp)Balades à vélo
 
-### Les bords de Loire : Oudon
+### Nantes – Cordemais à vélo, jusqu'à la Villa Cheminée
 
-Découvrez les bords de la Loire à vélo à Oudon. Parcourez des chemins pittoresques le long du fleuve,…](https://www.bikentour.com/post/les-bords-de-loire-oudon)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Balades à vélo
+De Nantes à Cordemais, 46 km à vélo le long de l'estuaire : la Maison dans la Loire, les marais et la Villa…](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : Le parcours de l’estuaire, de Nantes à Saint-Brevin-les-Pins
+### Nantes – Saint-Brevin à vélo par l'estuaire de la Loire
 
-Découvrez l'incontournable balade à vélo : Le parcours de l'estuaire, de Nantes à…](https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins)
+De Nantes à Saint-Brevin-les-Pins, environ 63 km à vélo le long de l'estuaire, du canal de la Martinière au…](https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

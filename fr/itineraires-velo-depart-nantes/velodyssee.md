@@ -23,7 +23,7 @@ La Vélodyssée (EuroVelo 1) relie Roscoff à Hendaye. Depuis Nantes, elle rejoi
 
 **En bref.** La Vélodyssée au départ de Nantes : 240 km jusqu'aux Sables-d'Olonne depuis la boutique Bike'N Tour (19 rue Jean Jaurès), durée conseillée 4 à 5 jours, niveau facile. Principales étapes : Nantes → Pornic → Saint-Jean-de-Monts → Les Sables-d'Olonne. Location : vélo de voyage dès 22 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les étapes conseillées
 
@@ -56,6 +56,14 @@ Découpage indicatif au départ de notre boutique, à adapter à votre rythme. O
 - Le vieux port de Pornic
 - Le marais breton vendéen
 - La forêt de pins de la côte de Lumière
+
+## Points de vue sur le parcours
+
+- **Canal de la Martinière**Canal du XIXe siècle tout plat, le long de l'estuaire de la Loire.
+- **Paimbœuf**Ancien avant-port de Nantes, ses quais et son phare.
+- **[Serpent d'océan](https://www.bikentour.com/post/une-creature-mythique-aux-portes-de-lestuaire)**Squelette de serpent géant posé sur la plage de Saint-Brevin, œuvre de l'Estuaire.
+- **Passage du Gois**Route submersible vers Noirmoutier, praticable à marée basse, à 3 km de l'itinéraire.
+- **Saint-Gilles-Croix-de-Vie**Port de pêche animé et longues plages de la côte vendéenne.
 
 ## Le retour
 
@@ -94,16 +102,16 @@ Modéré485 km · 8 à 10 jours**La Traversée bretonne**Par la côte, Rennes et
 
 [![](https://www.bikentour.com/assets/img/blog-pornic-a-velo-1.webp)Balades à vélo
 
-### Pornic à vélo
+### Pornic à vélo : de Nantes par la Vélodyssée
 
-Découvrez Pornic à vélo pour une exploration côtière inoubliable. Parcourez les ruelles pittoresques, longez…](https://www.bikentour.com/post/pornic-a-velo)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-de-nantes-au-lac-de-grand-lieu-2.webp)Balades à vélo
+De Nantes à Pornic à vélo : 100 km sur la Vélodyssée en deux jours, par l'estuaire de la Loire et la côte de…](https://www.bikentour.com/post/pornic-a-velo)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-de-nantes-au-lac-de-grand-lieu-2.webp)Balades à vélo
 
-### Balade incontournable à vélo : Nantes au Lac de Grand-Lieu
+### De Nantes au lac de Grand-Lieu à vélo
 
-Découvrez la balade incontournable à vélo de Nantes au Lac de Grand-Lieu. Parcourez des chemins pittoresques,…](https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu)[![](https://www.bikentour.com/assets/img/blog-nantes-la-baule-a-velo-1.webp)Balades à vélo
+De Nantes au lac de Grand-Lieu à vélo : 18 km faciles par l'île de Nantes et Trentemoult jusqu'à la Maison du…](https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Balades à vélo
 
-### Nantes-La Baule à vélo
+### Nantes – Saint-Brevin à vélo par l'estuaire de la Loire
 
-Découvrez le trajet de Nantes à La Baule à vélo. Parcourez des itinéraires pittoresques entre ces deux…](https://www.bikentour.com/post/nantes-la-baule-a-velo)
+De Nantes à Saint-Brevin-les-Pins, environ 63 km à vélo le long de l'estuaire, du canal de la Martinière au…](https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

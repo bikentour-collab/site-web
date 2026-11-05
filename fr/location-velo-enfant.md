@@ -22,7 +22,7 @@ Dès **20 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos enfant Decathlon 20, 24 ou 26 pouces : 20 € la journée, 38 € le week-end et 88 € la semaine, tarifs dégressifs, caution de 500 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour la Loire à Vélo et le Vignoble nantais. Retrait au 19 rue Jean Jaurès à Nantes ou livraison à votre hébergement (10 €).
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Caractéristiques
 
@@ -86,18 +86,18 @@ Facile80 km · 2 jours**Le Vignoble nantais**Un week-end entre Sèvre et Muscade
 
 ## Sur le blog
 
-[![](https://www.bikentour.com/assets/img/blog-balades-etonnantes-le-jardin-des-plantes-1.webp)Balades à vélo
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Balades à vélo
 
-### Balades étonnantes : Le Jardin des Plantes
+### Île de Nantes à vélo : la balade en boucle de 10,5 km
 
-Découvrez des balades étonnantes au Jardin des Plantes. Explorez ce havre de verdure au cœur de Nantes,…](https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Balades à vélo
+Faites le tour de l'île de Nantes à vélo : 10,5 km en boucle et à plat, des Machines de l'île aux Anneaux de…](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)[![](https://www.bikentour.com/assets/img/blog-balades-etonnantes-le-jardin-des-plantes-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : L’île de Nantes
+### Jardin des Plantes de Nantes – visite et accès à vélo
 
-Découvrez l'incontournable balade à vélo sur l'île de Nantes. Parcourez des itinéraires pittoresques,…](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
+Le Jardin des Plantes de Nantes : 7 hectares labellisés Jardin remarquable face à la gare, à moins de 2 km de…](https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
 
-### Le Top 5 des balades incontournables à vélo
+### Top 5 des balades à vélo au départ de Nantes
 
-Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

@@ -25,7 +25,7 @@ Le château des ducs de Bretagne, l'Éléphant des Machines de l'île, les œuvr
 
 **En bref.** Nantes Bike Tour : le panorama nantais : visite guidée de Nantes à vélo électrique proposée par Bike'N Tour. Durée 2 h 30, 44 € par personne (vélo électrique et casque, guide passionné, gourmandises locales, carte commentée de la ville). Départs du mardi au dimanche à 15 h, en français, anglais ou espagnol, 12 personnes maximum par guide, 100 % sur pistes cyclables. Rendez-vous : Place de Bretagne, au pied de la Tour de Bretagne.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Le parcours
 
@@ -98,18 +98,18 @@ Hors des sentiers battus2 h 30 · 45 €**Tour « Culture urbaine » à vélo �
 
 ## Les lieux de la visite, sur notre blog
 
-[![](https://www.bikentour.com/assets/img/blog-les-titans-de-nantes.webp)À voir à Nantes
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Balades à vélo
 
-### Les Titans de Nantes
+### Île de Nantes à vélo : la balade en boucle de 10,5 km
 
-Explorez les Titans de Nantes à vélo pour une expérience unique. Parcourez la ville à deux roues, découvrez…](https://www.bikentour.com/post/les-titans-de-nantes)[![](https://www.bikentour.com/assets/img/blog-la-butte-saint-anne-1.webp)À voir à Nantes
+Faites le tour de l'île de Nantes à vélo : 10,5 km en boucle et à plat, des Machines de l'île aux Anneaux de…](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)[![](https://www.bikentour.com/assets/img/blog-le-voyage-a-nantes-2021-a-deja-commence-1.webp)À voir à Nantes
 
-### La Butte Saint Anne
+### Voyage à Nantes à vélo : ligne verte et œuvres pérennes
 
-Explorez la Butte Sainte-Anne à vélo pour une expérience unique à Nantes. Parcourez les ruelles pittoresques,…](https://www.bikentour.com/post/la-butte-saint-anne)[![](https://www.bikentour.com/assets/img/v2-groupe-elephant.webp)À voir à Nantes
+Suivez la ligne verte du Voyage à Nantes à vélo : une boucle d'environ 18 km, du château aux Machines de…](https://www.bikentour.com/post/le-voyage-a-nantes-2021-a-deja-commence)[![](https://www.bikentour.com/assets/img/blog-les-titans-de-nantes.webp)À voir à Nantes
 
-### Une île remplie d'histoire: l'ile de Nantes
+### Grues Titan de Nantes – les géantes de l'île de Nantes
 
-Découvrez une île remplie d'histoire : l'île de Nantes. Parcourez les ruelles chargées de charme, explorez…](https://www.bikentour.com/post/une-ile-remplie-dhistoire-ile-de-nantes)
+Les grues Titan, la jaune et la grise, veillent sur l'ouest de l'île de Nantes, à 2-3 km de notre boutique :…](https://www.bikentour.com/post/les-titans-de-nantes)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

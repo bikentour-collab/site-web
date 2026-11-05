@@ -12,11 +12,34 @@ Prix, choix du vélo, itinéraires au départ de Nantes, aller simple, livraison
 
 **En bref.** Pour louer un vélo à Nantes et partir en voyage, Bike'N Tour (19 rue Jean Jaurès, centre-ville) loue des vélos de voyage dès 22 €, des vélos électriques dès 35 €, des vélos gravel dès 35 €, des vélos enfant dès 20 € et des vélos cargo dès 50 € la journée, avec livraison à 10 €, aller simple sur devis et annulation gratuite jusqu'à 48 h. Six véloroutes partent de la boutique, dont la Loire à Vélo (165 km jusqu'à Saumur).
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Où louer un vélo à Nantes pour partir en voyage ?
 
 Chez Bike'N Tour, au 19 rue Jean Jaurès, 44000 Nantes, dans l'hôtel Ibis Nantes Centre Tour Bretagne : la boutique est en plein centre-ville, desservie par le tram T3 (arrêt Jean Jaurès) et proche du parking Bretagne. Elle est ouverte d'avril à octobre, du mardi au dimanche (tous les jours en juillet et août), de 9 h 30 à 12 h et de 14 h à 18 h 30. Six grandes véloroutes partent de là : la Loire à Vélo, la Vélodyssée, la Régalante, la Traversée bretonne, le Canal de Nantes à Brest et le Vignoble nantais.
+
+## Louer un vélo chez Bike'N Tour en 4 étapes
+
+1. 1
+
+   ### Choisissez votre vélo et vos dates
+
+   Réservez en ligne en quelques minutes, par téléphone ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ.
+2. 2
+
+   ### Récupérez votre vélo
+
+   À la boutique, 19 rue Jean Jaurès à Nantes (tram T3, arrêt Jean Jaurès), ou livré à votre hébergement dans la métropole nantaise pour 10 €. Le vélo est réglé à votre taille.
+3. 3
+
+   ### Partez avec votre itinéraire
+
+   Nous vous envoyons la fiche de l'itinéraire et la trace GPX, avec nos conseils d'étapes et nos bonnes adresses.
+4. 4
+
+   ### Rendez le vélo
+
+   À la boutique aux horaires d'ouverture, ou à l'arrivée de votre voyage avec l'option aller simple (sur devis).
 
 ## Combien coûte la location d'un vélo à Nantes ?
 
@@ -110,3 +133,21 @@ Sommaire
 11. [Et pour un groupe ou une entreprise ?](#q11)
 
 [Réserver mes vélos](https://bike-n-tour.lokki.rent)
+
+## Pour aller plus loin
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
+
+### Premier voyage à vélo depuis Nantes : bien le préparer
+
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes.webp)Conseils et voyage à vélo
+
+### Vélo électrique à Nantes : pourquoi l'essayer ?
+
+Louer un vélo électrique à Nantes pour l'essayer : fonctionnement, autonomie réelle, pour qui c'est fait et…](https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
+
+### Top 5 des balades à vélo au départ de Nantes
+
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
+
+[Tous les articles du blog](https://www.bikentour.com/fr/blog)

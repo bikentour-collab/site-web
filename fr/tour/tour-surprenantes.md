@@ -25,7 +25,7 @@ La ville et le vignoble nantais racontés en une balade : l'histoire du Muscadet
 
 **En bref.** Wine & Bike Tour à Nantes : visite guidée de Nantes à vélo électrique proposée par Bike'N Tour. Durée 3 h 30, 65 € par personne (vélo électrique et casque, guide passionné, dégustation de 3 vins et fromages locaux, carte commentée de la ville). Départs du jeudi au dimanche à 14 h, en français ou anglais, 12 personnes maximum par guide, 100 % sur pistes cyclables. Rendez-vous : Place de Bretagne, au pied de la Tour de Bretagne (tram T3, arrêt Bretagne).
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Le parcours
 
@@ -90,16 +90,16 @@ Hors des sentiers battus2 h 30 · 45 €**Tour « Culture urbaine » à vélo �
 
 [![](https://www.bikentour.com/assets/img/blog-le-vignoble-nantais-1.webp)Balades à vélo
 
-### Le Vignoble Nantais
+### Le vignoble nantais à vélo – Muscadet, Sèvre et Clisson
 
-Explorez le Vignoble Nantais à vélo pour une expérience gustative et visuelle inoubliable. Parcourez les…](https://www.bikentour.com/post/le-vignoble-nantais)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Balades à vélo
+Le vignoble nantais à vélo : les coteaux du Muscadet, la Sèvre, le Porte-Vue et Clisson, à 37 km de Nantes…](https://www.bikentour.com/post/le-vignoble-nantais)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : La Sèvre Nantaise
+### La Sèvre nantaise à vélo : de Nantes à Clisson
 
-Découvrez la balade incontournable à vélo le long de la Sèvre Nantaise. Parcourez des sentiers pittoresques,…](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)[![](https://www.bikentour.com/assets/img/blog-chateau-de-chassay-1.webp)À voir à Nantes
+De Nantes à Clisson à vélo : 37 km le long de la Sèvre nantaise et dans les vignes du Muscadet, avec retour…](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)[![](https://www.bikentour.com/assets/img/blog-chateau-de-chassay-1.webp)À voir à Nantes
 
-### Château de Chassay
+### Château de Chassay à Sainte-Luce-sur-Loire
 
-Explorez le charme du Château de Chassay à vélo. Parcourez les environs pittoresques, plongez dans l'histoire…](https://www.bikentour.com/post/chateau-de-chassay)
+Le château de Chassay, mairie de Sainte-Luce-sur-Loire : manoir des évêques de Nantes, étape d'Henri IV en…](https://www.bikentour.com/post/chateau-de-chassay)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

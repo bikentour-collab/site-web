@@ -14,7 +14,7 @@ Depuis 10 ans, Antoine et l'équipe de Bike'N Tour préparent les vélos de cell
 
 **En bref.** Bike'N Tour est un loueur de vélos de voyage, électriques et gravel installé depuis 10 ans au 19 rue Jean Jaurès, 44000 Nantes (dans l'hôtel Ibis Nantes Centre Tour Bretagne, tram T3 arrêt Jean Jaurès). Ouvert d'avril à octobre du mardi au dimanche, tous les jours en juillet et août, de 9 h 30 à 12 h et de 14 h à 18 h 30. Contact : 06 52 62 94 64, contact@bikentour.com.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Notre histoire
 

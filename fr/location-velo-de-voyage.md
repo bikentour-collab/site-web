@@ -22,7 +22,7 @@ Dès **22 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos de voyage Velo de Ville Trekking L200 : 22 € la journée, 39 € le week-end et 110 € la semaine, tarifs dégressifs, caution de 500 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour la Loire à Vélo, la Vélodyssée et le Canal de Nantes à Brest. Retrait au 19 rue Jean Jaurès à Nantes ou livraison à votre hébergement (10 €).
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Caractéristiques
 
@@ -92,16 +92,16 @@ Facile360 km · 6 à 8 jours**Le Canal de Nantes à Brest**Les chemins de halage
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
 
 ### Le slow tourisme : voyager plus pour polluer moins
 
 Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable,…](https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
 
-### Le Top 5 des balades incontournables à vélo
+### Top 5 des balades à vélo au départ de Nantes
 
-Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

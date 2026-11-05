@@ -23,7 +23,7 @@ Itinéraire au départ de Nantes
 
 **En bref.** Le Canal de Nantes à Brest au départ de Nantes : 360 km jusqu'à Châteaulin depuis la boutique Bike'N Tour (19 rue Jean Jaurès), durée conseillée 6 à 8 jours, niveau facile. Principales étapes : Nantes → Nort-sur-Erdre → Redon → Josselin → Pontivy → Carhaix → Châteaulin. Location : vélo de voyage dès 22 € la journée ou vélo gravel dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les étapes conseillées
 
@@ -67,6 +67,13 @@ Découpage indicatif au départ de notre boutique, à adapter à votre rythme. O
 - Le lac de Guerlédan
 - Les maisons éclusières
 
+## Points de vue sur le parcours
+
+- **Nort-sur-Erdre**Petit port sur l'Erdre, à l'entrée du canal.
+- **Malestroit**Petite cité de caractère au bord de l'Oust.
+- **Rohan**Village du canal, ses écluses et sa chapelle au bord de l'eau.
+- **Lac de Guerlédan**Grand lac au cœur de la Bretagne, forêts et baignade.
+
 ## Le retour
 
 Train Redon – Nantes (environ 45 min) pour le week-end, ou retour depuis Quimper ou Brest ; aller simple sur demande.
@@ -105,16 +112,16 @@ Facile275 km · 9 étapes**La Régalante**Jusqu'au Mont-Saint-Michel](https://ww
 
 [![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2.webp)Balades à vélo
 
-### Balade incontournable à vélo : L'Erdre à vélo
+### L'Erdre à vélo : de Nantes à Sucé-sur-Erdre
 
-Découvrez l'incontournable balade à vélo le long de l'Erdre. Parcourez des pistes pittoresques, explorez la…](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-bassin-ceineray-1.webp)À voir à Nantes
+L'Erdre à vélo de Nantes à Sucé-sur-Erdre : 18 km faciles au fil de l'eau, entre châteaux et folies…](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-bassin-ceineray-1.webp)À voir à Nantes
 
-### Le bassin Ceineray
+### Le bassin Ceineray, l'Erdre en plein centre de Nantes
 
-Découvrez le bassin Ceineray à vélo pour une balade paisible. Parcourez les rives de ce bassin emblématique,…](https://www.bikentour.com/post/le-bassin-ceineray)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
+Le bassin Ceineray, à 1 km de notre boutique, est le dernier plan d'eau de l'Erdre avant son tunnel vers la…](https://www.bikentour.com/post/le-bassin-ceineray)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

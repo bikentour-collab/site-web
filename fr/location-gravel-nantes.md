@@ -22,7 +22,7 @@ Dès **35 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos gravel Sunn Venture S1 : 35 € la journée, 62 € le week-end et 172 € la semaine, tarifs dégressifs, caution de 1 000 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour le Vignoble nantais et le Canal de Nantes à Brest. Retrait au 19 rue Jean Jaurès à Nantes ou livraison à votre hébergement (10 €).
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Caractéristiques
 
@@ -91,16 +91,16 @@ Facile360 km · 6 à 8 jours**Le Canal de Nantes à Brest**Les chemins de halage
 
 [![](https://www.bikentour.com/assets/img/blog-le-vignoble-nantais-1.webp)Balades à vélo
 
-### Le Vignoble Nantais
+### Le vignoble nantais à vélo – Muscadet, Sèvre et Clisson
 
-Explorez le Vignoble Nantais à vélo pour une expérience gustative et visuelle inoubliable. Parcourez les…](https://www.bikentour.com/post/le-vignoble-nantais)[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Balades à vélo
+Le vignoble nantais à vélo : les coteaux du Muscadet, la Sèvre, le Porte-Vue et Clisson, à 37 km de Nantes…](https://www.bikentour.com/post/le-vignoble-nantais)[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Balades à vélo
 
-### La Sèvre à vélo
+### La Sèvre à vélo – balade courte de Nantes à Vertou
 
-Explorez la vallée de la Sèvre à vélo, entre paysages enchanteurs et tranquillité paisible. Découvrez des…](https://www.bikentour.com/post/la-sevre-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1.webp)Balades à vélo
+La Sèvre à vélo de Nantes à Vertou : environ 12 km faciles par la coulée verte, du parc de la Morinière à la…](https://www.bikentour.com/post/la-sevre-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1.webp)Balades à vélo
 
-### Le Marais de Goulaine
+### Le marais de Goulaine à vélo, entre vignes et roseaux
 
-Découvrez la beauté naturelle du Marais de Goulaine à vélo. Parcourez des sentiers pittoresques, explorez la…](https://www.bikentour.com/post/le-marais-de-goulaine)
+Le marais de Goulaine à vélo : une zone humide protégée à 15 km de Nantes, avec le pont de l'Ouen, la Maison…](https://www.bikentour.com/post/le-marais-de-goulaine)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

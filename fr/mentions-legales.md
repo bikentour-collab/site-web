@@ -14,7 +14,7 @@ SARL Bike N Tour, au capital de 5 000 € dont le siège social est au 94 Rue G
 
 Directeur de publication : Antoine Renault
 
-Hébergeur du site : Railway Corp. (railway.com) [adresse à compléter]
+Hébergeur du site : Railway Corporation, 548 Market St Suite 68956, San Francisco, CA 94104, États-Unis (railway.com)
 
 Contacts : Antoine Renault, contact@bikentour.com + 33 (0) 6 52 62 94 64
 

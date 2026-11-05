@@ -16,7 +16,7 @@ Team building, séminaire, sortie d'équipe ou visite entre amis : grâce à l'a
 
 **En bref.** Bike'N Tour organise à Nantes des sorties à vélo pour les groupes et les entreprises : location de vélos pour groupes à partir de 16,67 € HT par vélo ; visites guidées privées à partir de 36 € HT par personne et animations et team building sur devis. 10 % de remise dès 10 personnes, vélos électriques pour que tout le monde roule ensemble, livraison sur le lieu du séminaire.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Nos formules
 

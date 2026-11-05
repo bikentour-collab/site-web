@@ -16,7 +16,7 @@ Des vélos récents et entretenus après chaque location : vélos de voyage Velo
 
 **En bref.** Tarifs 2026 de location de vélos chez Bike'N Tour, 19 rue Jean Jaurès à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine ; vélo cargo 50 € la journée, 200 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Livraison dans la métropole nantaise 10 €, aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## La flotte
 

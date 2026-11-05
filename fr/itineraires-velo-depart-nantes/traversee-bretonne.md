@@ -23,7 +23,7 @@ Le grand voyage à vélo vers le Mont-Saint-Michel : l'estuaire de la Loire et G
 
 **En bref.** La Traversée bretonne au départ de Nantes : 485 km jusqu'au Mont-Saint-Michel depuis la boutique Bike'N Tour (19 rue Jean Jaurès), durée conseillée 8 à 10 jours, niveau modéré. Principales étapes : Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Location : vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les étapes conseillées
 
@@ -72,6 +72,12 @@ Découpage indicatif au départ de notre boutique, à adapter à votre rythme. O
 - Saint-Malo intra-muros
 - La baie du Mont-Saint-Michel
 
+## Points de vue sur le parcours
+
+- **La Roche-Bernard**Petite cité de caractère au-dessus de la Vilaine et de son port.
+- **Barrage de la Rance**Usine marémotrice et point de vue sur l'estuaire de la Rance.
+- **Cancale**Port ostréicole et vue sur la baie du Mont-Saint-Michel.
+
 ## Le retour
 
 Retour en train depuis Rennes ou Saint-Malo, ou aller simple sur demande.
@@ -109,16 +115,16 @@ Facile275 km · 9 étapes**La Régalante**Jusqu'au Mont-Saint-Michel](https://ww
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
 
 ### Le slow tourisme : voyager plus pour polluer moins
 
 Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable,…](https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins)[![](https://www.bikentour.com/assets/img/blog-la-presquile-de-guerande-a-velo.webp)Balades à vélo
 
-### La presqu'île de Guérande à vélo
+### Presqu'île de Guérande à vélo – cité et marais salants
 
-Explorez la beauté naturelle de la Presqu'île de Guérande à vélo. Découvrez des itinéraires pittoresques…](https://www.bikentour.com/post/la-presquile-de-guerande-a-velo)
+La presqu'île de Guérande à vélo : la cité médiévale et ses remparts, puis les marais salants où les…](https://www.bikentour.com/post/la-presquile-de-guerande-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

@@ -22,7 +22,7 @@ Dès **50 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos cargo Babboe Mini Mountain (électrique) : 50 € la journée, 95 € le week-end et 200 € la semaine, tarifs dégressifs, caution de 1 000 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour la Loire à Vélo. Retrait au 19 rue Jean Jaurès à Nantes ou livraison à votre hébergement (10 €).
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Caractéristiques
 
@@ -87,16 +87,16 @@ Facile165 km · 3 à 4 jours**La Loire à Vélo**Vers Angers et Saumur](https://
 
 [![](https://www.bikentour.com/assets/img/blog-le-velo-cargo-un-moyen-de-redecouvrir-la-ville-1.webp)Conseils et voyage à vélo
 
-### Le vélo cargo : un moyen de redécouvrir la ville
+### Vélo cargo à Nantes – balades en famille et conseils
 
-Explorez la ville d'une manière unique avec le vélo cargo. Redécouvrez Nantes à travers ce moyen de transport…](https://www.bikentour.com/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville)[![](https://www.bikentour.com/assets/img/blog-la-presquile-de-guerande-a-velo.webp)Balades à vélo
+Le vélo cargo électrique permet de visiter Nantes en famille : enfants, pique-nique et sacs à bord, de l'île…](https://www.bikentour.com/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville)[![](https://www.bikentour.com/assets/img/blog-la-presquile-de-guerande-a-velo.webp)Balades à vélo
 
-### La presqu'île de Guérande à vélo
+### Presqu'île de Guérande à vélo – cité et marais salants
 
-Explorez la beauté naturelle de la Presqu'île de Guérande à vélo. Découvrez des itinéraires pittoresques…](https://www.bikentour.com/post/la-presquile-de-guerande-a-velo)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2.webp)Balades à vélo
+La presqu'île de Guérande à vélo : la cité médiévale et ses remparts, puis les marais salants où les…](https://www.bikentour.com/post/la-presquile-de-guerande-a-velo)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2.webp)Balades à vélo
 
-### Les bords de Loire : Oudon
+### Oudon à vélo, la tour médiévale au bord de Loire
 
-Découvrez les bords de la Loire à vélo à Oudon. Parcourez des chemins pittoresques le long du fleuve,…](https://www.bikentour.com/post/les-bords-de-loire-oudon)
+Oudon, à 30 km à vélo de la boutique par la Loire à Vélo : sa tour médiévale, son parcours de sculptures et…](https://www.bikentour.com/post/les-bords-de-loire-oudon)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

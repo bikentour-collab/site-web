@@ -25,7 +25,7 @@ Une visite « hors cadre » de Nantes : lieux détournés, street art, architect
 
 **En bref.** Tour « Culture urbaine » à vélo électrique : visite guidée de Nantes à vélo électrique proposée par Bike'N Tour. Durée 2 h 30, 45 € par personne (vélo électrique et casque, guide passionné, gourmandises locales). Départs tous les jours à 10 h, sauf le dimanche, en français ou anglais, 12 personnes maximum par guide, 100 % sur pistes cyclables. Rendez-vous : Place de Bretagne, sur les marches de la Tour de Bretagne.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Le parcours
 
@@ -82,18 +82,18 @@ Avec dégustation3 h 30 · 65 €**Wine & Bike Tour à Nantes**Du jeudi au dima
 
 ## Les lieux de la visite, sur notre blog
 
-[![](https://www.bikentour.com/assets/img/blog-little-atlantique-brewery-une-brasserie-nantaise-1.webp)À voir à Nantes
+[![](https://www.bikentour.com/assets/img/blog-le-voyage-a-nantes-2021-a-deja-commence-1.webp)À voir à Nantes
 
-### Little Atlantique Brewery, une brasserie Nantaise
+### Voyage à Nantes à vélo : ligne verte et œuvres pérennes
 
-Découvrez la Little Atlantique Brewery, une brasserie nantaise artisanale. Explorez l'art de la fabrication…](https://www.bikentour.com/post/little-atlantique-brewery-une-brasserie-nantaise)[![](https://www.bikentour.com/assets/img/blog-trentemoult-un-village-pittoresque-2.webp)À voir à Nantes
+Suivez la ligne verte du Voyage à Nantes à vélo : une boucle d'environ 18 km, du château aux Machines de…](https://www.bikentour.com/post/le-voyage-a-nantes-2021-a-deja-commence)[![](https://www.bikentour.com/assets/img/blog-little-atlantique-brewery-une-brasserie-nantaise-1.webp)À voir à Nantes
 
-### Trentemoult, un village pittoresque
+### Little Atlantique Brewery – brasserie du Bas-Chantenay
 
-Découvrez Trentemoult, un village pittoresque à vélo. Parcourez les ruelles colorées, explorez le charme…](https://www.bikentour.com/post/trentemoult-un-village-pittoresque)[![](https://www.bikentour.com/assets/img/blog-le-voyage-a-nantes-2021-a-deja-commence-1.webp)À voir à Nantes
+La Little Atlantique Brewery brasse sa bière dans une ancienne huilerie du Bas-Chantenay, face à la Loire, à…](https://www.bikentour.com/post/little-atlantique-brewery-une-brasserie-nantaise)[![](https://www.bikentour.com/assets/img/blog-trentemoult-un-village-pittoresque-2.webp)À voir à Nantes
 
-### Le voyage à Nantes 2021 a déjà commencé !
+### Trentemoult à vélo – le village coloré face à Nantes
 
-Le voyage à Nantes a commencé ! Explorez cette ville vibrante, découvrez ses sites emblématiques, et…](https://www.bikentour.com/post/le-voyage-a-nantes-2021-a-deja-commence)
+Trentemoult, ancien village de pêcheurs et de cap-horniers à Rezé, se trouve à environ 5 km de notre…](https://www.bikentour.com/post/trentemoult-un-village-pittoresque)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

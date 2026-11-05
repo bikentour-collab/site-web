@@ -23,7 +23,7 @@ Le week-end idéal à deux pas de Nantes : les bords de la Sèvre nantaise, les 
 
 **En bref.** Le Vignoble nantais au départ de Nantes : 80 km en boucle depuis la boutique Bike'N Tour (19 rue Jean Jaurès), durée conseillée 2 jours, niveau facile. Principales étapes : Nantes → Vertou → Clisson → Vallet. Location : vélo gravel dès 35 € la journée ou vélo enfant dès 20 € la journée, sacoches étanches en option (5 € par jour) ; boucle avec retour à Nantes. Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les étapes conseillées
 
@@ -46,6 +46,13 @@ Découpage indicatif au départ de notre boutique, à adapter à votre rythme. O
 - Le château de Clisson
 - La Garenne Lemot
 - Les domaines du Muscadet
+
+## Points de vue sur le parcours
+
+- **[Chaussée des Moines](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)**Ancienne chaussée sur la Sèvre à Vertou, lieu de pause apprécié.
+- **[Marais de Goulaine](https://www.bikentour.com/post/le-marais-de-goulaine)**Zone humide préservée, oiseaux et roselières entre les vignes.
+- **[Le Porte-Vue](https://www.bikentour.com/post/le-porte-vue-un-belvedere-exceptionnel)**Belvédère au-dessus de la vallée de la Maine à Château-Thébaud, à quelques kilomètres de la Sèvre.
+- **Vallet**Capitale du Muscadet, domaines et dégustations.
 
 ## Le retour
 
@@ -85,16 +92,16 @@ Facile275 km · 9 étapes**La Régalante**Jusqu'au Mont-Saint-Michel](https://ww
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : La Sèvre Nantaise
+### La Sèvre nantaise à vélo : de Nantes à Clisson
 
-Découvrez la balade incontournable à vélo le long de la Sèvre Nantaise. Parcourez des sentiers pittoresques,…](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)[![](https://www.bikentour.com/assets/img/blog-le-vignoble-nantais-1.webp)Balades à vélo
+De Nantes à Clisson à vélo : 37 km le long de la Sèvre nantaise et dans les vignes du Muscadet, avec retour…](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)[![](https://www.bikentour.com/assets/img/blog-le-vignoble-nantais-1.webp)Balades à vélo
 
-### Le Vignoble Nantais
+### Le vignoble nantais à vélo – Muscadet, Sèvre et Clisson
 
-Explorez le Vignoble Nantais à vélo pour une expérience gustative et visuelle inoubliable. Parcourez les…](https://www.bikentour.com/post/le-vignoble-nantais)[![](https://www.bikentour.com/assets/img/blog-chateau-de-chassay-1.webp)À voir à Nantes
+Le vignoble nantais à vélo : les coteaux du Muscadet, la Sèvre, le Porte-Vue et Clisson, à 37 km de Nantes…](https://www.bikentour.com/post/le-vignoble-nantais)[![](https://www.bikentour.com/assets/img/blog-chateau-de-chassay-1.webp)À voir à Nantes
 
-### Château de Chassay
+### Château de Chassay à Sainte-Luce-sur-Loire
 
-Explorez le charme du Château de Chassay à vélo. Parcourez les environs pittoresques, plongez dans l'histoire…](https://www.bikentour.com/post/chateau-de-chassay)
+Le château de Chassay, mairie de Sainte-Luce-sur-Loire : manoir des évêques de Nantes, étape d'Henri IV en…](https://www.bikentour.com/post/chateau-de-chassay)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

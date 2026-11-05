@@ -23,7 +23,7 @@ La Régalante est une véloroute récente qui relie Nantes au Mont-Saint-Michel 
 
 **En bref.** La Régalante au départ de Nantes : 275 km jusqu'au Mont-Saint-Michel depuis la boutique Bike'N Tour (19 rue Jean Jaurès), durée conseillée 9 étapes, niveau facile. Principales étapes : Nantes → Châteaubriant → Vitré → Fougères → Mont-Saint-Michel. Location : vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les étapes conseillées
 
@@ -62,6 +62,13 @@ Découpage indicatif au départ de notre boutique, à adapter à votre rythme. O
 - Les remparts de Vitré et de Fougères
 - L'arrivée au Mont-Saint-Michel
 
+## Points de vue sur le parcours
+
+- **[Sucé-sur-Erdre](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)**Bords de l'Erdre, guinguettes et châteaux au fil de l'eau.
+- **Nort-sur-Erdre**Petit port sur l'Erdre, à l'entrée du canal de Nantes à Brest.
+- **La Guerche-de-Bretagne**Petite cité de caractère et ses maisons à porches.
+- **Pontorson**Dernière étape avant le Mont-Saint-Michel, par la vallée du Couesnon.
+
 ## Le retour
 
 Retour en car et en train via Pontorson ou Rennes, ou aller simple sur demande.
@@ -99,16 +106,16 @@ Modéré485 km · 8 à 10 jours**La Traversée bretonne**Par la côte, Rennes et
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
 
 ### Le slow tourisme : voyager plus pour polluer moins
 
 Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable,…](https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2.webp)Balades à vélo
 
-### Balade incontournable à vélo : L'Erdre à vélo
+### L'Erdre à vélo : de Nantes à Sucé-sur-Erdre
 
-Découvrez l'incontournable balade à vélo le long de l'Erdre. Parcourez des pistes pittoresques, explorez la…](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
+L'Erdre à vélo de Nantes à Sucé-sur-Erdre : 18 km faciles au fil de l'eau, entre châteaux et folies…](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

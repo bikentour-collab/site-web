@@ -16,9 +16,9 @@ Une journée ou un week-end : nos idées de balades autonomes au départ de la b
 
 **En bref.** 11 idées de balades à vélo d'une journée ou d'un week-end au départ de la boutique Bike'N Tour à Nantes : La Sèvre nantaise jusqu'à Clisson (37 km (aller)), Les rives de Loire jusqu'à Oudon (30 km), La Loire à Vélo jusqu'à Cordemais (46 km), Le lac de Grand-Lieu (18 km), Le tour du panorama nantais (20 km), L'Erdre jusqu'à Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17,5 km), Le Pellerin par la rive sud (24 km), Nantes – Pornic en deux jours (100 km), Nantes – Angers en deux jours (110 km), Nantes – Saint-Nazaire par la Vélidéale (90 km). Location de vélo dès 22 € la journée, vélo électrique dès 35 €.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
-### La Sèvre nantaise jusqu'à Clisson
+## La Sèvre nantaise jusqu'à Clisson
 
 Modéré
 
@@ -28,9 +28,9 @@ Les bords de Sèvre, la Chaussée des Moines à Vertou, les vignes du Muscadet, 
 
 Retour en TER depuis Clisson
 
-[Lire l'article : Balade incontournable à vélo : La Sèvre Nantaise](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)
+[Lire l'article : La Sèvre nantaise à vélo : de Nantes à Clisson](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)
 
-### Les rives de Loire jusqu'à Oudon
+## Les rives de Loire jusqu'à Oudon
 
 Facile
 
@@ -40,9 +40,9 @@ Un des plus beaux tronçons de la Loire à Vélo, par Mauves-sur-Loire et Le Cel
 
 Retour en TER depuis Oudon
 
-[Lire l'article : Les bords de Loire : Oudon](https://www.bikentour.com/post/les-bords-de-loire-oudon)
+[Lire l'article : Oudon à vélo, la tour médiévale au bord de Loire](https://www.bikentour.com/post/les-bords-de-loire-oudon)
 
-### La Loire à Vélo jusqu'à Cordemais
+## La Loire à Vélo jusqu'à Cordemais
 
 Modéré
 
@@ -52,9 +52,9 @@ Les marais de l'estuaire, les hérons et la Villa Cheminée, œuvre perchée à 
 
 Retour en TER depuis Cordemais
 
-[Lire l'article : Balade incontournable à vélo : La Loire à vélo, de Nantes à Cordemais](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais)
+[Lire l'article : Nantes – Cordemais à vélo, jusqu'à la Villa Cheminée](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais)
 
-### Le lac de Grand-Lieu
+## Le lac de Grand-Lieu
 
 Facile
 
@@ -64,9 +64,9 @@ Du Mémorial de l'abolition de l'esclavage à la Maison du lac à Bouaye, avec u
 
 Retour en TER depuis Bouaye
 
-[Lire l'article : Balade incontournable à vélo : Nantes au Lac de Grand-Lieu](https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu)
+[Lire l'article : De Nantes au lac de Grand-Lieu à vélo](https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu)
 
-### Le tour du panorama nantais
+## Le tour du panorama nantais
 
 Facile
 
@@ -76,7 +76,7 @@ La Ligne verte de Nantes à vélo : monuments, œuvres du Voyage à Nantes et re
 
 Boucle au départ du centre
 
-### L'Erdre jusqu'à Sucé-sur-Erdre
+## L'Erdre jusqu'à Sucé-sur-Erdre
 
 Facile
 
@@ -86,9 +86,9 @@ La « plus belle rivière de France » selon François Ier, ses châteaux et ses
 
 Retour en TER depuis Sucé-sur-Erdre
 
-[Lire l'article : Balade incontournable à vélo : L'Erdre à vélo](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
+[Lire l'article : L'Erdre à vélo : de Nantes à Sucé-sur-Erdre](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
 
-### Mauves-sur-Loire
+## Mauves-sur-Loire
 
 Facile
 
@@ -98,9 +98,9 @@ Les guinguettes de Sainte-Luce-sur-Loire et de Mauves, idéal en famille.
 
 Retour par la levée de la Divatte ou en TER
 
-[Lire l'article : Balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire)
+[Lire l'article : Nantes – Mauves-sur-Loire à vélo par la Loire à Vélo](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire)
 
-### Le Pellerin par la rive sud
+## Le Pellerin par la rive sud
 
 Facile
 
@@ -110,9 +110,9 @@ Trentemoult, Rezé, puis les marais du sud de l'estuaire jusqu'au port du Peller
 
 Retour à vélo ou par le bac vers Couëron
 
-[Lire l'article : Balade incontournable à vélo : La balade des 2 Bacs](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)
+[Lire l'article : Balade des 2 bacs à vélo entre Indre et Couëron](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)
 
-### Nantes – Pornic en deux jours
+## Nantes – Pornic en deux jours
 
 Modéré
 
@@ -122,9 +122,9 @@ Le parcours Estuaire, le canal de la Martinière, une nuit à Paimbœuf ou Corse
 
 Retour en TER depuis Pornic (40 min)
 
-[Lire l'article : Pornic à vélo](https://www.bikentour.com/post/pornic-a-velo)
+[Lire l'article : Pornic à vélo : de Nantes par la Vélodyssée](https://www.bikentour.com/post/pornic-a-velo)
 
-### Nantes – Angers en deux jours
+## Nantes – Angers en deux jours
 
 Modéré
 
@@ -134,7 +134,7 @@ Deux étapes d'environ 55 km sur la Loire à Vélo, entre villages ligériens, v
 
 Retour en TER depuis Angers (40 min)
 
-### Nantes – Saint-Nazaire par la Vélidéale
+## Nantes – Saint-Nazaire par la Vélidéale
 
 Facile
 
@@ -144,7 +144,7 @@ Le nord de l'estuaire par les marais : The Settlers, la Villa Cheminée et l'obs
 
 Retour en TER ou TGV (40 min)
 
-[Lire l'article : Balade incontournable à vélo : Le parcours de l’estuaire, de Nantes à Saint-Brevin-les-Pins](https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins)
+[Lire l'article : Nantes – Saint-Brevin à vélo par l'estuaire de la Loire](https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins)
 
 [Envie de plus long ? Nos 6 grands itinéraires](https://www.bikentour.com/fr/itineraires-velo-depart-nantes)
 
@@ -152,28 +152,28 @@ Retour en TER ou TGV (40 min)
 
 [![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
 
-### Le Top 5 des balades incontournables à vélo
+### Top 5 des balades à vélo au départ de Nantes
 
-Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)[![](https://www.bikentour.com/assets/img/blog-balades-etonnantes-le-jardin-des-plantes-1.webp)Balades à vélo
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)[![](https://www.bikentour.com/assets/img/blog-balades-etonnantes-le-jardin-des-plantes-1.webp)Balades à vélo
 
-### Balades étonnantes : Le Jardin des Plantes
+### Jardin des Plantes de Nantes – visite et accès à vélo
 
-Découvrez des balades étonnantes au Jardin des Plantes. Explorez ce havre de verdure au cœur de Nantes,…](https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Balades à vélo
+Le Jardin des Plantes de Nantes : 7 hectares labellisés Jardin remarquable face à la gare, à moins de 2 km de…](https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Balades à vélo
 
-### Balade incontournable à vélo : L’île de Nantes
+### Île de Nantes à vélo : la balade en boucle de 10,5 km
 
-Découvrez l'incontournable balade à vélo sur l'île de Nantes. Parcourez des itinéraires pittoresques,…](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)[![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1.webp)Balades à vélo
+Faites le tour de l'île de Nantes à vélo : 10,5 km en boucle et à plat, des Machines de l'île aux Anneaux de…](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)[![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1.webp)Balades à vélo
 
-### Le Marais de Goulaine
+### Le marais de Goulaine à vélo, entre vignes et roseaux
 
-Découvrez la beauté naturelle du Marais de Goulaine à vélo. Parcourez des sentiers pittoresques, explorez la…](https://www.bikentour.com/post/le-marais-de-goulaine)[![](https://www.bikentour.com/assets/img/blog-la-presquile-de-guerande-a-velo.webp)Balades à vélo
+Le marais de Goulaine à vélo : une zone humide protégée à 15 km de Nantes, avec le pont de l'Ouen, la Maison…](https://www.bikentour.com/post/le-marais-de-goulaine)[![](https://www.bikentour.com/assets/img/blog-la-presquile-de-guerande-a-velo.webp)Balades à vélo
 
-### La presqu'île de Guérande à vélo
+### Presqu'île de Guérande à vélo – cité et marais salants
 
-Explorez la beauté naturelle de la Presqu'île de Guérande à vélo. Découvrez des itinéraires pittoresques…](https://www.bikentour.com/post/la-presquile-de-guerande-a-velo)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais-1.webp)Balades à vélo
+La presqu'île de Guérande à vélo : la cité médiévale et ses remparts, puis les marais salants où les…](https://www.bikentour.com/post/la-presquile-de-guerande-a-velo)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : La balade des 2 Bacs
+### Balade des 2 bacs à vélo entre Indre et Couëron
 
-Explorez l'incontournable balade à vélo : La Balade des 2 Bacs. Parcourez des itinéraires pittoresques entre…](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)
+La balade des 2 bacs : une boucle de 16 km à vélo entre Indre et Couëron, qui traverse deux fois la Loire en…](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

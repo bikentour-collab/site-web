@@ -16,7 +16,7 @@ Six grandes véloroutes partent de notre boutique, en plein centre de Nantes : l
 
 **En bref.** Six grandes véloroutes partent de la boutique Bike'N Tour, au 19 rue Jean Jaurès dans le centre de Nantes : la Loire à Vélo (165 km, 3 à 4 jours, niveau facile) ; la Vélodyssée (240 km, 4 à 5 jours, niveau facile) ; la Régalante (275 km, 9 étapes, niveau facile) ; la Traversée bretonne (485 km, 8 à 10 jours, niveau modéré) ; le Canal de Nantes à Brest (360 km, 6 à 8 jours, niveau facile) ; le Vignoble nantais (80 km, 2 jours, niveau facile). Pour un premier voyage à vélo ou en famille, la plus simple est la Loire à Vélo : plate, très bien balisée et desservie par le train pour le retour.
 
-Mis à jour le 3 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Mis à jour le 5 novembre 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Les 6 véloroutes en un coup d'œil
 
@@ -64,16 +64,16 @@ Inclus avec chaque itinéraire
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
 
 ### Le slow tourisme : voyager plus pour polluer moins
 
 Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable,…](https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
 
-### Le Top 5 des balades incontournables à vélo
+### Top 5 des balades à vélo au départ de Nantes
 
-Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)
