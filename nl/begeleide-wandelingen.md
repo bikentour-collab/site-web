@@ -16,7 +16,7 @@ Gevormd door zijn haven heeft Nantes duizend verhalen te vertellen. Onze lokale 
 
 **In het kort.** Bike'N Tour biedt drie rondleidingen door Nantes op de e-bike, met een lokale gids en maximaal 12 personen: Nantes Bike Tour: het panorama van Nantes (2,5 uur, € 44 per persoon); Wine & Bike Tour in Nantes (3,5 uur, € 65 per persoon); Tour "Stadscultuur" op de e-bike (2,5 uur, € 45 per persoon). E-bike en helm inbegrepen, route 100% over fietspaden, gratis annuleren tot 48 uur vooraf.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Kies je rondleiding
 
@@ -53,3 +53,19 @@ Van € 44 tot € 65 per persoon, afhankelijk van de rondleiding, inclusief e
 ### Zijn de rondleidingen geschikt voor gezinnen?
 
 Ja: de route loopt 100% over fietspaden en de e-bikes vlakken niveauverschillen weg.
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Fietstochten
+
+### Île de Nantes per fiets: rondje van 10,5 km
+
+Fiets rond het Île de Nantes: een vlakke lus van 10,5 km, van de Machines de l'île naar de Anneaux van Buren,…](https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)

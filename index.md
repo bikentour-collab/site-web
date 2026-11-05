@@ -33,7 +33,7 @@ Un week-end
 
 Voir les 6 itinéraires
 
-Départ : la boutique Arrivée
+Départ : la boutique Arrivée Point de vue
 
 - **La Loire à Vélo**Vers Angers et SaumurFacile**165 km**3 à 4 jours
 - **La Vélodyssée**Vers l'océan et la VendéeFacile**240 km**4 à 5 jours
@@ -331,7 +331,7 @@ Avis vérifiés
 ## Ce qu'en disent nos voyageurs
 
 [![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 161 avis](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
-[![Avis Tripadvisor](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** avis 5★](https://www.tripadvisor.fr/)
+[![Avis Tripadvisor](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** avis 5★](https://www.tripadvisor.fr/Search?q=Bike%27N%20Tour%20Nantes)
 
 > « Un excellent voyage à vélo le long de la Régalante jusqu'au Mont-Saint-Michel avec du super matériel. Accueil très sympa, vélo neuf ! »
 >
@@ -377,6 +377,8 @@ Langues
 
 Contact
 :   [06 52 62 94 64](tel:+33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
+
+[Réserver mes vélos](https://bike-n-tour.lokki.rent)
 
 Questions fréquentes
 

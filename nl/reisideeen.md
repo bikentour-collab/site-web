@@ -16,7 +16,7 @@ Zes grote fietsroutes beginnen bij onze winkel, midden in Nantes: de Loire à V�
 
 **In het kort.** Zes grote fietsroutes beginnen bij de winkel van Bike'N Tour, 19 rue Jean Jaurès in het centrum van Nantes: La Loire à Vélo (165 km, 3 tot 4 dagen, niveau makkelijk); La Vélodyssée (240 km, 4 tot 5 dagen, niveau makkelijk); La Régalante (275 km, 9 etappes, niveau makkelijk); De Bretagne-oversteek (485 km, 8 tot 10 dagen, niveau gemiddeld); Het kanaal van Nantes naar Brest (360 km, 6 tot 8 dagen, niveau makkelijk); De wijngaarden van Nantes (80 km, 2 dagen, niveau makkelijk). Voor een eerste fietsreis of met het gezin is de Loire à Vélo de makkelijkste: vlak, uitstekend bewegwijzerd en met de trein bereikbaar voor de terugreis.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## De 6 fietsroutes in één oogopslag
 
@@ -59,3 +59,19 @@ Inbegrepen bij elke route
 - Onze favoriete adressen
 
 [Fietsen reserveren](https://bike-n-tour.lokki.rent)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Fietstochten
+
+### Fietstochten vanuit Nantes: onze top 5
+
+Onze 5 favoriete fietstochten vanuit Nantes, van 10 tot 46 km: Sèvre nantaise, Erdre, estuarium, Île de…](https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)

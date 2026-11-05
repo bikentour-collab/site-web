@@ -33,7 +33,7 @@ Een weekend
 
 Bekijk de 6 routes
 
-Start: de winkel Finish
+Start: de winkel Finish Bezienswaardigheid
 
 - **La Loire à Vélo**Naar Angers en SaumurMakkelijk**165 km**3 tot 4 dagen
 - **La Vélodyssée**Naar de oceaan en de VendéeMakkelijk**240 km**4 tot 5 dagen
@@ -331,7 +331,7 @@ Geverifieerde reviews
 ## Wat onze reizigers zeggen
 
 [![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 161 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
-[![Tripadvisor-reviews](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** reviews met 5★](https://www.tripadvisor.fr/)
+[![Tripadvisor-reviews](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** reviews met 5★](https://www.tripadvisor.fr/Search?q=Bike%27N%20Tour%20Nantes)
 
 > "Een geweldige fietsreis over de Régalante naar de Mont-Saint-Michel met supermateriaal. Heel vriendelijke ontvangst, gloednieuwe fiets!"
 >
@@ -378,6 +378,8 @@ Talen
 Contact
 :   [06 52 62 94 64](tel:+33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
+[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+
 Veelgestelde vragen
 
 ## Fiets huren in Nantes: jouw vragen
@@ -418,6 +420,6 @@ Reisdagboek
 
 [De hele blog](https://www.bikentour.com/fr/blog)
 
-[![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)Fietstochten**De top 5 van mooiste fietstochten rond Nantes**Ideeën voor dagtochten](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
-[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Wijngaarden**Topper: de Sèvre nantaise op de fiets**Van Nantes naar Clisson](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)
-[![](https://www.bikentour.com/assets/img/photo-sacoches.webp)Tips**Fietsreizen vanuit Nantes**Je fietsreis voorbereiden](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
+[![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)Fietstochten**De top 5 van mooiste fietstochten rond Nantes**Ideeën voor dagtochten](https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes)
+[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Wijngaarden**Topper: de Sèvre nantaise op de fiets**Van Nantes naar Clisson](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)
+[![](https://www.bikentour.com/assets/img/photo-sacoches.webp)Tips**Fietsreizen vanuit Nantes**Je fietsreis voorbereiden](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)

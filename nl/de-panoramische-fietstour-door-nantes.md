@@ -25,7 +25,7 @@ Het kasteel van de hertogen van Bretagne, de Olifant van de Machines de l'île, 
 
 **In het kort.** Nantes Bike Tour: het panorama van Nantes: rondleiding door Nantes op de e-bike van Bike'N Tour. Duur 2,5 uur, € 44 per persoon (E-bike en helm, Gepassioneerde gids, Lokale lekkernijen, Stadskaart met toelichting). Vertrek Dinsdag tot en met zondag om 15.00 uur, in het Frans, Engels of Spaans, maximaal 12 personen per gids, 100% over fietspaden. Verzamelpunt: Place de Bretagne, aan de voet van de Tour de Bretagne.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## De route
 
@@ -95,3 +95,19 @@ Inbegrepen
 [![](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 Met proeverij3,5 uur · 65 €**Wine & Bike Tour in Nantes**Donderdag tot en met zondag om 14.00 uur](https://www.bikentour.com/nl/wine-and-bike-tour)[![](https://www.bikentour.com/assets/img/v2-groupe-ile-de-nantes.webp)
 Buiten de gebaande paden2,5 uur · 45 €**Tour "Stadscultuur" op de e-bike**Elke dag om 10.00 uur, behalve zondag](https://www.bikentour.com/nl/stadscultuur-fietstour)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Fietstochten
+
+### Île de Nantes per fiets: rondje van 10,5 km
+
+Fiets rond het Île de Nantes: een vlakke lus van 10,5 km, van de Machines de l'île naar de Anneaux van Buren,…](https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)

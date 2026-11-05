@@ -22,7 +22,7 @@ Vanaf **€ 50** per dag
 
 **In het kort.** Bike'N Tour verhuurt in Nantes de bakfiets van Babboe (Mini Mountain (elektrisch)): € 50 per dag, € 95 per weekend en € 200 per week, met staffelkorting, borg € 1.000. Slot, bandenreparatieset, pomp en verlichting zijn inbegrepen en de fiets wordt op jouw maat afgesteld. Aanbevolen voor La Loire à Vélo. Ophalen aan de 19 rue Jean Jaurès in Nantes of bezorging bij je accommodatie (€ 10).
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Kenmerken
 
@@ -82,3 +82,19 @@ Of bel [06 52 62 94 64](tel:+33652629464)
 Makkelijk165 km · 3 tot 4 dagen**La Loire à Vélo**Naar Angers en Saumur](https://www.bikentour.com/nl/reisideeen/loire-a-velo)
 
 [Vergelijk al onze fietsen](https://www.bikentour.com/nl/fietsen)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)

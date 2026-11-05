@@ -16,7 +16,7 @@ Teambuilding, seminar, teamuitje of een rondleiding met vrienden: dankzij de ele
 
 **In het kort.** Bike'N Tour organiseert in Nantes fietsuitjes voor groepen en bedrijven: fietsverhuur voor groepen vanaf € 16,67 excl. btw per fiets; privérondleidingen vanaf € 36 excl. btw per persoon en activiteiten en teambuilding op offerte. 10% korting vanaf 10 personen, e-bikes zodat iedereen samen fietst, bezorging op de seminarlocatie.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Onze formules
 

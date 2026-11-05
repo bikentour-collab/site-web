@@ -16,9 +16,9 @@ Een dag of een weekend: onze ideeën voor fietstochten op eigen houtje vanaf de 
 
 **In het kort.** 11 ideeën voor fietstochten van een dag of een weekend vanaf de winkel van Bike'N Tour in Nantes: De Sèvre nantaise tot Clisson (37 km (enkele reis)), De Loireoevers tot Oudon (30 km), De Loire à Vélo tot Cordemais (46 km), Het meer van Grand-Lieu (18 km), Het panorama van Nantes (20 km), De Erdre tot Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17,5 km), Le Pellerin via de zuidoever (24 km), Nantes – Pornic in twee dagen (100 km), Nantes – Angers in twee dagen (110 km), Nantes – Saint-Nazaire via de Vélidéale (90 km). Fiets huren vanaf € 22 per dag, e-bike vanaf € 35.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
-### De Sèvre nantaise tot Clisson
+## De Sèvre nantaise tot Clisson
 
 Gemiddeld
 
@@ -28,7 +28,7 @@ De oevers van de Sèvre, de Chaussée des Moines in Vertou, de Muscadet-wijngaar
 
 Terug met de TER vanuit Clisson
 
-### De Loireoevers tot Oudon
+## De Loireoevers tot Oudon
 
 Makkelijk
 
@@ -38,7 +38,7 @@ Een van de mooiste stukken van de Loire à Vélo, via Mauves-sur-Loire en Le Cel
 
 Terug met de TER vanuit Oudon
 
-### De Loire à Vélo tot Cordemais
+## De Loire à Vélo tot Cordemais
 
 Gemiddeld
 
@@ -48,7 +48,7 @@ De moerassen van het estuarium, de reigers en de Villa Cheminée, een kunstwerk 
 
 Terug met de TER vanuit Cordemais
 
-### Het meer van Grand-Lieu
+## Het meer van Grand-Lieu
 
 Makkelijk
 
@@ -58,7 +58,7 @@ Van het Gedenkteken voor de afschaffing van de slavernij naar de Maison du lac i
 
 Terug met de TER vanuit Bouaye
 
-### Het panorama van Nantes
+## Het panorama van Nantes
 
 Makkelijk
 
@@ -68,7 +68,7 @@ De Groene Lijn van Nantes op de fiets: monumenten, kunstwerken van Le Voyage à 
 
 Rondrit vanuit het centrum
 
-### De Erdre tot Sucé-sur-Erdre
+## De Erdre tot Sucé-sur-Erdre
 
 Makkelijk
 
@@ -78,7 +78,7 @@ De "mooiste rivier van Frankrijk" volgens Frans I, met haar kastelen en guinguet
 
 Terug met de TER vanuit Sucé-sur-Erdre
 
-### Mauves-sur-Loire
+## Mauves-sur-Loire
 
 Makkelijk
 
@@ -88,7 +88,7 @@ De guinguettes, terrasjes aan het water, van Sainte-Luce-sur-Loire en Mauves: id
 
 Terug over de dijk van de Divatte of met de TER
 
-### Le Pellerin via de zuidoever
+## Le Pellerin via de zuidoever
 
 Makkelijk
 
@@ -98,7 +98,7 @@ Trentemoult, Rezé en dan de moerassen ten zuiden van het estuarium tot de haven
 
 Terug op de fiets of met het veer naar Couëron
 
-### Nantes – Pornic in twee dagen
+## Nantes – Pornic in twee dagen
 
 Gemiddeld
 
@@ -108,7 +108,7 @@ Het kunstparcours Estuaire, het kanaal van La Martinière, een overnachting in P
 
 Terug met de TER vanuit Pornic (40 min)
 
-### Nantes – Angers in twee dagen
+## Nantes – Angers in twee dagen
 
 Gemiddeld
 
@@ -118,7 +118,7 @@ Twee etappes van ongeveer 55 km op de Loire à Vélo, langs Loiredorpjes, wijnga
 
 Terug met de TER vanuit Angers (40 min)
 
-### Nantes – Saint-Nazaire via de Vélidéale
+## Nantes – Saint-Nazaire via de Vélidéale
 
 Makkelijk
 
@@ -129,3 +129,31 @@ Het noorden van het estuarium door de moerassen: The Settlers, de Villa Cheminé
 Terug met de TER of TGV (40 min)
 
 [Zin in iets langers? Onze 6 grote routes](https://www.bikentour.com/nl/reisideeen)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Fietstochten
+
+### Fietstochten vanuit Nantes: onze top 5
+
+Onze 5 favoriete fietstochten vanuit Nantes, van 10 tot 46 km: Sèvre nantaise, Erdre, estuarium, Île de…](https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Fietstochten
+
+### Île de Nantes per fiets: rondje van 10,5 km
+
+Fiets rond het Île de Nantes: een vlakke lus van 10,5 km, van de Machines de l'île naar de Anneaux van Buren,…](https://www.bikentour.com/nl/blog/ile-de-nantes-per-fiets)[![](https://www.bikentour.com/assets/img/blog-pornic-a-velo-1.webp)Fietstochten
+
+### Pornic per fiets: vanuit Nantes via de Vélodyssée
+
+Van Nantes naar Pornic per fiets: 100 km over de Vélodyssée in twee dagen, via het Loire-estuarium en de Côte…](https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets)

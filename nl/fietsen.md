@@ -16,7 +16,7 @@ Recente fietsen, na elke verhuur nagekeken: trekkingfietsen van Velo de Ville, e
 
 **In het kort.** Prijzen 2026 voor fietsverhuur bij Bike'N Tour, 19 rue Jean Jaurès in Nantes: trekkingfiets € 22 per dag, € 110 per week; e-bike € 35 per dag, € 172 per week; gravelbike € 35 per dag, € 172 per week; kinderfiets € 20 per dag, € 88 per week; bakfiets € 50 per dag, € 200 per week. Slot, bandenreparatieset en verlichting inbegrepen. Bezorging in de regio Nantes € 10, enkele reis op offerte, gratis annuleren tot 48 uur voor vertrek.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## De vloot
 

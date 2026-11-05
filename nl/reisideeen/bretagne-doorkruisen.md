@@ -23,7 +23,7 @@ De grote fietsreis naar de Mont-Saint-Michel: het estuarium van de Loire en Gué
 
 **In het kort.** De Bretagne-oversteek vanuit Nantes: 485 km tot de Mont-Saint-Michel vanaf de winkel van Bike'N Tour (19 rue Jean Jaurès), aanbevolen duur 8 tot 10 dagen, niveau gemiddeld. Belangrijkste etappes: Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Verhuur: een e-bike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Aanbevolen etappes
 
@@ -72,6 +72,12 @@ Indicatieve indeling vanaf onze winkel, aan te passen aan jouw tempo. We besprek
 - De ommuurde binnenstad van Saint-Malo
 - De baai van de Mont-Saint-Michel
 
+## Bezienswaardigheden onderweg
+
+- **La Roche-Bernard**Karakteristiek stadje boven de Vilaine en haar haven.
+- **Barrage de la Rance**Getijdencentrale met uitzicht op het estuarium van de Rance.
+- **Cancale**Oesterhaven met uitzicht op de baai van de Mont-Saint-Michel.
+
 ## De terugreis
 
 Terug met de trein vanuit Rennes of Saint-Malo, of enkele reis op aanvraag.
@@ -104,3 +110,19 @@ Makkelijk240 km · 4 tot 5 dagen**La Vélodyssée**Naar de oceaan en de Vendée]
 Makkelijk275 km · 9 etappes**La Régalante**Tot aan de Mont-Saint-Michel](https://www.bikentour.com/nl/reisideeen/la-regalante)
 
 [Bekijk alle routes](https://www.bikentour.com/nl/reisideeen)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)

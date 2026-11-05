@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) is de drukst bereden fietsroute van Frankrijk. Va
 
 **In het kort.** La Loire à Vélo vanuit Nantes: 165 km tot Saumur vanaf de winkel van Bike'N Tour (19 rue Jean Jaurès), aanbevolen duur 3 tot 4 dagen, niveau makkelijk. Belangrijkste etappes: Nantes → Ancenis → Angers → Saumur. Verhuur: een trekkingfiets vanaf € 22 per dag of een e-bike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Aanbevolen etappes
 
@@ -51,6 +51,14 @@ Indicatieve indeling vanaf onze winkel, aan te passen aan jouw tempo. We besprek
 - De guinguettes van Mauves-sur-Loire
 - Het kasteel van Angers en het Apocalypswandtapijt
 - De grotwoningen en het kasteel van Saumur
+
+## Bezienswaardigheden onderweg
+
+- **Mauves-sur-Loire**Terrasjes aan de Loire, ideaal voor een eerste stop.
+- **Château d'Oudon**Achthoekige donjon uit de 14e eeuw met uitzicht op de Loirevallei.
+- **Saint-Florent-le-Vieil**Hooggelegen dorp met een abdijkerk boven de Loire.
+- **Château de Serrant**Groot renaissancekasteel, op 4 km van de route.
+- **Béhuard**Klein dorp op een Loire-eiland, met een kapel op de rots.
 
 ## De terugreis
 
@@ -91,3 +99,19 @@ Makkelijk275 km · 9 etappes**La Régalante**Tot aan de Mont-Saint-Michel](https
 Gemiddeld485 km · 8 tot 10 dagen**De Bretagne-oversteek**Langs de kust, Rennes en Saint-Malo](https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen)
 
 [Bekijk alle routes](https://www.bikentour.com/nl/reisideeen)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)

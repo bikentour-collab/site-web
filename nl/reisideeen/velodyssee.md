@@ -23,7 +23,7 @@ La Vélodyssée (EuroVelo 1) verbindt Roscoff met Hendaye. Vanuit Nantes bereik 
 
 **In het kort.** La Vélodyssée vanuit Nantes: 240 km tot Les Sables-d'Olonne vanaf de winkel van Bike'N Tour (19 rue Jean Jaurès), aanbevolen duur 4 tot 5 dagen, niveau makkelijk. Belangrijkste etappes: Nantes → Pornic → Saint-Jean-de-Monts → Les Sables-d'Olonne. Verhuur: een trekkingfiets vanaf € 22 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Aanbevolen etappes
 
@@ -57,6 +57,14 @@ Indicatieve indeling vanaf onze winkel, aan te passen aan jouw tempo. We besprek
 - Het Marais breton vendéen
 - Het dennenbos van de Côte de Lumière
 
+## Bezienswaardigheden onderweg
+
+- **Canal de la Martinière**Vlak kanaal uit de 19e eeuw langs het Loire-estuarium.
+- **Paimbœuf**Voormalige voorhaven van Nantes, met kades en vuurtoren.
+- **Serpent d'océan**Gigantisch zeeslangskelet op het strand van Saint-Brevin, kunstwerk van Estuaire.
+- **Passage du Gois**Getijdenweg naar Noirmoutier, bij eb begaanbaar, op 3 km van de route.
+- **Saint-Gilles-Croix-de-Vie**Levendige vissershaven en lange stranden aan de Vendée-kust.
+
 ## De terugreis
 
 Treinen Pornic – Nantes (40 min) en Les Sables-d'Olonne – Nantes, of enkele reis op aanvraag.
@@ -89,3 +97,19 @@ Makkelijk275 km · 9 etappes**La Régalante**Tot aan de Mont-Saint-Michel](https
 Gemiddeld485 km · 8 tot 10 dagen**De Bretagne-oversteek**Langs de kust, Rennes en Saint-Malo](https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen)
 
 [Bekijk alle routes](https://www.bikentour.com/nl/reisideeen)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-pornic-a-velo-1.webp)Fietstochten
+
+### Pornic per fiets: vanuit Nantes via de Vélodyssée
+
+Van Nantes naar Pornic per fiets: 100 km over de Vélodyssée in twee dagen, via het Loire-estuarium en de Côte…](https://www.bikentour.com/nl/blog/van-nantes-naar-pornic-per-fiets)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)

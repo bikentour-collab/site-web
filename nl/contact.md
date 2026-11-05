@@ -14,7 +14,7 @@ Al 10 jaar maken Antoine en het team van Bike'N Tour de fietsen klaar voor ieder
 
 **In het kort.** Bike'N Tour is een verhuurder van trekkingfietsen, e-bikes en gravelbikes, al 10 jaar gevestigd aan de 19 rue Jean Jaurès, 44000 Nantes (in hotel Ibis Nantes Centre Tour Bretagne, tram T3 halte Jean Jaurès). Open van april tot oktober, dinsdag tot en met zondag, in juli en augustus elke dag, van 9.30 tot 12.00 uur en van 14.00 tot 18.30 uur. Contact: 06 52 62 94 64, contact@bikentour.com.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Ons verhaal
 

@@ -12,11 +12,34 @@ Prijzen, fietskeuze, routes vanuit Nantes, enkele reis, bezorging, borg: alles w
 
 **In het kort.** Wil je in Nantes een fiets huren voor een fietsreis? Bike'N Tour (19 rue Jean Jaurès, centrum) verhuurt een trekkingfiets vanaf € 22, een e-bike vanaf € 35, een gravelbike vanaf € 35, een kinderfiets vanaf € 20 en een bakfiets vanaf € 50 per dag, met bezorging voor € 10, enkele reis op offerte en gratis annuleren tot 48 uur vooraf. Zes fietsroutes beginnen bij de winkel, waaronder de Loire à Vélo (165 km tot Saumur).
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Waar huur je in Nantes een fiets voor een fietsreis?
 
 Bij Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes, in hotel Ibis Nantes Centre Tour Bretagne: de winkel ligt midden in het centrum, bereikbaar met tram T3 (halte Jean Jaurès) en vlak bij parking Bretagne. Hij is open van april tot oktober, dinsdag tot en met zondag (in juli en augustus elke dag), van 9.30 tot 12.00 uur en van 14.00 tot 18.30 uur. Zes grote fietsroutes beginnen hier: de Loire à Vélo, de Vélodyssée, de Régalante, de Bretagne-oversteek, het kanaal van Nantes naar Brest en de wijngaarden van Nantes.
+
+## Een fiets huren bij Bike'N Tour in 4 stappen
+
+1. 1
+
+   ### Kies je fiets en je data
+
+   Reserveer in een paar minuten online, telefonisch of in de winkel. Annuleren is gratis tot 48 uur voor vertrek.
+2. 2
+
+   ### Haal je fiets op
+
+   In de winkel, 19 rue Jean Jaurès in Nantes (tram T3, halte Jean Jaurès), of bezorgd op je verblijfadres in de regio Nantes voor € 10. De fiets wordt op jouw maat afgesteld.
+3. 3
+
+   ### Vertrek met je route
+
+   We sturen je de routebeschrijving en de GPX-track, met onze tips voor etappes en favoriete adresjes.
+4. 4
+
+   ### Lever de fiets in
+
+   In de winkel tijdens openingstijden, of aan het eind van je reis met de optie enkele reis (op offerte).
 
 ## Wat kost een huurfiets in Nantes?
 
@@ -110,3 +133,19 @@ Inhoud
 11. [En voor een groep of bedrijf?](#q11)
 
 [Fietsen reserveren](https://bike-n-tour.lokki.rent)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Fietstochten
+
+### Fietstochten vanuit Nantes: onze top 5
+
+Onze 5 favoriete fietstochten vanuit Nantes, van 10 tot 46 km: Sèvre nantaise, Erdre, estuarium, Île de…](https://www.bikentour.com/nl/blog/fietstochten-vanuit-nantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)

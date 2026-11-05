@@ -23,7 +23,7 @@ Sluizen, sluiswachtershuisjes en vlakke jaagpaden: het kanaal van Nantes naar Br
 
 **In het kort.** Het kanaal van Nantes naar Brest vanuit Nantes: 360 km tot Châteaulin vanaf de winkel van Bike'N Tour (19 rue Jean Jaurès), aanbevolen duur 6 tot 8 dagen, niveau makkelijk. Belangrijkste etappes: Nantes → Nort-sur-Erdre → Redon → Josselin → Pontivy → Carhaix → Châteaulin. Verhuur: een trekkingfiets vanaf € 22 per dag of een gravelbike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 3 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Bijgewerkt op 5 november 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Aanbevolen etappes
 
@@ -67,6 +67,13 @@ Indicatieve indeling vanaf onze winkel, aan te passen aan jouw tempo. We besprek
 - Het meer van Guerlédan
 - De sluiswachtershuisjes
 
+## Bezienswaardigheden onderweg
+
+- **Nort-sur-Erdre**Haventje aan de Erdre, aan het begin van het kanaal.
+- **Malestroit**Karakteristiek stadje aan de oever van de Oust.
+- **Rohan**Kanaaldorp met sluizen en een kapel aan het water.
+- **Lac de Guerlédan**Groot meer in het hart van Bretagne, met bossen en zwemplekken.
+
 ## De terugreis
 
 Trein Redon – Nantes (ongeveer 45 min) voor het weekend, of terug vanuit Quimper of Brest; enkele reis op aanvraag.
@@ -100,3 +107,19 @@ Makkelijk240 km · 4 tot 5 dagen**La Vélodyssée**Naar de oceaan en de Vendée]
 Makkelijk275 km · 9 etappes**La Régalante**Tot aan de Mont-Saint-Michel](https://www.bikentour.com/nl/reisideeen/la-regalante)
 
 [Bekijk alle routes](https://www.bikentour.com/nl/reisideeen)
+
+## Van onze blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Fietstochten
+
+### Sèvre nantaise per fiets: van Nantes naar Clisson
+
+Van Nantes naar Clisson per fiets: 37 km langs de Sèvre nantaise en door de wijngaarden van de Muscadet, met…](https://www.bikentour.com/nl/blog/sevre-nantaise-per-fiets-naar-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Fietstochten
+
+### Loire-estuarium per fiets: Nantes – Saint-Brevin
+
+Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, van het Canal de la Martinière…](https://www.bikentour.com/nl/blog/loire-estuarium-per-fiets-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Fietstips
+
+### Eerste fietsreis vanuit Nantes: onze tips
+
+Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)
