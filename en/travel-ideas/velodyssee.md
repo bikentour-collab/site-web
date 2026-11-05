@@ -23,7 +23,7 @@ La Vélodyssée (EuroVelo 1) runs from Roscoff to Hendaye. From Nantes, it reach
 
 **In short.** La Vélodyssée from Nantes: 240 km to Les Sables-d'Olonne from the Bike'N Tour shop (19 rue Jean Jaurès), suggested duration 4 to 5 days, easy level. Main stages: Nantes → Pornic → Saint-Jean-de-Monts → Les Sables-d'Olonne. Hire: touring bike from €22 a day, waterproof panniers available (€5 a day); one-way hire available on request (bikes collected at your destination). GPX track and route sheet sent by email.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Suggested stages
 
@@ -57,6 +57,14 @@ A suggested breakdown starting from our shop – adapt it to your own pace. We'l
 - The Breton-Vendée marshes
 - The pine forest of the Côte de Lumière
 
+## Viewpoints along the route
+
+- **Canal de la Martinière**A flat 19th-century canal running alongside the Loire estuary.
+- **Paimbœuf**Nantes' former outer port, with its quays and lighthouse.
+- **Serpent d'océan**A giant sea-serpent skeleton on the beach at Saint-Brevin, part of the Estuaire art trail.
+- **Passage du Gois**The tidal causeway to Noirmoutier, passable at low tide, 3 km off the route.
+- **Saint-Gilles-Croix-de-Vie**A lively fishing port and the long beaches of the Vendée coast.
+
 ## Getting back
 
 Trains from Pornic to Nantes (40 min) and from Les Sables-d'Olonne to Nantes, or one-way hire on request.
@@ -89,3 +97,19 @@ Easy275 km · 9 stages**La Régalante**All the way to Mont-Saint-Michel](https:/
 Moderate485 km · 8 to 10 days**The Brittany Crossing**Via the coast, Rennes and Saint-Malo](https://www.bikentour.com/en/travel-ideas/brittany-crossing)
 
 [See all routes](https://www.bikentour.com/en/travel-ideas)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-pornic-a-velo-1.webp)Bike rides
+
+### Pornic by bike: from Nantes on the Vélodyssée
+
+Nantes to Pornic by bike: 100 km on the Vélodyssée over two days, via the Loire estuary and the Côte de Jade,…](https://www.bikentour.com/en/blog/nantes-to-pornic-by-bike)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Bike rides
+
+### Loire estuary by bike: Nantes to Saint-Brevin
+
+From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, from the Canal de la Martinière…](https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin)

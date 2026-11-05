@@ -12,11 +12,34 @@ Prices, choosing a bike, routes from Nantes, one-way hire, delivery, deposit: ev
 
 **In short.** To hire a bike in Nantes for a cycling trip, Bike'N Tour (19 rue Jean Jaurès, city centre) offers touring bikes from €22, e-bikes from €35, gravel bikes from €35, kids' bikes from €20 and cargo bikes from €50 a day, with delivery for €10, one-way hire on request and free cancellation up to 48 hours before. Six cycle routes start from the shop, including the Loire à Vélo (165 km to Saumur).
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Where can I hire a touring bike in Nantes?
 
 At Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes, inside the Ibis Nantes Centre Tour Bretagne hotel. The shop is right in the city centre, served by tram T3 (Jean Jaurès stop) and close to the Bretagne car park. It is open from April to October, Tuesday to Sunday (every day in July and August), 9.30am–12pm and 2pm–6.30pm. Six major cycle routes start from here: La Loire à Vélo, La Vélodyssée, La Régalante, the Brittany Crossing, the Nantes–Brest Canal and the Nantes Vineyards.
+
+## Renting a bike from Bike'N Tour in 4 steps
+
+1. 1
+
+   ### Choose your bike and dates
+
+   Book online in a few minutes, by phone or in the shop. Cancellation is free up to 48 hours before departure.
+2. 2
+
+   ### Pick up your bike
+
+   At the shop, 19 rue Jean Jaurès in Nantes (tram T3, Jean Jaurès stop), or delivered to your accommodation in the Nantes area for €10. Your bike is fitted to your size.
+3. 3
+
+   ### Set off on your route
+
+   We send you the route sheet and GPX track, with our tips on stages and our favourite places.
+4. 4
+
+   ### Return the bike
+
+   At the shop during opening hours, or at the end of your trip with the one-way option (quote on request).
 
 ## How much does bike hire cost in Nantes?
 
@@ -110,3 +133,19 @@ Contents
 11. [What about groups or companies?](#q11)
 
 [Book my bikes](https://bike-n-tour.lokki.rent)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Cycling tips
+
+### First cycling trip from Nantes: planning tips
+
+How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Bike rides
+
+### Bike rides from Nantes: our top 5
+
+Our 5 favourite bike rides from Nantes, from 10 to 46 km: Sèvre nantaise, Erdre, estuary, Île de Nantes and…](https://www.bikentour.com/en/blog/best-bike-rides-from-nantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)

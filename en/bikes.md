@@ -16,7 +16,7 @@ Recent bikes, serviced after every hire: Velo de Ville touring bikes, Sunn e-bik
 
 **In short.** 2026 bike hire prices at Bike'N Tour, 19 rue Jean Jaurès in Nantes: touring bike €22 a day, €110 a week; e-bike €35 a day, €172 a week; gravel bike €35 a day, €172 a week; kids' bike €20 a day, €88 a week; cargo bike €50 a day, €200 a week. Lock, puncture repair kit and lights included. Delivery in the Nantes metropolitan area €10, one-way hire on request, free cancellation up to 48 hours before you set off.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## The fleet
 

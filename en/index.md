@@ -33,7 +33,7 @@ A weekend
 
 See all 6 routes
 
-Start: our shop Finish
+Start: our shop Finish Viewpoint
 
 - **La Loire à Vélo**To Angers and SaumurEasy**165 km**3 to 4 days
 - **La Vélodyssée**To the ocean and the VendéeEasy**240 km**4 to 5 days
@@ -330,8 +330,8 @@ Verified reviews
 
 ## What our riders say
 
-[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5.0**/5 · 161 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
-[![Tripadvisor reviews](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** 5★ reviews](https://www.tripadvisor.fr/)
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 161 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Tripadvisor reviews](https://www.bikentour.com/assets/img/logo-tripadvisor.webp)**200+** 5★ reviews](https://www.tripadvisor.fr/Search?q=Bike%27N%20Tour%20Nantes)
 
 > “A wonderful bike trip along La Régalante to Mont-Saint-Michel with great equipment. A very friendly welcome and a brand-new bike!”
 >
@@ -378,6 +378,8 @@ Languages
 Contact
 :   [06 52 62 94 64](tel:+33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
+[Book my bikes](https://bike-n-tour.lokki.rent)
+
 FAQ
 
 ## Hiring a bike in Nantes: your questions
@@ -418,6 +420,6 @@ Travel journal
 
 [The whole blog](https://www.bikentour.com/fr/blog)
 
-[![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)Rides**The top 5 must-do bike rides around Nantes**Ideas for day trips](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
-[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Nantes Vineyards**A must-do ride: the Sèvre Nantaise by bike**From Nantes to Clisson](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)
-[![](https://www.bikentour.com/assets/img/photo-sacoches.webp)Tips**Cycle touring from Nantes**Planning your trip](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
+[![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)Rides**The top 5 must-do bike rides around Nantes**Ideas for day trips](https://www.bikentour.com/en/blog/best-bike-rides-from-nantes)
+[![](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Nantes Vineyards**A must-do ride: the Sèvre Nantaise by bike**From Nantes to Clisson](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)
+[![](https://www.bikentour.com/assets/img/photo-sacoches.webp)Tips**Cycle touring from Nantes**Planning your trip](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)

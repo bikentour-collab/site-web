@@ -22,7 +22,7 @@ From **€50** a day
 
 **In short.** In Nantes, Bike'N Tour hires out the Babboe Mini Mountain (electric) cargo bike: €50 a day, €95 for the weekend and €200 for the week, with lower rates for longer hires and a €1,000 deposit. Lock, puncture repair kit, pump and lights are included, and the bike is fitted to your size. Recommended for La Loire à Vélo. Pick up at 19 rue Jean Jaurès in Nantes or have it delivered to your accommodation (€10).
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Specifications
 
@@ -82,3 +82,19 @@ Or call [06 52 62 94 64](tel:+33652629464)
 Easy165 km · 3 to 4 days**La Loire à Vélo**To Angers and Saumur](https://www.bikentour.com/en/travel-ideas/loire-by-bike)
 
 [Compare all our bikes](https://www.bikentour.com/en/bikes)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Bike rides
+
+### Loire estuary by bike: Nantes to Saint-Brevin
+
+From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, from the Canal de la Martinière…](https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Cycling tips
+
+### First cycling trip from Nantes: planning tips
+
+How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)

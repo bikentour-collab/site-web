@@ -25,7 +25,7 @@ The Château des ducs de Bretagne, the Elephant at Les Machines de l'île, the V
 
 **In short.** Nantes Bike Tour: the Nantes panorama: guided e-bike tour of Nantes by Bike'N Tour. Duration 2.5 hrs, €44 per person (E-bike and helmet, Passionate guide, Local treats, Annotated city map). Departures From Tuesday to Sunday at 3pm, in French, English or Spanish, maximum 12 people per guide, 100% on cycle paths. Meeting point: Place de Bretagne, at the foot of the Tour de Bretagne.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## The route
 
@@ -95,3 +95,19 @@ Included
 [![](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 With wine tasting3.5 hrs · 65 €**Wine & Bike Tour in Nantes**From Thursday to Sunday at 2pm](https://www.bikentour.com/en/wine-and-bike-tour)[![](https://www.bikentour.com/assets/img/v2-groupe-ile-de-nantes.webp)
 Off the beaten track2.5 hrs · 45 €**“Urban Culture” e-bike tour**Every day at 10am except Sunday](https://www.bikentour.com/en/urban-culture-bike-tour)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-lile-de-nantes-3.webp)Bike rides
+
+### Île de Nantes by bike: a flat 10.5 km loop
+
+Ride around the Île de Nantes by bike: a flat 10.5 km loop from the Machines de l'île to the Anneaux de…](https://www.bikentour.com/en/blog/ile-de-nantes-by-bike)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Bike rides
+
+### Loire estuary by bike: Nantes to Saint-Brevin
+
+From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, from the Canal de la Martinière…](https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin)

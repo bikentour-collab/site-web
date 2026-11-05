@@ -14,7 +14,7 @@ For 10 years, Antoine and the Bike'N Tour team have been getting bikes ready for
 
 **In short.** Bike'N Tour is a touring, e-bike and gravel bike hire shop based for 10 years at 19 rue Jean Jaurès, 44000 Nantes (inside the Ibis Nantes Centre Tour Bretagne hotel, tram T3, Jean Jaurès stop). Open April to October, Tuesday to Sunday, and every day in July and August, 9.30am–12pm and 2pm–6.30pm. Contact: 06 52 62 94 64, contact@bikentour.com.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Our story
 

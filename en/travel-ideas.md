@@ -16,7 +16,7 @@ Six major cycle routes start right from our shop in the centre of Nantes: La Loi
 
 **In short.** Six major cycle routes start from the Bike'N Tour shop at 19 rue Jean Jaurès in central Nantes: La Loire à Vélo (165 km, 3 to 4 days, easy level); La Vélodyssée (240 km, 4 to 5 days, easy level); La Régalante (275 km, 9 stages, easy level); The Brittany Crossing (485 km, 8 to 10 days, moderate level); The Nantes–Brest Canal (360 km, 6 to 8 days, easy level); The Nantes Vineyards (80 km, 2 days, easy level). For a first cycling trip or a family holiday, the easiest is the Loire à Vélo: flat, very well signposted and with train links for the journey back.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## The 6 cycle routes at a glance
 
@@ -59,3 +59,19 @@ Included with every route
 - Our favourite places
 
 [Book my bikes](https://bike-n-tour.lokki.rent)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Cycling tips
+
+### First cycling trip from Nantes: planning tips
+
+How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Bike rides
+
+### Bike rides from Nantes: our top 5
+
+Our 5 favourite bike rides from Nantes, from 10 to 46 km: Sèvre nantaise, Erdre, estuary, Île de Nantes and…](https://www.bikentour.com/en/blog/best-bike-rides-from-nantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)

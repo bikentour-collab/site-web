@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) is France's most popular cycle route. From Nantes
 
 **In short.** La Loire à Vélo from Nantes: 165 km to Saumur from the Bike'N Tour shop (19 rue Jean Jaurès), suggested duration 3 to 4 days, easy level. Main stages: Nantes → Ancenis → Angers → Saumur. Hire: touring bike from €22 a day or e-bike from €35 a day, waterproof panniers available (€5 a day); one-way hire available on request (bikes collected at your destination). GPX track and route sheet sent by email.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Suggested stages
 
@@ -51,6 +51,14 @@ A suggested breakdown starting from our shop – adapt it to your own pace. We'l
 - The riverside guinguettes of Mauves-sur-Loire
 - Angers castle and the Apocalypse Tapestry
 - The cave dwellings and Saumur castle
+
+## Viewpoints along the route
+
+- **Mauves-sur-Loire**Riverside open-air cafés: the perfect first stop along the Loire.
+- **Château d'Oudon**A 14th-century octagonal keep overlooking the Loire valley.
+- **Saint-Florent-le-Vieil**Hilltop village whose abbey church towers over the Loire.
+- **Château de Serrant**A grand Renaissance château, 4 km off the route.
+- **Béhuard**A tiny village on a Loire island, with its chapel built on the rock.
 
 ## Getting back
 
@@ -91,3 +99,19 @@ Easy275 km · 9 stages**La Régalante**All the way to Mont-Saint-Michel](https:/
 Moderate485 km · 8 to 10 days**The Brittany Crossing**Via the coast, Rennes and Saint-Malo](https://www.bikentour.com/en/travel-ideas/brittany-crossing)
 
 [See all routes](https://www.bikentour.com/en/travel-ideas)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Bike rides
+
+### Loire estuary by bike: Nantes to Saint-Brevin
+
+From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, from the Canal de la Martinière…](https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Cycling tips
+
+### First cycling trip from Nantes: planning tips
+
+How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)

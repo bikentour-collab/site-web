@@ -16,7 +16,7 @@ Team building, away day, team outing or a tour with friends: thanks to electric 
 
 **In short.** Bike'N Tour organises bike outings in Nantes for groups and companies: group bike hire from €16.67 excl. VAT per bike; private guided tours from €36 excl. VAT per person and team events and team building on request. 10% off for 10 people or more, e-bikes so everyone rides together, and delivery to your event venue.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Our packages
 

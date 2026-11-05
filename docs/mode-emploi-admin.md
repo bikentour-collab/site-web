@@ -12,7 +12,7 @@ Adresse : **https://www.bikentour.com/admin**
 | --- | --- |
 | **Articles du blog** | créer, modifier, dépublier (case « Brouillon ») ou supprimer un article |
 | **Pages du site** | Accueil, Vélos et tarifs, Itinéraires, Visites guidées, Groupes, Idées de balades, FAQ |
-| **Coordonnées, statistiques et presse** | téléphone, email, lien de réservation, Google Analytics, articles de presse |
+| **Coordonnées, statistiques et presse** | téléphone, email, lien de réservation, liens Google et Tripadvisor, Google Analytics, articles de presse et sites qui vous recommandent |
 | **Pages de texte** | mentions légales, conditions générales de location, page recrutement |
 
 Les encadrés « En bref », le plan du site, les fichiers pour Google et les assistants IA se mettent à jour tout seuls.
@@ -36,7 +36,15 @@ permettent de modifier chaque langue. Les prix, photos et identifiants se modifi
   **Distance :** 36 km / **Durée :** 2h30 / **Niveau :** facile
 - **Enregistrer** : l'article est en ligne 2 à 3 minutes plus tard à l'adresse `/post/titre-de-l-article`.
 
-## 6. Bonnes pratiques
+## 6. Article retravaillé, traductions, image de partage
+- **Date de mise à jour** : quand vous retravaillez un article, renseignez ce champ. L'article affiche « Mis à jour le … » et Google le sait.
+- **Image de partage** : elle est créée automatiquement (photo de couverture, logo, titre) pour chaque page et chaque article. Rien à faire.
+- **Articles traduits** : 3 articles existent en anglais, néerlandais et allemand (dossiers `content/blog/en`, `nl`, `de`). Ils se modifient avec Afffect.
+
+## 7. Liens Google et Tripadvisor (à faire une fois)
+*Coordonnées et réservation* → collez le lien de votre fiche Google Business (Google Maps → votre fiche → Partager → Copier le lien) dans « Lien vers les avis Google » et « Lien de la fiche Google Business », puis l'adresse de votre page Tripadvisor. Les badges d'avis de l'accueil mènent alors vers vos vraies fiches, et Google relie le site à vos avis.
+
+## 8. Bonnes pratiques
 - Une photo = une description (« Description de la photo ») : utile pour Google et les personnes malvoyantes.
 - Titres Google : 60 caractères maximum ; descriptions Google : 155 caractères maximum (le site coupe au-delà).
 - Ne changez pas le titre d'un article déjà publié depuis longtemps : son adresse dépend du titre d'origine et ne change pas, mais restez cohérent.

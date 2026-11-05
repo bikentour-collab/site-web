@@ -22,7 +22,7 @@ From **€35** a day
 
 **In short.** In Nantes, Bike'N Tour hires out the Sunn Start S1 e-bike: €35 a day, €62 for the weekend and €172 for the week, with lower rates for longer hires and a €1,000 deposit. Lock, puncture repair kit, pump and lights are included, and the bike is fitted to your size. Recommended for La Régalante, The Brittany Crossing and La Loire à Vélo. Pick up at 19 rue Jean Jaurès in Nantes or have it delivered to your accommodation (€10).
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Specifications
 
@@ -93,3 +93,19 @@ Moderate485 km · 8 to 10 days**The Brittany Crossing**Via the coast, Rennes and
 Easy165 km · 3 to 4 days**La Loire à Vélo**To Angers and Saumur](https://www.bikentour.com/en/travel-ideas/loire-by-bike)
 
 [Compare all our bikes](https://www.bikentour.com/en/bikes)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes.webp)Cycling tips
+
+### E-bike hire in Nantes: why try one?
+
+Hire an e-bike in Nantes to try it out: how it works, real-world range, who it suits and our tips for riding…](https://www.bikentour.com/en/blog/e-bike-hire-nantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Bike rides
+
+### Loire estuary by bike: Nantes to Saint-Brevin
+
+From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, from the Canal de la Martinière…](https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin)

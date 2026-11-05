@@ -23,7 +23,7 @@ The perfect weekend right on Nantes' doorstep: the banks of the Sèvre Nantaise,
 
 **In short.** The Nantes Vineyards from Nantes: 80 km loop from the Bike'N Tour shop (19 rue Jean Jaurès), suggested duration 2 days, easy level. Main stages: Nantes → Vertou → Clisson → Vallet. Hire: gravel bike from €35 a day or kids' bike from €20 a day, waterproof panniers available (€5 a day); a loop back to Nantes. GPX track and route sheet sent by email.
 
-Updated November 3, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
+Updated November 5, 2026 · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes
 
 ## Suggested stages
 
@@ -46,6 +46,13 @@ A suggested breakdown starting from our shop – adapt it to your own pace. We'l
 - Clisson castle
 - La Garenne Lemot
 - The Muscadet wine estates
+
+## Viewpoints along the route
+
+- **Chaussée des Moines**An old weir across the Sèvre at Vertou, a favourite place for a break.
+- **Marais de Goulaine**Protected wetland with birds and reed beds among the vineyards.
+- **Le Porte-Vue**A viewpoint above the Maine valley at Château-Thébaud, a few kilometres from the Sèvre.
+- **Vallet**The capital of Muscadet, with wine estates and tastings.
 
 ## Getting back
 
@@ -80,3 +87,19 @@ Easy240 km · 4 to 5 days**La Vélodyssée**To the ocean and the Vendée](https:
 Easy275 km · 9 stages**La Régalante**All the way to Mont-Saint-Michel](https://www.bikentour.com/en/travel-ideas/la-regalante)
 
 [See all routes](https://www.bikentour.com/en/travel-ideas)
+
+## From our blog
+
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp)Bike rides
+
+### Sèvre nantaise by bike: Nantes to Clisson
+
+From Nantes to Clisson by bike: 37 km along the Sèvre nantaise and through the Muscadet vineyards, returning…](https://www.bikentour.com/en/blog/sevre-nantaise-by-bike-to-clisson)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp)Bike rides
+
+### Loire estuary by bike: Nantes to Saint-Brevin
+
+From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, from the Canal de la Martinière…](https://www.bikentour.com/en/blog/loire-estuary-by-bike-nantes-saint-brevin)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Cycling tips
+
+### First cycling trip from Nantes: planning tips
+
+How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)
