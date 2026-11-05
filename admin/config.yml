@@ -70,6 +70,14 @@ collections:
     format: YYYY-MM-DD
     picker_utc: true
     default: '{{now}}'
+  - name: mise_a_jour
+    label: Date de mise à jour
+    widget: datetime
+    time_format: false
+    format: YYYY-MM-DD
+    picker_utc: true
+    required: false
+    hint: À renseigner quand vous retravaillez un article (affiche « Mis à jour le » et le signale à Google).
   - name: resume
     label: Résumé
     widget: text
@@ -518,6 +526,38 @@ collections:
             i18n: true
           i18n: true
         i18n: true
+      - name: points
+        label: Points de vue (carte et page)
+        label_singular: point de vue
+        widget: list
+        required: false
+        i18n: true
+        summary: '{{nom}}'
+        hint: 'Lieux à voir le long de l''itinéraire. Coordonnées : clic droit sur le lieu dans Google Maps, puis copier les deux nombres (latitude, longitude).'
+        fields:
+        - name: nom
+          label: Nom du lieu
+          widget: string
+          i18n: duplicate
+        - name: texte
+          label: Ce qu'il y a à voir (une phrase)
+          widget: string
+          i18n: true
+        - name: lat
+          label: Latitude (ex. 47.3478)
+          widget: number
+          value_type: float
+          i18n: duplicate
+        - name: lon
+          label: Longitude (ex. -1.2853)
+          widget: number
+          value_type: float
+          i18n: duplicate
+        - name: article
+          label: Article du blog lié (adresse après /post/, facultatif)
+          widget: string
+          required: false
+          i18n: duplicate
       i18n: true
   - name: visites
     label: Visites guidées
@@ -746,10 +786,41 @@ collections:
       - name: url
         label: Lien
         widget: string
+    - name: references
+      label: Ils nous recommandent (guides, offices de tourisme)
+      label_singular: référence
+      widget: list
+      required: false
+      summary: '{{media}} · {{titre}}'
+      fields:
+      - name: media
+        label: Site
+        widget: string
+      - name: titre
+        label: Titre
+        widget: string
+      - name: url
+        label: Lien
+        widget: string
   - name: coordonnees
     label: Coordonnées et réservation
     file: content/fr/site.json
     fields:
+    - name: lien_google_avis
+      label: Lien vers les avis Google
+      widget: string
+      required: false
+      hint: Lien de votre fiche Google Business (Google Maps → Partager → Copier le lien). Sert pour le badge « Avis Google ».
+    - name: lien_fiche_google
+      label: Lien de la fiche Google Business (identité)
+      widget: string
+      required: false
+      hint: Même lien que ci-dessus en général. Il relie votre site à votre fiche Google pour Google et les assistants IA.
+    - name: lien_tripadvisor
+      label: Lien de la page Tripadvisor
+      widget: string
+      required: false
+      hint: Adresse de votre page Tripadvisor (https://www.tripadvisor.fr/Attraction_Review-…). Sert pour le badge et pour Google.
     - name: telephone_affiche
       label: Téléphone (affiché)
       widget: string
