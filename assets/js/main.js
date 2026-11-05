@@ -102,16 +102,49 @@
 
     const visibleIds = () => [...explorer.querySelectorAll('[data-route-list] li:not([hidden]) .route-btn')].map((b) => b.dataset.route);
 
+    // étiquettes des points de vue : placées à droite, sinon à gauche, sinon masquées (visibles au survol)
+    let declutterT = 0;
+    const declutter = () => {
+      const s = parseFloat(svg.style.getPropertyValue('--s')) || 1;
+      const act = svg.dataset.active;
+      const visible = [...svg.querySelectorAll('.poi')].filter((g) => (g.dataset.routes || '').split(' ').includes(act));
+      const boxes = [...svg.querySelectorAll('.town text, .town circle:not(.pulse), .pin-end circle')].map((t) => t.getBBox())
+        .concat(visible.map((g) => g.querySelector('.poi-halo').getBBox()));
+      const hit = (b) => boxes.some((o) => b.x < o.x + o.width && b.x + b.width > o.x && b.y < o.y + o.height && b.y + b.height > o.y);
+      svg.querySelectorAll('.poi').forEach((g) => {
+        const t = g.querySelector('text'), c = g.querySelector('.poi-dot');
+        if (!t || !visible.includes(g)) return;
+        const cx = +c.getAttribute('cx'), cy = +c.getAttribute('cy'), d = 9 * s;
+        t.classList.remove('is-off');
+        const place = (anchor, dx, dy) => { t.setAttribute('text-anchor', anchor); t.setAttribute('x', (cx + dx).toFixed(1)); t.setAttribute('y', (cy + dy).toFixed(1)); return t.getBBox(); };
+        let b = place('start', d, -d * .4);
+        if (hit(b)) b = place('end', -d, -d * .4);
+        if (hit(b)) b = place('start', d * .6, d * 1.6);
+        if (hit(b)) { t.classList.add('is-off'); return; }
+        boxes.push(b);
+      });
+    };
+
+    const basemap = svg.querySelector('.basemap');
+    // fond de carte chargé seulement à l'ouverture de la carte (ne ralentit pas le haut de page)
+    if (basemap && basemap.dataset.src) { basemap.setAttribute('href', basemap.dataset.src); delete basemap.dataset.src; }
+    const EXT_W = +(svg.dataset.extent || '0 0 1000').split(' ')[2] || 1000;
     const setView = (v) => {
       view = v;
       svg.setAttribute('viewBox', v.map((n) => n.toFixed(2)).join(' '));
       const px = svg.getBoundingClientRect().width || BASE_W;
       const s = v[2] / px; // unités SVG par pixel
       svg.style.setProperty('--s', s.toFixed(4));
-      svg.querySelectorAll('.town circle').forEach((c) => {
+      // fond de carte léger (2048 px) ; version HD chargée seulement quand on zoome
+      if (basemap && basemap.dataset.hd && devicePixelRatio / s > 1.3 * 2048 / EXT_W) {
+        const hd = basemap.dataset.hd; delete basemap.dataset.hd;
+        const im = new Image(); im.onload = () => basemap.setAttribute('href', hd); im.src = hd;
+      }
+      svg.querySelectorAll('.town circle, .poi circle').forEach((c) => {
         if (!c.dataset.r) c.dataset.r = c.getAttribute('r');
         c.setAttribute('r', (c.dataset.r * s * 1.05).toFixed(2));
       });
+      clearTimeout(declutterT); declutterT = setTimeout(declutter, 120);
       [...rider.querySelectorAll('circle'), ...pinEnd.querySelectorAll('circle')].forEach((c) => {
         if (!c.dataset.r) c.dataset.r = c.getAttribute('r');
         c.setAttribute('r', (c.dataset.r * s * .9).toFixed(2));
@@ -155,6 +188,8 @@
 
     const select = (id, { zoom = true, scroll = false } = {}) => {
       current = id;
+      svg.dataset.active = id; // affiche les points de vue de l'itinéraire choisi
+      setTimeout(declutter, 60);
       paths.forEach((g) => {
         const on = g.dataset.route === id;
         g.classList.toggle('is-active', on);
@@ -164,7 +199,7 @@
           line.style.animation = 'none';
           void line.getBoundingClientRect();
           line.style.animation = '';
-          g.parentNode.insertBefore(g, rider);
+          g.parentNode.insertBefore(g, svg.querySelector('.pois') || rider); // l'itinéraire actif passe sous les points de vue
           const L = line.getTotalLength();
           const end = line.getPointAtLength(id === 'vignoble' ? L * .45 : L);
           pinEnd.setAttribute('transform', `translate(${end.x.toFixed(1)} ${end.y.toFixed(1)})`);
@@ -261,12 +296,15 @@
   };
   // la carte (calculs lourds) ne s'initialise qu'à l'approche de l'écran : affichage initial plus rapide
   const explorer = document.querySelector('[data-explorer]');
+  if (explorer && 'IntersectionObserver' in window) {
+    new IntersectionObserver((en) => explorer.classList.toggle('is-offscreen', !en[0].isIntersecting)).observe(explorer);
+  }
   if (explorer) {
     let done = false;
     const go = () => { if (!done) { done = true; initExplorer(explorer); } };
     if (explorer.hasAttribute('data-single') || !('IntersectionObserver' in window)) go();
     else {
-      const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); go(); } }, { rootMargin: '400px 0px' });
+      const io = new IntersectionObserver((en) => { if (en.some((x) => x.isIntersecting)) { io.disconnect(); go(); } }, { rootMargin: '80px 0px' });
       io.observe(explorer);
       explorer.addEventListener('pointerdown', go, { once: true });
       explorer.addEventListener('focusin', go, { once: true });
@@ -279,10 +317,26 @@
       e.preventDefault();
       const email = form.querySelector('input[type="email"]');
       if (!email.checkValidity()) { email.reportValidity(); return; }
-      const body = (form.dataset.body || '').replace('{email}', email.value).replace(/\|/g, '\n');
-      window.location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(form.dataset.subject)}&body=${encodeURIComponent(body)}`;
       const status = form.querySelector('.form-status');
-      if (status) status.textContent = form.dataset.msg || '';
+      const mailto = () => {
+        const body = (form.dataset.body || '').replace('{email}', email.value).replace(/\|/g, '\n');
+        window.location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(form.dataset.subject)}&body=${encodeURIComponent(body)}`;
+        if (status) status.textContent = form.dataset.msg || '';
+      };
+      if (!form.dataset.api || !window.fetch) return mailto();
+      // envoi direct par le serveur (Brevo) ; repli sur la messagerie si le service n'est pas configuré
+      const data = new URLSearchParams(new FormData(form));
+      data.set('lang', document.documentElement.lang || 'fr');
+      const btn = form.querySelector('button');
+      if (btn) btn.disabled = true;
+      fetch(form.dataset.api, { method: 'POST', body: data })
+        .then((r) => {
+          if (!r.ok) throw new Error(String(r.status));
+          if (status) status.textContent = form.dataset.ok || '';
+          form.reset();
+        })
+        .catch(mailto)
+        .finally(() => { if (btn) btn.disabled = false; });
     });
   });
 
