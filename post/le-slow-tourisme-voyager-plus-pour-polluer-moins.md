@@ -1,4 +1,4 @@
-# Voyager plus pour polluer moins | Bike'N Tour
+# Le slow tourisme : voyager plus pour polluer moins
 
 > Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable, explorez des destinations en prenant votre temps…
 
@@ -63,7 +63,7 @@ Pour aider préparer son voyage, il existe aujourd’hui plusieurs labels dédi�
 
 Article écrit par David et Louis de Bike’N Tour
 
-[Voir ici toutes nos balades à vélo et articles de blog](https://www.bikentour.com/fr/blog)
+[À lire aussi : Préparer son premier voyage à vélo depuis Nantes](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
 
 Article publié le 11 décembre 2019 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
 
@@ -77,16 +77,16 @@ Six véloroutes partent de notre boutique, en plein centre de Nantes : on vous p
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-nantes-2eme-ville-cyclable-de-france-1.webp)Conseils et voyage à vélo
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)[![](https://www.bikentour.com/assets/img/blog-nantes-2eme-ville-cyclable-de-france-1.webp)Conseils et voyage à vélo
 
-### Nantes, 2ème ville cyclable de France
+### Nantes, ville cyclable – classements et label vélo
 
-Découvrez Nantes, la 2ème ville cyclable de France. Parcourez ses pistes cyclables, explorez la ville à vélo,…](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
+Nantes est-elle une ville cyclable ? Baromètre FUB, label Destinations France à vélo 2026, 845 km…](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france)[![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)Balades à vélo
 
-### Le Top 5 des balades incontournables à vélo
+### Top 5 des balades à vélo au départ de Nantes
 
-Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de…](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

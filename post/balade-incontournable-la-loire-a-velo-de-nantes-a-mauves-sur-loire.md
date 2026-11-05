@@ -1,37 +1,95 @@
-# La Loire à vélo, de Nantes à Mauves sur Loire | Bike'N Tour
+# Nantes – Mauves-sur-Loire à vélo par la Loire à Vélo
 
-> Découvrez la balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire. Parcourez les rives majestueuses de la Loire, explorez des…
+> De Nantes à Mauves-sur-Loire, 17,5 km tout plats sur la Loire à Vélo : une demi-journée au bord du fleuve, idéale en famille.
 
 Page : https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
-[Balades à vélo](https://www.bikentour.com/fr/blog#balades) · 12 octobre 2021
+[Balades à vélo](https://www.bikentour.com/fr/blog#balades) · Mis à jour le 4 novembre 2026
 
-# Balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire
+# Nantes – Mauves-sur-Loire à vélo par la Loire à Vélo
 
-Découvrez la balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire. Parcourez les rives majestueuses de la Loire, explorez des paysages exceptionnels et imprégnez-vous de l'histoire le long de ce parcours inoubliable. Réservez dès maintenant pour une expérience cycliste unique, entre nature préservée, patrimoine et détente le long de la Loire.
+De Nantes à Mauves-sur-Loire, 17,5 km tout plats sur la Loire à Vélo : une demi-journée au bord du fleuve, idéale en famille. Retour par la rive sud et la levée de la Divatte, ou en TER depuis la gare de Mauves.
 
-![Balade incontournable à vélo : La Loire à vélo, de Nantes à Mauves sur Loire](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-1.webp)
+![Nantes – Mauves-sur-Loire à vélo par la Loire à Vélo](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-1.webp)
 
-Du centre-ville de Nantes jusqu’à Mauves sur Loire cette balade de 34 km vous fera longer la Loire. En empruntant le fameux itinéraire de la Loire à vélo ou vous découvrirez les magnifiques bords de Loire. Vous pourrez également visiter l’île Clémentine et découvrir le port miniature à la Chapelle-Basse-Mer. En arrivant à Mauves vous découvrirez la cale du port et pourrez admirer les magnifiques ponts qui s’y trouvent et les emprunter pour faire le trajet retour sur la rive opposée.
+De notre boutique du centre de Nantes jusqu'à Mauves-sur-Loire, comptez 17,5 km sur la Loire à Vélo, presque sans relief. C'est la balade que nous conseillons pour une première sortie au bord du fleuve, en couple ou en famille. Vous pouvez revenir par l'autre rive pour faire une boucle, ou rentrer en train depuis Mauves.
 
 Distance
-:   34km
+:   17,5 km aller, environ 34 km en boucle par la rive sud
 
 Durée
-:   2h30
+:   une demi-journée (un peu plus d'une heure de pédalage à l'aller)
 
 Niveau
-:   Débutants
+:   facile
 
-[Voir ici toutes nos balades à vélo et articles de blog](https://www.bikentour.com/fr/blog)
+Dénivelé
+:   quasi nul
 
-En savoir plus sur cet itinéraire (**lien** [**Geovelo**](https://www.geovelo.fr/nantes/route?b=49.628712,3.332689,44.755609,-6.318909&from=-1.553060,47.218110&to=-1.394480,47.297550)) :
+Départ
+:   boutique Bike'N Tour, 19 rue Jean Jaurès, Nantes (tram T3, arrêt Jean Jaurès)
 
-<https://www.geovelo.fr/nantes/route?b=49.628712,3.332689,44.755609,-6.318909&from=-1.553060,47.218110&to=-1.394480,47.297550>
+Arrivée
+:   Mauves-sur-Loire, cale du port
 
-[Voir le parcours sur Google Maps](https://www.google.fr:443/maps/dir/Nantes/Mauves-sur-Loire,+Mauves-sur-Loire/@47.2533177,-1.539029,12z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4805ee81f0a8aead:0x40d37521e0ded30!2m2!1d-1.553621!2d47.218371!1m5!1m1!1s0x4805fcaf77ad6659:0x79f731b97cf37404!2m2!1d-1.3893131!2d47.2929967!3e1)
+Retour
+:   à vélo par la levée de la Divatte (rive sud) ou en TER depuis la gare de Mauves-sur-Loire
 
-Article publié le 12 octobre 2021 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
+## Le parcours
+
+### Du centre de Nantes au quai Malakoff
+
+Depuis la boutique, descendez vers la Loire et le château des ducs de Bretagne, puis suivez le balisage de la Loire à Vélo vers l'est, direction Angers. Vous longez le quartier Malakoff et passez au pied du pont Tabarly. Restez attentif aux ronds-points du quai Malakoff : c'est le seul passage un peu urbain de la balade.
+
+### Sainte-Luce-sur-Loire et Thouaré-sur-Loire
+
+Une fois sorti de la ville, le parcours suit la rive nord (rive droite) de la Loire sur de petites routes partagées et quelques tronçons de piste cyclable. À Sainte-Luce-sur-Loire, l'île Clémentine mérite un arrêt. Vous continuez ensuite le long des bords de Loire de Thouaré. Le pont de Thouaré n'est pas aménagé pour les vélos : ne l'empruntez pas, surtout aux heures de pointe.
+
+### L'arrivée à Mauves-sur-Loire
+
+Vous arrivez à Mauves par la cale du port, au bord de l'eau. Le pont de Mauves est équipé de passerelles réservées aux piétons et aux cyclistes de chaque côté : c'est par là que vous passez sur la rive sud pour la boucle retour.
+
+### La boucle retour par la levée de la Divatte
+
+Sur la rive sud, une voie verte longe la Loire en contrebas de la levée de la Divatte, entre le pont de Mauves et le pont de Bellevue. Vous avez des vues dégagées sur le fleuve et sur la vallée maraîchère. Vous repassez ensuite sur la rive nord par le pont de Bellevue, qui dispose d'une piste cyclable sécurisée, pour rentrer à Nantes par le même chemin qu'à l'aller.
+
+## À voir en chemin
+
+- **Le château des ducs de Bretagne :** le point de départ symbolique de la Loire à Vélo à Nantes, à quelques minutes de la boutique.
+- **L'île Clémentine :** présentée comme la plus petite île de Loire de la région nantaise, à Sainte-Luce-sur-Loire. Un coin calme avec des aires de pique-nique.
+- **Les bords de Loire de Thouaré :** une portion très agréable, au plus près du fleuve.
+- **La cale du port de Mauves :** l'endroit idéal pour poser les vélos et regarder passer la Loire.
+- **Le pont de Mauves :** sa passerelle cyclable offre une belle vue sur le fleuve dans les deux sens.
+
+## Infos pratiques
+
+**Rentrer en train.** La gare de Mauves-sur-Loire est à quelques centaines de mètres de l'itinéraire, sur la ligne TER Aléop Nantes – Angers. Les trains s'arrêtent aussi à Thouaré-sur-Loire. Les vélos sont acceptés à bord, dans la limite des places disponibles : en été et le week-end, évitez les heures de pointe.
+
+**Faire une pause.** En saison, des guinguettes s'installent au bord de l'eau à Sainte-Luce-sur-Loire et à Mauves-sur-Loire. Vous trouverez aussi des aires de pique-nique sur l'île Clémentine. Pensez à une gourde : les points d'eau ne sont pas nombreux en dehors des bourgs.
+
+**Quand partir ?** La balade se fait d'avril à octobre, pendant notre saison d'ouverture. Au printemps et en septembre, les bords de Loire sont plus calmes. En plein été, partez le matin pour profiter de la fraîcheur et revenir pour le déjeuner, ou faites l'inverse et terminez à la guinguette en fin d'après-midi.
+
+## Quel vélo choisir ?
+
+Le parcours est plat et court : un [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit largement. Avec des enfants, pensez à nos [vélos enfant](https://www.bikentour.com/fr/location-velo-enfant) ou au [vélo cargo électrique](https://www.bikentour.com/fr/location-velo-cargo), parfait pour transporter les plus petits et le pique-nique jusqu'aux guinguettes de Mauves. Si l'envie vous prend de continuer, la balade est aussi le début de [la Loire à Vélo vers Angers et Saumur](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo).
+
+## Questions fréquentes
+
+### Combien de temps faut-il pour aller de Nantes à Mauves-sur-Loire à vélo ?
+
+Un peu plus d'une heure de pédalage pour les 17,5 km à l'aller, à allure tranquille. Avec les pauses et le retour, prévoyez une demi-journée.
+
+### La balade est-elle adaptée aux enfants ?
+
+Oui. Le parcours est plat et passe surtout par de petites routes et des pistes au bord de la Loire. Seule la sortie de Nantes, autour du quai Malakoff, demande de l'attention avec les plus jeunes.
+
+### Peut-on rentrer en train avec les vélos ?
+
+Oui, depuis la gare de Mauves-sur-Loire, sur la ligne TER Nantes – Angers, qui accepte les vélos selon les places disponibles. Le trajet vers Nantes est court.
+
+Pour aller plus loin, découvrez [Mauves-sur-Loire et ses bords de Loire](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire), puis l'étape suivante jusqu'à [Oudon et sa tour](https://www.bikentour.com/post/les-bords-de-loire-oudon).
+
+Article publié le 12 octobre 2021, mis à jour le 4 novembre 2026 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
 
 ![](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
@@ -49,16 +107,16 @@ Vers Angers et Saumur
 
 [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-mauves-sur-loire-1.webp)Balades à vélo
 
-### Les bords de Loire : Mauves-sur-Loire
+### Mauves-sur-Loire à vélo, village, île et guinguette
 
-Découvrez les bords de la Loire à vélo à Mauves-sur-Loire. Parcourez des pistes pittoresques, longez le…](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2.webp)Balades à vélo
+Mauves-sur-Loire, à 17,5 km à vélo de la boutique : la cale du port, l'île Ripoche, le pont-cage bleu et la…](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2.webp)Balades à vélo
 
-### Les bords de Loire : Oudon
+### Oudon à vélo, la tour médiévale au bord de Loire
 
-Découvrez les bords de la Loire à vélo à Oudon. Parcourez des chemins pittoresques le long du fleuve,…](https://www.bikentour.com/post/les-bords-de-loire-oudon)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-la-villa-cheminee-1.webp)Balades à vélo
+Oudon, à 30 km à vélo de la boutique par la Loire à Vélo : sa tour médiévale, son parcours de sculptures et…](https://www.bikentour.com/post/les-bords-de-loire-oudon)[![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-la-villa-cheminee-1.webp)Balades à vélo
 
-### Les bords de Loire : La villa cheminée
+### Villa Cheminée, la maison perchée de Tatzu Nishi
 
-Découvrez les bords de la Loire à vélo avec une visite de la Villa Cheminée. Parcourez des sentiers…](https://www.bikentour.com/post/les-bords-de-loire-la-villa-cheminee)
+La Villa Cheminée de Tatzu Nishi à Cordemais : une maison des années 1970 perchée sur une tour de 15 m face à…](https://www.bikentour.com/post/les-bords-de-loire-la-villa-cheminee)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

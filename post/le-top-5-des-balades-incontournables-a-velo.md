@@ -1,118 +1,163 @@
-# Le Top 5 des balades incontournables à vélo | Bike'N Tour
+# Top 5 des balades à vélo au départ de Nantes | Bike'N Tour
 
-> Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des itinéraires pittoresques, explorez des sites…
+> Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de Nantes et lac de Grand-Lieu.
 
 Page : https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
-[Balades à vélo](https://www.bikentour.com/fr/blog#balades) · 20 octobre 2021
+[Balades à vélo](https://www.bikentour.com/fr/blog#balades) · Mis à jour le 4 novembre 2026
 
-# Le Top 5 des balades incontournables à vélo
+# Top 5 des balades à vélo au départ de Nantes
 
-Découvrez le Top 5 des balades incontournables à vélo pour une exploration exceptionnelle. Parcourez des itinéraires pittoresques, explorez des sites emblématiques et vivez des aventures mémorables à deux roues. Réservez dès maintenant pour une expérience cycliste unique, alliant découverte, détente et plaisir à travers les meilleures balades sélectionnées.
+Nos 5 balades à vélo préférées au départ de Nantes, de 10 à 46 km : Sèvre nantaise, Erdre, estuaire, île de Nantes et lac de Grand-Lieu. Distances, niveaux et retours en train pour choisir la vôtre.
 
-![Le Top 5 des balades incontournables à vélo](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)
+![Top 5 des balades à vélo au départ de Nantes](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo.webp)
 
-## 1. La Sèvre Nantaise
-
-De Nantes à Clisson cette balade à vélo vous fera découvrir les bords de sèvre et ses magnifiques paysages. Entre la Chaussée des Moines à Vertou, les vignobles et la magnifique ville de Clisson (voir le chateau de Clisson), cet itinéraire regorge de lieux historiques et de paysages uniques. En s’appuyant sur les pistes cyclables Nantaises et les chemins de halage de [la Sèvre](https://www.bikentour.com/post/la-sevre-a-velo), le circuit vous permettra de longer une bonne partie de la rivière. Vous vous aventurerez ensuite dans les petites routes au cœur des domaines viticoles du vignoble Nantais.
-
-Arrivé à Clisson il est possible de prendre un TER pour faire le chemin retour cela vous fera gagner du temps et vous permettra de profiter plus longtemps de la ville. Le château de Clisson est un château médiéval à découvrir sur la rive gauche de la Sèvre nantaise.
+Voici nos cinq balades à vélo préférées au départ de notre boutique, au centre de Nantes, de la courte boucle en ville à la grande journée vers l'estuaire. Elles font de 10 à 46 km, sont toutes très peu vallonnées, et la plupart permettent de rentrer en train. Pour chacune, nous vous donnons la distance, le niveau et la meilleure façon de revenir.
 
 Distance
-:   36 km
+:   de 10 à 46 km selon la balade
 
 Durée
-:   2h30
+:   d'une heure à une journée
 
 Niveau
-:   débutant
+:   facile à modéré
 
-[Découvrez la balade à vélo sur les bords de Sèvre](https://www.bikentour.com/post/la-sevre-a-velo)
+Départ
+:   boutique Bike'N Tour, 19 rue Jean Jaurès, Nantes (tram T3, arrêt Jean Jaurès)
 
-[Retrouvez ici cet article intitulé "Balade incontournable à vélo : La Sèvre Nantaise"](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise)
+Retour
+:   à vélo ou en TER selon la balade
 
-![Le Top 5 des balades incontournables à vélo – photo 1](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-1.webp)
+## 1. La Sèvre nantaise jusqu'à Clisson
 
-## 2. L'Erdre à vélo
+Cette balade quitte Nantes vers le sud-est en suivant les bords de la Sèvre nantaise. Vous passez par la Chaussée des Moines à Vertou, un lieu de pause apprécié au bord de l'eau, puis vous entrez dans le vignoble du Muscadet par de petites routes. L'arrivée à Clisson est le grand moment : le château médiéval domine la Sèvre, et la Garenne Lemot donne à la ville ses airs d'Italie.
 
-Plusieurs itinéraires permettent de découvrir cette magnifique rivière à vélo.  Au départ du centre-ville vous pouvez opter pour 2 balades :
-
-- Une plutôt courte, environ 12 km qui vous permettra de longer les 2 rives en traversant au niveau du pont de la Jonelière. Cette balade vous permettra de découvrir les bords de l’Erdre dans la ville.
-- La deuxième de 37 km aller-retour, vous propose de longer la rive gauche de l’Erdre entre le centre-ville de Nantes et Sucé-sur-Erdre. Cette balade vous permettra de sortir de la ville et de découvrir un côté plus sauvage de l’Erdre.
+Le retour en TER depuis Clisson permet de profiter de la ville sans regarder la montre. Le détail du parcours est dans notre article [la Sèvre nantaise à vélo](https://www.bikentour.com/post/balade-incontournable-la-sevre-nantaise), et les bords de rivière dans [la Sèvre à vélo](https://www.bikentour.com/post/la-sevre-a-velo).
 
 Distance
-:   12/37 km
+:   37 km aller
 
 Durée
-:   1h10 / 2h45
+:   une journée
 
 Niveau
-:   Débutants
+:   modéré
 
-[Retrouvez ici cet article intitulé "Balade incontournable à vélo : L'Erdre à vélo"](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
+Retour
+:   en TER depuis Clisson (environ 20 minutes jusqu'à Nantes)
 
-![Le Top 5 des balades incontournables à vélo – photo 2](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2.webp)
+![Le château de Clisson et la Sèvre nantaise, à l'arrivée de la balade à vélo depuis Nantes](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-1.webp)
 
-## 3. La Loire à vélo, de Nantes à Cordemais
+## 2. L'Erdre jusqu'à Sucé-sur-Erdre
 
-De Nantes à Cordemais cet itinéraire un peu plus complexe que les précédents vous permettra de découvrir deux œuvres hors du commun placé le long de l’estuaire. À [Couëron](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs) vous découvrirez la maison dans la Loire et à Cordemais c’est la villa cheminée qui vous surprendra. Entre ses deux maisons extraordinaires vous parcourez les marais notamment à Couëron et découvrirez une nature reposante.
+L'Erdre, que l'on surnomme « la plus belle rivière de France » d'après une formule attribuée à François Ier, se découvre de deux façons. Dans Nantes, une boucle courte longe les deux rives et traverse au pont de la Jonelière : idéal pour une heure ou deux. Pour sortir de la ville, remontez la rivière jusqu'à Sucé-sur-Erdre : châteaux, belles demeures et guinguettes au bord de l'eau.
+
+À Sucé-sur-Erdre, la gare est desservie par le tram-train vers Nantes, pratique pour ne faire que l'aller à vélo. Tous nos conseils sont dans l'article [l'Erdre à vélo](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo).
 
 Distance
-:   43km
+:   18 km aller jusqu'à Sucé-sur-Erdre
 
 Durée
-:   3h
+:   une demi-journée
 
 Niveau
-:   habitué
+:   facile
 
-[Découvrez la balade à vélo entre Indre et Couëron](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)
+Retour
+:   à vélo ou en tram-train depuis Sucé-sur-Erdre
 
-[Retrouvez ici cet article intitulé "Balade incontournable à vélo : La Loire à vélo, de Nantes à Cordemais"](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais)
+![Pause au bord de l'Erdre avec deux vélos électriques posés près d'une table de pique-nique](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2.webp)
 
-![Le Top 5 des balades incontournables à vélo – photo 3](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-3.webp)
+## 3. La Loire à Vélo jusqu'à Cordemais
 
-## 4. L’île de Nantes
+Vers l'ouest, cette balade suit la Loire jusqu'à l'estuaire. À Couëron, la Maison dans la Loire de Jean-Luc Courcoult semble enlisée dans le fleuve. Vous traversez ensuite les marais par de petites routes très calmes, au milieu des roseaux et des oiseaux, jusqu'à la Villa Cheminée de Tatzu Nishi à Cordemais, une maison perchée sur une tour de 15 mètres.
 
-Plus courte cette balade vous fera découvrir ou redécouvrir cette île hors du commun, remplie d'œuvres d’arts et d’histoire. En partant de la nef des Machines vous longerez d’abord le bras nord de la Loire, celui de la Madeleine. Une fois arrivé à la pointe Est de l’île dans le parc de Beaulieu vous repartirez en direction de l’Ouest le long du bras de Pirmil. Vous arriverez alors au bout du quai Wilson ou vous vous retrouverez au pied d’un Titan de l’île, une des deux grues massives qui témoigne du passé industriel du lieu. Pour terminer votre balade, il vous suffira de remonter le quai des Antilles où vous découvrirez Les Anneaux, une des œuvres incontournables de la ville, et vous rejoindrez ensuite votre point de départ.
+Le parcours est plat, mais 46 km demandent une vraie journée. En hiver, les routes des marais peuvent être inondées. Tous les détails sont dans notre article [Nantes – Cordemais à vélo](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais).
 
 Distance
-:   10,5km
+:   46 km aller
 
 Durée
-:   1h
+:   une journée
 
 Niveau
-:   débutant
+:   modéré
 
-[Retrouvez ici cet article intitulé "Balade incontournable à vélo : L’île de Nantes"](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)
+Retour
+:   en TER depuis Cordemais (gare à environ 2,5 km du bourg)
 
-![Le Top 5 des balades incontournables à vélo – photo 4](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-4.webp)
+![La Maison dans la Loire à Couëron, œuvre de l'Estuaire sur la balade à vélo vers Cordemais](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-3.webp)
 
-## 5. Nantes au Lac de Grand-Lieu
+## 4. Le tour de l'île de Nantes
 
-Pour cette balade, il est recommandé de faire le trajet aller ou retour entre Nantes et Bouaye en train. Cela vous permettra de gagner du temps et de profiter pleinement de votre balade.
+La plus courte de la sélection, à faire en famille ou en fin de journée. Partez des Machines de l'île, installées dans les anciennes Nefs des chantiers navals, et longez d'abord le bras de la Madeleine, au nord. À la pointe est de l'île, au parc de Beaulieu, revenez vers l'ouest le long du bras de Pirmil.
 
-Ce trajet de 21 km entre Nantes et le lac de Grand lieu vous invite à découvrir différents sites incontournables présents sur le chemin. À Nantes vous pourrez ainsi découvrir le Mémorial de l’abolition de l’esclavage ainsi que la partie ouest de [l’ile](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes) avec les machines et les anneaux de Buren. Vous vous baladerez ensuite dans les petites rues colorées de [Trentemoult](https://www.bikentour.com/post/trentemoult-un-village-pittoresque) et découvrirez le Pendule de Signer. La balade vous mènera ensuite jusqu’à la maison du Lac de Grand lieu à Bouaye.  Pour les plus courageux une liaison en aller-retour de 9 km entre Bouaye et Pierre-Aigüe à St-Aignan de Grand-lieu vous permettra d’obtenir un point de vue unique sur le Lac.
+Au bout du quai Président-Wilson, à la pointe sud-ouest, vous passez au pied de la grue grise, l'une des deux grues Titan classées qui rappellent le passé portuaire de l'île. Remontez enfin le quai des Antilles et ses Anneaux de Daniel Buren avant de revenir au point de départ. Retrouvez le circuit détaillé dans [le tour de l'île de Nantes à vélo](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes).
 
 Distance
-:   21km
+:   une dizaine de kilomètres en boucle
 
 Durée
-:   1h23
+:   une heure à une heure et demie
 
 Niveau
-:   habitué
+:   facile
 
-[Découvrez la balade à vélo sur l'île de Nantes](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)
+Retour
+:   boucle au départ du centre de Nantes
 
-[En savoir plus sur Trentemoult et ses rues colorées](https://www.bikentour.com/post/trentemoult-un-village-pittoresque)
+![La grue Titan grise du quai Président-Wilson, à la pointe de l'île de Nantes](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-4.webp)
 
-[Retrouvez ici cet article intitulé "Balade incontournable à vélo : Nantes au Lac de Grand-Lieu"](https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu)
+## 5. Le lac de Grand-Lieu
 
-![Le Top 5 des balades incontournables à vélo – photo 5](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-5.webp)
+Cette balade part du Mémorial de l'abolition de l'esclavage, quai de la Fosse, puis traverse l'ouest de l'île de Nantes et ses Anneaux. Vous passez ensuite par les ruelles colorées de [Trentemoult](https://www.bikentour.com/post/trentemoult-un-village-pittoresque) et devant le Pendule de Roman Signer, avant de rejoindre la Maison du lac de Grand-Lieu à Bouaye.
 
-Article publié le 20 octobre 2021 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
+Le lac lui-même est difficile d'accès : il n'est visible qu'en quelques points. Les plus motivés poursuivront jusqu'à Pierre-Aigüe, à Saint-Aignan-Grandlieu, l'un des rares endroits d'où l'on approche le lac. Retour possible en TER depuis Bouaye. Plus de détails dans [Nantes – lac de Grand-Lieu à vélo](https://www.bikentour.com/post/balade-incontournable-de-nantes-au-lac-de-grand-lieu).
+
+Distance
+:   18 km aller jusqu'à Bouaye
+
+Durée
+:   une journée
+
+Niveau
+:   facile
+
+Retour
+:   en TER depuis Bouaye
+
+![Héron dans les eaux du lac de Grand-Lieu au coucher du soleil](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-5.webp)
+
+## Infos pratiques
+
+**Rentrer en train.** Clisson, Cordemais et Bouaye sont desservies par le TER Aléop, Sucé-sur-Erdre par le tram-train. Les vélos sont acceptés à bord selon les places disponibles : en été et le week-end, évitez les heures de pointe.
+
+**Faire une pause.** Chaque balade passe par des bourgs avec commerces. Sur l'Erdre et la Loire, des guinguettes ouvrent à la belle saison. Dans les marais de l'estuaire, en revanche, il n'y a rien : partez avec de l'eau.
+
+**Quand partir ?** D'avril à octobre, pendant notre saison d'ouverture. Le printemps est idéal pour les oiseaux du lac de Grand-Lieu et de l'estuaire, l'été pour les guinguettes, et septembre pour le vignoble au moment des vendanges.
+
+## Quel vélo choisir ?
+
+Pour l'île de Nantes, l'Erdre et le lac de Grand-Lieu, un [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit, avec des [vélos enfant](https://www.bikentour.com/fr/location-velo-enfant) si vous partez en famille. Pour Clisson et Cordemais, le [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) rend la journée plus légère, et le [gravel](https://www.bikentour.com/fr/location-gravel-nantes) se plaît sur les petites routes du [Vignoble nantais](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais). D'autres idées vous attendent sur notre page [idées de balades](https://www.bikentour.com/fr/idees-de-balades).
+
+## Questions fréquentes
+
+### Quelle est la balade la plus facile au départ de Nantes ?
+
+Le tour de l'île de Nantes, une dizaine de kilomètres en boucle, sans relief. Pour sortir de la ville, l'Erdre jusqu'à Sucé-sur-Erdre est aussi très accessible.
+
+### Peut-on rentrer en train avec un vélo de location ?
+
+Oui. Depuis Clisson, Cordemais et Bouaye en TER, et depuis Sucé-sur-Erdre en tram-train, dans la limite des places vélo disponibles.
+
+### Quelle balade choisir avec des enfants ?
+
+L'île de Nantes et l'Erdre sont les plus adaptées. Avec des enfants, comptez 20 à 30 km par jour au maximum, et pensez au siège bébé ou à la remorque pour les plus petits.
+
+Envie d'une autre sortie au fil de l'eau ? Essayez [Nantes – Mauves-sur-Loire par la Loire à Vélo](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-mauves-sur-loire) ou le grand parcours [de Nantes à Saint-Brevin par l'estuaire](https://www.bikentour.com/post/balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-saint-brevin-les-pins).
+
+Article publié le 20 octobre 2021, mis à jour le 4 novembre 2026 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
 
 Partir à vélo depuis Nantes
 
@@ -124,16 +169,16 @@ Six véloroutes partent de notre boutique, en plein centre de Nantes : on vous p
 
 [![](https://www.bikentour.com/assets/img/blog-balades-etonnantes-le-jardin-des-plantes-1.webp)Balades à vélo
 
-### Balades étonnantes : Le Jardin des Plantes
+### Jardin des Plantes de Nantes – visite et accès à vélo
 
-Découvrez des balades étonnantes au Jardin des Plantes. Explorez ce havre de verdure au cœur de Nantes,…](https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais-1.webp)Balades à vélo
+Le Jardin des Plantes de Nantes : 7 hectares labellisés Jardin remarquable face à la gare, à moins de 2 km de…](https://www.bikentour.com/post/balades-etonnantes-le-jardin-des-plantes)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais-1.webp)Balades à vélo
 
-### Balade incontournable à vélo : La balade des 2 Bacs
+### Balade des 2 bacs à vélo entre Indre et Couëron
 
-Explorez l'incontournable balade à vélo : La Balade des 2 Bacs. Parcourez des itinéraires pittoresques entre…](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
+La balade des 2 bacs : une boucle de 16 km à vélo entre Indre et Couëron, qui traverse deux fois la Loire en…](https://www.bikentour.com/post/balade-incontournable-la-balade-des-2-bacs)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
-### Balade incontournable à vélo : Le Voyage à vélo
+### Premier voyage à vélo depuis Nantes : bien le préparer
 
-Explorez l'incontournable balade à vélo : Le Voyage à vélo. Parcourez des itinéraires pittoresques, découvrez…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
+Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

@@ -1,34 +1,99 @@
-# Château des Dervallières | Bike'N Tour
+# Château des Dervallières – histoire et vestiges | Bike'N Tour
 
-> Découvrez le Château des Dervallières à vélo pour une escapade historique. Parcourez les environs pittoresques, explorez ce site patrimonial, et plongez-vous…
+> Château des Dervallières, à l'ouest de Nantes : d'un domaine de 71 hectares restent une façade, un pigeonnier et un parc, à 3 km environ de notre boutique.
 
 Page : https://www.bikentour.com/post/chateau-des-dervallieres · Bike'N Tour, 19 rue Jean Jaurès, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
-[À voir à Nantes](https://www.bikentour.com/fr/blog#nantes) · 12 octobre 2021
+[À voir à Nantes](https://www.bikentour.com/fr/blog#nantes) · Mis à jour le 5 novembre 2026
 
-# Château des Dervallières
+# Château des Dervallières – histoire et vestiges
 
-Découvrez le Château des Dervallières à vélo pour une escapade historique. Parcourez les environs pittoresques, explorez ce site patrimonial, et plongez-vous dans l'histoire de ce château emblématique. Réservez dès maintenant votre aventure à vélo pour une visite mémorable, entre patrimoine, nature et détente à deux roues.
+Château des Dervallières, à l'ouest de Nantes : d'un domaine de 71 hectares restent une façade, un pigeonnier et un parc, à 3 km environ de notre boutique. Son histoire, des barons de Derval à la démolition de 1987, et nos conseils pour y aller à vélo.
 
-![Château des Dervallières](https://www.bikentour.com/assets/img/blog-chateau-des-dervallieres-1.webp)
+![Château des Dervallières – histoire et vestiges](https://www.bikentour.com/assets/img/blog-chateau-des-dervallieres-1.webp)
 
-À l’origine situé sur la commune de Chantenay-sur-Loire, le domaine des Dervallières s'étendait sur 71 hectares.
+Le château des Dervallières était le cœur d'un grand domaine seigneurial à l'ouest de Nantes. Démoli en 1987, il n'en reste que la base et la façade du pavillon central, ainsi qu'un pigeonnier et un parc de quartier. C'est une sortie à vélo hors des sentiers touristiques, à environ 3 km de notre boutique, pour lire l'histoire de la ville dans un quartier d'aujourd'hui.
 
-Le domaine tient son nom de ses premiers propriétaires, les seigneurs de la Baronnie de Derval. Avant le XVe siècle cette famille possédait un hôtel particulier dans le centre de Nantes, l’hôtel Derval. Il est aujourd’hui devenu un des bâtiments de l’Hôtel de ville de Nantes, les Dervallières était alors une simple résidence de campagne.
+Distance
+:   environ 3 km depuis la boutique, à vol d'oiseau
 
-C’est au XVIe siècle qu’un premier château fut construit sur le domaine par les Derval. Deux siècles plus tard, le domaine est revendu et change de propriétaires à de nombreuses reprises. C’est au XIXe siècle que la famille De la Brosse rachète le domaine et y fait construire un château du même nom. Ce sont les vestiges de ce château de tuffeau orné d’armoiries que l’on peut aujourd’hui observer.
+Durée
+:   un quart d'heure à vélo, une heure sur place
 
-En 1893, en plus d’un vaste château, on retrouve dans le domaine de 71 hectares une chapelle, des moulins et des fermes ainsi que des bois, des prairies et un étang qui est toujours visible aujourd’hui.
+Niveau
+:   facile, avec quelques montées : le site est vallonné
 
-Le domaine vit apparaître ses premiers lotissements en 1926 et 1934. Après la Seconde Guerre mondiale, une partie du domaine est exproprié pour la construction d’une cité HLM. Cette cité est construite entre 1950 et 1960 et le château est alors racheté par la ville. Il est occupé par des associations du quartier pendant de nombreuses années. Un projet pour le convertir en auberge de jeunesse voit ensuite le jour en 1968 mais n’aboutit pas en raison de l’ampleur des travaux à prévoir.
+Accès
+:   parc des Dervallières, rue Louis-Le-Nain (bus C6, arrêt Saint-Laurent)
 
-Laissé à l'abandon, l'édifice finit par tomber en ruine, il est finalement démoli en 1987. La façade du pavillon central est néanmoins conservée et reste aujourd’hui visible.
+## Un peu d'histoire
 
-Pour en apprendre plus sur l’histoire de Nantes dans nos prochains posts, abonnez-vous à nos réseaux ainsi qu’à notre newsletter sur Bikentour.com.
+### Des barons de Derval aux armateurs
 
-[Voir ici toutes nos balades à vélo et articles de blog](https://www.bikentour.com/fr/blog)
+Le domaine tient son nom de ses premiers propriétaires, les barons de Derval. Avant le XVe siècle, ils possédaient à Nantes un hôtel particulier, l'hôtel de Derval, dont l'emplacement correspond aujourd'hui à la cour de l'hôtel de ville. Les Dervallières étaient alors leur résidence à la campagne.
 
-Article publié le 12 octobre 2021 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
+Un premier château est construit au XVIe siècle. Environ deux siècles plus tard, la seigneurie passe aux Stapleton, une riche famille irlandaise propriétaire de grands domaines à Saint-Domingue. Au XIXe siècle, le domaine revient aux La Rochefoucauld, puis aux La Brosse. Un château en tuffeau orné d'armoiries est alors bâti.
+
+### Un domaine de 71 hectares
+
+En 1893, le domaine couvre 71 hectares. On y trouve un grand château, une chapelle, plusieurs fermes, des moulins, des bois, des prairies et un étang. Il fait alors partie de la commune de Chantenay, rattachée à Nantes en 1908.
+
+Le relief explique beaucoup de choses : le site est creusé de pentes et de vallons, avec plusieurs dizaines de mètres de dénivelé. La partie haute est au sud, la partie basse au nord, le long de la Chézine.
+
+### Du lotissement à la cité
+
+Le XXe siècle découpe peu à peu le domaine. Un premier lotissement est tracé en 1926 au Petit-Carcouët, un second est approuvé en 1934 de l'autre côté de la Chézine. À partir de 1950, des terrains sont expropriés pour construire une cité d'habitat social.
+
+La Ville de Nantes rachète ensuite le château. Il accueille d'abord des associations du quartier. En 1968, un projet de transformation en auberge de jeunesse est abandonné, faute de moyens face au coût des travaux. Après des années d'abandon, la démolition est décidée en 1987. Seuls la base et la façade du pavillon central sont conservés.
+
+## Ce qu'il faut voir
+
+### La façade du pavillon central
+
+Avec sa base, c'est tout ce qui a été conservé du château lors de la démolition de 1987. Elle rappelle qu'un domaine seigneurial occupait autrefois tout ce coteau, aujourd'hui couvert par le quartier.
+
+### Le pigeonnier
+
+Autre vestige du domaine, le pigeonnier est une tour du XVIIe siècle qui compte 400 boulins, ces niches où nichaient les couples de pigeons. Fermé pendant une quarantaine d'années, il a été rouvert et inauguré le 21 mai 2024 comme lieu associatif, avec des animations et un potager.
+
+### Le parc des Dervallières
+
+Le parc de 7 hectares offre un espace nature, une aire de jeux et un skatepark, avec des tables de pique-nique. Le quartier est en pleine transformation, avec notamment une ferme urbaine installée dans le parc réaménagé.
+
+## Y aller à vélo depuis la boutique
+
+Depuis notre boutique, prenez la direction de l'ouest vers le quartier des Dervallières. Le trajet est court, mais le site est vallonné : la descente vers la Chézine se paie au retour. Un vélo électrique rend la sortie beaucoup plus confortable.
+
+Pour une boucle plus longue, revenez par l'ouest de la ville et les bords de Loire, côté Chantenay, l'ancienne commune dont dépendait le domaine.
+
+## Infos pratiques
+
+- **Saison :** notre boutique est ouverte d'avril à octobre.
+- **Pause :** le parc a des tables de pique-nique.
+- **Respect des lieux :** les vestiges se trouvent dans un quartier habité. Le pigeonnier ouvre lors des animations de l'association qui l'occupe.
+- **Stationnement :** attachez votre vélo au cadre avant de vous promener à pied dans le parc.
+
+## Quel vélo choisir ?
+
+Le relief du quartier plaide pour le [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage). Un [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) convient aussi aux cyclistes à l'aise dans les côtes. Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation). Pour découvrir le centre historique avec un guide, essayez notre [tour du panorama nantais](https://www.bikentour.com/fr/tour/tour-du-panorama-nantais), au départ de la place de Bretagne.
+
+## Questions fréquentes
+
+### Peut-on visiter le château des Dervallières ?
+
+Le château a été démoli en 1987. Il en reste la base et la façade du pavillon central. Le pigeonnier, autre vestige du domaine, ouvre lors des animations de l'association qui l'occupe, et le parc est accessible.
+
+### Pourquoi s'appelle-t-il les Dervallières ?
+
+Le nom vient de ses premiers propriétaires, les barons de Derval, qui avaient aussi un hôtel particulier dans le centre de Nantes.
+
+### Le trajet à vélo est-il difficile ?
+
+Il est court, environ 3 km à vol d'oiseau, mais vallonné. Avec un vélo électrique, il devient facile.
+
+[À lire aussi : Suivre la ligne verte du Voyage à Nantes à vélo](https://www.bikentour.com/post/le-voyage-a-nantes-2021-a-deja-commence) et [Chantenay-sur-Loire](https://www.bikentour.com/post/chantenay-sur-loire).
+
+Article publié le 12 octobre 2021, mis à jour le 5 novembre 2026 par l'équipe Bike'N Tour, loueur de vélos de voyage au 19 rue Jean Jaurès à Nantes.
 
 ![](https://www.bikentour.com/assets/img/v2-groupe-elephant.webp)
 
@@ -44,16 +109,16 @@ Visite guidée à vélo électrique
 
 [![](https://www.bikentour.com/assets/img/blog-la-butte-de-la-roche-1.webp)À voir à Nantes
 
-### La Butte de la Roche
+### Butte de la Roche – le belvédère du marais de Goulaine
 
-Découvrez la beauté naturelle de La Butte de la Roche à vélo. Parcourez des sentiers pittoresques, explorez…](https://www.bikentour.com/post/la-butte-de-la-roche)[![](https://www.bikentour.com/assets/img/blog-les-titans-de-nantes.webp)À voir à Nantes
+La Butte de la Roche, point culminant du marais de Goulaine à 47 m d'altitude, se trouve au Loroux-Bottereau,…](https://www.bikentour.com/post/la-butte-de-la-roche)[![](https://www.bikentour.com/assets/img/blog-les-titans-de-nantes.webp)À voir à Nantes
 
-### Les Titans de Nantes
+### Grues Titan de Nantes – les géantes de l'île de Nantes
 
-Explorez les Titans de Nantes à vélo pour une expérience unique. Parcourez la ville à deux roues, découvrez…](https://www.bikentour.com/post/les-titans-de-nantes)[![](https://www.bikentour.com/assets/img/blog-la-butte-saint-anne-1.webp)À voir à Nantes
+Les grues Titan, la jaune et la grise, veillent sur l'ouest de l'île de Nantes, à 2-3 km de notre boutique :…](https://www.bikentour.com/post/les-titans-de-nantes)[![](https://www.bikentour.com/assets/img/blog-la-butte-saint-anne-1.webp)À voir à Nantes
 
-### La Butte Saint Anne
+### Butte Sainte-Anne à Nantes – vues sur la Loire
 
-Explorez la Butte Sainte-Anne à vélo pour une expérience unique à Nantes. Parcourez les ruelles pittoresques,…](https://www.bikentour.com/post/la-butte-saint-anne)
+La butte Sainte-Anne domine la Loire à 2 km de notre boutique : escalier de 121 marches, musée Jules Verne,…](https://www.bikentour.com/post/la-butte-saint-anne)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)
