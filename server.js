@@ -57,7 +57,7 @@ function resolve(urlPath) {
 // Variables Railway : GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET (application OAuth GitHub), GITHUB_REPO (ex. compte/bikentour)
 const crypto = require('crypto');
 const SITE_URL = process.env.SITE_URL || 'https://www.bikentour.com';
-const ALLOWED_HOSTS = (process.env.ALLOWED_DOMAINS || 'www.bikentour.com,bikentour.com,localhost')
+const ALLOWED_HOSTS = (process.env.ALLOWED_DOMAINS || 'www.bikentour.com,bikentour.com,localhost,site-web-production-9d63.up.railway.app')
   .split(',').map(s => new RegExp('^' + s.trim().replace(/[.+?^${}()|[\]\\]/g, '\\$&').replace(/\*/g, '.+') + '$'));
 const SCOPES = ['repo', 'public_repo', 'user'];
 
@@ -226,10 +226,21 @@ async function handleGpx(req, res) {
   }
 }
 
-function adminConfig(res) {
+// Adresse du site telle que vue par le navigateur (www.bikentour.com ou l'adresse Railway) : la connexion
+// du CMS doit s'ouvrir sur le même domaine que la page /admin, sinon le cookie de session n'est pas envoyé.
+function originOf(req) {
+  const host = String((req.headers['x-forwarded-host'] || req.headers.host || '')).split(',')[0].trim().toLowerCase();
+  const name = host.replace(/:\d+$/, '');
+  if (!name || !ALLOWED_HOSTS.some(r => r.test(name))) return SITE_URL;
+  const local = name === 'localhost';
+  const proto = local ? 'http' : 'https';
+  return `${proto}://${host}`;
+}
+
+function adminConfig(req, res) {
   const yml = fs.readFileSync(path.join(ROOT, 'admin', 'config.yml'), 'utf8')
     .replace('__GITHUB_REPO__', process.env.GITHUB_REPO || 'compte/bikentour')
-    .replace('__SITE_URL__', SITE_URL);
+    .replace('__SITE_URL__', originOf(req));
   res.writeHead(200, { 'Content-Type': TYPES['.yml'], 'Cache-Control': 'no-cache', 'X-Robots-Tag': 'noindex', ...SECURITY_HEADERS });
   res.end(yml);
 }
@@ -252,7 +263,7 @@ http.createServer((req, res) => {
         if (u.pathname === '/admin' || u.pathname === '/admin/' || u.pathname.endsWith('.html')) { res.writeHead(303, { Location: '/admin/login', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end(); }
         res.writeHead(401, { 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
       }
-      if (u.pathname === '/admin/config.yml') return adminConfig(res);
+      if (u.pathname === '/admin/config.yml') return adminConfig(req, res);
       if (u.pathname === '/admin') { res.writeHead(301, { Location: '/admin/', ...SECURITY_HEADERS }); return res.end(); }
     }
   }
