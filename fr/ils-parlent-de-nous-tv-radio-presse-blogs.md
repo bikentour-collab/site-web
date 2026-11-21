@@ -28,7 +28,7 @@ Bike'N Tour a été invité sur RTL2, NRJ et Fun Radio.
 
 Bike'N Tour est un loueur de vélos installé au 27 quai de Versailles, au bord de l'Erdre, face à l'île de Versailles (tram ligne 2, arrêt Saint-Mihiel). La boutique est ouverte d'avril à octobre et porte le label Accueil Vélo.
 
-- **5 types de vélos à louer :** vélo de voyage, vélo électrique, vélo gravel, vélo enfant, vélo cargo, avec antivol, kit anti-crevaison et éclairage.
+- **4 types de vélos à louer :** vélo de voyage, vélo électrique, vélo gravel, vélo enfant, avec antivol, kit anti-crevaison et éclairage.
 - **6 grandes véloroutes au départ de la boutique :** La Loire à Vélo, La Vélodyssée, La Régalante, La Traversée bretonne, Le Canal de Nantes à Brest, Le Vignoble nantais.
 - **3 visites guidées de Nantes à vélo électrique**, et des sorties sur mesure pour les groupes et les entreprises.
 - **Note Google :** 5,0/5 sur 206 avis.

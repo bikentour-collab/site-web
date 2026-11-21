@@ -86,7 +86,7 @@ El circuito es llano: todas nuestras bicicletas son adecuadas.
 
 - **La [bicicleta de viaje](https://www.bikentour.com/es/bicicleta-de-viaje)**: cómoda, con 9 velocidades y una posición erguida. Es más que suficiente para este recorrido.
 - **La [bicicleta eléctrica](https://www.bikentour.com/es/bicicleta-electrica)**: útil si prolonga la salida hacia Trentemoult o las orillas del Loira, o si quiere circular sin esfuerzo.
-- **La [bicicleta de carga eléctrica](https://www.bikentour.com/es/bicicleta-de-carga)**: perfecta para llevar a los niños y el pícnic.
+- **El [remolque infantil](https://www.bikentour.com/es/alquiler-accesorios-bicicleta)**: perfecto para llevar a los más pequeños y el pícnic.
 
 Las tarifas por día, fin de semana o semana están en nuestra página [tarifas y reservas](https://www.bikentour.com/es/precios). ¿Prefiere ir con guía? Nuestro [tour del panorama de Nantes](https://www.bikentour.com/es/tour-panoramico-de-nantes) pasa por la isla de Nantes y el Elefante, en bicicleta eléctrica y con un guía local. Descubra también nuestras otras [ideas de rutas](https://www.bikentour.com/es/paseos-en-bicicleta-desde-nantes).
 
@@ -98,7 +98,7 @@ Calcule alrededor de una hora para los 10,5 km sin paradas. Con una pausa en las
 
 ### ¿La vuelta a la isla de Nantes en bicicleta es adecuada para niños?
 
-Sí: el recorrido es llano y corto. Esté atento en los muelles compartidos con los peatones. Alquilamos bicicletas infantiles, sillitas de bebé y una bicicleta de carga.
+Sí: el recorrido es llano y corto. Esté atento en los muelles compartidos con los peatones. Alquilamos bicicletas infantiles, sillitas de bebé y un remolque infantil.
 
 ### ¿Se puede ver el Arbre aux Hérons en Nantes?
 

@@ -86,7 +86,7 @@ De lus is vlak: al onze fietsen zijn geschikt.
 
 - **De [toerfiets](https://www.bikentour.com/nl/toerfiets)**: comfortabel, met 9 versnellingen en een rechtopzittende houding. Ruim voldoende voor deze route.
 - **De [elektrische fiets](https://www.bikentour.com/nl/elektrische-fiets)**: handig als u de tocht verlengt naar Trentemoult of langs de Loire, of als u zonder moeite wilt fietsen.
-- **De [elektrische bakfiets](https://www.bikentour.com/nl/bakfiets)**: perfect om de kinderen en de picknick mee te nemen.
+- **De [kinderaanhanger](https://www.bikentour.com/nl/fietsaccessoires-huren)**: perfect om de kleintjes en de picknick mee te nemen.
 
 De tarieven per dag, weekend of week staan op onze pagina [tarieven en reserveren](https://www.bikentour.com/nl/prijs). Liever met een gids? Onze [panoramatour door Nantes](https://www.bikentour.com/nl/de-panoramische-fietstour-door-nantes) komt langs het Île de Nantes en de Olifant, op een elektrische fiets en met een lokale gids. Bekijk ook onze andere [ideeën voor fietstochten](https://www.bikentour.com/nl/fietstochten-vanuit-nantes).
 
@@ -98,7 +98,7 @@ Reken op ongeveer een uur voor de 10,5 km zonder te stoppen. Met een pauze bij d
 
 ### Is het rondje Île de Nantes per fiets geschikt voor kinderen?
 
-Ja: de route is vlak en kort. Let goed op op de kades die u deelt met voetgangers. Wij verhuren kinderfietsen, kinderzitjes en een bakfiets.
+Ja: de route is vlak en kort. Let goed op op de kades die u deelt met voetgangers. Wij verhuren kinderfietsen, kinderzitjes en een kinderaanhanger.
 
 ### Is de Arbre aux Hérons in Nantes te zien?
 

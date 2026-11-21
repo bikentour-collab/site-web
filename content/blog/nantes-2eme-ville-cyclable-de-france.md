@@ -63,7 +63,7 @@ Notre boutique se trouve au 27 quai de Versailles, au bord de l'Erdre, face à l
 - **Pour la ville et les balades à la journée :** le [vélo de voyage](/fr/location-velo-de-voyage), confortable et robuste.
 - **Pour les longues étapes ou les côtes :** le [vélo électrique](/fr/location-velo-electrique-voyage), avec environ 100 km d'autonomie en mode éco.
 - **Pour les chemins et le vignoble :** le [gravel](/fr/location-gravel-nantes).
-- **En famille :** le [vélo cargo électrique](/fr/location-velo-cargo) et nos [vélos enfant](/fr/location-velo-enfant).
+- **En famille :** le [siège bébé, la remorque enfant](/fr/location-accessoires-velo) et nos [vélos enfant](/fr/location-velo-enfant).
 
 Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation). Pour découvrir la ville avec un guide, voyez nos [visites guidées de Nantes](/fr/visites-guidees-nantes) à vélo électrique.
 

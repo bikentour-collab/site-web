@@ -5,7 +5,7 @@
    "questions": [
     {
      "question": "¿Qué bicicletas se pueden alquilar en Bike'N Tour en Nantes?",
-     "reponse": "Bicicletas de viaje Velo de Ville, bicicletas eléctricas Sunn con motor Bosch, gravel Sunn, bicicletas infantiles de 20 a 26 pulgadas y una bicicleta de carga eléctrica Babboe. La sillita de bebé y el remolque están disponibles como opción."
+     "reponse": "Bicicletas de viaje Velo de Ville, bicicletas eléctricas Sunn con motor Bosch, gravel Sunn y bicicletas infantiles de 20 a 26 pulgadas. La sillita de bebé y el remolque están disponibles como opción."
     },
     {
      "question": "¿Se puede alquilar una bicicleta para varios días o varias semanas?",
@@ -47,7 +47,7 @@
    "questions": [
     {
      "question": "¿Qué fianza se pide?",
-     "reponse": "500 € por una bicicleta de viaje o infantil y 1000 € por una gravel, una eléctrica o una de carga, con un máximo de 2000 € para varias bicicletas."
+     "reponse": "500 € por una bicicleta de viaje o infantil y 1000 € por una gravel o una eléctrica, con un máximo de 2000 € para varias bicicletas."
     },
     {
      "question": "¿Qué ocurre en caso de daños o robo?",

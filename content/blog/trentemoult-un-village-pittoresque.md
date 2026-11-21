@@ -65,7 +65,7 @@ Trentemoult est sur l'itinéraire commun de la Loire à Vélo et de la Vélodyss
 
 ## Quel vélo choisir ?
 
-Le trajet est plat : notre [vélo de voyage](/fr/location-velo-de-voyage) est parfait. Si vous prolongez vers Grand-Lieu ou l'estuaire, le [vélo électrique](/fr/location-velo-electrique-voyage) rend la journée plus légère. En famille, pensez au [vélo cargo électrique](/fr/location-velo-cargo). Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation). Retrouvez aussi nos [idées de balades](/fr/idees-de-balades).
+Le trajet est plat : notre [vélo de voyage](/fr/location-velo-de-voyage) est parfait. Si vous prolongez vers Grand-Lieu ou l'estuaire, le [vélo électrique](/fr/location-velo-electrique-voyage) rend la journée plus légère. En famille, pensez au [siège bébé et à la remorque enfant](/fr/location-accessoires-velo). Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation). Retrouvez aussi nos [idées de balades](/fr/idees-de-balades).
 
 ## Questions fréquentes
 

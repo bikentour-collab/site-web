@@ -590,7 +590,7 @@ def fleet():
 <h3><a href="{b['url']}">{esc(b['name'])}</a></h3><p>{esc(b['brand'])} · {esc(b['model'])}</p><p class="price">{T("Dès {day} € / jour · {week} € la semaine", day=b['day'], week=b['week'])}</p></article>''' for b in BIKES)
     acc = ''.join(f'<tr><th scope="row">{esc(n)}</th><td>{T("{price} € / jour", price=p)}</td></tr>' for n, p in ACCESSORIES)
     body = f'''
-{phero('Nos vélos', 'Nos vélos de location à Nantes', "Des vélos récents et entretenus après chaque location : vélos de voyage Velo de Ville, vélos électriques et gravels Sunn fabriqués en Loire-Atlantique, vélos enfant et cargo. Tous réglés à votre taille avant le départ.", 'v2-flotte-boutique.webp', 1400, 933, 'Les vélos de voyage Bike\'N Tour devant la boutique à Nantes', f'<div class="hero-actions">{BOOK_BTN}<a class="btn btn-ghost" href="/fr/nos-tarifs-reservation">Tarifs détaillés</a></div>')}
+{phero('Nos vélos', 'Nos vélos de location à Nantes', "Des vélos récents et entretenus après chaque location : vélos de voyage Velo de Ville, vélos électriques et gravels Sunn fabriqués en Loire-Atlantique, vélos enfant. Tous réglés à votre taille avant le départ.", 'v2-flotte-boutique.webp', 1400, 933, 'Les vélos de voyage Bike\'N Tour devant la boutique à Nantes', f'<div class="hero-actions">{BOOK_BTN}<a class="btn btn-ghost" href="/fr/nos-tarifs-reservation">Tarifs détaillés</a></div>')}
 <section class="section"><div class="wrap"><h2>La flotte</h2><div class="bikes bikes-5">{cards}</div></div></section>
 <section class="section section-tint"><div class="wrap two-col">
   <div class="prose">
@@ -703,7 +703,7 @@ def pricing():
 </div></section>
 {cta_band()}'''
     page('/fr/nos-tarifs-reservation', T("Tarifs location vélo Nantes {year} : dès {price} €/jour | Bike'N Tour", year=datetime.date.today().year, price=MIN_DAY),
-         T("Tarifs de location de vélos à Nantes : voyage {voyage} €/jour, électrique {electrique} €, gravel {gravel} €, enfant {enfant} €, cargo {cargo} €. Grille jour par jour, accessoires.", **{k: DAY(k) for k in BIKE}),
+         T("Tarifs de location de vélos à Nantes : voyage {voyage} €/jour, électrique {electrique} €, gravel {gravel} €, enfant {enfant} €. Grille jour par jour, accessoires.", **{k: DAY(k) for k in BIKE}),
          [CRUMB_HOME, ('Tarifs', None)], body, [faq_ld(qas)] + [product_ld(b) for b in BIKES], img='v2-depart-boutique.webp', priority='0.9', brief=fleet_brief())
 
 

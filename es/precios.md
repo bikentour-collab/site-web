@@ -1,6 +1,6 @@
 # Precios alquiler bici Nantes 2026: desde 20 €/día | Bike'N Tour
 
-> Precios de alquiler de bicis en Nantes: de viaje 22 €/día, eléctrica 35 €, gravel 35 €, infantil 20 €, de carga 50 €. Tabla día a día y accesorios.
+> Precios de alquiler de bicis en Nantes: de viaje 22 €/día, eléctrica 35 €, gravel 35 €, infantil 20 €. Tabla día a día y accesorios.
 
 Page : https://www.bikentour.com/es/precios · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -18,9 +18,9 @@ Precios sencillos y decrecientes, con candado, kit antipinchazos y luces incluid
 
 ![Salida en bici desde la tienda en Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)
 
-**En resumen.** Precios 2026 de alquiler de bicis en Bike'N Tour, 27 quai de Versailles, Nantes: bicicleta de viaje: 22 € al día, 110 € la semana; bicicleta eléctrica: 35 € al día, 172 € la semana; bicicleta gravel: 35 € al día, 172 € la semana; bicicleta infantil: 20 € al día, 88 € la semana; bicicleta de carga: 50 € al día, 200 € la semana. Candado, kit antipinchazos y luces incluidos. Solo ida con presupuesto a medida, cancelación gratuita hasta 48 h antes de la salida.
+**En resumen.** Precios 2026 de alquiler de bicis en Bike'N Tour, 27 quai de Versailles, Nantes: bicicleta de viaje: 22 € al día, 110 € la semana; bicicleta eléctrica: 35 € al día, 172 € la semana; bicicleta gravel: 35 € al día, 172 € la semana; bicicleta infantil: 20 € al día, 88 € la semana. Candado, kit antipinchazos y luces incluidos. Solo ida con presupuesto a medida, cancelación gratuita hasta 48 h antes de la salida.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 
@@ -30,7 +30,6 @@ Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44
 | [Bicicleta eléctrica](https://www.bikentour.com/es/bicicleta-electrica) | 35 € | 62 € | 172 € | 3 € / día | 1 000 € |
 | [Bicicleta gravel](https://www.bikentour.com/es/bicicleta-gravel) | 35 € | 62 € | 172 € | 3 € / día | 1 000 € |
 | [Bicicleta infantil](https://www.bikentour.com/es/bicicleta-infantil) | 20 € | 38 € | 88 € | 2 € / día | 500 € |
-| [Bicicleta de carga](https://www.bikentour.com/es/bicicleta-de-carga) | 50 € | 95 € | 200 € | Consúltenos | 1 000 € |
 
 ## Tabla completa, de 1 a 7 días
 

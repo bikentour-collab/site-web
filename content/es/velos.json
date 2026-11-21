@@ -119,31 +119,6 @@
         }
       ],
       "why": "En la Loire à Vélo, los tramos de vía segregada y el perfil muy llano permiten a los niños circular con seguridad. Calcule de 20 a 30 km al día con niños."
-    },
-    {
-      "name": "Bicicleta de carga",
-      "h1": "Alquiler de bicicletas de carga eléctricas en Nantes",
-      "alt": "Bicicleta de carga eléctrica Babboe de alquiler en Nantes",
-      "brand": "Babboe",
-      "model": "Mini Mountain (eléctrica)",
-      "title": "Alquiler bici de carga eléctrica en Nantes | Bike'N Tour",
-      "meta": "Alquile una bicicleta de carga eléctrica Babboe en Nantes para pasear a los niños: motor Shimano, 80 km de autonomía, protección para la lluvia. 50 € al día.",
-      "lead": "Una bicicleta de carga eléctrica para llevar a los niños (o el pícnic) por Nantes y por las orillas del Loira.",
-      "specs": [
-        {
-          "label": "Motor",
-          "valeur": "Shimano, unos 80 km de autonomía"
-        },
-        {
-          "label": "Transmisión",
-          "valeur": "Buje de variación continua Enviolo"
-        },
-        {
-          "label": "Equipamiento",
-          "valeur": "Cojines de asiento, protección para la lluvia bajo petición"
-        }
-      ],
-      "why": "Perfecta para paseos de un día por los alrededores de Nantes, por ejemplo hasta Mauves-sur-Loire y sus guinguettes, los merenderos junto al río (17,5 km)."
     }
   ],
   "accessoires": [

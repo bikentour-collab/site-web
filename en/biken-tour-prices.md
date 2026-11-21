@@ -1,6 +1,6 @@
 # Bike Hire Prices Nantes 2026: from €20/day | Bike'N Tour
 
-> Bike hire prices in Nantes: touring €22/day, e-bike €35, gravel €35, kids' €20, cargo €50. Day-by-day price table, accessories.
+> Bike hire prices in Nantes: touring €22/day, e-bike €35, gravel €35, kids' €20. Day-by-day price table, accessories.
 
 Page : https://www.bikentour.com/en/biken-tour-prices · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -18,9 +18,9 @@ Simple prices that get cheaper the longer you ride, with lock, puncture repair k
 
 ![Setting off by bike from the shop in Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)
 
-**In short.** 2026 bike hire prices at Bike'N Tour, 27 quai de Versailles in Nantes: touring bike €22 a day, €110 a week; e-bike €35 a day, €172 a week; gravel bike €35 a day, €172 a week; kids' bike €20 a day, €88 a week; cargo bike €50 a day, €200 a week. Lock, puncture repair kit and lights included. One-way hire on request, free cancellation up to 48 hours before you set off.
+**In short.** 2026 bike hire prices at Bike'N Tour, 27 quai de Versailles in Nantes: touring bike €22 a day, €110 a week; e-bike €35 a day, €172 a week; gravel bike €35 a day, €172 a week; kids' bike €20 a day, €88 a week. Lock, puncture repair kit and lights included. One-way hire on request, free cancellation up to 48 hours before you set off.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 21, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 
@@ -30,7 +30,6 @@ Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 | [E-bike](https://www.bikentour.com/en/electric-touring-bike) | 35 € | 62 € | 172 € | €3 a day | 1,000 € |
 | [Gravel bike](https://www.bikentour.com/en/gravel-bike) | 35 € | 62 € | 172 € | €3 a day | 1,000 € |
 | [Kids' bike](https://www.bikentour.com/en/childrens-bicycle) | 20 € | 38 € | 88 € | €2 a day | 500 € |
-| [Cargo bike](https://www.bikentour.com/en/cargo-bike) | 50 € | 95 € | 200 € | Ask us | 1,000 € |
 
 ## Full price table, from 1 to 7 days
 

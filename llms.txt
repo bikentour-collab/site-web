@@ -16,7 +16,6 @@
 - [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) (Sunn (Loire-Atlantique), Start S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 €
 - [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) (Sunn (Loire-Atlantique), Venture S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 €
 - [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) (Decathlon, 20, 24 ou 26 pouces) : 20 €/jour, 38 € le week-end, 88 € la semaine ; caution 500 €
-- [Vélo cargo](https://www.bikentour.com/fr/location-velo-cargo) (Babboe, Mini Mountain (électrique)) : 50 €/jour, 95 € le week-end, 200 € la semaine ; caution 1 000 €
 - Grille complète de 1 à 7 jours : https://www.bikentour.com/fr/nos-tarifs-reservation#grille (PDF : https://www.bikentour.com/assets/pdf/grille-tarifs-bike-n-tour.pdf)
   - Vélo de voyage : 1 j 22 €, 2 j 39 €, 3 j 52 €, 4 j 70 €, 5 j 82 €, 6 j 96 €, 7 j 110 €, jour suppl. +12 €
   - Vélo électrique : 1 j 35 €, 2 j 62 €, 3 j 83 €, 4 j 106 €, 5 j 128 €, 6 j 150 €, 7 j 172 €, jour suppl. +22 €

@@ -193,44 +193,6 @@
         "vignoble"
       ],
       "why": "Sur la Loire à Vélo, les portions en site propre et le profil très plat permettent aux enfants de rouler en sécurité. Comptez 20 à 30 km par jour avec des enfants."
-    },
-    {
-      "id": "cargo",
-      "url": "/fr/location-velo-cargo",
-      "name": "Vélo cargo",
-      "h1": "Location de vélo cargo électrique à Nantes",
-      "img": "/assets/img/photo-cargo.webp",
-      "alt": "Vélo cargo électrique Babboe en location à Nantes",
-      "brand": "Babboe",
-      "model": "Mini Mountain (électrique)",
-      "title": "Location vélo cargo électrique Nantes | Bike'N Tour",
-      "meta": "Louez un vélo cargo électrique Babboe à Nantes pour balader les enfants : moteur Shimano, 80 km d'autonomie, protection pluie. 50 € la journée.",
-      "lead": "Un vélo cargo électrique pour transporter les enfants (ou les pique-niques) dans Nantes et sur les bords de Loire.",
-      "specs": [
-        {
-          "label": "Moteur",
-          "valeur": "Shimano, environ 80 km d'autonomie"
-        },
-        {
-          "label": "Transmission",
-          "valeur": "Moyeu à variation continue Enviolo"
-        },
-        {
-          "label": "Équipement",
-          "valeur": "Coussins d'assise, protection pluie sur demande"
-        }
-      ],
-      "grid": null,
-      "extra": null,
-      "protect": null,
-      "deposit": 1000,
-      "day": 50,
-      "weekend": 95,
-      "week": 200,
-      "good": [
-        "loire"
-      ],
-      "why": "Parfait pour les balades à la journée autour de Nantes, par exemple jusqu'à Mauves-sur-Loire et ses guinguettes (17,5 km)."
     }
   ],
   "accessoires": [

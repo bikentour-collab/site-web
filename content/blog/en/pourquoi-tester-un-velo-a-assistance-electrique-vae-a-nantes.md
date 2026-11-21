@@ -68,7 +68,7 @@ Our e-bike, the Sunn Start S1, is fitted with a Bosch Active Line Plus motor and
 
 ### By hiring one
 
-Our shop is at 27 quai de Versailles, on the banks of the Erdre, opposite the Île de Versailles (tram line 2, Saint-Mihiel stop). It is open from April to October. We adjust the bike to your size and explain how it works before you set off. Discover our [e-bike for hire](/fr/location-velo-electrique-voyage) and our [prices](/fr/nos-tarifs-reservation). For family use, we also rent an [electric cargo bike](/fr/location-velo-cargo).
+Our shop is at 27 quai de Versailles, on the banks of the Erdre, opposite the Île de Versailles (tram line 2, Saint-Mihiel stop). It is open from April to October. We adjust the bike to your size and explain how it works before you set off. Discover our [e-bike for hire](/fr/location-velo-electrique-voyage) and our [prices](/fr/nos-tarifs-reservation). For family use, we also rent a [baby seat and a child trailer](/fr/location-accessoires-velo).
 
 ### On a guided tour
 

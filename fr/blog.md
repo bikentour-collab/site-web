@@ -1,6 +1,6 @@
 # Blog vélo Nantes : balades, lieux et conseils | Bike'N Tour
 
-> 46 articles pour découvrir Nantes et ses environs à vélo : balades à la journée, Loire, Erdre, Sèvre, estuaire, lieux insolites et conseils de voyage à vélo.
+> 45 articles pour découvrir Nantes et ses environs à vélo : balades à la journée, Loire, Erdre, Sèvre, estuaire, lieux insolites et conseils de voyage à vélo.
 
 Page : https://www.bikentour.com/fr/blog · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -8,7 +8,7 @@ Le blog
 
 # Blog vélo : balades et bons plans à Nantes
 
-46 articles écrits par l'équipe de Bike'N Tour : balades à vélo au départ de Nantes, lieux à découvrir en ville et sur l'estuaire, conseils pour voyager à vélo. Pour commencer : [notre top 5 des balades incontournables](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo).
+45 articles écrits par l'équipe de Bike'N Tour : balades à vélo au départ de Nantes, lieux à découvrir en ville et sur l'estuaire, conseils pour voyager à vélo. Pour commencer : [notre top 5 des balades incontournables](https://www.bikentour.com/post/le-top-5-des-balades-incontournables-a-velo).
 
 [Balades à vélo](#balades)[À voir à Nantes](#nantes)[Conseils et voyage à vélo](#conseils)
 
@@ -188,9 +188,9 @@ Le Lieu Unique, centre de culture contemporaine installé dans l'ancienne usine 
 
 L'île de Nantes est née d'un archipel de la Loire, a vécu des chantiers navals jusqu'en 1987, puis s'est…](https://www.bikentour.com/post/une-ile-remplie-dhistoire-ile-de-nantes)
 
-## Conseils et voyage à vélo (5 articles)
+## Conseils et voyage à vélo (4 articles)
 
-Voyage à vélo, vélo électrique, vélo cargo, slow tourisme.
+Voyage à vélo, vélo électrique, slow tourisme.
 
 [![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
@@ -200,11 +200,7 @@ Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinérai
 
 ### Nantes, ville cyclable – classements et label vélo
 
-Nantes est-elle une ville cyclable ? Baromètre FUB, label Destinations France à vélo 2026, 845 km…](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france)[![](https://www.bikentour.com/assets/img/blog-le-velo-cargo-un-moyen-de-redecouvrir-la-ville-1.webp)Conseils et voyage à vélo
-
-### Vélo cargo à Nantes – balades en famille et conseils
-
-Le vélo cargo électrique permet de visiter Nantes en famille : enfants, pique-nique et sacs à bord, de l'île…](https://www.bikentour.com/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
+Nantes est-elle une ville cyclable ? Baromètre FUB, label Destinations France à vélo 2026, 845 km…](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
 
 ### Le slow tourisme : voyager plus pour polluer moins
 

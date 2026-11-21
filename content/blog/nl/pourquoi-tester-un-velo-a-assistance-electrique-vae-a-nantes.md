@@ -68,7 +68,7 @@ Onze elektrische fiets, de Sunn Start S1, heeft een Bosch Active Line Plus-motor
 
 ### Door te huren
 
-Onze winkel ligt op quai de Versailles 27, aan de Erdre, tegenover het île de Versailles (tram lijn 2, halte Saint-Mihiel). Hij is open van april tot oktober. We stellen de fiets af op uw lengte en leggen uit hoe hij werkt voordat u vertrekt. Ontdek onze [elektrische fiets te huur](/fr/location-velo-electrique-voyage) en onze [tarieven](/fr/nos-tarifs-reservation). Voor gezinsgebruik verhuren we ook een [elektrische bakfiets](/fr/location-velo-cargo).
+Onze winkel ligt op quai de Versailles 27, aan de Erdre, tegenover het île de Versailles (tram lijn 2, halte Saint-Mihiel). Hij is open van april tot oktober. We stellen de fiets af op uw lengte en leggen uit hoe hij werkt voordat u vertrekt. Ontdek onze [elektrische fiets te huur](/fr/location-velo-electrique-voyage) en onze [tarieven](/fr/nos-tarifs-reservation). Voor gezinsgebruik verhuren we ook een [kinderzitje en een kinderaanhanger](/fr/location-accessoires-velo).
 
 ### Met een rondleiding
 

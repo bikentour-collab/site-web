@@ -62,7 +62,7 @@ Depuis notre boutique du quai de Versailles, descendez vers la Loire par le cour
 
 ## Quel vélo choisir ?
 
-L'île est plate : notre [vélo de voyage](/fr/location-velo-de-voyage) suffit largement. En famille, le [vélo cargo électrique](/fr/location-velo-cargo) permet d'embarquer les enfants et le pique-nique. Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation).
+L'île est plate : notre [vélo de voyage](/fr/location-velo-de-voyage) suffit largement. En famille, le [siège bébé ou la remorque enfant](/fr/location-accessoires-velo) permettent d'embarquer les plus petits et le pique-nique. Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation).
 
 Vous voulez qu'on vous raconte l'histoire sur place ? Notre [tour du panorama nantais](/fr/tour/tour-du-panorama-nantais) passe par l'île de Nantes et ses anciens chantiers navals, à vélo électrique et avec un guide local. Notre [tour « Culture urbaine »](/fr/tour/tour-a-velo-electrique-culture-urbaine-a-nantes) passe par Chantenay et par l'île de Nantes.
 

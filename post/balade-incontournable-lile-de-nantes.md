@@ -86,7 +86,7 @@ La boucle est plate : tous nos vélos conviennent.
 
 - **Le [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage)** : confortable, avec 9 vitesses et une position droite. Il suffit largement pour ce parcours.
 - **Le [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage)** : utile si vous prolongez la sortie vers Trentemoult ou les bords de Loire, ou si vous voulez rouler sans effort.
-- **Le [vélo cargo électrique](https://www.bikentour.com/fr/location-velo-cargo)** : parfait pour embarquer les enfants et le pique-nique.
+- **La [remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo)** : parfaite pour embarquer les plus petits et le pique-nique.
 
 Les tarifs à la journée, au week-end ou à la semaine sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation). Vous préférez être guidé ? Notre [tour du panorama nantais](https://www.bikentour.com/fr/tour/tour-du-panorama-nantais) passe par l'île de Nantes et l'Éléphant, à vélo électrique et avec un guide local. Retrouvez aussi nos autres [idées de balades](https://www.bikentour.com/fr/idees-de-balades).
 
@@ -98,7 +98,7 @@ Comptez environ une heure pour les 10,5 km sans arrêt. Avec une pause aux Machi
 
 ### Le tour de l'île de Nantes à vélo convient-il aux enfants ?
 
-Oui : le parcours est plat et court. Restez vigilant sur les quais partagés avec les piétons. Nous louons des vélos enfant, des sièges bébé et un vélo cargo.
+Oui : le parcours est plat et court. Restez vigilant sur les quais partagés avec les piétons. Nous louons des vélos enfant, des sièges bébé et une remorque enfant.
 
 ### L'Arbre aux Hérons est-il visible à Nantes ?
 

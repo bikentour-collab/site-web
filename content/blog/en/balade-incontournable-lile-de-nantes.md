@@ -67,7 +67,7 @@ The loop is flat, so all our bikes are suitable.
 
 - **The [touring bike](/fr/location-velo-de-voyage)**: comfortable, with 9 gears and an upright position. It's more than enough for this route.
 - **The [e-bike](/fr/location-velo-electrique-voyage)**: useful if you extend your ride to Trentemoult or along the Loire, or if you want to ride effortlessly.
-- **The [electric cargo bike](/fr/location-velo-cargo)**: perfect for bringing the children and the picnic.
+- **The [child trailer](/fr/location-accessoires-velo)**: perfect for bringing the little ones and the picnic.
 
 Daily, weekend and weekly prices are on our [prices and booking](/fr/nos-tarifs-reservation) page. Prefer to be guided? Our [Nantes panorama tour](/fr/tour/tour-du-panorama-nantais) takes in the Île de Nantes and the Elephant, by e-bike with a local guide. See also our other [ride ideas](/fr/idees-de-balades).
 
@@ -79,7 +79,7 @@ Allow about an hour for the 10.5 km without stopping. With breaks at the Machine
 
 ### Is the Île de Nantes bike loop suitable for children?
 
-Yes: the route is flat and short. Stay alert on the quays shared with pedestrians. We rent children's bikes, baby seats and a cargo bike.
+Yes: the route is flat and short. Stay alert on the quays shared with pedestrians. We rent children's bikes, baby seats and a child trailer.
 
 ### Can you see the Arbre aux Hérons in Nantes?
 

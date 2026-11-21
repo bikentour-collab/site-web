@@ -76,7 +76,7 @@ Notre vélo électrique, le Sunn Start S1, est équipé d'un moteur Bosch Active
 
 ### En location
 
-Notre boutique se trouve au 27 quai de Versailles, au bord de l'Erdre, face à l'île de Versailles (tram ligne 2, arrêt Saint-Mihiel). Elle est ouverte d'avril à octobre. Nous réglons le vélo à votre taille et vous expliquons son fonctionnement avant le départ. Découvrez notre [vélo électrique en location](https://www.bikentour.com/fr/location-velo-electrique-voyage) et nos [tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation). Pour un usage familial, nous louons aussi un [vélo cargo électrique](https://www.bikentour.com/fr/location-velo-cargo).
+Notre boutique se trouve au 27 quai de Versailles, au bord de l'Erdre, face à l'île de Versailles (tram ligne 2, arrêt Saint-Mihiel). Elle est ouverte d'avril à octobre. Nous réglons le vélo à votre taille et vous expliquons son fonctionnement avant le départ. Découvrez notre [vélo électrique en location](https://www.bikentour.com/fr/location-velo-electrique-voyage) et nos [tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation). Pour un usage familial, nous louons aussi un [siège bébé et une remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo).
 
 ### En visite guidée
 
@@ -112,11 +112,7 @@ Dès 35 € / jour, 172 € la semaine.
 
 ## À lire aussi
 
-[![](https://www.bikentour.com/assets/img/blog-le-velo-cargo-un-moyen-de-redecouvrir-la-ville-1.webp)Conseils et voyage à vélo
-
-### Vélo cargo à Nantes – balades en famille et conseils
-
-Le vélo cargo électrique permet de visiter Nantes en famille : enfants, pique-nique et sacs à bord, de l'île…](https://www.bikentour.com/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville)[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
+[![](https://www.bikentour.com/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp)Conseils et voyage à vélo
 
 ### Premier voyage à vélo depuis Nantes : bien le préparer
 
@@ -124,6 +120,10 @@ Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinérai
 
 ### Nantes, ville cyclable – classements et label vélo
 
-Nantes est-elle une ville cyclable ? Baromètre FUB, label Destinations France à vélo 2026, 845 km…](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france)
+Nantes est-elle une ville cyclable ? Baromètre FUB, label Destinations France à vélo 2026, 845 km…](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france)[![](https://www.bikentour.com/assets/img/blog-le-slow-tourisme-voyager-plus-pour-polluer-moins.webp)Conseils et voyage à vélo
+
+### Le slow tourisme : voyager plus pour polluer moins
+
+Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable,…](https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)

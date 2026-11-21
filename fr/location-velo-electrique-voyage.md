@@ -22,7 +22,7 @@ Dès **35 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos électriques Sunn Start S1 : 35 € la journée, 62 € le week-end et 172 € la semaine, tarifs dégressifs, caution de 1 000 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour la Régalante, la Traversée bretonne et la Loire à Vélo. Retrait à la boutique, 27 quai de Versailles à Nantes.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Caractéristiques
 

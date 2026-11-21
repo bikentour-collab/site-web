@@ -58,7 +58,7 @@ Le jardin se combine très bien avec deux lieux voisins. Juste en face, la mezza
 
 ## Quel vélo choisir ?
 
-Pour un trajet aussi court, le [vélo de voyage](/fr/location-velo-de-voyage) est parfait. Avec de jeunes enfants, le [vélo cargo](/fr/location-velo-cargo) permet de les emmener jusqu'à l'aire de jeu, et nous louons aussi des [vélos enfant](/fr/location-velo-enfant). Tous les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation). Vous voulez voir le reste de la ville avec un guide ? Notre [tour du panorama nantais](/fr/tour/tour-du-panorama-nantais) part de notre boutique du quai de Versailles, à vélo électrique.
+Pour un trajet aussi court, le [vélo de voyage](/fr/location-velo-de-voyage) est parfait. Avec de jeunes enfants, le [siège bébé ou la remorque enfant](/fr/location-accessoires-velo) permettent de les emmener jusqu'à l'aire de jeu, et nous louons aussi des [vélos enfant](/fr/location-velo-enfant). Tous les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation). Vous voulez voir le reste de la ville avec un guide ? Notre [tour du panorama nantais](/fr/tour/tour-du-panorama-nantais) part de notre boutique du quai de Versailles, à vélo électrique.
 
 ## Questions fréquentes
 

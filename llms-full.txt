@@ -16,7 +16,6 @@
 - [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) (Sunn (Loire-Atlantique), Start S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 €
 - [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) (Sunn (Loire-Atlantique), Venture S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 €
 - [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) (Decathlon, 20, 24 ou 26 pouces) : 20 €/jour, 38 € le week-end, 88 € la semaine ; caution 500 €
-- [Vélo cargo](https://www.bikentour.com/fr/location-velo-cargo) (Babboe, Mini Mountain (électrique)) : 50 €/jour, 95 € le week-end, 200 € la semaine ; caution 1 000 €
 - Grille complète de 1 à 7 jours : https://www.bikentour.com/fr/nos-tarifs-reservation#grille (PDF : https://www.bikentour.com/assets/pdf/grille-tarifs-bike-n-tour.pdf)
   - Vélo de voyage : 1 j 22 €, 2 j 39 €, 3 j 52 €, 4 j 70 €, 5 j 82 €, 6 j 96 €, 7 j 110 €, jour suppl. +12 €
   - Vélo électrique : 1 j 35 €, 2 j 62 €, 3 j 83 €, 4 j 106 €, 5 j 128 €, 6 j 150 €, 7 j 172 €, jour suppl. +22 €
@@ -92,7 +91,7 @@
 Chaque page du site existe aussi en Markdown : ajouter `.md` à l'adresse (ex. https://www.bikentour.com/fr/nos-tarifs-reservation.md, https://www.bikentour.com/index.md pour l'accueil).
 
 ## Faits clés
-- Tarifs 2026 de location de vélos chez Bike'N Tour, 27 quai de Versailles à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine ; vélo cargo 50 € la journée, 200 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
+- Tarifs 2026 de location de vélos chez Bike'N Tour, 27 quai de Versailles à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
 - La Loire à Vélo au départ de Nantes : 165 km jusqu'à Saumur depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 3 à 4 jours, niveau facile. Principales étapes : Nantes → Ancenis → Angers → Saumur. Location : vélo de voyage dès 22 € la journée ou vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 - La Vélodyssée au départ de Nantes : 240 km jusqu'aux Sables-d'Olonne depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 4 à 5 jours, niveau facile. Principales étapes : Nantes → Pornic → Saint-Jean-de-Monts → Les Sables-d'Olonne. Location : vélo de voyage dès 22 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 - La Régalante au départ de Nantes : 275 km jusqu'au Mont-Saint-Michel depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 9 étapes, niveau facile. Principales étapes : Nantes → Châteaubriant → Vitré → Fougères → Mont-Saint-Michel. Location : vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
@@ -104,7 +103,7 @@ Chaque page du site existe aussi en Markdown : ajouter `.md` à l'adresse (ex. h
 
 ### La location
 **Quels vélos peut-on louer chez Bike'N Tour à Nantes ?**
-Des vélos de voyage Velo de Ville, des vélos électriques Sunn à moteur Bosch, des gravels Sunn, des vélos enfant de 20 à 26 pouces et un vélo cargo électrique Babboe. Siège bébé et remorque sont disponibles en option.
+Des vélos de voyage Velo de Ville, des vélos électriques Sunn à moteur Bosch, des gravels Sunn et des vélos enfant de 20 à 26 pouces. Siège bébé et remorque sont disponibles en option.
 
 **Peut-on louer un vélo pour plusieurs jours ou plusieurs semaines ?**
 Oui, à la journée, au week-end, à la semaine ou plus. Les tarifs sont dégressifs : par exemple 110 € la semaine pour un vélo de voyage et 172 € pour un vélo électrique.
@@ -132,7 +131,7 @@ Oui, sur demande : nous organisons la récupération des vélos à l'arrivée (L
 
 ### Caution, casse et assistance
 **Quelle caution est demandée ?**
-500 € pour un vélo de voyage ou enfant, 1 000 € pour un gravel, un vélo électrique ou un cargo, avec un plafond de 2 000 € pour plusieurs vélos.
+500 € pour un vélo de voyage ou enfant, 1 000 € pour un gravel ou un vélo électrique, avec un plafond de 2 000 € pour plusieurs vélos.
 
 **Que se passe-t-il en cas de casse ou de vol ?**
 La protection casse et vol est proposée en option (2 € par jour pour un vélo de voyage ou enfant, 3 € pour un électrique ou un gravel). Elle couvre 100 % de la casse hors usage abusif, et en cas de vol il ne reste que 10 % de la valeur neuve à votre charge.
@@ -253,6 +252,5 @@ Points de vue : Chaussée des Moines (Ancienne chaussée sur la Sèvre à Vertou
 ### Conseils et voyage à vélo
 - [Premier voyage à vélo depuis Nantes : bien le préparer](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo) : Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses bagages et rentrer en train.
 - [Nantes, ville cyclable – classements et label vélo](https://www.bikentour.com/post/nantes-2eme-ville-cyclable-de-france) : Nantes est-elle une ville cyclable ? Baromètre FUB, label Destinations France à vélo 2026, 845 km d'aménagements : ce que disent les chiffres récents.
-- [Vélo cargo à Nantes – balades en famille et conseils](https://www.bikentour.com/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville) : Le vélo cargo électrique permet de visiter Nantes en famille : enfants, pique-nique et sacs à bord, de l'île de Nantes aux guinguettes de Mauves.
 - [Le slow tourisme : voyager plus pour polluer moins](https://www.bikentour.com/post/le-slow-tourisme-voyager-plus-pour-polluer-moins) : Adoptez le slow tourisme : voyagez plus pour polluer moins. Découvrez une approche de voyage durable, explorez des destinations en prenant votre temps…
 - [Vélo électrique à Nantes : pourquoi l'essayer ?](https://www.bikentour.com/post/pourquoi-tester-un-velo-a-assistance-electrique-vae-a-nantes) : Louer un vélo électrique à Nantes pour l'essayer : fonctionnement, autonomie réelle, pour qui c'est fait et nos conseils pour bien rouler.

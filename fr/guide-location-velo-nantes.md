@@ -1,6 +1,6 @@
 # Louer un vélo à Nantes : prix et conseils | Bike'N Tour
 
-> Guide pour louer un vélo à Nantes : prix de 20 à 50 € la journée, quel vélo choisir, 6 itinéraires au départ de Nantes, aller simple, caution.
+> Guide pour louer un vélo à Nantes : prix de 20 à 35 € la journée, quel vélo choisir, 6 itinéraires au départ de Nantes, aller simple, caution.
 
 Page : https://www.bikentour.com/fr/guide-location-velo-nantes · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -10,9 +10,9 @@ Le guide
 
 Prix, choix du vélo, itinéraires au départ de Nantes, aller simple, accessoires, caution : tout ce qu'il faut savoir avant de louer un vélo pour une balade ou un voyage, par l'équipe de Bike'N Tour.
 
-**En bref.** Pour louer un vélo à Nantes et partir en voyage, Bike'N Tour (27 quai de Versailles, au bord de l'Erdre) loue des vélos de voyage dès 22 €, des vélos électriques dès 35 €, des vélos gravel dès 35 €, des vélos enfant dès 20 € et des vélos cargo dès 50 € la journée, avec aller simple sur devis et annulation gratuite jusqu'à 48 h. Six véloroutes partent de la boutique, dont la Loire à Vélo (165 km jusqu'à Saumur).
+**En bref.** Pour louer un vélo à Nantes et partir en voyage, Bike'N Tour (27 quai de Versailles, au bord de l'Erdre) loue des vélos de voyage dès 22 €, des vélos électriques dès 35 €, des vélos gravel dès 35 € et des vélos enfant dès 20 € la journée, avec aller simple sur devis et annulation gratuite jusqu'à 48 h. Six véloroutes partent de la boutique, dont la Loire à Vélo (165 km jusqu'à Saumur).
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Où louer un vélo à Nantes pour partir en voyage ?
 
@@ -43,7 +43,7 @@ Chez Bike'N Tour, au 27 quai de Versailles, 44000 Nantes : la boutique est au bo
 
 ## Combien coûte la location d'un vélo à Nantes ?
 
-Chez Bike'N Tour, la location à la journée coûte 20 € pour un vélo enfant, 22 € pour un vélo de voyage, 35 € pour un vélo électrique, 35 € pour un vélo gravel et 50 € pour un vélo cargo. Les tarifs sont dégressifs : un vélo de voyage coûte 110 € la semaine, un vélo électrique 172 €.
+Chez Bike'N Tour, la location à la journée coûte 20 € pour un vélo enfant, 22 € pour un vélo de voyage, 35 € pour un vélo électrique et 35 € pour un vélo gravel. Les tarifs sont dégressifs : un vélo de voyage coûte 110 € la semaine, un vélo électrique 172 €.
 
 | Vélo | Modèle | 1 jour | Week-end | Semaine | Caution |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,6 @@ Chez Bike'N Tour, la location à la journée coûte 20 € pour un vélo enfant
 | [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) | Sunn Start S1 | 35 € | 62 € | 172 € | 1 000 € |
 | [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) | Sunn Venture S1 | 35 € | 62 € | 172 € | 1 000 € |
 | [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) | Decathlon 20, 24 ou 26 pouces | 20 € | 38 € | 88 € | 500 € |
-| [Vélo cargo](https://www.bikentour.com/fr/location-velo-cargo) | Babboe Mini Mountain (électrique) | 50 € | 95 € | 200 € | 1 000 € |
 
 Tous les tarifs jour par jour : [page Tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation).
 
@@ -65,7 +64,6 @@ Le vélo de voyage suffit pour les itinéraires plats comme la Loire à Vélo ou
 | [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) | Idéal pour les longues étapes, les couples aux niveaux différents et les itinéraires vallonnés comme la Traversée bretonne. La batterie se retire avec la clé fournie pour la recharger dans votre hébergement. |
 | [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) | Le bon choix pour un week-end dans le Vignoble nantais ou pour le Canal de Nantes à Brest, dont les chemins de halage sont souvent en stabilisé. |
 | [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) | Sur la Loire à Vélo, les portions en site propre et le profil très plat permettent aux enfants de rouler en sécurité. Comptez 20 à 30 km par jour avec des enfants. |
-| [Vélo cargo](https://www.bikentour.com/fr/location-velo-cargo) | Parfait pour les balades à la journée autour de Nantes, par exemple jusqu'à Mauves-sur-Loire et ses guinguettes (17,5 km). |
 
 ## Quels itinéraires à vélo partent de Nantes ?
 
@@ -96,7 +94,7 @@ Oui : Bike'N Tour organise la récupération des vélos à l'arrivée, sur la Lo
 
 ## Quelle caution et quelle assurance ?
 
-La caution est de 500 € pour un vélo de voyage ou enfant, 1 000 € pour un vélo électrique, gravel ou cargo, plafonnée à 2 000 € pour plusieurs vélos. Une protection casse et vol est proposée en option : 2 € par jour pour un vélo de voyage ou enfant, 3 € par jour pour un vélo électrique ou gravel.
+La caution est de 500 € pour un vélo de voyage ou enfant, 1 000 € pour un vélo électrique ou gravel, plafonnée à 2 000 € pour plusieurs vélos. Une protection casse et vol est proposée en option : 2 € par jour pour un vélo de voyage ou enfant, 3 € par jour pour un vélo électrique ou gravel.
 
 ## Comment réserver et peut-on annuler ?
 

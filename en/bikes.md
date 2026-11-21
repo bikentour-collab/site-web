@@ -8,15 +8,15 @@ Our bikes
 
 # Our rental bikes in Nantes
 
-Recent bikes, serviced after every hire: Velo de Ville touring bikes, Sunn e-bikes and gravel bikes made in Loire-Atlantique, kids' bikes and cargo bikes. All fitted to your size before you set off.
+Recent bikes, serviced after every hire: Velo de Ville touring bikes, Sunn e-bikes and gravel bikes made in Loire-Atlantique, and kids' bikes. All fitted to your size before you set off.
 
 [Book my bikes](https://bike-n-tour.lokki.rent)[Detailed prices](https://www.bikentour.com/en/biken-tour-prices)
 
 ![Bike'N Tour touring bikes outside the shop in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
-**In short.** 2026 bike hire prices at Bike'N Tour, 27 quai de Versailles in Nantes: touring bike €22 a day, €110 a week; e-bike €35 a day, €172 a week; gravel bike €35 a day, €172 a week; kids' bike €20 a day, €88 a week; cargo bike €50 a day, €200 a week. Lock, puncture repair kit and lights included. One-way hire on request, free cancellation up to 48 hours before you set off.
+**In short.** 2026 bike hire prices at Bike'N Tour, 27 quai de Versailles in Nantes: touring bike €22 a day, €110 a week; e-bike €35 a day, €172 a week; gravel bike €35 a day, €172 a week; kids' bike €20 a day, €88 a week. Lock, puncture repair kit and lights included. One-way hire on request, free cancellation up to 48 hours before you set off.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 21, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## The fleet
 
@@ -51,14 +51,6 @@ From €35 a day · €172 a week
 Decathlon · 20, 24 or 26 inches
 
 From €20 a day · €88 a week
-
-![Babboe electric cargo bike for hire in Nantes](https://www.bikentour.com/assets/img/photo-cargo.webp)
-
-### [Cargo bike](https://www.bikentour.com/en/cargo-bike)
-
-Babboe · Mini Mountain (electric)
-
-From €50 a day · €200 a week
 
 ## Optional extras
 

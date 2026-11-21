@@ -73,7 +73,7 @@ Notre vélo électrique, le Sunn Start S1, est équipé d'un moteur Bosch Active
 
 ### En location
 
-Notre boutique se trouve au 27 quai de Versailles, au bord de l'Erdre, face à l'île de Versailles (tram ligne 2, arrêt Saint-Mihiel). Elle est ouverte d'avril à octobre. Nous réglons le vélo à votre taille et vous expliquons son fonctionnement avant le départ. Découvrez notre [vélo électrique en location](/fr/location-velo-electrique-voyage) et nos [tarifs](/fr/nos-tarifs-reservation). Pour un usage familial, nous louons aussi un [vélo cargo électrique](/fr/location-velo-cargo).
+Notre boutique se trouve au 27 quai de Versailles, au bord de l'Erdre, face à l'île de Versailles (tram ligne 2, arrêt Saint-Mihiel). Elle est ouverte d'avril à octobre. Nous réglons le vélo à votre taille et vous expliquons son fonctionnement avant le départ. Découvrez notre [vélo électrique en location](/fr/location-velo-electrique-voyage) et nos [tarifs](/fr/nos-tarifs-reservation). Pour un usage familial, nous louons aussi un [siège bébé et une remorque enfant](/fr/location-accessoires-velo).
 
 ### En visite guidée
 

@@ -67,7 +67,7 @@ En été, Mauves Balnéaire s'installe au pied du pont. Créé par le collectif 
 
 ## Quel vélo choisir ?
 
-Le parcours depuis Nantes est plat : notre [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit. En famille, le [vélo cargo électrique](https://www.bikentour.com/fr/location-velo-cargo) embarque les petits et le pique-nique, et nos [vélos enfant](https://www.bikentour.com/fr/location-velo-enfant) conviennent aux plus grands. Mauves est aussi la première étape de [la Loire à Vélo vers Angers et Saumur](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo). Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
+Le parcours depuis Nantes est plat : notre [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit. En famille, la [remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo) embarque les petits et le pique-nique, et nos [vélos enfant](https://www.bikentour.com/fr/location-velo-enfant) conviennent aux plus grands. Mauves est aussi la première étape de [la Loire à Vélo vers Angers et Saumur](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo). Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
 
 ## Questions fréquentes
 

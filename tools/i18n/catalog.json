@@ -340,7 +340,7 @@
   "Location de vélos à Nantes : voyage, électrique | Bike'N Tour",
   "Nos vélos",
   "Nos vélos de location à Nantes",
-  "Des vélos récents et entretenus après chaque location : vélos de voyage Velo de Ville, vélos électriques et gravels Sunn fabriqués en Loire-Atlantique, vélos enfant et cargo. Tous réglés à votre taille avant le départ.",
+  "Des vélos récents et entretenus après chaque location : vélos de voyage Velo de Ville, vélos électriques et gravels Sunn fabriqués en Loire-Atlantique, vélos enfant. Tous réglés à votre taille avant le départ.",
   "Tarifs détaillés",
   "Accessoires en option",
   "5 € / jour",
@@ -652,13 +652,11 @@
    "weekend"
   ],
   "Antivol, kit anti-crevaison, pompe, porte-bagages, éclairage, chargeur et clé de batterie, ainsi que le réglage du vélo à votre taille et nos conseils d'itinéraire.": [],
-  "Protection casse et vol : nous consulter.": [],
   "Dès {day} € / jour · {week} € la semaine": [
    "day",
    "week"
   ],
   "Location de vélos à Nantes : vélo de voyage dès {voyage} €/jour, électrique dès {electrique} €, gravel dès {gravel} €, enfant dès {enfant} €. Accessoires en location, aller simple sur devis.": [
-   "cargo",
    "electrique",
    "enfant",
    "gravel",
@@ -673,7 +671,6 @@
    "list",
    "year"
   ],
-  "Nous consulter": [],
   "Y a-t-il des réductions pour les groupes ?": [],
   "Oui : 10 % de remise dès 10 personnes, et des tarifs dédiés pour les entreprises ({price}).": [
    "price"
@@ -696,8 +693,7 @@
    "price",
    "year"
   ],
-  "Tarifs de location de vélos à Nantes : voyage {voyage} €/jour, électrique {electrique} €, gravel {gravel} €, enfant {enfant} €, cargo {cargo} €. Grille jour par jour, accessoires.": [
-   "cargo",
+  "Tarifs de location de vélos à Nantes : voyage {voyage} €/jour, électrique {electrique} €, gravel {gravel} €, enfant {enfant} €. Grille jour par jour, accessoires.": [
    "electrique",
    "enfant",
    "gravel",

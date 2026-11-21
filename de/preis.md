@@ -1,6 +1,6 @@
 # Fahrradverleih Nantes: Preise 2026 ab 20 € | Bike'N Tour
 
-> Fahrradverleih Nantes, Preise: Reiserad 22 €/Tag, E-Bike 35 €, Gravelbike 35 €, Kinderrad 20 €, Lastenrad 50 €. Preise Tag für Tag, Zubehör.
+> Fahrradverleih Nantes, Preise: Reiserad 22 €/Tag, E-Bike 35 €, Gravelbike 35 €, Kinderrad 20 €. Preise Tag für Tag, Zubehör.
 
 Page : https://www.bikentour.com/de/preis · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -18,9 +18,9 @@ Einfache Preise mit Staffelrabatt, Schloss, Pannenset und Beleuchtung inklusive.
 
 ![Start mit dem Rad am Laden in Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)
 
-**Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 27 quai de Versailles in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche; Lastenrad: 50 € pro Tag, 200 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
+**Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 27 quai de Versailles in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 
@@ -30,7 +30,6 @@ Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 N
 | [E-Bike](https://www.bikentour.com/de/elektrofahrrad) | 35 € | 62 € | 172 € | 3 € pro Tag | 1.000 € |
 | [Gravelbike](https://www.bikentour.com/de/gravelbike) | 35 € | 62 € | 172 € | 3 € pro Tag | 1.000 € |
 | [Kinderrad](https://www.bikentour.com/de/kinderfahrrad) | 20 € | 38 € | 88 € | 2 € pro Tag | 500 € |
-| [Lastenrad](https://www.bikentour.com/de/lastenrad) | 50 € | 95 € | 200 € | Auf Anfrage | 1.000 € |
 
 ## Vollständige Preistabelle, von 1 bis 7 Tagen
 

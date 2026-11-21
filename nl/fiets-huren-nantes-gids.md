@@ -1,6 +1,6 @@
 # Fiets huren in Nantes: prijzen en tips | Bike'N Tour
 
-> Gids voor fiets huren in Nantes: prijzen van € 20 tot € 50 per dag, welke fiets kiezen, 6 routes vanuit Nantes, enkele reis, borg.
+> Gids voor fiets huren in Nantes: prijzen van € 20 tot € 35 per dag, welke fiets kiezen, 6 routes vanuit Nantes, enkele reis, borg.
 
 Page : https://www.bikentour.com/nl/fiets-huren-nantes-gids · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -10,9 +10,9 @@ De gids
 
 Prijzen, fietskeuze, routes vanuit Nantes, enkele reis, accessoires, borg: alles wat je moet weten voordat je een fiets huurt voor een tocht of een reis, door het team van Bike'N Tour.
 
-**In het kort.** Wil je in Nantes een fiets huren voor een fietsreis? Bike'N Tour (27 quai de Versailles, aan de Erdre) verhuurt een trekkingfiets vanaf € 22, een e-bike vanaf € 35, een gravelbike vanaf € 35, een kinderfiets vanaf € 20 en een bakfiets vanaf € 50 per dag, met enkele reis op offerte en gratis annuleren tot 48 uur vooraf. Zes fietsroutes beginnen bij de winkel, waaronder de Loire à Vélo (165 km tot Saumur).
+**In het kort.** Wil je in Nantes een fiets huren voor een fietsreis? Bike'N Tour (27 quai de Versailles, aan de Erdre) verhuurt een trekkingfiets vanaf € 22, een e-bike vanaf € 35, een gravelbike vanaf € 35 en een kinderfiets vanaf € 20 per dag, met enkele reis op offerte en gratis annuleren tot 48 uur vooraf. Zes fietsroutes beginnen bij de winkel, waaronder de Loire à Vélo (165 km tot Saumur).
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 21 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Waar huur je in Nantes een fiets voor een fietsreis?
 
@@ -43,7 +43,7 @@ Bij Bike'N Tour, 27 quai de Versailles, 44000 Nantes: de winkel ligt aan de Erdr
 
 ## Wat kost een huurfiets in Nantes?
 
-Bij Bike'N Tour kost een dag huren € 20 voor een kinderfiets, € 22 voor een trekkingfiets, € 35 voor een e-bike, € 35 voor een gravelbike en € 50 voor een bakfiets. De prijzen hebben staffelkorting: een trekkingfiets kost € 110 per week, een e-bike € 172.
+Bij Bike'N Tour kost een dag huren € 20 voor een kinderfiets, € 22 voor een trekkingfiets, € 35 voor een e-bike en € 35 voor een gravelbike. De prijzen hebben staffelkorting: een trekkingfiets kost € 110 per week, een e-bike € 172.
 
 | Fiets | Model | 1 dag | Week-end | Week | Borg |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,6 @@ Bij Bike'N Tour kost een dag huren € 20 voor een kinderfiets, € 22 voor ee
 | [E-bike](https://www.bikentour.com/nl/elektrische-fiets) | Sunn Start S1 | 35 € | 62 € | 172 € | 1.000 € |
 | [Gravelbike](https://www.bikentour.com/nl/gravelfiets) | Sunn Venture S1 | 35 € | 62 € | 172 € | 1.000 € |
 | [Kinderfiets](https://www.bikentour.com/nl/kinderfiets) | Decathlon 20, 24 of 26 inch | 20 € | 38 € | 88 € | 500 € |
-| [Bakfiets](https://www.bikentour.com/nl/bakfiets) | Babboe Mini Mountain (elektrisch) | 50 € | 95 € | 200 € | 1.000 € |
 
 Alle prijzen per dag: [pagina Prijzen](https://www.bikentour.com/nl/prijs).
 
@@ -65,7 +64,6 @@ Een trekkingfiets volstaat voor vlakke routes zoals de Loire à Vélo of de Vél
 | [E-bike](https://www.bikentour.com/nl/elektrische-fiets) | Ideaal voor lange etappes, stellen met een verschillend niveau en heuvelachtige routes zoals de Bretagne-oversteek. Met de meegeleverde sleutel haal je de accu eruit om hem in je accommodatie op te laden. |
 | [Gravelbike](https://www.bikentour.com/nl/gravelfiets) | De juiste keuze voor een weekend in de wijngaarden van Nantes of voor het kanaal van Nantes naar Brest, waar de jaagpaden vaak halfverhard zijn. |
 | [Kinderfiets](https://www.bikentour.com/nl/kinderfiets) | Op de Loire à Vélo kunnen kinderen veilig fietsen dankzij de vrijliggende fietspaden en het zeer vlakke profiel. Reken op 20 tot 30 km per dag met kinderen. |
-| [Bakfiets](https://www.bikentour.com/nl/bakfiets) | Perfect voor dagtochten rond Nantes, bijvoorbeeld naar Mauves-sur-Loire en zijn guinguettes, terrasjes aan het water (17,5 km). |
 
 ## Welke fietsroutes beginnen in Nantes?
 
@@ -96,7 +94,7 @@ Ja: Bike'N Tour regelt met zijn partners het ophalen van de fietsen op je eindbe
 
 ## Welke borg en welke verzekering?
 
-De borg bedraagt 500 € (trekkingfiets, kinderfiets), 1.000 € (e-bike, gravelbike, bakfiets), met een maximum van € 2.000 voor meerdere fietsen. Schade- en diefstalbescherming is optioneel: € 2 per dag (trekkingfiets, kinderfiets), € 3 per dag (e-bike, gravelbike).
+De borg bedraagt 500 € (trekkingfiets, kinderfiets), 1.000 € (e-bike, gravelbike), met een maximum van € 2.000 voor meerdere fietsen. Schade- en diefstalbescherming is optioneel: € 2 per dag (trekkingfiets, kinderfiets), € 3 per dag (e-bike, gravelbike).
 
 ## Hoe reserveer je en kun je annuleren?
 

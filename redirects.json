@@ -21,7 +21,7 @@
  "/balades/la-regalante-de-nantes-au-mont-saint-michel": "/fr/itineraires-velo-depart-nantes/regalante",
  "/balades/le-canal-de-nantes-a-brest-a-velo": "/fr/itineraires-velo-depart-nantes/canal-nantes-brest",
  "/balades/le-canal-de-nantes-a-redon-le-temps-dun-week-end": "/fr/itineraires-velo-depart-nantes/canal-nantes-brest",
- "/category/velo-cargo": "/fr/location-velo-cargo",
+ "/category/velo-cargo": "/fr/nos-velos-location",
  "/category/velo-de-ville": "/fr/nos-velos-location",
  "/category/velo-de-voyage-vtc": "/fr/location-velo-de-voyage",
  "/category/velo-electrique-de-voyage-vae": "/fr/location-velo-electrique-voyage",
@@ -42,5 +42,11 @@
  "/nl/juridische-kennisgevingen": "/fr/mentions-legales",
  "/de/startseitefahrradverleih-fur-radreisen-in-nantes-radwandern-bikepacking": "/de",
  "/de/allgemeine-verkaufsbedingungen": "/fr/conditions-generales-de-vente",
- "/de/rechtlicher-hinweis": "/fr/mentions-legales"
+ "/de/rechtlicher-hinweis": "/fr/mentions-legales",
+ "/fr/location-velo-cargo": "/fr/nos-velos-location",
+ "/post/le-velo-cargo-un-moyen-de-redecouvrir-la-ville": "/fr/location-accessoires-velo",
+ "/en/cargo-bike": "/en/bikes",
+ "/nl/bakfiets": "/nl/fietsen",
+ "/de/lastenrad": "/de/fahrrader",
+ "/es/bicicleta-de-carga": "/es/bicicletas"
 }

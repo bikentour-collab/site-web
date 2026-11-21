@@ -66,7 +66,7 @@ Notre boutique se trouve au 27 quai de Versailles, au bord de l'Erdre, face à l
 - **Pour la ville et les balades à la journée :** le [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage), confortable et robuste.
 - **Pour les longues étapes ou les côtes :** le [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage), avec environ 100 km d'autonomie en mode éco.
 - **Pour les chemins et le vignoble :** le [gravel](https://www.bikentour.com/fr/location-gravel-nantes).
-- **En famille :** le [vélo cargo électrique](https://www.bikentour.com/fr/location-velo-cargo) et nos [vélos enfant](https://www.bikentour.com/fr/location-velo-enfant).
+- **En famille :** le [siège bébé, la remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo) et nos [vélos enfant](https://www.bikentour.com/fr/location-velo-enfant).
 
 Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation). Pour découvrir la ville avec un guide, voyez nos [visites guidées de Nantes](https://www.bikentour.com/fr/visites-guidees-nantes) à vélo électrique.
 

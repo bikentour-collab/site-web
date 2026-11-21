@@ -79,7 +79,7 @@ Depuis notre boutique, au 27 quai de Versailles, descendez vers la Loire par le 
 
 ## Quel vélo choisir ?
 
-L'île est plate : notre [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) convient parfaitement. En famille, le [vélo cargo électrique](https://www.bikentour.com/fr/location-velo-cargo) embarque les enfants et le pique-nique. Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
+L'île est plate : notre [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) convient parfaitement. En famille, la [remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo) embarque les plus petits et le pique-nique. Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
 
 Pour écouter cette histoire racontée sur place, suivez notre [tour du panorama nantais](https://www.bikentour.com/fr/tour/tour-du-panorama-nantais) : il passe par les anciens chantiers navals devenus quartier de la création et par l'Éléphant, à vélo électrique avec un guide local.
 

@@ -14,7 +14,6 @@
   "bike:electrique": "/fr/location-velo-electrique-voyage",
   "bike:gravel": "/fr/location-gravel-nantes",
   "bike:enfant": "/fr/location-velo-enfant",
-  "bike:cargo": "/fr/location-velo-cargo",
   "pricing": "/fr/nos-tarifs-reservation",
   "visits": "/fr/visites-guidees-nantes",
   "tour:panorama": "/fr/tour/tour-du-panorama-nantais",
@@ -111,12 +110,6 @@
    "nl": "/nl/kinderfiets",
    "de": "/de/kinderfahrrad",
    "es": "/es/bicicleta-infantil"
-  },
-  "/fr/location-velo-cargo": {
-   "en": "/en/cargo-bike",
-   "nl": "/nl/bakfiets",
-   "de": "/de/lastenrad",
-   "es": "/es/bicicleta-de-carga"
   },
   "/fr/nos-tarifs-reservation": {
    "en": "/en/biken-tour-prices",

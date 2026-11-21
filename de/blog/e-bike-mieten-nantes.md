@@ -76,7 +76,7 @@ Unser E-Bike, das Sunn Start S1, ist mit einem Bosch-Motor Active Line Plus und 
 
 ### Zur Miete
 
-Unser Laden befindet sich am Quai de Versailles 27, am Ufer der Erdre, gegenüber der Île de Versailles (Tram Linie 2, Haltestelle Saint-Mihiel). Er ist von April bis Oktober geöffnet. Wir stellen das Rad auf Ihre Größe ein und erklären Ihnen vor der Abfahrt, wie es funktioniert. Entdecken Sie unser [E-Bike zur Miete](https://www.bikentour.com/de/elektrofahrrad) und unsere [Preise](https://www.bikentour.com/de/preis). Für Familien vermieten wir außerdem ein [E-Lastenrad](https://www.bikentour.com/de/lastenrad).
+Unser Laden befindet sich am Quai de Versailles 27, am Ufer der Erdre, gegenüber der Île de Versailles (Tram Linie 2, Haltestelle Saint-Mihiel). Er ist von April bis Oktober geöffnet. Wir stellen das Rad auf Ihre Größe ein und erklären Ihnen vor der Abfahrt, wie es funktioniert. Entdecken Sie unser [E-Bike zur Miete](https://www.bikentour.com/de/elektrofahrrad) und unsere [Preise](https://www.bikentour.com/de/preis). Für Familien vermieten wir außerdem [Kindersitz und Kinderanhänger](https://www.bikentour.com/de/fahrradzubehoer-mieten).
 
 ### Bei einer geführten Tour
 

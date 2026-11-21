@@ -55,7 +55,7 @@ Sur la rive sud, une voie verte longe la Loire en contrebas de la levée de la D
 
 ## Quel vélo choisir ?
 
-Le parcours est plat et court : un [vélo de voyage](/fr/location-velo-de-voyage) suffit largement. Avec des enfants, pensez à nos [vélos enfant](/fr/location-velo-enfant) ou au [vélo cargo électrique](/fr/location-velo-cargo), parfait pour transporter les plus petits et le pique-nique jusqu'aux guinguettes de Mauves. Si l'envie vous prend de continuer, la balade est aussi le début de [la Loire à Vélo vers Angers et Saumur](/fr/itineraires-velo-depart-nantes/loire-a-velo).
+Le parcours est plat et court : un [vélo de voyage](/fr/location-velo-de-voyage) suffit largement. Avec des enfants, pensez à nos [vélos enfant](/fr/location-velo-enfant) ou à la [remorque enfant](/fr/location-accessoires-velo), parfaite pour transporter les plus petits et le pique-nique jusqu'aux guinguettes de Mauves. Si l'envie vous prend de continuer, la balade est aussi le début de [la Loire à Vélo vers Angers et Saumur](/fr/itineraires-velo-depart-nantes/loire-a-velo).
 
 ## Questions fréquentes
 

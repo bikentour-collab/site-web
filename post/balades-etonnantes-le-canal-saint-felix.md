@@ -74,7 +74,7 @@ Pour continuer au fil de l'eau, remontez l'Erdre vers le nord : c'est notre [bal
 
 ## Quel vélo choisir ?
 
-Le parcours est court et plat : un [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit largement. Si vous enchaînez avec l'Erdre ou les bords de Loire, le [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) rend la journée plus légère. En famille, pensez au [vélo cargo](https://www.bikentour.com/fr/location-velo-cargo). Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
+Le parcours est court et plat : un [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit largement. Si vous enchaînez avec l'Erdre ou les bords de Loire, le [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) rend la journée plus légère. En famille, pensez au [siège bébé et à la remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo). Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
 
 ## Questions fréquentes
 

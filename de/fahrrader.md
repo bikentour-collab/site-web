@@ -8,15 +8,15 @@ Unsere Räder
 
 # Unsere Mietfahrräder in Nantes
 
-Aktuelle Räder, nach jeder Miete gewartet: Reiseräder von Velo de Ville, E-Bikes und Gravelbikes von Sunn, hergestellt in der Loire-Atlantique, dazu Kinder- und Lastenräder. Alle werden vor der Abfahrt auf Ihre Größe eingestellt.
+Aktuelle Räder, nach jeder Miete gewartet: Reiseräder von Velo de Ville, E-Bikes und Gravelbikes von Sunn, hergestellt in der Loire-Atlantique, dazu Kinderräder. Alle werden vor der Abfahrt auf Ihre Größe eingestellt.
 
 [Fahrräder reservieren](https://bike-n-tour.lokki.rent)[Detaillierte Preise](https://www.bikentour.com/de/preis)
 
 ![Die Reiseräder von Bike'N Tour vor dem Laden in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
-**Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 27 quai de Versailles in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche; Lastenrad: 50 € pro Tag, 200 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
+**Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 27 quai de Versailles in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Die Flotte
 
@@ -51,14 +51,6 @@ Ab 35 € pro Tag · 172 € pro Woche
 Decathlon · 20, 24 oder 26 Zoll
 
 Ab 20 € pro Tag · 88 € pro Woche
-
-![Elektro-Lastenrad von Babboe zur Miete in Nantes](https://www.bikentour.com/assets/img/photo-cargo.webp)
-
-### [Lastenrad](https://www.bikentour.com/de/lastenrad)
-
-Babboe · Mini Mountain (elektrisch)
-
-Ab 50 € pro Tag · 200 € pro Woche
 
 ## Optionales Zubehör
 

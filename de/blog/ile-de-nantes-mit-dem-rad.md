@@ -86,7 +86,7 @@ Die Runde ist flach: Alle unsere Räder sind geeignet.
 
 - **Das [Reiserad](https://www.bikentour.com/de/trekkingrad)**: bequem, mit 9 Gängen und aufrechter Sitzposition. Für diese Strecke völlig ausreichend.
 - **Das [E-Bike](https://www.bikentour.com/de/elektrofahrrad)**: praktisch, wenn Sie die Tour nach Trentemoult oder an die Loire-Ufer verlängern oder mühelos fahren möchten.
-- **Das [E-Lastenrad](https://www.bikentour.com/de/lastenrad)**: perfekt, um die Kinder und das Picknick mitzunehmen.
+- **Der [Kinderanhänger](https://www.bikentour.com/de/fahrradzubehoer-mieten)**: perfekt, um die Kleinsten und das Picknick mitzunehmen.
 
 Die Preise pro Tag, Wochenende oder Woche finden Sie auf unserer Seite [Preise und Buchung](https://www.bikentour.com/de/preis). Lieber mit Führung? Unsere [Panoramatour durch Nantes](https://www.bikentour.com/de/die-panorama-tour-von-nantes-mit-dem-fahrrad) führt über die Île de Nantes und zum Elefanten, mit dem E-Bike und einem ortskundigen Guide. Entdecken Sie auch unsere weiteren [Tourenideen](https://www.bikentour.com/de/radtouren-ab-nantes).
 
@@ -98,7 +98,7 @@ Rechnen Sie mit etwa einer Stunde für die 10,5 km ohne Halt. Mit Pausen an den 
 
 ### Ist die Radtour rund um die Île de Nantes für Kinder geeignet?
 
-Ja: Die Strecke ist flach und kurz. Bleiben Sie auf den Kais, die Sie mit Fußgängern teilen, aufmerksam. Wir verleihen Kinderräder, Kindersitze und ein Lastenrad.
+Ja: Die Strecke ist flach und kurz. Bleiben Sie auf den Kais, die Sie mit Fußgängern teilen, aufmerksam. Wir verleihen Kinderräder, Kindersitze und einen Kinderanhänger.
 
 ### Ist der Arbre aux Hérons in Nantes zu sehen?
 

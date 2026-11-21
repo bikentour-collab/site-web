@@ -14,7 +14,7 @@ Hire, booking, deposit, one-way hire, getting to the shop: answers to the questi
 
 ### Which bikes can I hire from Bike'N Tour in Nantes?
 
-Velo de Ville touring bikes, Sunn e-bikes with Bosch motors, Sunn gravel bikes, kids' bikes from 20 to 26 inches and a Babboe electric cargo bike. A baby seat and trailer are available as extras.
+Velo de Ville touring bikes, Sunn e-bikes with Bosch motors, Sunn gravel bikes and kids' bikes from 20 to 26 inches. A baby seat and trailer are available as extras.
 
 ### Can I hire a bike for several days or several weeks?
 
@@ -50,7 +50,7 @@ Yes, on request: we arrange for the bikes to be collected at your destination (L
 
 ### What deposit do you ask for?
 
-€500 for a touring or kids' bike, €1,000 for a gravel bike, an e-bike or a cargo bike, capped at €2,000 for several bikes.
+€500 for a touring or kids' bike, €1,000 for a gravel bike or an e-bike, capped at €2,000 for several bikes.
 
 ### What happens if the bike is damaged or stolen?
 

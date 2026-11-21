@@ -14,7 +14,7 @@ Huren, reserveren, borg, enkele reis, bereikbaarheid van de winkel: de antwoorde
 
 ### Welke fietsen kun je huren bij Bike'N Tour in Nantes?
 
-Trekkingfietsen van Velo de Ville, Sunn e-bikes met Bosch-motor, Sunn gravelbikes, kinderfietsen van 20 tot 26 inch en een elektrische bakfiets van Babboe. Kinderzitje en aanhanger zijn optioneel.
+Trekkingfietsen van Velo de Ville, Sunn e-bikes met Bosch-motor, Sunn gravelbikes en kinderfietsen van 20 tot 26 inch. Kinderzitje en aanhanger zijn optioneel.
 
 ### Kun je een fiets huren voor meerdere dagen of weken?
 
@@ -50,7 +50,7 @@ Ja, op aanvraag: wij regelen met onze partners het ophalen van de fietsen op je 
 
 ### Hoe hoog is de borg?
 
-€ 500 voor een trekkingfiets of kinderfiets, € 1.000 voor een gravelbike, e-bike of bakfiets, met een maximum van € 2.000 voor meerdere fietsen.
+€ 500 voor een trekkingfiets of kinderfiets, € 1.000 voor een gravelbike of e-bike, met een maximum van € 2.000 voor meerdere fietsen.
 
 ### Wat gebeurt er bij schade of diefstal?
 

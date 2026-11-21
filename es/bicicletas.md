@@ -8,15 +8,15 @@ Nuestras bicis
 
 # Nuestras bicis de alquiler en Nantes
 
-Bicis recientes y revisadas después de cada alquiler: bicis de viaje Velo de Ville, bicis eléctricas y gravel Sunn fabricadas en Loire-Atlantique, bicis infantiles y de carga. Todas ajustadas a su talla antes de salir.
+Bicis recientes y revisadas después de cada alquiler: bicis de viaje Velo de Ville, bicis eléctricas y gravel Sunn fabricadas en Loire-Atlantique y bicis infantiles. Todas ajustadas a su talla antes de salir.
 
 [Reservar mis bicis](https://bike-n-tour.lokki.rent)[Precios detallados](https://www.bikentour.com/es/precios)
 
 ![Las bicis de viaje de Bike'N Tour delante de la tienda en Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
-**En resumen.** Precios 2026 de alquiler de bicis en Bike'N Tour, 27 quai de Versailles, Nantes: bicicleta de viaje: 22 € al día, 110 € la semana; bicicleta eléctrica: 35 € al día, 172 € la semana; bicicleta gravel: 35 € al día, 172 € la semana; bicicleta infantil: 20 € al día, 88 € la semana; bicicleta de carga: 50 € al día, 200 € la semana. Candado, kit antipinchazos y luces incluidos. Solo ida con presupuesto a medida, cancelación gratuita hasta 48 h antes de la salida.
+**En resumen.** Precios 2026 de alquiler de bicis en Bike'N Tour, 27 quai de Versailles, Nantes: bicicleta de viaje: 22 € al día, 110 € la semana; bicicleta eléctrica: 35 € al día, 172 € la semana; bicicleta gravel: 35 € al día, 172 € la semana; bicicleta infantil: 20 € al día, 88 € la semana. Candado, kit antipinchazos y luces incluidos. Solo ida con presupuesto a medida, cancelación gratuita hasta 48 h antes de la salida.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## La flota
 
@@ -51,14 +51,6 @@ Desde 35 € / día · 172 € la semana
 Decathlon · 20, 24 o 26 pulgadas
 
 Desde 20 € / día · 88 € la semana
-
-![Bicicleta de carga eléctrica Babboe de alquiler en Nantes](https://www.bikentour.com/assets/img/photo-cargo.webp)
-
-### [Bicicleta de carga](https://www.bikentour.com/es/bicicleta-de-carga)
-
-Babboe · Mini Mountain (eléctrica)
-
-Desde 50 € / día · 200 € la semana
 
 ## Accesorios opcionales
 

@@ -66,7 +66,7 @@ Nos trois visites guidées à vélo électrique donnent rendez-vous à notre bou
 
 ## Quel vélo choisir ?
 
-La place se rejoint facilement depuis la boutique. En ville, le [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit. Pour les côtes de la butte Sainte-Anne ou une longue journée, prenez un [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage). En famille, pensez au [vélo cargo](https://www.bikentour.com/fr/location-velo-cargo). Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
+La place se rejoint facilement depuis la boutique. En ville, le [vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) suffit. Pour les côtes de la butte Sainte-Anne ou une longue journée, prenez un [vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage). En famille, pensez au [siège bébé et à la remorque enfant](https://www.bikentour.com/fr/location-accessoires-velo). Les prix sont sur notre page [tarifs et réservation](https://www.bikentour.com/fr/nos-tarifs-reservation).
 
 ## Questions fréquentes
 

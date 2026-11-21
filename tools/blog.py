@@ -16,11 +16,11 @@ MOIS = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août
 
 CATS = [('balades', 'Balades à vélo', 'Itinéraires à la journée au départ de Nantes, avec distance, durée et niveau.'),
         ('nantes', 'À voir à Nantes', 'Lieux, quartiers et monuments à découvrir à vélo, en ville et aux portes de Nantes.'),
-        ('conseils', 'Conseils et voyage à vélo', 'Voyage à vélo, vélo électrique, vélo cargo, slow tourisme.')]
+        ('conseils', 'Conseils et voyage à vélo', 'Voyage à vélo, vélo électrique, slow tourisme.')]
 CATNAME = {k: n for k, n, _ in CATS}
 
 # Choix « automatique » de la page à mettre en avant à côté d'un article (maillage interne)
-CTA_RULES = [(('assistance-electrique',), 'bike', 'electrique'), (('cargo',), 'bike', 'cargo'),
+CTA_RULES = [(('assistance-electrique',), 'bike', 'electrique'), (('cargo',), 'bike', 'electrique'),
              (('sevre', 'vignoble', 'goulaine'), 'route', 'vignoble'), (('erdre',), 'route', 'canal'),
              (('loire', 'mauves', 'oudon', 'indre', 'cordemais', '2-bacs', 'estuaire', 'creature', 'chassay'), 'route', 'loire'),
              (('grand-lieu', 'pornic', 'baule', 'guerande'), 'route', 'velodyssee'),

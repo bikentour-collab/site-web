@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) is France's most popular cycle route. From Nantes
 
 **In short.** La Loire à Vélo from Nantes: 165 km to Saumur from the Bike'N Tour shop (27 quai de Versailles), suggested duration 3 to 4 days, easy level. Main stages: Nantes → Ancenis → Angers → Saumur. Hire: touring bike from €22 a day or e-bike from €35 a day, waterproof panniers available (€5 a day); one-way hire available on request (bikes collected at your destination). GPX track and route sheet sent by email.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 21, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Suggested stages
 
@@ -85,7 +85,6 @@ Recommended bike
 - [Touring bike](https://www.bikentour.com/en/touring-bicycle-hybrid-bike)from €22 a day
 - [E-bike](https://www.bikentour.com/en/electric-touring-bike)from €35 a day
 - [Kids' bike](https://www.bikentour.com/en/childrens-bicycle)from €20 a day
-- [Cargo bike](https://www.bikentour.com/en/cargo-bike)from €50 a day
 
 Waterproof Ortlieb panniers available (€5 a day), one-way hire on request.
 

@@ -119,31 +119,6 @@
         }
       ],
       "why": "Auf der Loire à Vélo können Kinder dank eigener Radwege und sehr flachem Profil sicher fahren. Rechnen Sie mit Kindern mit 20 bis 30 km pro Tag."
-    },
-    {
-      "name": "Lastenrad",
-      "h1": "Elektro-Lastenrad mieten in Nantes",
-      "alt": "Elektro-Lastenrad von Babboe zur Miete in Nantes",
-      "brand": "Babboe",
-      "model": "Mini Mountain (elektrisch)",
-      "title": "Elektro-Lastenrad mieten Nantes | Bike'N Tour",
-      "meta": "Elektro-Lastenrad von Babboe mieten in Nantes für Ausflüge mit Kindern: Shimano-Motor, 80 km Reichweite, Regenverdeck. 50 € pro Tag.",
-      "lead": "Ein Elektro-Lastenrad, um Kinder (oder das Picknick) durch Nantes und entlang der Loire zu transportieren.",
-      "specs": [
-        {
-          "label": "Motor",
-          "valeur": "Shimano, etwa 80 km Reichweite"
-        },
-        {
-          "label": "Antrieb",
-          "valeur": "Stufenlose Nabenschaltung Enviolo"
-        },
-        {
-          "label": "Ausstattung",
-          "valeur": "Sitzkissen, Regenverdeck auf Anfrage"
-        }
-      ],
-      "why": "Perfekt für Tagesausflüge rund um Nantes, zum Beispiel nach Mauves-sur-Loire mit seinen Guinguettes (Ausflugslokalen am Fluss, 17,5 km)."
     }
   ],
   "accessoires": [

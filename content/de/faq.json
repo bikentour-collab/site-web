@@ -5,7 +5,7 @@
    "questions": [
     {
      "question": "Welche Räder kann man bei Bike'N Tour in Nantes mieten?",
-     "reponse": "Reiseräder von Velo de Ville, E-Bikes von Sunn mit Bosch-Motor, Gravelbikes von Sunn, Kinderräder von 20 bis 26 Zoll und ein Elektro-Lastenrad von Babboe. Kindersitz und Anhänger sind optional erhältlich."
+     "reponse": "Reiseräder von Velo de Ville, E-Bikes von Sunn mit Bosch-Motor, Gravelbikes von Sunn und Kinderräder von 20 bis 26 Zoll. Kindersitz und Anhänger sind optional erhältlich."
     },
     {
      "question": "Kann man ein Rad für mehrere Tage oder Wochen mieten?",
@@ -47,7 +47,7 @@
    "questions": [
     {
      "question": "Welche Kaution wird verlangt?",
-     "reponse": "500 € für ein Reise- oder Kinderrad, 1 000 € für ein Gravelbike, ein E-Bike oder ein Lastenrad, bei mehreren Rädern höchstens 2 000 €."
+     "reponse": "500 € für ein Reise- oder Kinderrad, 1 000 € für ein Gravelbike oder ein E-Bike, bei mehreren Rädern höchstens 2 000 €."
     },
     {
      "question": "Was passiert bei Schäden oder Diebstahl?",

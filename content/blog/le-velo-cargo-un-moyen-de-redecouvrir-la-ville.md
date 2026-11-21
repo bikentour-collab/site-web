@@ -6,7 +6,7 @@ resume: "Le vélo cargo électrique permet de visiter Nantes en famille : enfant
 image: "/assets/img/blog-le-velo-cargo-un-moyen-de-redecouvrir-la-ville-1.webp"
 categorie: "conseils"
 lien: "bike:cargo"
-brouillon: false
+brouillon: true
 ---
 
 Le vélo cargo est un vélo doté d'une caisse à l'avant pour transporter des enfants, des courses ou un pique-nique. À Nantes, il permet de découvrir la ville et les bords de Loire en famille, sans voiture et sans fatiguer les plus jeunes. Nous en louons en version électrique dans notre boutique du quai de Versailles, au bord de l'Erdre, d'avril à octobre.

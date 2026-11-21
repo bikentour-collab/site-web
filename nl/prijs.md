@@ -1,6 +1,6 @@
 # Fietsverhuur Nantes 2026: vanaf € 20/dag | Bike'N Tour
 
-> Prijzen fietsverhuur Nantes: trekkingfiets € 22/dag, e-bike € 35, gravel € 35, kinderfiets € 20, bakfiets € 50. Prijzen per dag, accessoires.
+> Prijzen fietsverhuur Nantes: trekkingfiets € 22/dag, e-bike € 35, gravel € 35, kinderfiets € 20. Prijzen per dag, accessoires.
 
 Page : https://www.bikentour.com/nl/prijs · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -18,9 +18,9 @@ Eenvoudige prijzen met staffelkorting, inclusief slot, bandenreparatieset en ver
 
 ![Vertrek op de fiets vanaf de winkel in Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)
 
-**In het kort.** Prijzen 2026 voor fietsverhuur bij Bike'N Tour, 27 quai de Versailles in Nantes: trekkingfiets € 22 per dag, € 110 per week; e-bike € 35 per dag, € 172 per week; gravelbike € 35 per dag, € 172 per week; kinderfiets € 20 per dag, € 88 per week; bakfiets € 50 per dag, € 200 per week. Slot, bandenreparatieset en verlichting inbegrepen. Enkele reis op offerte, gratis annuleren tot 48 uur voor vertrek.
+**In het kort.** Prijzen 2026 voor fietsverhuur bij Bike'N Tour, 27 quai de Versailles in Nantes: trekkingfiets € 22 per dag, € 110 per week; e-bike € 35 per dag, € 172 per week; gravelbike € 35 per dag, € 172 per week; kinderfiets € 20 per dag, € 88 per week. Slot, bandenreparatieset en verlichting inbegrepen. Enkele reis op offerte, gratis annuleren tot 48 uur voor vertrek.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 21 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 
@@ -30,7 +30,6 @@ Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nant
 | [E-bike](https://www.bikentour.com/nl/elektrische-fiets) | 35 € | 62 € | 172 € | € 3 per dag | 1.000 € |
 | [Gravelbike](https://www.bikentour.com/nl/gravelfiets) | 35 € | 62 € | 172 € | € 3 per dag | 1.000 € |
 | [Kinderfiets](https://www.bikentour.com/nl/kinderfiets) | 20 € | 38 € | 88 € | € 2 per dag | 500 € |
-| [Bakfiets](https://www.bikentour.com/nl/bakfiets) | 50 € | 95 € | 200 € | Op aanvraag | 1.000 € |
 
 ## Volledige prijstabel, van 1 tot 7 dagen
 

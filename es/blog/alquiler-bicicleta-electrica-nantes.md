@@ -76,7 +76,7 @@ Nuestra bicicleta eléctrica, la Sunn Start S1, lleva un motor Bosch Active Line
 
 ### De alquiler
 
-Nuestra tienda está en el 27 quai de Versailles, a orillas del Erdre, frente a la île de Versailles (tranvía línea 2, parada Saint-Mihiel). Abre de abril a octubre. Ajustamos la bicicleta a su talla y le explicamos su funcionamiento antes de salir. Descubra nuestra [bicicleta eléctrica de alquiler](https://www.bikentour.com/es/bicicleta-electrica) y nuestras [tarifas](https://www.bikentour.com/es/precios). Para un uso familiar, también alquilamos una [bicicleta de carga eléctrica](https://www.bikentour.com/es/bicicleta-de-carga).
+Nuestra tienda está en el 27 quai de Versailles, a orillas del Erdre, frente a la île de Versailles (tranvía línea 2, parada Saint-Mihiel). Abre de abril a octubre. Ajustamos la bicicleta a su talla y le explicamos su funcionamiento antes de salir. Descubra nuestra [bicicleta eléctrica de alquiler](https://www.bikentour.com/es/bicicleta-electrica) y nuestras [tarifas](https://www.bikentour.com/es/precios). Para un uso familiar, también alquilamos una [sillita de bebé y un remolque infantil](https://www.bikentour.com/es/alquiler-accesorios-bicicleta).
 
 ### En visita guiada
 

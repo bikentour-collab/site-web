@@ -1,6 +1,6 @@
 # Alquilar una bici en Nantes: precios y consejos | Bike'N Tour
 
-> Guía para alquilar una bici en Nantes: precios de 20 a 50 € al día, qué bici elegir, 6 rutas desde Nantes, solo ida, fianza.
+> Guía para alquilar una bici en Nantes: precios de 20 a 35 € al día, qué bici elegir, 6 rutas desde Nantes, solo ida, fianza.
 
 Page : https://www.bikentour.com/es/guia-alquiler-bicicletas-nantes · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -10,9 +10,9 @@ La guía
 
 Precios, elección de la bici, rutas desde Nantes, solo ida, accesorios, fianza: todo lo que hay que saber antes de alquilar una bici para un paseo o un viaje, por el equipo de Bike'N Tour.
 
-**En resumen.** Para alquilar una bici en Nantes e irse de viaje, Bike'N Tour (27 quai de Versailles, a orillas del Erdre) alquila bicicleta de viaje desde 22 €, bicicleta eléctrica desde 35 €, bicicleta gravel desde 35 €, bicicleta infantil desde 20 € y bicicleta de carga desde 50 € al día, con opción solo ida con presupuesto a medida y cancelación gratuita hasta 48 h antes. Seis rutas ciclistas salen de la tienda, entre ellas la Loire à Vélo (165 km hasta Saumur).
+**En resumen.** Para alquilar una bici en Nantes e irse de viaje, Bike'N Tour (27 quai de Versailles, a orillas del Erdre) alquila bicicleta de viaje desde 22 €, bicicleta eléctrica desde 35 €, bicicleta gravel desde 35 € y bicicleta infantil desde 20 € al día, con opción solo ida con presupuesto a medida y cancelación gratuita hasta 48 h antes. Seis rutas ciclistas salen de la tienda, entre ellas la Loire à Vélo (165 km hasta Saumur).
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## ¿Dónde alquilar una bici en Nantes para irse de viaje?
 
@@ -43,7 +43,7 @@ En Bike'N Tour, en el 27 quai de Versailles, 44000 Nantes: la tienda está a ori
 
 ## ¿Cuánto cuesta alquilar una bici en Nantes?
 
-En Bike'N Tour, el alquiler por día cuesta 20 € para la bicicleta infantil, 22 € para la bicicleta de viaje, 35 € para la bicicleta eléctrica, 35 € para la bicicleta gravel y 50 € para la bicicleta de carga. Los precios son decrecientes: una bici de viaje cuesta 110 € la semana y una bici eléctrica, 172 €.
+En Bike'N Tour, el alquiler por día cuesta 20 € para la bicicleta infantil, 22 € para la bicicleta de viaje, 35 € para la bicicleta eléctrica y 35 € para la bicicleta gravel. Los precios son decrecientes: una bici de viaje cuesta 110 € la semana y una bici eléctrica, 172 €.
 
 | Bici | Modelo | 1 día | Week-end | Semana | Fianza |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,6 @@ En Bike'N Tour, el alquiler por día cuesta 20 € para la bicicleta infantil, 
 | [Bicicleta eléctrica](https://www.bikentour.com/es/bicicleta-electrica) | Sunn Start S1 | 35 € | 62 € | 172 € | 1 000 € |
 | [Bicicleta gravel](https://www.bikentour.com/es/bicicleta-gravel) | Sunn Venture S1 | 35 € | 62 € | 172 € | 1 000 € |
 | [Bicicleta infantil](https://www.bikentour.com/es/bicicleta-infantil) | Decathlon 20, 24 o 26 pulgadas | 20 € | 38 € | 88 € | 500 € |
-| [Bicicleta de carga](https://www.bikentour.com/es/bicicleta-de-carga) | Babboe Mini Mountain (eléctrica) | 50 € | 95 € | 200 € | 1 000 € |
 
 Todos los precios día a día: [página de Precios](https://www.bikentour.com/es/precios).
 
@@ -65,7 +64,6 @@ La bici de viaje basta para las rutas llanas como la Loire à Vélo o la Vélody
 | [Bicicleta eléctrica](https://www.bikentour.com/es/bicicleta-electrica) | Ideal para etapas largas, parejas con distinto nivel y rutas con desnivel como la Travesía bretona. La batería se extrae con la llave suministrada para que pueda recargarla en su alojamiento. |
 | [Bicicleta gravel](https://www.bikentour.com/es/bicicleta-gravel) | La mejor elección para un fin de semana en el viñedo de Nantes o para el Canal de Nantes à Brest, cuyos caminos de sirga suelen ser de tierra compactada. |
 | [Bicicleta infantil](https://www.bikentour.com/es/bicicleta-infantil) | En la Loire à Vélo, los tramos de vía segregada y el perfil muy llano permiten a los niños circular con seguridad. Calcule de 20 a 30 km al día con niños. |
-| [Bicicleta de carga](https://www.bikentour.com/es/bicicleta-de-carga) | Perfecta para paseos de un día por los alrededores de Nantes, por ejemplo hasta Mauves-sur-Loire y sus guinguettes, los merenderos junto al río (17,5 km). |
 
 ## ¿Qué rutas en bici salen de Nantes?
 
@@ -96,7 +94,7 @@ Sí: Bike'N Tour organiza la recogida de las bicis a la llegada, en la Loire à 
 
 ## ¿Qué fianza y qué seguro?
 
-La fianza es de 500 € (bicicleta de viaje, bicicleta infantil), 1 000 € (bicicleta eléctrica, bicicleta gravel, bicicleta de carga), con un máximo de 2 000 € para varias bicis. Se ofrece una protección opcional contra daños y robo: 2 € al día (bicicleta de viaje, bicicleta infantil), 3 € al día (bicicleta eléctrica, bicicleta gravel).
+La fianza es de 500 € (bicicleta de viaje, bicicleta infantil), 1 000 € (bicicleta eléctrica, bicicleta gravel), con un máximo de 2 000 € para varias bicis. Se ofrece una protección opcional contra daños y robo: 2 € al día (bicicleta de viaje, bicicleta infantil), 3 € al día (bicicleta eléctrica, bicicleta gravel).
 
 ## ¿Cómo reservar y se puede cancelar?
 

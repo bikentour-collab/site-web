@@ -58,7 +58,7 @@ Le château reste une mairie en activité : respectez les lieux et les horaires 
 
 ## Quel vélo choisir ?
 
-Le trajet est court et presque plat : notre [vélo de voyage](/fr/location-velo-de-voyage) suffit. En famille, pensez à nos [vélos enfant](/fr/location-velo-enfant) ou au [vélo cargo électrique](/fr/location-velo-cargo). Pour aller plus loin vers l'est, la [Loire à Vélo](/fr/itineraires-velo-depart-nantes/loire-a-velo) vous attend jusqu'à Angers et Saumur. Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation).
+Le trajet est court et presque plat : notre [vélo de voyage](/fr/location-velo-de-voyage) suffit. En famille, pensez à nos [vélos enfant](/fr/location-velo-enfant) ou à la [remorque enfant](/fr/location-accessoires-velo). Pour aller plus loin vers l'est, la [Loire à Vélo](/fr/itineraires-velo-depart-nantes/loire-a-velo) vous attend jusqu'à Angers et Saumur. Les prix sont sur notre page [tarifs et réservation](/fr/nos-tarifs-reservation).
 
 ## Questions fréquentes
 

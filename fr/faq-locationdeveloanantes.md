@@ -14,7 +14,7 @@ Location, réservation, caution, aller simple, accès à la boutique : les répo
 
 ### Quels vélos peut-on louer chez Bike'N Tour à Nantes ?
 
-Des vélos de voyage Velo de Ville, des vélos électriques Sunn à moteur Bosch, des gravels Sunn, des vélos enfant de 20 à 26 pouces et un vélo cargo électrique Babboe. Siège bébé et remorque sont disponibles en option.
+Des vélos de voyage Velo de Ville, des vélos électriques Sunn à moteur Bosch, des gravels Sunn et des vélos enfant de 20 à 26 pouces. Siège bébé et remorque sont disponibles en option.
 
 ### Peut-on louer un vélo pour plusieurs jours ou plusieurs semaines ?
 
@@ -50,7 +50,7 @@ Oui, sur demande : nous organisons la récupération des vélos à l'arrivée (L
 
 ### Quelle caution est demandée ?
 
-500 € pour un vélo de voyage ou enfant, 1 000 € pour un gravel, un vélo électrique ou un cargo, avec un plafond de 2 000 € pour plusieurs vélos.
+500 € pour un vélo de voyage ou enfant, 1 000 € pour un gravel ou un vélo électrique, avec un plafond de 2 000 € pour plusieurs vélos.
 
 ### Que se passe-t-il en cas de casse ou de vol ?
 

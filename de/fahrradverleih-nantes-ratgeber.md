@@ -1,6 +1,6 @@
 # Fahrrad mieten in Nantes: Preise, Tipps | Bike'N Tour
 
-> Ratgeber Fahrrad mieten in Nantes: Preise von 20 bis 50 € pro Tag, Radwahl, 6 Routen ab Nantes, Einweg-Miete, Kaution.
+> Ratgeber Fahrrad mieten in Nantes: Preise von 20 bis 35 € pro Tag, Radwahl, 6 Routen ab Nantes, Einweg-Miete, Kaution.
 
 Page : https://www.bikentour.com/de/fahrradverleih-nantes-ratgeber · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -10,9 +10,9 @@ Der Ratgeber
 
 Preise, Radwahl, Routen ab Nantes, Einweg-Miete, Zubehör, Kaution: alles, was Sie wissen sollten, bevor Sie ein Rad für einen Ausflug oder eine Reise mieten – vom Team von Bike'N Tour.
 
-**Kurz gesagt.** Um in Nantes ein Fahrrad für eine Radreise zu mieten: Bike'N Tour (27 quai de Versailles, an der Erdre) vermietet Reiserad ab 22 €, E-Bike ab 35 €, Gravelbike ab 35 €, Kinderrad ab 20 € und Lastenrad ab 50 € pro Tag, mit Einweg-Miete nach Angebot und kostenloser Stornierung bis 48 Std. vorher. Sechs Radrouten starten am Laden, darunter die Loire à Vélo (165 km bis Saumur).
+**Kurz gesagt.** Um in Nantes ein Fahrrad für eine Radreise zu mieten: Bike'N Tour (27 quai de Versailles, an der Erdre) vermietet Reiserad ab 22 €, E-Bike ab 35 €, Gravelbike ab 35 € und Kinderrad ab 20 € pro Tag, mit Einweg-Miete nach Angebot und kostenloser Stornierung bis 48 Std. vorher. Sechs Radrouten starten am Laden, darunter die Loire à Vélo (165 km bis Saumur).
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Wo kann man in Nantes ein Fahrrad für eine Radreise mieten?
 
@@ -43,7 +43,7 @@ Bei Bike'N Tour, 27 quai de Versailles, 44000 Nantes: Der Laden liegt an der Erd
 
 ## Was kostet ein Mietfahrrad in Nantes?
 
-Bei Bike'N Tour kostet die Tagesmiete 20 € für ein Kinderrad, 22 € für ein Reiserad, 35 € für ein E-Bike, 35 € für ein Gravelbike und 50 € für ein Lastenrad. Die Preise sind gestaffelt: Ein Reiserad kostet 110 € pro Woche, ein E-Bike 172 €.
+Bei Bike'N Tour kostet die Tagesmiete 20 € für ein Kinderrad, 22 € für ein Reiserad, 35 € für ein E-Bike und 35 € für ein Gravelbike. Die Preise sind gestaffelt: Ein Reiserad kostet 110 € pro Woche, ein E-Bike 172 €.
 
 | Fahrrad | Modell | 1 Tag | Week-end | Woche | Kaution |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,6 @@ Bei Bike'N Tour kostet die Tagesmiete 20 € für ein Kinderrad, 22 € für e
 | [E-Bike](https://www.bikentour.com/de/elektrofahrrad) | Sunn Start S1 | 35 € | 62 € | 172 € | 1.000 € |
 | [Gravelbike](https://www.bikentour.com/de/gravelbike) | Sunn Venture S1 | 35 € | 62 € | 172 € | 1.000 € |
 | [Kinderrad](https://www.bikentour.com/de/kinderfahrrad) | Decathlon 20, 24 oder 26 Zoll | 20 € | 38 € | 88 € | 500 € |
-| [Lastenrad](https://www.bikentour.com/de/lastenrad) | Babboe Mini Mountain (elektrisch) | 50 € | 95 € | 200 € | 1.000 € |
 
 Alle Preise Tag für Tag: [Preisseite](https://www.bikentour.com/de/preis).
 
@@ -65,7 +64,6 @@ Das Reiserad genügt für flache Routen wie die Loire à Vélo oder die Vélodys
 | [E-Bike](https://www.bikentour.com/de/elektrofahrrad) | Ideal für lange Etappen, Paare mit unterschiedlicher Kondition und hügelige Routen wie die Bretagne-Durchquerung. Der Akku lässt sich mit dem mitgelieferten Schlüssel herausnehmen und in Ihrer Unterkunft laden. |
 | [Gravelbike](https://www.bikentour.com/de/gravelbike) | Die richtige Wahl für ein Wochenende in den Weinbergen von Nantes oder für den Kanal von Nantes nach Brest, dessen Treidelpfade oft geschottert sind. |
 | [Kinderrad](https://www.bikentour.com/de/kinderfahrrad) | Auf der Loire à Vélo können Kinder dank eigener Radwege und sehr flachem Profil sicher fahren. Rechnen Sie mit Kindern mit 20 bis 30 km pro Tag. |
-| [Lastenrad](https://www.bikentour.com/de/lastenrad) | Perfekt für Tagesausflüge rund um Nantes, zum Beispiel nach Mauves-sur-Loire mit seinen Guinguettes (Ausflugslokalen am Fluss, 17,5 km). |
 
 ## Welche Radrouten starten in Nantes?
 
@@ -96,7 +94,7 @@ Ja: Bike'N Tour organisiert mit seinen Partnern die Abholung der Räder am Ziel,
 
 ## Welche Kaution und welche Versicherung?
 
-Die Kaution beträgt 500 € (Reiserad, Kinderrad), 1.000 € (E-Bike, Gravelbike, Lastenrad), bei mehreren Rädern höchstens 2.000 €. Ein Bruch- und Diebstahlschutz ist optional erhältlich: 2 € pro Tag (Reiserad, Kinderrad), 3 € pro Tag (E-Bike, Gravelbike).
+Die Kaution beträgt 500 € (Reiserad, Kinderrad), 1.000 € (E-Bike, Gravelbike), bei mehreren Rädern höchstens 2.000 €. Ein Bruch- und Diebstahlschutz ist optional erhältlich: 2 € pro Tag (Reiserad, Kinderrad), 3 € pro Tag (E-Bike, Gravelbike).
 
 ## Wie bucht man, und kann man stornieren?
 

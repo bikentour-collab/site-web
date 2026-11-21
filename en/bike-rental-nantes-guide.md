@@ -1,6 +1,6 @@
 # Bike Hire in Nantes: Prices and Tips | Bike'N Tour
 
-> Guide to hiring a bike in Nantes: prices from €20 to €50 a day, which bike to choose, 6 routes from Nantes, one-way hire, deposit.
+> Guide to hiring a bike in Nantes: prices from €20 to €35 a day, which bike to choose, 6 routes from Nantes, one-way hire, deposit.
 
 Page : https://www.bikentour.com/en/bike-rental-nantes-guide · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -10,9 +10,9 @@ The guide
 
 Prices, choosing a bike, routes from Nantes, one-way hire, accessories, deposit: everything you need to know before hiring a bike for a day ride or a cycling holiday, from the Bike'N Tour team.
 
-**In short.** To hire a bike in Nantes for a cycling trip, Bike'N Tour (27 quai de Versailles, on the banks of the Erdre) offers touring bikes from €22, e-bikes from €35, gravel bikes from €35, kids' bikes from €20 and cargo bikes from €50 a day, with one-way hire on request and free cancellation up to 48 hours before. Six cycle routes start from the shop, including the Loire à Vélo (165 km to Saumur).
+**In short.** To hire a bike in Nantes for a cycling trip, Bike'N Tour (27 quai de Versailles, on the banks of the Erdre) offers touring bikes from €22, e-bikes from €35, gravel bikes from €35 and kids' bikes from €20 a day, with one-way hire on request and free cancellation up to 48 hours before. Six cycle routes start from the shop, including the Loire à Vélo (165 km to Saumur).
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 21, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Where can I hire a touring bike in Nantes?
 
@@ -43,7 +43,7 @@ At Bike'N Tour, 27 quai de Versailles, 44000 Nantes. The shop is on the banks of
 
 ## How much does bike hire cost in Nantes?
 
-At Bike'N Tour, day hire costs €20 for the kids' bike, €22 for the touring bike, €35 for the e-bike, €35 for the gravel bike and €50 for the cargo bike. Prices drop for longer hires: a touring bike costs €110 for the week, an e-bike €172.
+At Bike'N Tour, day hire costs €20 for the kids' bike, €22 for the touring bike, €35 for the e-bike and €35 for the gravel bike. Prices drop for longer hires: a touring bike costs €110 for the week, an e-bike €172.
 
 | Bike | Model | 1 day | Week-end | Week | Deposit |
 | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,6 @@ At Bike'N Tour, day hire costs €20 for the kids' bike, €22 for the touring b
 | [E-bike](https://www.bikentour.com/en/electric-touring-bike) | Sunn Start S1 | 35 € | 62 € | 172 € | 1,000 € |
 | [Gravel bike](https://www.bikentour.com/en/gravel-bike) | Sunn Venture S1 | 35 € | 62 € | 172 € | 1,000 € |
 | [Kids' bike](https://www.bikentour.com/en/childrens-bicycle) | Decathlon 20, 24 or 26 inches | 20 € | 38 € | 88 € | 500 € |
-| [Cargo bike](https://www.bikentour.com/en/cargo-bike) | Babboe Mini Mountain (electric) | 50 € | 95 € | 200 € | 1,000 € |
 
 All prices day by day: [Prices page](https://www.bikentour.com/en/biken-tour-prices).
 
@@ -65,7 +64,6 @@ A touring bike is all you need for flat routes like the Loire à Vélo or La Vé
 | [E-bike](https://www.bikentour.com/en/electric-touring-bike) | Ideal for long stages, couples with different fitness levels and hilly routes like the Brittany Crossing. The battery comes out with the key provided, so you can recharge it where you're staying. |
 | [Gravel bike](https://www.bikentour.com/en/gravel-bike) | The right choice for a weekend in the Nantes Vineyards or for the Nantes–Brest Canal, where the towpaths are often compacted gravel. |
 | [Kids' bike](https://www.bikentour.com/en/childrens-bicycle) | On the Loire à Vélo, the traffic-free sections and very flat profile mean children can ride safely. Allow 20 to 30 km a day with children. |
-| [Cargo bike](https://www.bikentour.com/en/cargo-bike) | Perfect for day rides around Nantes, for example to Mauves-sur-Loire and its riverside guinguettes (17.5 km). |
 
 ## Which cycle routes start from Nantes?
 
@@ -96,7 +94,7 @@ Yes: Bike'N Tour arranges for the bikes to be collected at your destination, on 
 
 ## What about the deposit and insurance?
 
-The deposit is 500 € (touring bike, kids' bike), 1,000 € (e-bike, gravel bike, cargo bike), capped at €2,000 for several bikes. Optional damage and theft cover is available: €2 a day (touring bike, kids' bike), €3 a day (e-bike, gravel bike).
+The deposit is 500 € (touring bike, kids' bike), 1,000 € (e-bike, gravel bike), capped at €2,000 for several bikes. Optional damage and theft cover is available: €2 a day (touring bike, kids' bike), €3 a day (e-bike, gravel bike).
 
 ## How do I book, and can I cancel?
 

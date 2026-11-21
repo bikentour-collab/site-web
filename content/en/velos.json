@@ -119,31 +119,6 @@
         }
       ],
       "why": "On the Loire à Vélo, the traffic-free sections and very flat profile mean children can ride safely. Allow 20 to 30 km a day with children."
-    },
-    {
-      "name": "Cargo bike",
-      "h1": "Electric cargo bike hire in Nantes",
-      "alt": "Babboe electric cargo bike for hire in Nantes",
-      "brand": "Babboe",
-      "model": "Mini Mountain (electric)",
-      "title": "Electric Cargo Bike Hire Nantes | Bike'N Tour",
-      "meta": "Hire a Babboe electric cargo bike in Nantes to take the kids out: Shimano motor, 80 km range, rain cover. €50 a day.",
-      "lead": "An electric cargo bike to carry the kids (or the picnic) around Nantes and along the banks of the Loire.",
-      "specs": [
-        {
-          "label": "Motor",
-          "valeur": "Shimano, around 80 km range"
-        },
-        {
-          "label": "Drivetrain",
-          "valeur": "Enviolo continuously variable hub"
-        },
-        {
-          "label": "Equipment",
-          "valeur": "Seat cushions, rain cover on request"
-        }
-      ],
-      "why": "Perfect for day rides around Nantes, for example to Mauves-sur-Loire and its riverside guinguettes (17.5 km)."
     }
   ],
   "accessoires": [

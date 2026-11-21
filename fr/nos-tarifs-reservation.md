@@ -1,6 +1,6 @@
 # Tarifs location vélo Nantes 2026 : dès 20 €/jour | Bike'N Tour
 
-> Tarifs de location de vélos à Nantes : voyage 22 €/jour, électrique 35 €, gravel 35 €, enfant 20 €, cargo 50 €. Grille jour par jour, accessoires.
+> Tarifs de location de vélos à Nantes : voyage 22 €/jour, électrique 35 €, gravel 35 €, enfant 20 €. Grille jour par jour, accessoires.
 
 Page : https://www.bikentour.com/fr/nos-tarifs-reservation · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
@@ -18,9 +18,9 @@ Des tarifs simples et dégressifs, cadenas, kit anti-crevaison et éclairage com
 
 ![Départ à vélo depuis la boutique à Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)
 
-**En bref.** Tarifs 2026 de location de vélos chez Bike'N Tour, 27 quai de Versailles à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine ; vélo cargo 50 € la journée, 200 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
+**En bref.** Tarifs 2026 de location de vélos chez Bike'N Tour, 27 quai de Versailles à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 
@@ -30,7 +30,6 @@ Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nan
 | [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) | 35 € | 62 € | 172 € | 3 € / jour | 1 000 € |
 | [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) | 35 € | 62 € | 172 € | 3 € / jour | 1 000 € |
 | [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) | 20 € | 38 € | 88 € | 2 € / jour | 500 € |
-| [Vélo cargo](https://www.bikentour.com/fr/location-velo-cargo) | 50 € | 95 € | 200 € | Nous consulter | 1 000 € |
 
 ## Grille complète, de 1 à 7 jours
 
