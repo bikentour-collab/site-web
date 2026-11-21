@@ -1,0 +1,22 @@
+# Moteurs de recherche et assistants IA : bienvenue (mêmes règles pour tous)
+User-agent: *
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Amazonbot
+User-agent: meta-externalagent
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+Allow: /
+Disallow: /tools/
+Disallow: /admin/
+Disallow: /cms/
+
+Sitemap: https://www.bikentour.com/sitemap.xml

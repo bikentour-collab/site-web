@@ -1,0 +1,18 @@
+<!doctype html><html><head><link rel="stylesheet" href="maplibre-gl.css"><style>html,body{margin:0}#m{position:absolute;left:0;top:0}</style></head>
+<body><div id="m"></div><script src="maplibre-gl.js"></script><script>
+window.go = async (frame, style) => {
+  const el = document.getElementById('m'); el.style.width = frame.w + 'px'; el.style.height = frame.h + 'px';
+  const map = new maplibregl.Map({ container: 'm', style, interactive: false, preserveDrawingBuffer: true, attributionControl: false, fadeDuration: 0, pixelRatio: 1,
+    center: [(frame.W + frame.E) / 2, 0], zoom: frame.z });
+  window.map = map;
+  await new Promise(r => map.once('load', r));
+  // centre vertical exact en Mercator
+  const my = la => Math.log(Math.tan(Math.PI / 4 + la * Math.PI / 360));
+  const cy = (my(frame.N) + my(frame.S)) / 2; const clat = (2 * Math.atan(Math.exp(cy)) - Math.PI / 2) * 180 / Math.PI;
+  map.jumpTo({ center: [(frame.W + frame.E) / 2, clat], zoom: frame.z });
+  await new Promise(r => { const chk = () => map.loaded() && map.areTilesLoaded() ? r() : setTimeout(chk, 500); setTimeout(chk, 1500); });
+  await new Promise(r => setTimeout(r, 1500));
+  const b = map.getBounds();
+  return { b: [b.getWest(), b.getSouth(), b.getEast(), b.getNorth()], w: map.getCanvas().width, h: map.getCanvas().height };
+};
+</script></body></html>

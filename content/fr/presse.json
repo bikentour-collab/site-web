@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "media": "Ouest-France",
+      "titre": "À Nantes, les loueurs de vélos mouillent le maillot",
+      "url": "https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/a-nantes-les-loueurs-de-velos-mouillent-le-maillot-23270126-7441-11f0-aae0-d9f2c5541ad0"
+    },
+    {
+      "media": "Le Bonbon Nantes",
+      "titre": "Visiter Nantes en vélo électrique avec Bike'N Tour",
+      "url": "https://www.lebonbon.fr/nantes/loisirs/bike-n-tour-visiter-nantes-en-velo-electrique/"
+    },
+    {
+      "media": "Tourisme Loire-Atlantique",
+      "titre": "Bike'N Tour, vélo électrique à Nantes",
+      "url": "https://tourisme-loireatlantique.com/bike-n-tour-nantes-velo-electrique/"
+    },
+    {
+      "media": "Les P'tits Bonheurs à Nantes",
+      "titre": "Avec Bike'N Tour, visitez Nantes à vélo (2017)",
+      "url": "https://lesptitsbonheursanantes.com/2017/06/04/avec-biken-tour-visitez-nantes-a-velo/"
+    }
+  ],
+  "references": [
+    {
+      "media": "France Vélo Tourisme",
+      "titre": "Bike'N Tour Nantes, loueur labellisé Accueil Vélo",
+      "url": "https://www.francevelotourisme.com/pratique/loueurs-reparateurs-de-velo/bike-n-tour-nantes"
+    },
+    {
+      "media": "Le Voyage à Nantes",
+      "titre": "Bike n'tour : location de vélos électriques et visites guidées",
+      "url": "https://www.levoyageanantes.fr/en/activities/electric-bike-tour/"
+    },
+    {
+      "media": "En Pays de la Loire",
+      "titre": "Bike'N Tour Nantes, activités autour du vélo",
+      "url": "https://www.enpaysdelaloire.com/activites/autour-du-velo/bike-n-tour-nantes"
+    },
+    {
+      "media": "SNCF Connect",
+      "titre": "À vélo à Nantes et autour",
+      "url": "https://www.sncf-connect.com/article/velo-depuis-nantes-67513"
+    }
+  ]
+}

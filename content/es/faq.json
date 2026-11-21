@@ -1,0 +1,80 @@
+{
+ "rubriques": [
+  {
+   "titre": "El alquiler",
+   "questions": [
+    {
+     "question": "¿Qué bicicletas se pueden alquilar en Bike'N Tour en Nantes?",
+     "reponse": "Bicicletas de viaje Velo de Ville, bicicletas eléctricas Sunn con motor Bosch, gravel Sunn, bicicletas infantiles de 20 a 26 pulgadas y una bicicleta de carga eléctrica Babboe. La sillita de bebé y el remolque están disponibles como opción."
+    },
+    {
+     "question": "¿Se puede alquilar una bicicleta para varios días o varias semanas?",
+     "reponse": "Sí, por día, por fin de semana, por semana o más. Las tarifas son decrecientes: por ejemplo, 110 € la semana por una bicicleta de viaje y 172 € por una bicicleta eléctrica."
+    },
+    {
+     "question": "¿Qué accesorios están incluidos?",
+     "reponse": "Candado, kit antipinchazos, bomba, portaequipajes y luces, además del cargador y la llave de la batería en las bicicletas eléctricas. Las alforjas Ortlieb, la bolsa de manillar, el casco, el soporte para smartphone, la sillita de bebé y el remolque son opcionales."
+    },
+    {
+     "question": "¿Qué autonomía tienen las bicicletas eléctricas?",
+     "reponse": "Unos 100 km en modo eco gracias al motor Bosch y a la batería de 400 Wh. La batería se extrae con la llave suministrada para que pueda recargarla en su alojamiento."
+    },
+    {
+     "question": "¿Las bicicletas están preparadas para el cicloturismo y el bikepacking?",
+     "reponse": "Sí: cuadros robustos, frenos de disco hidráulicos, neumáticos reforzados y transmisiones Shimano, pensados para llevar alforjas por firmes mixtos."
+    }
+   ]
+  },
+  {
+   "titre": "Reserva y servicios",
+   "questions": [
+    {
+     "question": "¿Cómo reservar una bicicleta?",
+     "reponse": "En línea en pocos clics, por teléfono al 06 52 62 94 64 o por correo electrónico a contact@bikentour.com. Confirmamos la reserva en un plazo de 24 h."
+    },
+    {
+     "question": "¿Se puede modificar o cancelar una reserva?",
+     "reponse": "Sí, gratuitamente hasta 48 h antes de la salida. Si surge un imprevisto, contacte con nosotros lo antes posible: siempre buscamos una solución."
+    },
+    {
+     "question": "¿Se pueden devolver las bicicletas en otra ciudad?",
+     "reponse": "Sí, bajo petición: organizamos la recogida de las bicicletas a su llegada (Loire à Vélo, Vélodyssée, La Régalante, Bretaña) con nuestros colaboradores, con presupuesto previo."
+    }
+   ]
+  },
+  {
+   "titre": "Fianza, daños y asistencia",
+   "questions": [
+    {
+     "question": "¿Qué fianza se pide?",
+     "reponse": "500 € por una bicicleta de viaje o infantil y 1000 € por una gravel, una eléctrica o una de carga, con un máximo de 2000 € para varias bicicletas."
+    },
+    {
+     "question": "¿Qué ocurre en caso de daños o robo?",
+     "reponse": "La protección contra daños y robo se ofrece como opción (2 € al día por una bicicleta de viaje o infantil, 3 € por una eléctrica o una gravel). Cubre el 100 % de los daños, salvo uso indebido, y en caso de robo solo corre de su cuenta el 10 % del valor de la bicicleta nueva."
+    },
+    {
+     "question": "¿Hay asistencia durante el viaje?",
+     "reponse": "Sí, asistencia telefónica los 7 días de la semana. Si hace falta una reparación in situ, le hacemos un presupuesto o le ayudamos a encontrar un taller cercano."
+    }
+   ]
+  },
+  {
+   "titre": "Cómo llegar a la tienda",
+   "questions": [
+    {
+     "question": "¿Dónde está la tienda?",
+     "reponse": "En el 27 quai de Versailles, 44000 Nantes, a orillas del Erdre, frente a la isla de Versailles. Tranvía línea 2, parada Saint-Mihiel, a dos pasos."
+    },
+    {
+     "question": "¿Cuál es el horario?",
+     "reponse": "De abril a octubre, de martes a domingo, y todos los días en julio y agosto, de 9:30 a 12:00 y de 14:00 a 18:30."
+    },
+    {
+     "question": "¿Ofrecen visitas privadas?",
+     "reponse": "Sí, para familias, grupos de amigos y empresas: consulte nuestra página Grupos y empresas o contacte con nosotros."
+    }
+   ]
+  }
+ ]
+}

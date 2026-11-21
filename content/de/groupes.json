@@ -1,0 +1,33 @@
+{
+ "offres": [
+  {
+   "name": "Fahrradverleih für Gruppen",
+   "price": "Ab 16,67 € zzgl. MwSt. pro Rad",
+   "items": [
+    "Räder und E-Bikes ab Nantes oder an Ihren Wunschort geliefert",
+    "Streckenvorschlag",
+    "Sicherheitsausrüstung inklusive",
+    "Einweisung und Tipps"
+   ]
+  },
+  {
+   "name": "Private geführte Touren",
+   "price": "Ab 36 € zzgl. MwSt. pro Person",
+   "items": [
+    "Panorama von Nantes oder Weinberge von Nantes",
+    "Thema an Ihre Gruppe anpassbar",
+    "1 Guide pro 12 Personen"
+   ]
+  },
+  {
+   "name": "Events und Teambuilding",
+   "price": "Auf Anfrage",
+   "items": [
+    "Individuelle Strecke und Aktivität (Escape Game auf dem Rad …)",
+    "Verleih und Lieferung der Räder",
+    "Einweisung und Tipps",
+    "Abgestimmt auf Ihr Seminarprogramm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bikentour-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site Bike'N Tour – location de vélos à Nantes",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

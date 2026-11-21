@@ -1,0 +1,33 @@
+{
+ "offres": [
+  {
+   "name": "Fietsverhuur voor groepen",
+   "price": "Vanaf € 16,67 excl. btw per fiets",
+   "items": [
+    "Fietsen en e-bikes vanaf Nantes of bezorgd op jouw locatie",
+    "Routevoorstel",
+    "Veiligheidsuitrusting inbegrepen",
+    "Fietsinstructie en tips"
+   ]
+  },
+  {
+   "name": "Privérondleidingen",
+   "price": "Vanaf € 36 excl. btw per persoon",
+   "items": [
+    "Panorama van Nantes of wijngaarden van Nantes",
+    "Thema afgestemd op je groep",
+    "1 gids per 12 personen"
+   ]
+  },
+  {
+   "name": "Activiteiten en teambuilding",
+   "price": "Op offerte",
+   "items": [
+    "Route en activiteit op maat (escape game op de fiets…)",
+    "Verhuur en bezorging van de fietsen",
+    "Fietsinstructie en tips",
+    "Afgestemd op je seminarprogramma"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,574 @@
+{
+  "itineraires": [
+    {
+      "id": "loire",
+      "name": "La Loire à Vélo",
+      "color": "loire",
+      "short": "Vers Angers et Saumur",
+      "url": "/fr/itineraires-velo-depart-nantes/loire-a-velo",
+      "img": "/assets/img/v2-bord-de-loire.webp",
+      "alt": "Groupe de cyclistes au bord de la Loire",
+      "desc": "La véloroute la plus connue de France remonte la Loire au départ de Nantes : châteaux, vignobles et villages de bord de fleuve, sur un parcours plat et très bien balisé. Parfaite pour un premier voyage à vélo, en famille ou entre amis.",
+      "dist": "≈ 165 km jusqu'à Saumur",
+      "km": "165 km",
+      "days": "3 à 4 jours",
+      "level": "Facile",
+      "oneway": true,
+      "steps": [
+        "Nantes",
+        "Ancenis",
+        "Angers",
+        "Saumur"
+      ],
+      "bike": "Vélo de voyage ou électrique",
+      "dur": "court semaine",
+      "page": {
+        "h1": "La Loire à Vélo au départ de Nantes",
+        "title": "Loire à Vélo depuis Nantes : étapes et location | Bike'N Tour",
+        "meta": "La Loire à Vélo au départ de Nantes : 165 km jusqu'à Saumur en 3 à 4 jours, étapes conseillées, retour en train et location de vélo de voyage ou électrique.",
+        "intro": "La Loire à Vélo (EuroVelo 6) est la véloroute la plus fréquentée de France. Au départ de Nantes, elle remonte le fleuve vers Angers et Saumur sur un parcours plat, très bien balisé et en grande partie en site propre : le voyage idéal pour une première itinérance, en famille ou entre amis.",
+        "stages": [
+          {
+            "etape": "Nantes → Ancenis",
+            "texte": "La sortie de Nantes par les bords de Loire, Mauves-sur-Loire et ses guinguettes, Oudon et sa tour."
+          },
+          {
+            "etape": "Ancenis → Angers",
+            "texte": "Champtoceaux, les coteaux du Layon et de l'Anjou, puis Angers et son château."
+          },
+          {
+            "etape": "Angers → Saumur",
+            "texte": "Les villages de tuffeau, les troglodytes et l'arrivée au pied du château de Saumur."
+          }
+        ],
+        "highlights": [
+          "Le château des ducs de Bretagne au départ",
+          "Les guinguettes de Mauves-sur-Loire",
+          "Le château d'Angers et la tapisserie de l'Apocalypse",
+          "Les maisons troglodytes et le château de Saumur"
+        ],
+        "back": "Trains directs Saumur – Nantes et Angers – Nantes (TER, vélos acceptés selon la saison), ou aller simple sur demande.",
+        "faq": [
+          {
+            "question": "Combien de jours faut-il pour faire la Loire à Vélo de Nantes à Saumur ?",
+            "reponse": "Comptez 3 à 4 jours pour les 165 km entre Nantes et Saumur, à raison de 40 à 60 km par jour. Le week-end Nantes – Angers (110 km) se fait en 2 jours."
+          },
+          {
+            "question": "La Loire à Vélo est-elle adaptée aux enfants ?",
+            "reponse": "Oui : le parcours est plat et souvent en site propre. Avec des enfants, prévoyez 20 à 30 km par jour ; nous louons des vélos enfant, des sièges bébé et des remorques."
+          }
+        ]
+      },
+      "points": [
+        {
+          "nom": "Mauves-sur-Loire",
+          "texte": "Guinguettes et pause au bord de la Loire, idéal pour une première étape.",
+          "lat": 47.2971,
+          "lon": -1.39,
+          "article": "les-bords-de-loire-mauves-sur-loire"
+        },
+        {
+          "nom": "Château d'Oudon",
+          "texte": "Donjon octogonal du XIVe siècle, avec vue sur la vallée de la Loire.",
+          "lat": 47.3478,
+          "lon": -1.2853,
+          "article": "les-bords-de-loire-oudon"
+        },
+        {
+          "nom": "Saint-Florent-le-Vieil",
+          "texte": "Village perché et son abbatiale qui domine la Loire.",
+          "lat": 47.3604,
+          "lon": -1.0154,
+          "article": ""
+        },
+        {
+          "nom": "Château de Serrant",
+          "texte": "Grand château Renaissance, à 4 km de l'itinéraire.",
+          "lat": 47.4087,
+          "lon": -0.7445,
+          "article": ""
+        },
+        {
+          "nom": "Béhuard",
+          "texte": "Petit village sur une île de la Loire, sa chapelle bâtie sur le rocher.",
+          "lat": 47.38,
+          "lon": -0.6431,
+          "article": ""
+        }
+      ]
+    },
+    {
+      "id": "velodyssee",
+      "name": "La Vélodyssée",
+      "color": "velodyssee",
+      "short": "Vers l'océan et la Vendée",
+      "url": "/fr/itineraires-velo-depart-nantes/velodyssee",
+      "img": "/assets/img/photo-sacoches.webp",
+      "alt": "Voyageurs à vélo avec leurs sacoches sur un chemin de campagne",
+      "desc": "Au départ de Nantes, la Vélodyssée rejoint l'océan par le pays de Retz puis longe la côte vendéenne : marais, plages et pistes en forêt de pins, avec le vent du large en prime.",
+      "dist": "≈ 240 km jusqu'aux Sables-d'Olonne",
+      "km": "240 km",
+      "days": "4 à 5 jours",
+      "level": "Facile",
+      "oneway": true,
+      "steps": [
+        "Nantes",
+        "Pornic",
+        "Saint-Jean-de-Monts",
+        "Les Sables-d'Olonne"
+      ],
+      "bike": "Vélo de voyage ou électrique",
+      "dur": "court semaine",
+      "page": {
+        "h1": "La Vélodyssée au départ de Nantes",
+        "title": "Vélodyssée depuis Nantes : Pornic, Les Sables | Bike'N Tour",
+        "meta": "La Vélodyssée au départ de Nantes : l'estuaire, Pornic, la côte vendéenne jusqu'aux Sables-d'Olonne (≈ 240 km). Étapes, retour en train et location de vélo.",
+        "intro": "La Vélodyssée (EuroVelo 1) relie Roscoff à Hendaye. Depuis Nantes, elle rejoint l'océan en longeant l'estuaire de la Loire, puis descend la côte de Jade et la côte vendéenne : marais, plages, forêts de pins et ports de pêche.",
+        "stages": [
+          {
+            "etape": "Nantes → Paimbœuf",
+            "texte": "Le parcours Estuaire, le canal de la Martinière et les carrelets de pêcheurs."
+          },
+          {
+            "etape": "Paimbœuf → Pornic",
+            "texte": "Saint-Brevin-les-Pins, l'océan enfin, puis la côte de Jade jusqu'au vieux port de Pornic."
+          },
+          {
+            "etape": "Pornic → Saint-Jean-de-Monts",
+            "texte": "La baie de Bourgneuf et le marais breton vendéen."
+          },
+          {
+            "etape": "Saint-Jean-de-Monts → Les Sables-d'Olonne",
+            "texte": "Les pistes en forêt de pins, Saint-Gilles-Croix-de-Vie et l'arrivée aux Sables."
+          }
+        ],
+        "highlights": [
+          "Les œuvres du parcours Estuaire",
+          "Le vieux port de Pornic",
+          "Le marais breton vendéen",
+          "La forêt de pins de la côte de Lumière"
+        ],
+        "back": "Trains Pornic – Nantes (40 min) et Les Sables-d'Olonne – Nantes, ou aller simple sur demande.",
+        "faq": [
+          {
+            "question": "Peut-on faire Nantes – Pornic à vélo en un week-end ?",
+            "reponse": "Oui : 100 km en 2 jours, avec une nuit à Paimbœuf ou Corsept, et un retour en train de Pornic à Nantes en 40 minutes environ."
+          }
+        ]
+      },
+      "points": [
+        {
+          "nom": "Canal de la Martinière",
+          "texte": "Canal du XIXe siècle tout plat, le long de l'estuaire de la Loire.",
+          "lat": 47.226,
+          "lon": -1.85,
+          "article": ""
+        },
+        {
+          "nom": "Paimbœuf",
+          "texte": "Ancien avant-port de Nantes, ses quais et son phare.",
+          "lat": 47.2867,
+          "lon": -2.0306,
+          "article": ""
+        },
+        {
+          "nom": "Serpent d'océan",
+          "texte": "Squelette de serpent géant posé sur la plage de Saint-Brevin, œuvre de l'Estuaire.",
+          "lat": 47.238,
+          "lon": -2.169,
+          "article": "une-creature-mythique-aux-portes-de-lestuaire"
+        },
+        {
+          "nom": "Passage du Gois",
+          "texte": "Route submersible vers Noirmoutier, praticable à marée basse, à 3 km de l'itinéraire.",
+          "lat": 46.9278,
+          "lon": -2.127,
+          "article": ""
+        },
+        {
+          "nom": "Saint-Gilles-Croix-de-Vie",
+          "texte": "Port de pêche animé et longues plages de la côte vendéenne.",
+          "lat": 46.695,
+          "lon": -1.942,
+          "article": ""
+        }
+      ]
+    },
+    {
+      "id": "regalante",
+      "name": "La Régalante",
+      "color": "regalante",
+      "short": "Jusqu'au Mont-Saint-Michel",
+      "url": "/fr/itineraires-velo-depart-nantes/regalante",
+      "img": "/assets/img/v2-chemin-foret.webp",
+      "alt": "Trois voyageurs à vélo sur un chemin forestier",
+      "desc": "La nouvelle véloroute qui relie Nantes au Mont-Saint-Michel par les terres : voies vertes, cités de caractère comme Châteaubriant, Vitré et Fougères, et très peu de dénivelé.",
+      "dist": "275 km jusqu'au Mont-Saint-Michel",
+      "km": "275 km",
+      "days": "9 étapes",
+      "level": "Facile",
+      "oneway": true,
+      "steps": [
+        "Nantes",
+        "Châteaubriant",
+        "Vitré",
+        "Fougères",
+        "Mont-Saint-Michel"
+      ],
+      "bike": "Vélo de voyage ou électrique",
+      "dur": "semaine",
+      "page": {
+        "h1": "La Régalante, de Nantes au Mont-Saint-Michel",
+        "title": "La Régalante à vélo, Nantes – Mont-Saint-Michel | Bike'N Tour",
+        "meta": "La Régalante, véloroute de 275 km entre Nantes et le Mont-Saint-Michel par Châteaubriant, Vitré et Fougères : 9 étapes faciles et location de vélo à Nantes.",
+        "intro": "La Régalante est une véloroute récente qui relie Nantes au Mont-Saint-Michel par l'intérieur des terres. Ses 275 km, découpés en 9 étapes, empruntent surtout des voies vertes avec très peu de dénivelé, et traversent des cités de caractère.",
+        "stages": [
+          {
+            "etape": "Nantes → Nort-sur-Erdre",
+            "texte": "La vallée de l'Erdre et ses châteaux."
+          },
+          {
+            "etape": "Nort-sur-Erdre → Châteaubriant",
+            "texte": "Voies vertes et forêts du nord de la Loire-Atlantique."
+          },
+          {
+            "etape": "Châteaubriant → Vitré",
+            "texte": "Entrée en Bretagne et ville médiévale de Vitré."
+          },
+          {
+            "etape": "Vitré → Fougères",
+            "texte": "Le château de Fougères, l'un des plus grands d'Europe."
+          },
+          {
+            "etape": "Fougères → Mont-Saint-Michel",
+            "texte": "Le bocage normand puis l'arrivée face à la baie."
+          }
+        ],
+        "highlights": [
+          "La vallée de l'Erdre",
+          "Le château de Châteaubriant",
+          "Les remparts de Vitré et de Fougères",
+          "L'arrivée au Mont-Saint-Michel"
+        ],
+        "back": "Retour en car et en train via Pontorson ou Rennes, ou aller simple sur demande.",
+        "faq": [
+          {
+            "question": "La Régalante est-elle difficile ?",
+            "reponse": "Non : elle est majoritairement en voie verte avec peu de dénivelé. Comptez 9 étapes de 25 à 35 km en moyenne, ou moins de jours si vous roulez plus."
+          }
+        ]
+      },
+      "points": [
+        {
+          "nom": "Sucé-sur-Erdre",
+          "texte": "Bords de l'Erdre, guinguettes et châteaux au fil de l'eau.",
+          "lat": 47.3444,
+          "lon": -1.527,
+          "article": "balade-incontournable-lerdre-a-velo"
+        },
+        {
+          "nom": "Nort-sur-Erdre",
+          "texte": "Petit port sur l'Erdre, à l'entrée du canal de Nantes à Brest.",
+          "lat": 47.4389,
+          "lon": -1.4983,
+          "article": ""
+        },
+        {
+          "nom": "La Guerche-de-Bretagne",
+          "texte": "Petite cité de caractère et ses maisons à porches.",
+          "lat": 47.9419,
+          "lon": -1.2297,
+          "article": ""
+        },
+        {
+          "nom": "Pontorson",
+          "texte": "Dernière étape avant le Mont-Saint-Michel, par la vallée du Couesnon.",
+          "lat": 48.552,
+          "lon": -1.51,
+          "article": ""
+        }
+      ]
+    },
+    {
+      "id": "traversee",
+      "name": "La Traversée bretonne",
+      "color": "traversee",
+      "short": "Par la côte, Rennes et Saint-Malo",
+      "url": "/fr/itineraires-velo-depart-nantes/traversee-bretonne",
+      "img": "/assets/img/v2-cycliste-vignes.webp",
+      "alt": "Cycliste en vélo électrique sur une petite route de campagne",
+      "desc": "Le grand voyage vers le Mont-Saint-Michel : l'estuaire et Guérande, la Vilaine jusqu'à Redon, Rennes, puis la vallée de la Rance, Dinan et la côte d'Émeraude.",
+      "dist": "485 km jusqu'au Mont-Saint-Michel",
+      "km": "485 km",
+      "days": "8 à 10 jours",
+      "level": "Modéré",
+      "oneway": true,
+      "steps": [
+        "Nantes",
+        "Saint-Nazaire",
+        "Redon",
+        "Rennes",
+        "Dinan",
+        "Saint-Malo",
+        "Mont-Saint-Michel"
+      ],
+      "bike": "Vélo de voyage ou électrique",
+      "dur": "semaine",
+      "page": {
+        "h1": "La Traversée bretonne, de Nantes au Mont-Saint-Michel",
+        "title": "Traversée bretonne à vélo depuis Nantes (485 km) | Bike'N Tour",
+        "meta": "La Traversée bretonne à vélo : 485 km de Nantes au Mont-Saint-Michel par Guérande, Redon, Rennes, Dinan et Saint-Malo. Étapes, conseils et location de vélo.",
+        "intro": "Le grand voyage à vélo vers le Mont-Saint-Michel : l'estuaire de la Loire et Guérande, la Vilaine jusqu'à Redon, Rennes, la vallée de la Rance, Dinan puis la côte d'Émeraude et la baie. Un itinéraire varié de près de 500 km.",
+        "stages": [
+          {
+            "etape": "Nantes → Saint-Nazaire",
+            "texte": "La Vélidéale le long de l'estuaire."
+          },
+          {
+            "etape": "Saint-Nazaire → Guérande",
+            "texte": "La Baule et les marais salants."
+          },
+          {
+            "etape": "Guérande → Redon",
+            "texte": "La Vilaine, Arzal et La Roche-Bernard."
+          },
+          {
+            "etape": "Redon → Rennes",
+            "texte": "Le halage de la Vilaine."
+          },
+          {
+            "etape": "Rennes → Dinan",
+            "texte": "Le canal d'Ille-et-Rance."
+          },
+          {
+            "etape": "Dinan → Saint-Malo",
+            "texte": "La vallée de la Rance."
+          },
+          {
+            "etape": "Saint-Malo → Mont-Saint-Michel",
+            "texte": "Cancale, la baie et l'arrivée au Mont."
+          }
+        ],
+        "highlights": [
+          "Les marais salants de Guérande",
+          "La cité médiévale de Dinan",
+          "Saint-Malo intra-muros",
+          "La baie du Mont-Saint-Michel"
+        ],
+        "back": "Retour en train depuis Rennes ou Saint-Malo, ou aller simple sur demande.",
+        "faq": [
+          {
+            "question": "Combien de temps faut-il pour la Traversée bretonne ?",
+            "reponse": "Comptez 8 à 10 jours pour les 485 km, à raison de 50 à 60 km par jour. Le vélo électrique est conseillé pour les portions vallonnées."
+          }
+        ]
+      },
+      "points": [
+        {
+          "nom": "La Roche-Bernard",
+          "texte": "Petite cité de caractère au-dessus de la Vilaine et de son port.",
+          "lat": 47.518,
+          "lon": -2.3005,
+          "article": ""
+        },
+        {
+          "nom": "Barrage de la Rance",
+          "texte": "Usine marémotrice et point de vue sur l'estuaire de la Rance.",
+          "lat": 48.618,
+          "lon": -2.023,
+          "article": ""
+        },
+        {
+          "nom": "Cancale",
+          "texte": "Port ostréicole et vue sur la baie du Mont-Saint-Michel.",
+          "lat": 48.6767,
+          "lon": -1.8517,
+          "article": ""
+        }
+      ]
+    },
+    {
+      "id": "canal",
+      "name": "Le Canal de Nantes à Brest",
+      "color": "canal",
+      "short": "Les chemins de halage vers le Finistère",
+      "url": "/fr/itineraires-velo-depart-nantes/canal-nantes-brest",
+      "img": "/assets/img/v2-depart-boutique.webp",
+      "alt": "Deux voyageurs partent à vélo depuis le centre de Nantes",
+      "desc": "Écluses, maisons éclusières et chemins de halage tout plats : le canal traverse la Bretagne intérieure de Nantes jusqu'au Finistère. On peut en faire une partie, jusqu'à Redon ou Josselin.",
+      "dist": "≈ 360 km jusqu'à Châteaulin",
+      "km": "360 km",
+      "days": "6 à 8 jours",
+      "level": "Facile",
+      "oneway": true,
+      "steps": [
+        "Nantes",
+        "Nort-sur-Erdre",
+        "Redon",
+        "Josselin",
+        "Pontivy",
+        "Carhaix",
+        "Châteaulin"
+      ],
+      "bike": "Vélo de voyage ou gravel",
+      "dur": "court semaine",
+      "page": {
+        "h1": "Le Canal de Nantes à Brest à vélo",
+        "title": "Canal de Nantes à Brest à vélo : étapes | Bike'N Tour",
+        "meta": "Le Canal de Nantes à Brest à vélo au départ de Nantes : chemins de halage par Redon, Josselin et Pontivy (≈ 360 km). Week-end jusqu'à Redon ou grand voyage.",
+        "intro": "Écluses, maisons éclusières et chemins de halage tout plats : le Canal de Nantes à Brest traverse la Bretagne intérieure. On peut le parcourir sur un week-end jusqu'à Redon ou en grand voyage jusqu'au Finistère.",
+        "stages": [
+          {
+            "etape": "Nantes → Nort-sur-Erdre",
+            "texte": "L'Erdre et ses châteaux."
+          },
+          {
+            "etape": "Nort-sur-Erdre → Redon",
+            "texte": "Le canal à travers le bocage, idéal pour un week-end."
+          },
+          {
+            "etape": "Redon → Josselin",
+            "texte": "Malestroit et le château de Josselin."
+          },
+          {
+            "etape": "Josselin → Pontivy",
+            "texte": "La vallée du Blavet."
+          },
+          {
+            "etape": "Pontivy → Carhaix",
+            "texte": "Le lac de Guerlédan."
+          },
+          {
+            "etape": "Carhaix → Châteaulin",
+            "texte": "L'Aulne et l'arrivée dans le Finistère."
+          }
+        ],
+        "highlights": [
+          "Les 238 écluses du canal",
+          "Le château de Josselin",
+          "Le lac de Guerlédan",
+          "Les maisons éclusières"
+        ],
+        "back": "Train Redon – Nantes (environ 45 min) pour le week-end, ou retour depuis Quimper ou Brest ; aller simple sur demande.",
+        "faq": [
+          {
+            "question": "Peut-on faire le canal de Nantes à Brest en un week-end ?",
+            "reponse": "Oui : de Nantes à Redon en 2 jours, avec un retour en train depuis Redon."
+          }
+        ]
+      },
+      "points": [
+        {
+          "nom": "Nort-sur-Erdre",
+          "texte": "Petit port sur l'Erdre, à l'entrée du canal.",
+          "lat": 47.4389,
+          "lon": -1.4983,
+          "article": ""
+        },
+        {
+          "nom": "Malestroit",
+          "texte": "Petite cité de caractère au bord de l'Oust.",
+          "lat": 47.8097,
+          "lon": -2.3825,
+          "article": ""
+        },
+        {
+          "nom": "Rohan",
+          "texte": "Village du canal, ses écluses et sa chapelle au bord de l'eau.",
+          "lat": 48.0697,
+          "lon": -2.7519,
+          "article": ""
+        },
+        {
+          "nom": "Lac de Guerlédan",
+          "texte": "Grand lac au cœur de la Bretagne, forêts et baignade.",
+          "lat": 48.205,
+          "lon": -3.03,
+          "article": ""
+        }
+      ]
+    },
+    {
+      "id": "vignoble",
+      "name": "Le Vignoble nantais",
+      "color": "vignoble",
+      "short": "Un week-end entre Sèvre et Muscadet",
+      "url": "/fr/itineraires-velo-depart-nantes/vignoble-nantais",
+      "img": "/assets/img/v2-vignoble-nantais.webp",
+      "alt": "Cyclistes sur une petite route du vignoble nantais",
+      "desc": "Le week-end idéal à deux pas de Nantes : les coteaux du Muscadet, la Sèvre nantaise et Clisson, son château et ses airs d'Italie. Petites routes et chemins, parfaits en gravel.",
+      "dist": "≈ 80 km en boucle",
+      "km": "80 km",
+      "days": "2 jours",
+      "level": "Facile",
+      "oneway": false,
+      "steps": [
+        "Nantes",
+        "Vertou",
+        "Clisson",
+        "Vallet"
+      ],
+      "bike": "Gravel ou électrique",
+      "dur": "weekend",
+      "page": {
+        "h1": "Le Vignoble nantais à vélo",
+        "title": "Vignoble nantais à vélo : Nantes – Clisson | Bike'N Tour",
+        "meta": "Un week-end à vélo dans le Vignoble nantais : la Sèvre nantaise, Vertou, Clisson et les coteaux du Muscadet (≈ 80 km en boucle). Location de gravel à Nantes.",
+        "intro": "Le week-end idéal à deux pas de Nantes : les bords de la Sèvre nantaise, les coteaux du Muscadet et Clisson, sa forteresse médiévale et ses airs d'Italie. Petites routes et chemins, parfaits en gravel.",
+        "stages": [
+          {
+            "etape": "Nantes → Clisson",
+            "texte": "Les bords de Sèvre, la Chaussée des Moines à Vertou et les vignes (37 km)."
+          },
+          {
+            "etape": "Clisson → Nantes",
+            "texte": "Retour par Vallet et les coteaux du Muscadet, avec une dégustation en chemin."
+          }
+        ],
+        "highlights": [
+          "La Chaussée des Moines à Vertou",
+          "Le château de Clisson",
+          "La Garenne Lemot",
+          "Les domaines du Muscadet"
+        ],
+        "back": "Boucle retour à Nantes, ou TER Clisson – Nantes en 20 minutes.",
+        "faq": [
+          {
+            "question": "Peut-on faire Nantes – Clisson à vélo dans la journée ?",
+            "reponse": "Oui : 37 km par les bords de Sèvre, avec un retour en TER depuis Clisson."
+          }
+        ]
+      },
+      "points": [
+        {
+          "nom": "Chaussée des Moines",
+          "texte": "Ancienne chaussée sur la Sèvre à Vertou, lieu de pause apprécié.",
+          "lat": 47.169,
+          "lon": -1.477,
+          "article": "balade-incontournable-la-sevre-nantaise"
+        },
+        {
+          "nom": "Marais de Goulaine",
+          "texte": "Zone humide préservée, oiseaux et roselières entre les vignes.",
+          "lat": 47.21,
+          "lon": -1.395,
+          "article": "le-marais-de-goulaine"
+        },
+        {
+          "nom": "Le Porte-Vue",
+          "texte": "Belvédère au-dessus de la vallée de la Maine à Château-Thébaud, à quelques kilomètres de la Sèvre.",
+          "lat": 47.1194,
+          "lon": -1.4227,
+          "article": "le-porte-vue-un-belvedere-exceptionnel"
+        },
+        {
+          "nom": "Vallet",
+          "texte": "Capitale du Muscadet, domaines et dégustations.",
+          "lat": 47.1622,
+          "lon": -1.2661,
+          "article": ""
+        }
+      ]
+    }
+  ]
+}

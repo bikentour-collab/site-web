@@ -1,0 +1,81 @@
+{
+ "balades": [
+  {
+   "name": "The Sèvre Nantaise to Clisson",
+   "km": "37 km (one way)",
+   "time": "Full day",
+   "back": "TER train back from Clisson",
+   "text": "The banks of the Sèvre, the Chaussée des Moines at Vertou, the Muscadet vineyards, then Clisson's medieval castle."
+  },
+  {
+   "name": "The Loire banks to Oudon",
+   "km": "30 km",
+   "time": "Full day",
+   "back": "TER train back from Oudon",
+   "text": "One of the most beautiful stretches of the Loire à Vélo, via Mauves-sur-Loire and Le Cellier, almost entirely traffic-free."
+  },
+  {
+   "name": "The Loire à Vélo to Cordemais",
+   "km": "46 km",
+   "time": "Full day",
+   "back": "TER train back from Cordemais",
+   "text": "The estuary marshes, herons and the Villa Cheminée, an artwork perched 15 metres up facing the river."
+  },
+  {
+   "name": "Lac de Grand-Lieu",
+   "km": "18 km",
+   "time": "Full day",
+   "back": "TER train back from Bouaye",
+   "text": "From the Memorial to the Abolition of Slavery to the Maison du Lac at Bouaye, with an optional out-and-back to Pierre-Aigüe."
+  },
+  {
+   "name": "The Nantes panorama loop",
+   "km": "20 km",
+   "time": "Half day",
+   "back": "Loop from the city centre",
+   "text": "Follow Nantes' Green Line by bike: monuments, Voyage à Nantes artworks and the city's quirky corners."
+  },
+  {
+   "name": "The Erdre to Sucé-sur-Erdre",
+   "km": "18 km",
+   "time": "Half day",
+   "back": "TER train back from Sucé-sur-Erdre",
+   "text": "“The most beautiful river in France”, according to King François I, with its châteaux and riverside guinguettes."
+  },
+  {
+   "name": "Mauves-sur-Loire",
+   "km": "17.5 km",
+   "time": "Half day",
+   "back": "Back along the Divatte embankment or by TER train",
+   "text": "The riverside guinguettes of Sainte-Luce-sur-Loire and Mauves – ideal for families."
+  },
+  {
+   "name": "Le Pellerin via the south bank",
+   "km": "24 km",
+   "time": "Full day",
+   "back": "Back by bike or by ferry to Couëron",
+   "text": "Trentemoult, Rezé, then the marshes south of the estuary to the port of Le Pellerin."
+  },
+  {
+   "name": "Nantes – Pornic in two days",
+   "km": "100 km",
+   "time": "Weekend",
+   "back": "TER train back from Pornic (40 min)",
+   "text": "The Estuaire trail, the Martinière canal, a night in Paimbœuf or Corsept, then the ocean at Saint-Brevin and the Côte de Jade."
+  },
+  {
+   "name": "Nantes – Angers in two days",
+   "km": "110 km",
+   "time": "Weekend",
+   "back": "TER train back from Angers (40 min)",
+   "text": "Two stages of around 55 km on the Loire à Vélo, through Loire villages, vineyards and wetlands."
+  },
+  {
+   "name": "Nantes – Saint-Nazaire via the Vélidéale",
+   "km": "90 km",
+   "time": "Weekend",
+   "back": "TER or TGV train back (40 min)",
+   "text": "The north side of the estuary through the marshes: The Settlers, the Villa Cheminée and the Lavau-sur-Loire observatory."
+  }
+ ]
+}

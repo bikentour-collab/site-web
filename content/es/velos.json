@@ -1,0 +1,187 @@
+{
+  "velos": [
+    {
+      "name": "Bicicleta de viaje",
+      "h1": "Alquiler de bicicletas de viaje en Nantes",
+      "alt": "Bicicleta de viaje Velo de Ville Trekking L200 de alquiler en Nantes",
+      "brand": "Velo de Ville (Alemania)",
+      "model": "Trekking L200",
+      "title": "Alquiler bici de viaje en Nantes desde 22 €/día | Bike'N Tour",
+      "meta": "Alquile una bicicleta de viaje en Nantes para la Loire à Vélo o la Vélodyssée: portaequipajes, frenos de disco, 22 € al día, 110 € la semana.",
+      "lead": "Nuestra bicicleta de viaje está fabricada a medida con nuestro socio alemán Velo de Ville para el cicloturismo: robusta, cómoda y lista para llevar dos alforjas.",
+      "specs": [
+        {
+          "label": "Ruedas",
+          "valeur": "28\", neumáticos antipinchazos Schwalbe"
+        },
+        {
+          "label": "Frenos",
+          "valeur": "De disco hidráulicos"
+        },
+        {
+          "label": "Transmisión",
+          "valeur": "Shimano Cues, monoplato de 9 velocidades (cassette 11-41)"
+        },
+        {
+          "label": "Equipamiento",
+          "valeur": "Portaequipajes, guardabarros, luces delantera y trasera con dinamo, manillar ergonómico, sillín Royal"
+        }
+      ],
+      "why": "Es nuestra bicicleta más solicitada para la Loire à Vélo y la Vélodyssée: postura erguida, 9 velocidades bien escalonadas y un portaequipajes que admite dos alforjas Ortlieb de 20 litros."
+    },
+    {
+      "name": "Bicicleta eléctrica",
+      "h1": "Alquiler de bicicletas eléctricas en Nantes",
+      "alt": "Bicicleta eléctrica Sunn Start S1 de alquiler en Nantes",
+      "brand": "Sunn (Loire-Atlantique)",
+      "model": "Start S1",
+      "title": "Alquiler bici eléctrica en Nantes desde 35 €/día | Bike'N Tour",
+      "meta": "Alquile una bicicleta eléctrica de viaje en Nantes: motor Bosch, 100 km de autonomía, portaequipajes. 35 € al día, 172 € la semana, opción solo ida.",
+      "lead": "La bicicleta eléctrica de viaje Sunn, fabricada a pocos kilómetros de Nantes, con motor Bosch y batería extraíble para recargarla en cada etapa.",
+      "specs": [
+        {
+          "label": "Motor",
+          "valeur": "Bosch Active Line Plus, batería en el cuadro de 400 Wh"
+        },
+        {
+          "label": "Autonomía",
+          "valeur": "Unos 100 km en modo eco"
+        },
+        {
+          "label": "Ruedas",
+          "valeur": "27,5\", neumáticos antipinchazos Schwalbe"
+        },
+        {
+          "label": "Frenos",
+          "valeur": "De disco hidráulicos"
+        },
+        {
+          "label": "Transmisión",
+          "valeur": "Shimano Cues, monoplato de 9 velocidades"
+        },
+        {
+          "label": "Equipamiento",
+          "valeur": "Portaequipajes, guardabarros, luces delantera y trasera, cargador y llave de la batería"
+        }
+      ],
+      "why": "Ideal para etapas largas, parejas con distinto nivel y rutas con desnivel como la Travesía bretona. La batería se extrae con la llave suministrada para que pueda recargarla en su alojamiento."
+    },
+    {
+      "name": "Bicicleta gravel",
+      "h1": "Alquiler de bicicletas gravel en Nantes",
+      "alt": "Bicicleta gravel Sunn Venture S1 de alquiler en Nantes",
+      "brand": "Sunn (Loire-Atlantique)",
+      "model": "Venture S1",
+      "title": "Alquiler gravel en Nantes desde 35 €/día | Bike'N Tour",
+      "meta": "Alquile una gravel Sunn en Nantes para el viñedo de Nantes, los caminos de sirga o el bikepacking: Shimano GRX, portaequipajes. 35 € al día.",
+      "lead": "Para salirse de los caminos trillados: caminos de sirga, pistas forestales y carreteras secundarias del viñedo, con una bicicleta ligera y polivalente.",
+      "specs": [
+        {
+          "label": "Ruedas",
+          "valeur": "28\", neumáticos gravel Continental"
+        },
+        {
+          "label": "Frenos",
+          "valeur": "De disco hidráulicos"
+        },
+        {
+          "label": "Transmisión",
+          "valeur": "Shimano GRX 600, monoplato de 11 velocidades"
+        },
+        {
+          "label": "Equipamiento",
+          "valeur": "Portaequipajes trasero, portabidón"
+        }
+      ],
+      "why": "La mejor elección para un fin de semana en el viñedo de Nantes o para el Canal de Nantes à Brest, cuyos caminos de sirga suelen ser de tierra compactada."
+    },
+    {
+      "name": "Bicicleta infantil",
+      "h1": "Alquiler de bicicletas infantiles en Nantes",
+      "alt": "Bicicleta infantil de alquiler en Nantes",
+      "brand": "Decathlon",
+      "model": "20, 24 o 26 pulgadas",
+      "title": "Alquiler bici infantil en Nantes desde 20 €/día | Bike'N Tour",
+      "meta": "Alquile una bicicleta infantil (20, 24 o 26 pulgadas) en Nantes para la Loire à Vélo en familia: 20 € al día, 88 € la semana. Sillita y remolque opcionales.",
+      "lead": "Para viajar en familia: bicicletas infantiles de 20 a 26 pulgadas y, para los más pequeños, sillita de bebé o remolque como opción.",
+      "specs": [
+        {
+          "label": "Tallas",
+          "valeur": "20, 24 y 26 pulgadas"
+        },
+        {
+          "label": "Transmisión",
+          "valeur": "Shimano de 7 velocidades"
+        },
+        {
+          "label": "Equipamiento",
+          "valeur": "Candado, pata de cabra"
+        }
+      ],
+      "why": "En la Loire à Vélo, los tramos de vía segregada y el perfil muy llano permiten a los niños circular con seguridad. Calcule de 20 a 30 km al día con niños."
+    },
+    {
+      "name": "Bicicleta de carga",
+      "h1": "Alquiler de bicicletas de carga eléctricas en Nantes",
+      "alt": "Bicicleta de carga eléctrica Babboe de alquiler en Nantes",
+      "brand": "Babboe",
+      "model": "Mini Mountain (eléctrica)",
+      "title": "Alquiler bici de carga eléctrica en Nantes | Bike'N Tour",
+      "meta": "Alquile una bicicleta de carga eléctrica Babboe en Nantes para pasear a los niños: motor Shimano, 80 km de autonomía, protección para la lluvia. 50 € al día.",
+      "lead": "Una bicicleta de carga eléctrica para llevar a los niños (o el pícnic) por Nantes y por las orillas del Loira.",
+      "specs": [
+        {
+          "label": "Motor",
+          "valeur": "Shimano, unos 80 km de autonomía"
+        },
+        {
+          "label": "Transmisión",
+          "valeur": "Buje de variación continua Enviolo"
+        },
+        {
+          "label": "Equipamiento",
+          "valeur": "Cojines de asiento, protección para la lluvia bajo petición"
+        }
+      ],
+      "why": "Perfecta para paseos de un día por los alrededores de Nantes, por ejemplo hasta Mauves-sur-Loire y sus guinguettes, los merenderos junto al río (17,5 km)."
+    }
+  ],
+  "accessoires": [
+    {
+      "nom": "Par de alforjas traseras impermeables Ortlieb (2 × 20 L)",
+      "description": "Dos alforjas traseras impermeables de 20 litros cada una, que se enganchan al portaequipajes: el equipo básico para un viaje de varios días."
+    },
+    {
+      "nom": "Bolsa de manillar (6 L)",
+      "description": "Una bolsa de 6 litros fijada al manillar, para tener a mano el teléfono, la documentación, la crema solar y algo de picar."
+    },
+    {
+      "nom": "Funda de sillín confort",
+      "description": "Una funda de sillín acolchada para ganar comodidad en las etapas largas."
+    },
+    {
+      "nom": "Soporte para smartphone",
+      "description": "Un soporte resistente para seguir el track GPX en su teléfono sin tener que pararse."
+    },
+    {
+      "nom": "Sillita de bebé (desde 1 año)",
+      "description": "Una silla de bebé homologada, para niños a partir de 1 año, montada en el portaequipajes."
+    },
+    {
+      "nom": "Remolque infantil (desde 1 año)",
+      "description": "Un remolque para llevar a uno o dos niños a partir de 1 año, protegidos del viento y del sol."
+    },
+    {
+      "nom": "Casco",
+      "description": "Un casco ajustable, recomendado para toda la familia."
+    }
+  ],
+  "inclus": [
+    "Candado",
+    "Kit antipinchazos y bomba",
+    "Portaequipajes",
+    "Luces delantera y trasera",
+    "Cargador y llave de la batería (bicicletas eléctricas)",
+    "Ajuste de la bicicleta a su medida y consejos sobre el itinerario"
+  ]
+}

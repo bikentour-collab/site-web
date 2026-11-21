@@ -1,0 +1,81 @@
+{
+ "balades": [
+  {
+   "name": "Die Sèvre nantaise bis Clisson",
+   "km": "37 km (einfache Strecke)",
+   "time": "Tagestour",
+   "back": "Rückfahrt im Regionalzug (TER) ab Clisson",
+   "text": "Die Ufer der Sèvre, die Chaussée des Moines in Vertou, die Muscadet-Weinberge und schließlich die mittelalterliche Burg von Clisson."
+  },
+  {
+   "name": "Die Loire-Ufer bis Oudon",
+   "km": "30 km",
+   "time": "Tagestour",
+   "back": "Rückfahrt im Regionalzug (TER) ab Oudon",
+   "text": "Einer der schönsten Abschnitte der Loire à Vélo, über Mauves-sur-Loire und Le Cellier, fast durchgehend auf eigenen Radwegen."
+  },
+  {
+   "name": "Die Loire à Vélo bis Cordemais",
+   "km": "46 km",
+   "time": "Tagestour",
+   "back": "Rückfahrt im Regionalzug (TER) ab Cordemais",
+   "text": "Die Sumpflandschaften der Mündung, Reiher und die Villa Cheminée, ein Kunstwerk in 15 Metern Höhe mit Blick auf den Fluss."
+  },
+  {
+   "name": "Der Lac de Grand-Lieu",
+   "km": "18 km",
+   "time": "Tagestour",
+   "back": "Rückfahrt im Regionalzug (TER) ab Bouaye",
+   "text": "Vom Mahnmal zur Abschaffung der Sklaverei bis zur Maison du lac in Bouaye, mit möglichem Abstecher nach Pierre-Aigüe und zurück."
+  },
+  {
+   "name": "Rundtour Panorama von Nantes",
+   "km": "20 km",
+   "time": "Halbtagestour",
+   "back": "Rundtour ab dem Zentrum",
+   "text": "Die Ligne verte von Nantes mit dem Rad: Sehenswürdigkeiten, Kunstwerke des Voyage à Nantes und ungewöhnliche Ecken der Stadt."
+  },
+  {
+   "name": "Die Erdre bis Sucé-sur-Erdre",
+   "km": "18 km",
+   "time": "Halbtagestour",
+   "back": "Rückfahrt im Regionalzug (TER) ab Sucé-sur-Erdre",
+   "text": "Laut Franz I. der „schönste Fluss Frankreichs“, mit Schlössern und Guinguettes (Ausflugslokalen am Wasser)."
+  },
+  {
+   "name": "Mauves-sur-Loire",
+   "km": "17,5 km",
+   "time": "Halbtagestour",
+   "back": "Rückfahrt über den Deich der Divatte oder im Regionalzug (TER)",
+   "text": "Die Guinguettes von Sainte-Luce-sur-Loire und Mauves, ideal mit der Familie."
+  },
+  {
+   "name": "Le Pellerin über das Südufer",
+   "km": "24 km",
+   "time": "Tagestour",
+   "back": "Rückfahrt mit dem Rad oder mit der Fähre nach Couëron",
+   "text": "Trentemoult, Rezé und dann die Sümpfe im Süden der Mündung bis zum Hafen von Le Pellerin."
+  },
+  {
+   "name": "Nantes – Pornic in zwei Tagen",
+   "km": "100 km",
+   "time": "Wochenende",
+   "back": "Rückfahrt im Regionalzug (TER) ab Pornic (40 Min.)",
+   "text": "Der Kunstparcours Estuaire, der Canal de la Martinière, eine Übernachtung in Paimbœuf oder Corsept, dann der Atlantik bei Saint-Brevin und die Côte de Jade."
+  },
+  {
+   "name": "Nantes – Angers in zwei Tagen",
+   "km": "110 km",
+   "time": "Wochenende",
+   "back": "Rückfahrt im Regionalzug (TER) ab Angers (40 Min.)",
+   "text": "Zwei Etappen von je etwa 55 km auf der Loire à Vélo, vorbei an Loire-Dörfern, Weinbergen und Feuchtgebieten."
+  },
+  {
+   "name": "Nantes – Saint-Nazaire über die Vélidéale",
+   "km": "90 km",
+   "time": "Wochenende",
+   "back": "Rückfahrt im Regionalzug (TER) oder TGV (40 Min.)",
+   "text": "Das Nordufer der Mündung durch die Sümpfe: The Settlers, die Villa Cheminée und der Aussichtsturm von Lavau-sur-Loire."
+  }
+ ]
+}

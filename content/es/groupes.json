@@ -1,0 +1,33 @@
+{
+ "offres": [
+  {
+   "name": "Alquiler de bicicletas para grupos",
+   "price": "Desde 16,67 € por bicicleta (IVA no incluido)",
+   "items": [
+    "Bicicletas convencionales y eléctricas con salida desde Nantes o entregadas en el lugar que usted indique",
+    "Propuesta de recorrido",
+    "Equipamiento de seguridad incluido",
+    "Toma de contacto con la bicicleta y consejos"
+   ]
+  },
+  {
+   "name": "Visitas guiadas privadas",
+   "price": "Desde 36 € por persona (IVA no incluido)",
+   "items": [
+    "Panorama de Nantes o viñedo de Nantes",
+    "Temática adaptable a su grupo",
+    "1 guía por cada 12 personas"
+   ]
+  },
+  {
+   "name": "Actividades y team building",
+   "price": "Con presupuesto",
+   "items": [
+    "Recorrido y actividad a medida (escape game en bicicleta…)",
+    "Alquiler y entrega de las bicicletas",
+    "Toma de contacto con la bicicleta y consejos",
+    "Adaptación al programa de su seminario"
+   ]
+  }
+ ]
+}

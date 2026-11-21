@@ -1,0 +1,49 @@
+{
+  "hero_surtitre": "Nantes · 27 quai de Versailles · a orillas del Erdre",
+  "hero_titre_ligne1": "Alquiler de bicicletas",
+  "hero_titre_ligne2": "de viaje",
+  "hero_titre_accent": "en Nantes",
+  "hero_texte": "Seis rutas ciclistas salen de nuestra tienda. Le preparamos la bicicleta, las alforjas y el track GPX: usted solo tiene que pedalear. Posibilidad de alquiler solo de ida.",
+  "hero_image_alt": "Viajeros en bicicletas alquiladas en Bike'N Tour por una carretera secundaria del viñedo de Nantes",
+  "faq": [
+    {
+      "question": "¿Dónde alquilar una bicicleta para recorrer la Loire à Vélo desde Nantes?",
+      "reponse": "En Bike'N Tour, 27 quai de Versailles, 44000 Nantes, a orillas del Erdre, frente a la isla de Versailles (tranvía línea 2, parada Saint-Mihiel). La tienda está en el punto de salida de la Loire à Vélo, la Vélodyssée y La Régalante: allí recogerá bicicletas ajustadas a su medida, alforjas y consejos sobre el itinerario."
+    },
+    {
+      "question": "¿Se puede alquilar una bicicleta solo de ida desde Nantes?",
+      "reponse": "Sí, bajo petición. Usted sale de Nantes y deja la bicicleta en su punto de llegada (Loire à Vélo, Vélodyssée, La Régalante, Bretaña): nosotros organizamos la recogida con nuestros colaboradores, con presupuesto según las fechas y el lugar de entrega."
+    },
+    {
+      "question": "¿Qué ruta en bicicleta hacer desde Nantes?",
+      "reponse": "Seis itinerarios salen de la tienda: la Loire à Vélo hacia Angers y Saumur, la Vélodyssée hacia el océano, La Régalante (275 km) y la Travesía bretona (485 km) hasta el Mont-Saint-Michel, el Canal de Nantes à Brest y el viñedo de Nantes. Para un primer viaje en familia, la Loire à Vélo es la más sencilla: llana y muy bien señalizada."
+    },
+    {
+      "question": "¿Cuánto cuesta alquilar una bicicleta eléctrica en Nantes?",
+      "reponse": "El alquiler de una bicicleta eléctrica en Bike'N Tour empieza en 35 € al día, 62 € el fin de semana y 172 € la semana (tarifa decreciente). El candado, el kit antipinchazos, la bomba y el cargador están incluidos; la protección contra daños y robo es opcional (3 € al día)."
+    },
+    {
+      "question": "¿Qué incluye el alquiler de una bicicleta en Bike'N Tour?",
+      "reponse": "Cada bicicleta se entrega con candado, kit antipinchazos, bomba, portaequipajes y luces (además del cargador en las bicicletas eléctricas). Las alforjas impermeables Ortlieb, el casco, la sillita de bebé, el remolque, el soporte para smartphone y la protección contra daños y robo están disponibles como opción."
+    },
+    {
+      "question": "¿Hay que reservar la bicicleta con antelación?",
+      "reponse": "Se lo recomendamos de mayo a septiembre, sobre todo para las bicicletas eléctricas. La reserva se hace en línea en pocos minutos, o por teléfono, y puede modificarla o cancelarla gratuitamente hasta 48 h antes de la salida."
+    },
+    {
+      "question": "¿Reciben a viajeros extranjeros?",
+      "reponse": "Sí. El equipo le atiende en francés y en inglés, y la web está disponible en español, francés, inglés, neerlandés y alemán. La tienda está a unos diez minutos de la estación de Nantes en tranvía o en bicicleta."
+    }
+  ],
+  "avis": [
+    {
+      "texte": "Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!"
+    },
+    {
+      "texte": "Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla."
+    },
+    {
+      "texte": "¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo."
+    }
+  ]
+}

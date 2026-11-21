@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+tools/.pages-*.json
+tools/.i18n-record.json
+tools/.audit.json
+__pycache__/

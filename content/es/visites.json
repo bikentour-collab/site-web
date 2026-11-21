@@ -1,0 +1,127 @@
+{
+ "visites": [
+  {
+   "name": "Nantes Bike Tour: el panorama de Nantes",
+   "short": "El más vendido",
+   "alt": "Grupo en una visita guiada en bicicleta delante del Gran Elefante de las Machines de l'île",
+   "duration": "2 h 30 min",
+   "when": "De martes a domingo a las 15:00",
+   "langs": "Francés, inglés, español",
+   "meet": "Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel)",
+   "title": "Visita guiada de Nantes en bicicleta eléctrica | Bike'N Tour",
+   "meta": "Descubra Nantes en bicicleta eléctrica con un guía local: Château des ducs, Machines de l'île, Voyage à Nantes. 2 h 30 min, 44 € por persona, máx. 12 personas.",
+   "lead": "El castillo de los duques de Bretaña, el Elefante de las Machines de l'île, las obras del Voyage à Nantes y las orillas del Loira, sin esfuerzo en bicicleta eléctrica y con un guía que conoce la ciudad como la palma de su mano.",
+   "stops": [
+    {
+     "lieu": "Tienda Bike'N Tour, quai de Versailles",
+     "texte": "Briefing, ajuste de las bicicletas y presentación del recorrido."
+    },
+    {
+     "lieu": "Saint-Mihiel y las orillas del Erdre",
+     "texte": "El quai de Versailles, las gabarras y el jardín japonés de la isla de Versailles."
+    },
+    {
+     "lieu": "Quai Ceineray y cours des 50 Otages",
+     "texte": "Cómo el agua dio forma a Nantes, desde los vikingos hasta el relleno de los brazos del Loira."
+    },
+    {
+     "lieu": "Barrio medieval y place du Bouffay",
+     "texte": "Las callejuelas de la antigua ciudad amurallada."
+    },
+    {
+     "lieu": "Château des ducs y Tour LU",
+     "texte": "¿Está Nantes en Bretaña? La vida de Ana de Bretaña y, después, la sabrosa historia de las galletas LU."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Los antiguos astilleros convertidos en barrio de la creación, y el Elefante gigante."
+    },
+    {
+     "lieu": "Graslin, passage Pommeraye y place Royale",
+     "texte": "La elegancia de la Nantes del siglo XIX, antes de volver a la tienda."
+    }
+   ],
+   "included": [
+    "Bicicleta eléctrica y casco",
+    "Guía apasionado",
+    "Delicias locales",
+    "Mapa comentado de la ciudad"
+   ]
+  },
+  {
+   "name": "Wine & Bike Tour en Nantes",
+   "short": "Con degustación",
+   "alt": "Pausa durante una visita guiada en bicicleta por el centro de Nantes",
+   "duration": "3 h 30 min",
+   "when": "De jueves a domingo a las 14:00",
+   "langs": "Francés, inglés",
+   "meet": "Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel)",
+   "title": "Wine & Bike Tour: Nantes en bici y degustación | Bike'N Tour",
+   "meta": "Visita guiada de Nantes en bicicleta eléctrica con degustación de 3 vinos del Loira y quesos locales a orillas del río. 3 h 30 min, 65 € por persona.",
+   "lead": "La ciudad y el viñedo de Nantes en un solo paseo: la historia del Muscadet y de los vinos del Loira y, después, una degustación de tres vinos y quesos locales a orillas del río.",
+   "stops": [
+    {
+     "lieu": "Tienda Bike'N Tour, quai de Versailles",
+     "texte": "Primer contacto con las bicicletas."
+    },
+    {
+     "lieu": "Orillas del Erdre",
+     "texte": "El quai de Versailles y la isla de Versailles."
+    },
+    {
+     "lieu": "Bouffay y Château des ducs",
+     "texte": "La ciudad medieval y la historia del comercio del vino."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Los antiguos astilleros y las Machines de l'île."
+    },
+    {
+     "lieu": "Degustación a orillas del Loira",
+     "texte": "Tres vinos del viñedo de Nantes y quesos locales, comentados por su guía."
+    }
+   ],
+   "included": [
+    "Bicicleta eléctrica y casco",
+    "Guía apasionado",
+    "Degustación de 3 vinos y quesos locales",
+    "Mapa comentado de la ciudad"
+   ]
+  },
+  {
+   "name": "Tour «Cultura urbana» en bicicleta eléctrica",
+   "short": "Fuera de los circuitos habituales",
+   "alt": "Grupo en bicicleta en la Île de Nantes",
+   "duration": "2 h 30 min",
+   "when": "Todos los días a las 10:00, excepto el domingo",
+   "langs": "Francés, inglés",
+   "meet": "Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel)",
+   "title": "Tour «Cultura urbana» por Nantes en bicicleta | Bike'N Tour",
+   "meta": "Visita guiada «fuera de lo común» de Nantes en bicicleta eléctrica: street art, Chantenay, Île de Nantes, orillas del Loira. 2 h 30 min, 45 € por persona.",
+   "lead": "Una visita «fuera de lo común» de Nantes: lugares reconvertidos, street art, arquitectura y barrios en plena transformación, de Chantenay a la Île de Nantes.",
+   "stops": [
+    {
+     "lieu": "Barrio de Chantenay",
+     "texte": "La antigua Nantes industrial y sus naves abandonadas convertidas en espacios de creación."
+    },
+    {
+     "lieu": "Orillas del Loira",
+     "texte": "Las obras del Estuaire y los muelles."
+    },
+    {
+     "lieu": "Île de Nantes",
+     "texte": "Arquitectura contemporánea y Machines de l'île."
+    },
+    {
+     "lieu": "Champ de Mars",
+     "texte": "Los murales y la expresión artística de Nantes."
+    }
+   ],
+   "included": [
+    "Bicicleta eléctrica y casco",
+    "Guía apasionado",
+    "Delicias locales"
+   ]
+  }
+ ]
+}
