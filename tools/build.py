@@ -126,6 +126,7 @@ for n in data['@graph']:
         _same += [u for u in (_SC.get('lien_tripadvisor'), _SC.get('lien_fiche_google')) if u]
         n['sameAs'] = _same
         n['areaServed'] = [{"@type": "City", "name": "Nantes"}, {"@type": "AdministrativeArea", "name": "Loire-Atlantique"}]
+        n['description'] = "Loueur de vélos de voyage, électriques et gravel à Nantes, au départ de la Loire à Vélo, de la Vélodyssée, de la Régalante, de la Traversée bretonne et du Canal de Nantes à Brest. Location en aller simple (One Way), accessoires (sacoches Ortlieb, casque), visites guidées et animations à vélo pour les groupes."
         n['hasMap'] = 'https://www.google.com/maps/search/?api=1&query=Bike%27N+Tour+27+quai+de+Versailles+Nantes'
         _wa = _SC.get('whatsapp')
         n['contactPoint'] = [{"@type": "ContactPoint", "telephone": _SC.get('telephone') or '+33652629464', "email": _SC.get('email'), "contactType": "customer service",
