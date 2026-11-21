@@ -94,7 +94,7 @@ button { font-family: inherit; }
 .nav-list > li:hover, .nav-list > li.is-open { background: var(--paper); }
 .nav-link { font-size: 15px; font-weight: 700; text-decoration: none; color: var(--navy); padding: 10px 4px 10px 12px; white-space: nowrap; }
 .nav-list > li > .nav-link:only-child { padding-right: 12px; }
-.drop-btn { border: 0; background: none; color: var(--navy); cursor: pointer; padding: 10px 10px 10px 2px; display: inline-flex; align-items: center; gap: 6px; font: 700 14px var(--font); border-radius: 10px; }
+.drop-btn { border: 0; background: none; color: var(--navy); cursor: pointer; padding: 10px 8px; min-width: 32px; min-height: 40px; justify-content: center; display: inline-flex; align-items: center; gap: 6px; font: 700 14px var(--font); border-radius: 10px; }
 .chev { width: 11px; height: 7px; fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; transition: transform .2s; }
 .drop:hover > .drop-btn .chev, .drop.is-open > .drop-btn .chev { transform: rotate(180deg); }
 .dd { list-style: none; position: absolute; top: calc(100% + 8px); left: 0; min-width: 270px; margin: 0; padding: 8px; background: var(--white); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); opacity: 0; visibility: hidden; transform: translateY(6px); transition: opacity .18s, transform .18s, visibility .18s; z-index: 60; }

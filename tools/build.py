@@ -127,6 +127,10 @@ for n in data['@graph']:
         n['sameAs'] = _same
         n['areaServed'] = [{"@type": "City", "name": "Nantes"}, {"@type": "AdministrativeArea", "name": "Loire-Atlantique"}]
         n['description'] = "Loueur de vélos de voyage, électriques et gravel à Nantes, au départ de la Loire à Vélo, de la Vélodyssée, de la Régalante, de la Traversée bretonne et du Canal de Nantes à Brest. Location en aller simple (One Way), accessoires (sacoches Ortlieb, casque), visites guidées et animations à vélo pour les groupes."
+        import datetime as _dt
+        _y = _dt.date.today().year + (1 if _dt.date.today() > _dt.date(_dt.date.today().year, 10, 31) else 0)
+        for _o in n.get('openingHoursSpecification') or []:  # boutique ouverte d'avril à octobre
+            _o['validFrom'], _o['validThrough'] = f'{_y}-04-01', f'{_y}-10-31'
         n['hasMap'] = 'https://www.google.com/maps/search/?api=1&query=Bike%27N+Tour+27+quai+de+Versailles+Nantes'
         _wa = _SC.get('whatsapp')
         n['contactPoint'] = [{"@type": "ContactPoint", "telephone": _SC.get('telephone') or '+33652629464', "email": _SC.get('email'), "contactType": "customer service",
