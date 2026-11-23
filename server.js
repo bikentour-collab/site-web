@@ -245,13 +245,26 @@ async function githubUser() {
   ghUserAt = Date.now();
   return ghUser;
 }
+// Traduction automatique (bouton « Traduire » de l'admin) : TRANSLATE_API_KEY (+ TRANSLATE_SERVICE, par défaut google-ai = Gemini).
+// La clé est déposée dans les préférences Sveltia du navigateur après la connexion par mot de passe : rien à saisir pour Antoine.
+const TRANSLATE_SERVICES = ['google-ai', 'anthropic', 'openai', 'google', 'mistral', 'deepseek'];
 async function adminIndex(res) {
   let html = fs.readFileSync(path.join(ROOT, 'admin', 'index.html'), 'utf8');
-  try {
-    const account = { ...(await githubUser()), token: process.env.GITHUB_TOKEN };
-    const js = JSON.stringify(account).replace(/</g, '\\u003c');
-    html = html.replace('<script src="/admin/sveltia-cms.js">', `<script>try{var k='sveltia-cms.user',a=${js},c=JSON.parse(localStorage.getItem(k)||'null');if(!c||c.token!==a.token)localStorage.setItem(k,JSON.stringify(a))}catch(e){}</script>\n<script src="/admin/sveltia-cms.js">`);
-  } catch (e) { console.error('Connexion GitHub automatique indisponible :', e.message); }
+  const parts = [];
+  if (process.env.GITHUB_TOKEN) {
+    try {
+      const account = { ...(await githubUser()), token: process.env.GITHUB_TOKEN };
+      parts.push(`var k='sveltia-cms.user',a=${JSON.stringify(account)},c=JSON.parse(localStorage.getItem(k)||'null');if(!c||c.token!==a.token)localStorage.setItem(k,JSON.stringify(a));`);
+    } catch (e) { console.error('Connexion GitHub automatique indisponible :', e.message); }
+  }
+  if (process.env.TRANSLATE_API_KEY) {
+    const service = TRANSLATE_SERVICES.includes(process.env.TRANSLATE_SERVICE) ? process.env.TRANSLATE_SERVICE : 'google-ai';
+    parts.push(`var p='sveltia-cms.prefs',q=JSON.parse(localStorage.getItem(p)||'{}')||{};q.apiKeys=q.apiKeys||{};q.apiKeys[${JSON.stringify(service)}]=${JSON.stringify(process.env.TRANSLATE_API_KEY)};q.defaultTranslationService=${JSON.stringify(service)};localStorage.setItem(p,JSON.stringify(q));`);
+  }
+  if (parts.length) {
+    const js = parts.map(x => `try{${x}}catch(e){}`).join('').replace(/</g, '\\u003c');
+    html = html.replace('<script src="/admin/sveltia-cms.js">', `<script>${js}</script>\n<script src="/admin/sveltia-cms.js">`);
+  }
   res.writeHead(200, { 'Content-Type': TYPES['.html'], 'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex, nofollow', ...SECURITY_HEADERS });
   res.end(html);
 }
@@ -287,7 +300,7 @@ http.createServer((req, res) => {
         res.writeHead(401, { 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
       }
       if (u.pathname === '/admin/config.yml') return adminConfig(res);
-      if ((u.pathname === '/admin/' || u.pathname === '/admin/index.html') && process.env.GITHUB_TOKEN) return void adminIndex(res);
+      if ((u.pathname === '/admin/' || u.pathname === '/admin/index.html') && (process.env.GITHUB_TOKEN || process.env.TRANSLATE_API_KEY)) return void adminIndex(res);
       if (u.pathname === '/admin') { res.writeHead(301, { Location: '/admin/', ...SECURITY_HEADERS }); return res.end(); }
     }
   }

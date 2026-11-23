@@ -125,7 +125,7 @@ singletons:
   - name: avis
     label: Avis clients mis en avant (3 maximum)
     label_singular: avis
-    hint: 'Copiez de vrais avis Google. Ils s''affichent sur l''accueil, les pages vélos et itinéraires. Pensez à les traduire dans les autres langues. Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Copiez de vrais avis Google. Ils s''affichent sur l''accueil, les pages vélos et itinéraires. Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
     widget: list
     max: 3
     summary: '{{auteur}} · {{texte}}'
@@ -172,7 +172,7 @@ singletons:
     i18n: true
     collapsed: true
     allow_reorder: false
-    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
   icon: home
 - name: velos
   label: Vélos et tarifs
@@ -378,7 +378,7 @@ singletons:
     i18n: true
     collapsed: true
     allow_reorder: false
-    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
   - name: inclus
     label: Inclus avec chaque vélo
     label_singular: élément
@@ -390,7 +390,7 @@ singletons:
       i18n: true
     i18n: true
     allow_reorder: false
-    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
   icon: pedal_bike
 - name: itineraires
   label: Itinéraires
@@ -491,7 +491,7 @@ singletons:
       required: false
       i18n: true
       summary: '{{nom}}'
-      hint: 'Les points ronds sur la carte. Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+      hint: 'Les points ronds sur la carte. Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
       fields:
       - name: nom
         label: Nom du lieu
@@ -763,7 +763,7 @@ singletons:
     i18n: true
     collapsed: true
     allow_reorder: false
-    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
   icon: groups
 - name: balades
   label: Idées de balades
@@ -808,7 +808,7 @@ singletons:
     i18n: true
     collapsed: true
     allow_reorder: false
-    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
   icon: directions_bike
 - name: faq
   label: FAQ
@@ -845,7 +845,7 @@ singletons:
     i18n: true
     collapsed: true
     allow_reorder: false
-    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    hint: 'Après un ajout en français, traduisez-le : icône de traduction en haut de la colonne de droite, puis « Traduire depuis Français » (pour chaque langue).'
   icon: help
 - name: d1
   divider: true

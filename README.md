@@ -24,6 +24,8 @@ GitHub (dépôt unique)  ──push──▶  GitHub Action « Générer le site
 | `SESSION_SECRET` | chaîne aléatoire longue (signature des sessions) – ex. `openssl rand -hex 32` |
 | `GITHUB_REPO` | `compte/depot`, ex. `bikentour/site` |
 | `GITHUB_TOKEN` | **mode simple** : jeton GitHub « fine-grained » limité à ce dépôt, permission *Contents : Read and write*. Antoine se connecte alors uniquement avec identifiant + mot de passe, et arrive directement dans l'administration (session préparée par le serveur). **Recommandé.** |
+| `TRANSLATE_API_KEY` | clé du service de traduction automatique de l'admin (bouton « Traduire »). Par défaut **Google Gemini** : clé gratuite sur https://aistudio.google.com/app/apikey (commence par `AIza`). Déposée automatiquement dans l'admin après connexion : rien à saisir pour l'éditeur. |
+| `TRANSLATE_SERVICE` | facultatif : `google-ai` (Gemini, défaut), `anthropic` (Claude), `openai`, `google` (Cloud Translation), `mistral`, `deepseek`. |
 | `GITHUB_CLIENT_ID` / `GITHUB_CLIENT_SECRET` | **mode alternatif** (sans `GITHUB_TOKEN`) : application OAuth GitHub, callback `https://www.bikentour.com/cms/callback` ; chaque éditeur se connecte avec son compte GitHub. |
 | `SITE_URL` | facultatif, `https://www.bikentour.com` par défaut |
 | `PROD_HOSTS` | facultatif : domaines indexables (par défaut `www.bikentour.com,bikentour.com`). Toute autre adresse, dont l'adresse de test Railway, est servie en `noindex`. |

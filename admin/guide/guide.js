@@ -130,8 +130,9 @@
         tip.style.left = Math.max(2, Math.min(52, (b.x / W * 100))) + '%';
         if (below) tip.style.top = ((b.y + b.h + 22) / H * 100) + '%'; else tip.style.bottom = ((H - b.y + 22) / H * 100) + '%';
       } else {
-        var top = Math.max(2, Math.min(60, ((b.y + b.h / 2) / H * 100) - 12));
-        tip.style.top = top + '%';
+        var mid = (b.y + b.h / 2) / H * 100;
+        if (mid < 50) tip.style.top = Math.max(2, mid - 12) + '%';
+        else tip.style.bottom = Math.max(2, 100 - mid - 12) + '%';
         if (cx < W / 2) tip.style.left = Math.min(52, ((b.x + b.w + 28) / W * 100)) + '%';
         else tip.style.right = Math.min(52, ((W - b.x + 28) / W * 100)) + '%';
       }

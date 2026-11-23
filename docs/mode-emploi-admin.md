@@ -31,6 +31,11 @@ Les pages existent en français, anglais, néerlandais, allemand et espagnol. En
 permettent de modifier chaque langue. Les prix, photos et identifiants se modifient **en français uniquement** et s'appliquent
 à toutes les langues. Quand vous ajoutez un élément en français (une question de FAQ, un avis, une photo de galerie), il est ajouté automatiquement dans les autres langues : pensez à traduire son texte dans la colonne de droite, sinon le texte français s'affiche sur les pages étrangères.
 
+### Traduction automatique
+- **Tout ce qui manque d'un coup :** dans la colonne de droite, cliquez sur l'icône de traduction (en haut), puis « Traduire depuis Français ». Tous les champs encore vides de cette langue sont remplis. Les textes déjà traduits ne sont jamais écrasés. Recommencez pour chaque langue (menu en haut de la colonne de droite), puis enregistrez.
+- **Un seul champ :** si vous avez réécrit un texte en français, utilisez la petite icône de traduction à côté de ce champ, dans la colonne de droite. Elle remplace la traduction de ce champ uniquement.
+- C'est une traduction automatique : relisez toujours, surtout les noms de lieux et les prix.
+
 ## 5. Écrire un article
 *Articles du blog → Nouveau*
 - **Titre** : court et précis (moins de 50 caractères idéalement)
