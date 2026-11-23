@@ -3,13 +3,13 @@
 Adresse : **https://www.bikentour.com/admin**
 
 ## 0. Tutoriel interactif (à faire en premier)
-À la première connexion, l'administration ouvre un **tutoriel interactif** : 7 démonstrations pas à pas sur les vrais écrans (se repérer, changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, les langues, les coordonnées) et les 10 bonnes pratiques. Il reste accessible à tout moment depuis la rubrique **« Tutoriel et bonnes pratiques »** (en haut du menu de gauche), depuis la page de connexion, ou à l'adresse `/admin/guide/`.
+À la première connexion, l'administration ouvre un **tutoriel interactif** : 7 démonstrations pas à pas sur les vrais écrans (se repérer, changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, les langues, les coordonnées) et les bonnes pratiques. Il reste accessible à tout moment depuis la rubrique **« Tutoriel et bonnes pratiques »** (en haut du menu de gauche), depuis la page de connexion, ou à l'adresse `/admin/guide/`.
 
 Le menu de gauche donne un accès direct à chaque rubrique : Accueil, Vélos et tarifs, Itinéraires, Visites guidées, Groupes, Idées de balades, FAQ, Coordonnées et liens, Presse, Mentions légales, Conditions de location, Recrutement, et le Blog (avec ses traductions Blog EN, NL, DE, ES).
 
 ## 1. Se connecter
 1. Saisir l'identifiant et le mot de passe fournis par Afffect.
-2. Cliquer sur **« Se connecter avec GitHub »** : la connexion est immédiate, aucun compte GitHub personnel n'est nécessaire.
+2. L'administration s'ouvre directement, sans compte GitHub personnel. (Si un écran « Se connecter avec GitHub » apparaît malgré tout, cliquez dessus : la connexion est immédiate.)
 3. La session reste ouverte 7 jours. Pour se déconnecter : `https://www.bikentour.com/admin/logout`.
 
 ## 2. Ce que vous pouvez modifier

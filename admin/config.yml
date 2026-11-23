@@ -70,7 +70,7 @@ singletons:
     default: false
     before_input: '**[▶ Ouvrir le tutoriel interactif](/admin/guide/)**'
     after_input: J'ai suivi le tutoriel
-    hint: 'Démonstrations pas à pas sur les vrais écrans : changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, traduire, coordonnées, et les 10 bonnes pratiques. À revoir quand vous voulez. Le tutoriel est aussi accessible depuis la page de connexion.'
+    hint: 'Démonstrations pas à pas sur les vrais écrans : changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, traduire, coordonnées, et les bonnes pratiques. À revoir quand vous voulez. Le tutoriel est aussi accessible depuis la page de connexion.'
 - name: d0
   divider: true
 - name: accueil

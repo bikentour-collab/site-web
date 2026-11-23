@@ -233,6 +233,29 @@ async function handleGpx(req, res) {
   }
 }
 
+// Connexion en une étape : avec GITHUB_TOKEN, la session Sveltia est préparée dans le navigateur après le mot de passe
+// (même format que lorsque Sveltia enregistre une connexion par jeton). En cas d'échec, l'écran de connexion habituel s'affiche.
+let ghUser = null, ghUserAt = 0;
+async function githubUser() {
+  if (ghUser && Date.now() - ghUserAt < 3600 * 1000) return ghUser;
+  const r = await fetch((process.env.GITHUB_API_URL || 'https://api.github.com') + '/user', { headers: { Authorization: `token ${process.env.GITHUB_TOKEN}`, 'User-Agent': 'bikentour-admin', Accept: 'application/vnd.github+json' } });
+  if (!r.ok) throw new Error('github ' + r.status);
+  const a = await r.json();
+  ghUser = { backendName: 'github', id: a.id, name: a.name || a.login, login: a.login, email: a.email || '', avatarURL: a.avatar_url, profileURL: a.html_url };
+  ghUserAt = Date.now();
+  return ghUser;
+}
+async function adminIndex(res) {
+  let html = fs.readFileSync(path.join(ROOT, 'admin', 'index.html'), 'utf8');
+  try {
+    const account = { ...(await githubUser()), token: process.env.GITHUB_TOKEN };
+    const js = JSON.stringify(account).replace(/</g, '\\u003c');
+    html = html.replace('<script src="/admin/sveltia-cms.js">', `<script>try{var k='sveltia-cms.user',a=${js},c=JSON.parse(localStorage.getItem(k)||'null');if(!c||c.token!==a.token)localStorage.setItem(k,JSON.stringify(a))}catch(e){}</script>\n<script src="/admin/sveltia-cms.js">`);
+  } catch (e) { console.error('Connexion GitHub automatique indisponible :', e.message); }
+  res.writeHead(200, { 'Content-Type': TYPES['.html'], 'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex, nofollow', ...SECURITY_HEADERS });
+  res.end(html);
+}
+
 function adminConfig(res) {
   const yml = fs.readFileSync(path.join(ROOT, 'admin', 'config.yml'), 'utf8')
     .replace('__GITHUB_REPO__', process.env.GITHUB_REPO || 'compte/bikentour')
@@ -264,6 +287,7 @@ http.createServer((req, res) => {
         res.writeHead(401, { 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
       }
       if (u.pathname === '/admin/config.yml') return adminConfig(res);
+      if ((u.pathname === '/admin/' || u.pathname === '/admin/index.html') && process.env.GITHUB_TOKEN) return void adminIndex(res);
       if (u.pathname === '/admin') { res.writeHead(301, { Location: '/admin/', ...SECURITY_HEADERS }); return res.end(); }
     }
   }
