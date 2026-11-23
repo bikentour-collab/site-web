@@ -150,13 +150,14 @@ input:focus{outline:2px solid var(--navy);outline-offset:1px}button{font:inherit
 .err{color:#A3261B;background:#FBEAE8;border-radius:10px;padding:10px 12px;text-align:left}
 </style></head><body>
 <form method="post" action="/admin/login">
-<img src="/assets/img/logo-horizontal.png" alt="Bike'N Tour" width="340" height="90">
+<img src="/assets/img/logo-texte.png" alt="Bike'N Tour" width="652" height="120">
 <h1>Administration du site</h1><p>Connectez-vous pour modifier les textes, les tarifs, les photos et le blog.</p>
 ${error ? `<p class="err" role="alert">${esc(error)}</p>` : ''}
 <label>Identifiant<input name="user" autocomplete="username" required autofocus></label>
 <label>Mot de passe<input name="password" type="password" autocomplete="current-password" required></label>
 <input type="hidden" name="next" value="${esc(next)}">
 <button type="submit">Se connecter</button>
+<p><a href="/admin/guide/">Revoir le tutoriel de l'administration</a></p>
 </form></body></html>`);
 }
 
@@ -173,12 +174,16 @@ async function handleLogin(req, res) {
   const recent = (failures.get(ip) || []).filter(t => now - t < 15 * 60 * 1000);
   if (recent.length >= 5) return loginPage(res, { status: 429, error: 'Trop de tentatives. Réessayez dans 15 minutes.' });
   const form = await readBody(req);
-  const next = /^\/admin\//.test(form.get('next') || '') ? form.get('next') : '/admin/';
+  let next = /^\/admin\//.test(form.get('next') || '') ? form.get('next') : '/admin/';
+  // Première connexion sur cet appareil : on commence par le tutoriel
+  const firstTime = !/(?:^|;\s*)bnt_guide=1/.test(req.headers.cookie || '');
+  if (firstTime && next === '/admin/') next = '/admin/guide/?bienvenue=1';
   if (ADMIN_PASSWORD && same(form.get('user') || '', ADMIN_USER) && same(form.get('password') || '', ADMIN_PASSWORD)) {
     failures.delete(ip);
     const exp = String(now + SESSION_DAYS * 86400 * 1000);
     res.writeHead(303, { Location: next, 'Cache-Control': 'no-store', ...SECURITY_HEADERS,
-      'Set-Cookie': `bnt_admin=${exp}.${sign(exp)}; HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=${SESSION_DAYS * 86400}` });
+      'Set-Cookie': [`bnt_admin=${exp}.${sign(exp)}; HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=${SESSION_DAYS * 86400}`,
+        'bnt_guide=1; Secure; SameSite=Lax; Path=/admin; Max-Age=31536000'] });
     return res.end();
   }
   recent.push(now); failures.set(ip, recent);
@@ -242,7 +247,7 @@ http.createServer((req, res) => {
     if (u.pathname === '/admin/login') {
       if (!ADMIN_PASSWORD) return loginPage(res, { status: 503, error: "Administration fermée : ajoutez les variables ADMIN_USER et ADMIN_PASSWORD dans Railway (Variables), puis redéployez." });
       if (req.method === 'POST') return void handleLogin(req, res);
-      return loginPage(res);
+      return loginPage(res, { next: /^\/admin\//.test(u.searchParams.get('next') || '') ? u.searchParams.get('next') : '/admin/' });
     }
     if (u.pathname === '/admin/logout') {
       res.writeHead(303, { Location: '/admin/login', ...SECURITY_HEADERS, 'Set-Cookie': 'bnt_admin=deleted; HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=0' });
@@ -252,7 +257,10 @@ http.createServer((req, res) => {
     if (u.pathname === '/api/gpx' && req.method === 'POST') return void handleGpx(req, res);
     if (u.pathname === '/admin' || u.pathname.startsWith('/admin/')) {
       if (!loggedIn(req)) {
-        if (u.pathname === '/admin' || u.pathname === '/admin/' || u.pathname.endsWith('.html')) { res.writeHead(303, { Location: '/admin/login', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end(); }
+        if (u.pathname === '/admin' || u.pathname.endsWith('/') || u.pathname.endsWith('.html')) {
+          const back = u.pathname.startsWith('/admin/guide') ? '?next=' + encodeURIComponent('/admin/guide/') : '';
+          res.writeHead(303, { Location: '/admin/login' + back, 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
+        }
         res.writeHead(401, { 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
       }
       if (u.pathname === '/admin/config.yml') return adminConfig(res);

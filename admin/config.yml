@@ -2,7 +2,7 @@
 # Chaque publication enregistre le contenu dans le dépôt GitHub ; une action GitHub régénère
 # alors le site (tools/generate.py) et Railway le remet en ligne en 2 à 3 minutes.
 # Pages en 5 langues : content/fr (référence), content/en, content/nl, content/de, content/es.
-# Les champs « i18n: duplicate » (prix, photos, identifiants) se modifient en français uniquement.
+# Rubriques en accès direct (singletons) ; les listes liées au code (vélos, itinéraires, visites) sont verrouillées.
 
 backend:
   name: github
@@ -16,9 +16,9 @@ backend:
     delete: 'Admin : suppression de {{collection}} « {{slug}} »'
     uploadMedia: 'Admin : ajout de l''image {{path}}'
     deleteMedia: 'Admin : suppression de l''image {{path}}'
-app_title: Bike'N Tour – Administration
+app_title: Bike'N Tour · Administration
 logo:
-  src: /assets/img/logo-horizontal.png
+  src: /assets/img/logo-texte.png
 site_url: https://www.bikentour.com
 display_url: https://www.bikentour.com
 media_folder: assets/img/uploads
@@ -33,15 +33,953 @@ media_libraries:
           quality: 82
           width: 2400
           height: 2400
+  stock_assets:
+    providers: []
+asset_collections:
+- name: photos-site
+  label: Photos du site
+  icon: photo_library
+  media_folder: assets/img
+  public_folder: /assets/img
+  readonly: true
 slug:
   encoding: ascii
   clean_accents: true
   sanitize_replacement: '-'
+i18n:
+  structure: multiple_folders
+  locales:
+  - fr
+  - en
+  - nl
+  - de
+  - es
+  default_locale: fr
+editor:
+  preview: false
+singletons:
+- name: guide
+  label: Tutoriel et bonnes pratiques
+  icon: school
+  file: content/guide.json
+  fields:
+  - name: vu
+    label: Tutoriel interactif
+    widget: boolean
+    required: false
+    default: false
+    before_input: '**[▶ Ouvrir le tutoriel interactif](/admin/guide/)**'
+    after_input: J'ai suivi le tutoriel
+    hint: 'Démonstrations pas à pas sur les vrais écrans : changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, traduire, coordonnées, et les 10 bonnes pratiques. À revoir quand vous voulez. Le tutoriel est aussi accessible depuis la page de connexion.'
+- name: d0
+  divider: true
+- name: accueil
+  label: Accueil
+  file: content/{{locale}}/accueil.json
+  i18n: true
+  fields:
+  - name: hero_surtitre
+    label: Bandeau du haut · petite ligne au-dessus du titre
+    widget: string
+    i18n: true
+  - name: hero_titre_ligne1
+    label: Bandeau du haut · titre, 1re ligne
+    widget: string
+    i18n: true
+  - name: hero_titre_ligne2
+    label: Bandeau du haut · titre, 2e ligne
+    widget: string
+    i18n: true
+  - name: hero_titre_accent
+    label: Bandeau du haut · titre, fin de la 2e ligne (en jaune)
+    widget: string
+    i18n: true
+  - name: hero_texte
+    label: Bandeau du haut · Texte sous le titre
+    widget: text
+    i18n: true
+  - name: hero_image
+    label: Bandeau du haut · Photo de fond
+    widget: image
+    i18n: false
+  - name: hero_image_alt
+    label: Bandeau du haut · Description de la photo (pour Google et l'accessibilité)
+    widget: string
+    i18n: true
+  - name: google_note
+    label: Note Google
+    widget: string
+    hint: Ex. 5,0
+    i18n: false
+  - name: google_avis
+    label: Nombre d'avis Google
+    widget: number
+    value_type: int
+    i18n: false
+    hint: À mettre à jour de temps en temps (nombre affiché sur votre fiche Google).
+  - name: tripadvisor_avis
+    label: Nombre d'avis Tripadvisor
+    widget: string
+    hint: Ex. 200+
+    i18n: false
+  - name: avis
+    label: Avis clients mis en avant (3 maximum)
+    label_singular: avis
+    hint: 'Copiez de vrais avis Google. Ils s''affichent sur l''accueil, les pages vélos et itinéraires. Pensez à les traduire dans les autres langues. Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+    widget: list
+    max: 3
+    summary: '{{auteur}} · {{texte}}'
+    i18n: true
+    fields:
+    - name: texte
+      label: Texte de l'avis (sans guillemets)
+      widget: text
+      i18n: true
+    - name: auteur
+      label: Prénom et initiale
+      widget: string
+      hint: Ex. Valentine D.
+      i18n: duplicate
+    - name: itineraire
+      label: Itinéraire cité (facultatif)
+      widget: select
+      required: false
+      options:
+      - loire
+      - velodyssee
+      - regalante
+      - traversee
+      - canal
+      - vignoble
+      hint: Affiche un lien vers l'itinéraire sous l'avis ; sinon « Google ».
+      i18n: duplicate
+    collapsed: false
+    allow_reorder: false
+  - name: faq
+    label: Questions fréquentes de l'accueil
+    label_singular: question
+    widget: list
+    summary: '{{question}}'
+    fields:
+    - name: question
+      label: Question
+      widget: string
+      i18n: true
+    - name: reponse
+      label: Réponse
+      widget: text
+      i18n: true
+    i18n: true
+    collapsed: true
+    allow_reorder: false
+    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+  icon: home
+- name: velos
+  label: Vélos et tarifs
+  file: content/{{locale}}/velos.json
+  i18n: true
+  fields:
+  - name: velos
+    label: Vélos
+    label_singular: vélo
+    widget: list
+    allow_add: false
+    allow_remove: false
+    summary: '{{name}} · {{day}} € / jour'
+    fields:
+    - name: name
+      label: Nom
+      widget: string
+      i18n: true
+    - name: day
+      label: Prix 1 jour (€)
+      widget: number
+      value_type: int
+      i18n: duplicate
+      after_input: €
+      min: 0
+    - name: weekend
+      label: Prix week-end (€)
+      widget: number
+      value_type: int
+      i18n: duplicate
+      after_input: €
+      min: 0
+    - name: week
+      label: Prix semaine (€)
+      widget: number
+      value_type: int
+      i18n: duplicate
+      after_input: €
+      min: 0
+    - name: grid
+      label: Grille jour par jour, de 1 à 7 jours (€)
+      hint: Un prix par ligne, dans l'ordre 1 jour, 2 jours… 7 jours. Grille incomplète = « – » (tarif sur demande) sur le site et dans le PDF.
+      widget: list
+      required: false
+      field:
+        name: prix
+        label: Prix
+        widget: number
+        value_type: int
+        i18n: duplicate
+      i18n: duplicate
+    - name: extra
+      label: Jour supplémentaire au-delà de 7 jours (€)
+      widget: number
+      value_type: int
+      required: false
+      i18n: duplicate
+      after_input: €
+      min: 0
+    - name: protect
+      label: Protection casse et vol (€ / jour)
+      widget: number
+      value_type: int
+      required: false
+      hint: Laisser vide = « nous consulter »
+      i18n: duplicate
+      after_input: €
+      min: 0
+    - name: deposit
+      label: Caution (€)
+      widget: number
+      value_type: int
+      i18n: duplicate
+      after_input: €
+      min: 0
+    - name: lead
+      label: Texte d'introduction
+      widget: text
+      i18n: true
+    - name: why
+      label: Pour quels voyages ?
+      widget: text
+      i18n: true
+    - name: img
+      label: Photo
+      widget: image
+      i18n: duplicate
+    - name: alt
+      label: Description de la photo
+      widget: string
+      i18n: true
+    - name: galerie
+      label: Galerie photo (6 photos maximum)
+      label_singular: photo
+      hint: Vos photos passent en premier dans la galerie de la page ; des photos du site complètent jusqu'à 6. Pensez à traduire la légende dans la colonne de droite.
+      widget: list
+      required: false
+      max: 6
+      i18n: true
+      fields:
+      - name: image
+        label: Photo
+        widget: image
+        i18n: duplicate
+      - name: legende
+        label: Légende (décrit la photo, sert aussi pour Google)
+        widget: string
+        i18n: true
+      collapsed: false
+      summary: '{{legende}}'
+      thumbnail: image
+    - name: brand
+      label: Marque
+      widget: string
+      i18n: true
+    - name: model
+      label: Modèle
+      widget: string
+      i18n: true
+    - name: specs
+      label: Caractéristiques
+      label_singular: caractéristique
+      widget: list
+      summary: '{{label}} : {{valeur}}'
+      fields:
+      - name: label
+        label: Libellé
+        widget: string
+        i18n: true
+      - name: valeur
+        label: Valeur
+        widget: string
+        i18n: true
+      i18n: true
+      collapsed: true
+      allow_reorder: false
+    - name: good
+      label: Itinéraires conseillés
+      widget: select
+      multiple: true
+      options:
+      - label: La Loire à Vélo
+        value: loire
+      - label: La Vélodyssée
+        value: velodyssee
+      - label: La Régalante
+        value: regalante
+      - label: La Traversée bretonne
+        value: traversee
+      - label: Le Canal de Nantes à Brest
+        value: canal
+      - label: Le Vignoble nantais
+        value: vignoble
+      i18n: duplicate
+    - name: h1
+      label: Grand titre affiché sur la page
+      widget: string
+      i18n: true
+    - name: title
+      label: Google · titre de la page
+      widget: string
+      i18n: true
+      maxlength: 65
+      hint: Ce qui s'affiche en bleu dans Google. 65 caractères maximum.
+    - name: meta
+      label: Google · description
+      widget: text
+      i18n: true
+      maxlength: 160
+      hint: Les 2 lignes grises sous le titre dans Google. 160 caractères maximum.
+    - name: id
+      widget: hidden
+      i18n: duplicate
+    - name: url
+      widget: hidden
+      i18n: duplicate
+    i18n: true
+    collapsed: true
+    thumbnail: img
+    allow_reorder: false
+    hint: Cliquez sur un vélo pour modifier ses prix, ses photos ou ses textes.
+  - name: accessoires
+    label: Accessoires en option
+    label_singular: accessoire
+    widget: list
+    summary: '{{nom}} · {{prix}} € / jour'
+    fields:
+    - name: nom
+      label: Accessoire
+      widget: string
+      i18n: true
+    - name: prix
+      label: Prix par jour (€)
+      widget: number
+      value_type: int
+      i18n: duplicate
+      after_input: € / jour
+    - name: description
+      label: Description (page Accessoires)
+      widget: text
+      required: false
+      i18n: true
+    i18n: true
+    collapsed: true
+    allow_reorder: false
+    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+  - name: inclus
+    label: Inclus avec chaque vélo
+    label_singular: élément
+    widget: list
+    field:
+      name: element
+      label: Élément
+      widget: string
+      i18n: true
+    i18n: true
+    allow_reorder: false
+    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+  icon: pedal_bike
+- name: itineraires
+  label: Itinéraires
+  file: content/{{locale}}/itineraires.json
+  i18n: true
+  fields:
+  - name: itineraires
+    label: Itinéraires
+    label_singular: itinéraire
+    widget: list
+    allow_add: false
+    allow_remove: false
+    allow_reorder: false
+    summary: '{{name}} · {{km}}'
+    hint: 'Les 6 itinéraires sont liés aux tracés de la carte : on peut modifier leurs textes, photos et points de vue, pas en ajouter ni en supprimer.'
+    fields:
+    - name: name
+      label: Nom
+      widget: string
+      i18n: true
+    - name: short
+      label: Accroche courte
+      widget: string
+      i18n: true
+    - name: desc
+      label: Description (accueil)
+      widget: text
+      i18n: true
+    - name: img
+      label: Photo
+      widget: image
+      i18n: duplicate
+    - name: alt
+      label: Description de la photo
+      widget: string
+      i18n: true
+    - name: galerie
+      label: Galerie photo (6 photos maximum)
+      label_singular: photo
+      hint: Vos photos passent en premier dans la galerie de la page ; des photos du site complètent jusqu'à 6. Pensez à traduire la légende dans la colonne de droite.
+      widget: list
+      required: false
+      max: 6
+      i18n: true
+      fields:
+      - name: image
+        label: Photo
+        widget: image
+        i18n: duplicate
+      - name: legende
+        label: Légende (décrit la photo, sert aussi pour Google)
+        widget: string
+        i18n: true
+      collapsed: false
+      summary: '{{legende}}'
+      thumbnail: image
+    - name: dist
+      label: Distance (texte complet)
+      widget: string
+      hint: Ex. ≈ 165 km jusqu'à Saumur
+      i18n: true
+    - name: km
+      label: Distance (court)
+      widget: string
+      hint: Ex. 165 km
+      i18n: true
+    - name: days
+      label: Durée conseillée
+      widget: string
+      i18n: true
+    - name: level
+      label: Niveau
+      widget: select
+      options:
+      - Facile
+      - Modéré
+      - Difficile
+      i18n: duplicate
+    - name: oneway
+      label: Aller simple possible
+      widget: boolean
+      i18n: duplicate
+    - name: steps
+      label: Principales villes étapes
+      widget: list
+      field:
+        name: ville
+        label: Ville
+        widget: string
+        i18n: true
+      i18n: true
+      collapsed: true
+      allow_reorder: false
+    - name: points
+      label: Points de vue (carte et page)
+      label_singular: point de vue
+      widget: list
+      required: false
+      i18n: true
+      summary: '{{nom}}'
+      hint: 'Les points ronds sur la carte. Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+      fields:
+      - name: nom
+        label: Nom du lieu
+        widget: string
+        i18n: duplicate
+      - name: texte
+        label: Ce qu'il y a à voir (une phrase)
+        widget: string
+        i18n: true
+      - name: lat
+        label: Latitude (ex. 47.3478)
+        widget: number
+        value_type: float
+        i18n: duplicate
+        hint: 'Sur Google Maps : clic droit sur le lieu, puis cliquez sur les coordonnées pour les copier (ex. 47.3478, -1.2853 : le 1er nombre est la latitude, le 2e la longitude).'
+      - name: lon
+        label: Longitude (ex. -1.2853)
+        widget: number
+        value_type: float
+        i18n: duplicate
+        hint: 'Sur Google Maps : clic droit sur le lieu, puis cliquez sur les coordonnées pour les copier (ex. 47.3478, -1.2853 : le 1er nombre est la latitude, le 2e la longitude).'
+      - name: article
+        label: Article du blog lié (facultatif)
+        widget: string
+        required: false
+        i18n: duplicate
+        hint: La fin de l'adresse de l'article, après /post/ (ex. les-bords-de-loire-oudon).
+      collapsed: true
+      allow_reorder: false
+    - name: page
+      label: Page détaillée de l'itinéraire
+      widget: object
+      collapsed: true
+      fields:
+      - name: h1
+        label: Grand titre affiché sur la page
+        widget: string
+        i18n: true
+      - name: title
+        label: Google · titre de la page
+        widget: string
+        i18n: true
+        maxlength: 65
+        hint: Ce qui s'affiche en bleu dans Google. 65 caractères maximum.
+      - name: meta
+        label: Google · description
+        widget: text
+        i18n: true
+        maxlength: 160
+        hint: Les 2 lignes grises sous le titre dans Google. 160 caractères maximum.
+      - name: intro
+        label: Introduction
+        widget: text
+        i18n: true
+      - name: stages
+        label: Étapes conseillées
+        label_singular: étape
+        widget: list
+        summary: '{{etape}}'
+        fields:
+        - name: etape
+          label: Étape (ex. Nantes → Ancenis)
+          widget: string
+          i18n: true
+        - name: texte
+          label: Description
+          widget: text
+          i18n: true
+        i18n: true
+        collapsed: true
+        allow_reorder: false
+      - name: highlights
+        label: À ne pas manquer
+        widget: list
+        field:
+          name: point
+          label: Point fort
+          widget: string
+          i18n: true
+        i18n: true
+        collapsed: true
+        allow_reorder: false
+      - name: back
+        label: Le retour
+        widget: text
+        i18n: true
+      - name: faq
+        label: Questions fréquentes
+        label_singular: question
+        widget: list
+        summary: '{{question}}'
+        fields:
+        - name: question
+          label: Question
+          widget: string
+          i18n: true
+        - name: reponse
+          label: Réponse
+          widget: text
+          i18n: true
+        i18n: true
+        collapsed: true
+        allow_reorder: false
+      i18n: true
+    - name: id
+      widget: hidden
+      i18n: duplicate
+    - name: color
+      widget: hidden
+      i18n: duplicate
+    - name: url
+      widget: hidden
+      i18n: duplicate
+    - name: dur
+      widget: hidden
+      i18n: duplicate
+    - name: bike
+      widget: hidden
+      i18n: true
+    i18n: true
+    collapsed: true
+    thumbnail: img
+  icon: route
+- name: visites
+  label: Visites guidées
+  file: content/{{locale}}/visites.json
+  i18n: true
+  fields:
+  - name: visites
+    label: Visites
+    label_singular: visite
+    widget: list
+    allow_add: false
+    allow_remove: false
+    summary: '{{name}} · {{price}} €'
+    fields:
+    - name: name
+      label: Nom
+      widget: string
+      i18n: true
+    - name: price
+      label: Prix par personne (€)
+      widget: number
+      value_type: int
+      i18n: duplicate
+      after_input: € / personne
+      min: 0
+    - name: duration
+      label: Durée
+      widget: string
+      hint: Ex. 2 h 30
+      i18n: true
+    - name: when
+      label: Jours et heure de départ
+      widget: string
+      i18n: true
+    - name: langs
+      label: Langues
+      widget: string
+      i18n: true
+    - name: meet
+      label: Point de rendez-vous
+      widget: string
+      i18n: true
+    - name: short
+      label: Étiquette
+      widget: string
+      i18n: true
+    - name: lead
+      label: Introduction
+      widget: text
+      i18n: true
+    - name: img
+      label: Photo
+      widget: image
+      i18n: duplicate
+    - name: alt
+      label: Description de la photo
+      widget: string
+      i18n: true
+    - name: stops
+      label: Parcours
+      label_singular: arrêt
+      widget: list
+      summary: '{{lieu}}'
+      fields:
+      - name: lieu
+        label: Lieu
+        widget: string
+        i18n: true
+      - name: texte
+        label: Description
+        widget: text
+        i18n: true
+      i18n: true
+      collapsed: true
+      allow_reorder: false
+    - name: included
+      label: Inclus
+      widget: list
+      field:
+        name: element
+        label: Élément
+        widget: string
+        i18n: true
+      i18n: true
+      collapsed: true
+      allow_reorder: false
+    - name: title
+      label: Google · titre de la page
+      widget: string
+      i18n: true
+      maxlength: 65
+      hint: Ce qui s'affiche en bleu dans Google. 65 caractères maximum.
+    - name: meta
+      label: Google · description
+      widget: text
+      i18n: true
+      maxlength: 160
+      hint: Les 2 lignes grises sous le titre dans Google. 160 caractères maximum.
+    - name: id
+      widget: hidden
+      i18n: duplicate
+    - name: url
+      widget: hidden
+      i18n: duplicate
+    - name: iso
+      widget: hidden
+      i18n: duplicate
+    i18n: true
+    collapsed: true
+    thumbnail: img
+    allow_reorder: false
+  icon: tour
+- name: groupes
+  label: Groupes
+  file: content/{{locale}}/groupes.json
+  i18n: true
+  fields:
+  - name: offres
+    label: Formules
+    label_singular: formule
+    widget: list
+    summary: '{{name}} · {{price}}'
+    fields:
+    - name: id
+      label: Identifiant technique (ne pas modifier)
+      widget: string
+      i18n: duplicate
+      hint: 'Sert aux liens internes. Pour une nouvelle formule : un mot en minuscules sans espace, ex. team-building.'
+    - name: name
+      label: Nom
+      widget: string
+      i18n: true
+    - name: price
+      label: Prix
+      widget: string
+      hint: Ex. À partir de 16,67 € HT par vélo
+      i18n: true
+    - name: items
+      label: Détail
+      widget: list
+      field:
+        name: ligne
+        label: Ligne
+        widget: string
+        i18n: true
+      i18n: true
+    i18n: true
+    collapsed: true
+    allow_reorder: false
+    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+  icon: groups
+- name: balades
+  label: Idées de balades
+  file: content/{{locale}}/balades.json
+  i18n: true
+  fields:
+  - name: balades
+    label: Balades
+    label_singular: balade
+    widget: list
+    summary: '{{name}} · {{km}}'
+    fields:
+    - name: name
+      label: Nom
+      widget: string
+      i18n: true
+    - name: km
+      label: Distance
+      widget: string
+      i18n: true
+    - name: time
+      label: Durée
+      widget: string
+      i18n: true
+      hint: Ex. Journée, Demi-journée, Week-end
+    - name: level
+      label: Niveau
+      widget: select
+      options:
+      - Facile
+      - Modéré
+      - Difficile
+      i18n: duplicate
+    - name: text
+      label: Description
+      widget: text
+      i18n: true
+    - name: back
+      label: Retour
+      widget: string
+      i18n: true
+    i18n: true
+    collapsed: true
+    allow_reorder: false
+    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+  icon: directions_bike
+- name: faq
+  label: FAQ
+  file: content/{{locale}}/faq.json
+  i18n: true
+  fields:
+  - name: rubriques
+    label: Rubriques
+    label_singular: rubrique
+    widget: list
+    summary: '{{titre}}'
+    fields:
+    - name: titre
+      label: Titre de la rubrique
+      widget: string
+      i18n: true
+    - name: questions
+      label: Questions
+      label_singular: question
+      widget: list
+      summary: '{{question}}'
+      fields:
+      - name: question
+        label: Question
+        widget: string
+        i18n: true
+      - name: reponse
+        label: Réponse
+        widget: text
+        i18n: true
+      i18n: true
+      collapsed: true
+      allow_reorder: false
+    i18n: true
+    collapsed: true
+    allow_reorder: false
+    hint: 'Ajouter ou supprimer un élément en français le fait aussi dans les autres langues : pensez ensuite à traduire son texte dans la colonne de droite.'
+  icon: help
+- name: d1
+  divider: true
+- name: coordonnees
+  label: Coordonnées et liens
+  file: content/fr/site.json
+  fields:
+  - name: telephone_affiche
+    label: Téléphone (affiché)
+    widget: string
+    hint: Ex. 06 52 62 94 64
+  - name: telephone
+    label: Téléphone (format international)
+    widget: string
+    hint: Ex. +33652629464
+  - name: whatsapp
+    label: Numéro WhatsApp (format international, sans + ni espaces)
+    widget: string
+    hint: Ex. 33652629464 pour le 06 52 62 94 64
+  - name: email
+    label: Email
+    widget: string
+  - name: reservation
+    label: Lien de réservation en ligne
+    widget: string
+  - name: lien_google_avis
+    label: Lien vers les avis Google
+    widget: string
+    required: false
+    hint: Lien de votre fiche Google Business (Google Maps → Partager → Copier le lien). Sert pour le badge « Avis Google ».
+  - name: lien_fiche_google
+    label: Lien de la fiche Google Business (identité)
+    widget: string
+    required: false
+    hint: Même lien que ci-dessus en général. Il relie votre site à votre fiche Google pour Google et les assistants IA.
+  - name: lien_tripadvisor
+    label: Lien de la page Tripadvisor
+    widget: string
+    required: false
+    hint: Adresse de votre page Tripadvisor (https://www.tripadvisor.fr/Attraction_Review-…). Sert pour le badge et pour Google.
+  - name: analytics_ga4
+    label: 'Statistiques · Google Analytics 4 : identifiant de mesure'
+    widget: string
+    required: false
+    hint: Ex. G-ABC123XYZ. Une fois renseigné, la bannière cookies s'affiche et les statistiques ne se chargent qu'après accord du visiteur.
+  - name: matomo_url
+    label: 'Statistiques · Matomo : adresse du serveur (facultatif)'
+    widget: string
+    required: false
+    hint: Ex. https://bikentour.matomo.cloud/
+  - name: matomo_id
+    label: 'Statistiques · Matomo : identifiant du site (facultatif)'
+    widget: string
+    required: false
+  icon: call
+- name: presse
+  label: Presse
+  file: content/fr/presse.json
+  fields:
+  - name: articles
+    label: Articles de presse
+    label_singular: article
+    widget: list
+    summary: '{{media}} · {{titre}}'
+    fields:
+    - name: media
+      label: Média
+      widget: string
+    - name: titre
+      label: Titre
+      widget: string
+    - name: url
+      label: Lien
+      widget: string
+    collapsed: true
+  - name: references
+    label: Ils nous recommandent (guides, offices de tourisme)
+    label_singular: référence
+    widget: list
+    required: false
+    summary: '{{media}} · {{titre}}'
+    fields:
+    - name: media
+      label: Site
+      widget: string
+    - name: titre
+      label: Titre
+      widget: string
+    - name: url
+      label: Lien
+      widget: string
+    collapsed: true
+  icon: newspaper
+- name: d2
+  divider: true
+- name: mentions
+  label: Mentions légales
+  file: content/pages/mentions-legales.md
+  format: frontmatter
+  fields: &id001
+  - name: titre
+    label: Titre de la page
+    widget: string
+  - name: title
+    label: Google · titre de la page
+    widget: string
+    maxlength: 65
+    hint: Ce qui s'affiche en bleu dans Google. 65 caractères maximum.
+  - name: description
+    label: Google · description
+    widget: text
+    maxlength: 160
+    hint: Les 2 lignes grises sous le titre dans Google. 160 caractères maximum.
+  - name: body
+    label: Texte
+    widget: markdown
+  icon: gavel
+- name: cgv
+  label: Conditions de location
+  file: content/pages/conditions-generales-de-vente.md
+  format: frontmatter
+  fields: *id001
+  icon: contract
+- name: recrutement
+  label: Recrutement
+  file: content/pages/nous-rejoindre.md
+  format: frontmatter
+  fields: *id001
+  icon: work
 collections:
 - name: blog
-  label: Articles du blog
+  label: Blog
   label_singular: article
-  description: Les articles publiés sur /fr/blog. L'adresse de l'article (/post/…) est créée à partir du titre et ne change plus ensuite. Les traductions se modifient dans les collections « Articles du blog (EN/NL/DE/ES) ».
+  description: Vos articles en français. Cliquez sur « Nouveau » pour en écrire un ; cochez « Brouillon » pour le garder hors ligne.
   folder: content/blog
   create: true
   delete: true
@@ -63,6 +1001,7 @@ collections:
     label: Titre
     widget: string
     hint: Titre de l'article (H1). Idéalement moins de 50 caractères pour Google.
+    maxlength: 70
   - name: date
     label: Date de publication
     widget: datetime
@@ -144,9 +1083,12 @@ collections:
     label: Texte de l'article
     widget: markdown
     hint: 'Utilisez des intertitres (Titre 2). Pour une fiche pratique, faites une liste : « Distance : 36 km », « Durée : 2h30 », « Niveau : facile » avec le libellé en gras.'
+  icon: edit_note
+- name: d3
+  divider: true
 - name: blog_en
-  label: Articles du blog (EN)
-  label_singular: article (EN)
+  label: Blog EN
+  label_singular: article
   description: Traductions en anglais des articles du blog. Un fichier porte le même nom que l'article français qu'il traduit. L'adresse (url) ne se modifie pas une fois publiée.
   folder: content/blog/en
   create: false
@@ -165,13 +1107,15 @@ collections:
   - name: url
     label: Adresse de la page
     widget: string
-    hint: Ne pas modifier après publication (sinon l'ancienne adresse renvoie une erreur).
+    hint: 'Adresse de la page : ne se modifie pas.'
+    readonly: true
   - name: body
     label: Article
     widget: markdown
+  icon: translate
 - name: blog_nl
-  label: Articles du blog (NL)
-  label_singular: article (NL)
+  label: Blog NL
+  label_singular: article
   description: Traductions en néerlandais des articles du blog. Un fichier porte le même nom que l'article français qu'il traduit. L'adresse (url) ne se modifie pas une fois publiée.
   folder: content/blog/nl
   create: false
@@ -190,13 +1134,15 @@ collections:
   - name: url
     label: Adresse de la page
     widget: string
-    hint: Ne pas modifier après publication (sinon l'ancienne adresse renvoie une erreur).
+    hint: 'Adresse de la page : ne se modifie pas.'
+    readonly: true
   - name: body
     label: Article
     widget: markdown
+  icon: translate
 - name: blog_de
-  label: Articles du blog (DE)
-  label_singular: article (DE)
+  label: Blog DE
+  label_singular: article
   description: Traductions en allemand des articles du blog. Un fichier porte le même nom que l'article français qu'il traduit. L'adresse (url) ne se modifie pas une fois publiée.
   folder: content/blog/de
   create: false
@@ -215,13 +1161,15 @@ collections:
   - name: url
     label: Adresse de la page
     widget: string
-    hint: Ne pas modifier après publication (sinon l'ancienne adresse renvoie une erreur).
+    hint: 'Adresse de la page : ne se modifie pas.'
+    readonly: true
   - name: body
     label: Article
     widget: markdown
+  icon: translate
 - name: blog_es
-  label: Articles du blog (ES)
-  label_singular: article (ES)
+  label: Blog ES
+  label_singular: article
   description: Traductions en espagnol des articles du blog. Un fichier porte le même nom que l'article français qu'il traduit. L'adresse (url) ne se modifie pas une fois publiée.
   folder: content/blog/es
   create: false
@@ -240,821 +1188,9 @@ collections:
   - name: url
     label: Adresse de la page
     widget: string
-    hint: Ne pas modifier après publication (sinon l'ancienne adresse renvoie une erreur).
+    hint: 'Adresse de la page : ne se modifie pas.'
+    readonly: true
   - name: body
     label: Article
     widget: markdown
-- name: site
-  label: Pages du site
-  label_singular: page
-  description: Textes, tarifs et photos des pages, en 4 langues (onglets FR, EN, NL, DE). Les prix, photos et identifiants se modifient en français et s'appliquent à toutes les langues.
-  files:
-  - name: accueil
-    label: Accueil
-    file: content/{{locale}}/accueil.json
-    i18n: true
-    fields:
-    - name: hero_surtitre
-      label: 'Haut de page : petite ligne au-dessus du titre'
-      widget: string
-      i18n: true
-    - name: hero_titre_ligne1
-      label: 'Titre : 1re ligne'
-      widget: string
-      i18n: true
-    - name: hero_titre_ligne2
-      label: 'Titre : 2e ligne'
-      widget: string
-      i18n: true
-    - name: hero_titre_accent
-      label: 'Titre : fin de la 2e ligne (en jaune)'
-      widget: string
-      i18n: true
-    - name: hero_texte
-      label: Texte sous le titre
-      widget: text
-      i18n: true
-    - name: hero_image
-      label: Photo de fond
-      widget: image
-      i18n: false
-    - name: hero_image_alt
-      label: Description de la photo (pour Google et l'accessibilité)
-      widget: string
-      i18n: true
-    - name: google_note
-      label: Note Google
-      widget: string
-      hint: Ex. 5,0
-      i18n: false
-    - name: google_avis
-      label: Nombre d'avis Google
-      widget: number
-      value_type: int
-      i18n: false
-    - name: tripadvisor_avis
-      label: Nombre d'avis Tripadvisor
-      widget: string
-      hint: Ex. 200+
-      i18n: false
-    - name: avis
-      label: Avis clients mis en avant (3 maximum)
-      label_singular: avis
-      hint: Copiez de vrais avis Google. Ils s'affichent sur l'accueil, les pages vélos et itinéraires. Pensez à les traduire dans les autres langues.
-      widget: list
-      max: 3
-      summary: '{{auteur}} · {{texte}}'
-      i18n: true
-      fields:
-      - name: texte
-        label: Texte de l'avis (sans guillemets)
-        widget: text
-        i18n: true
-      - name: auteur
-        label: Prénom et initiale
-        widget: string
-        hint: Ex. Valentine D.
-        i18n: duplicate
-      - name: itineraire
-        label: Itinéraire cité (facultatif)
-        widget: select
-        required: false
-        options: [loire, velodyssee, regalante, traversee, canal, vignoble]
-        hint: Affiche un lien vers l'itinéraire sous l'avis ; sinon « Google ».
-        i18n: duplicate
-    - name: faq
-      label: Questions fréquentes de l'accueil
-      label_singular: question
-      widget: list
-      summary: '{{question}}'
-      fields:
-      - name: question
-        label: Question
-        widget: string
-        i18n: true
-      - name: reponse
-        label: Réponse
-        widget: text
-        i18n: true
-      i18n: true
-  - name: velos
-    label: Vélos, tarifs et accessoires
-    file: content/{{locale}}/velos.json
-    i18n: true
-    fields:
-    - name: velos
-      label: Vélos
-      label_singular: vélo
-      widget: list
-      allow_add: false
-      allow_remove: false
-      summary: '{{name}} · {{day}} € / jour'
-      fields:
-      - name: id
-        widget: hidden
-        i18n: duplicate
-      - name: url
-        widget: hidden
-        i18n: duplicate
-      - name: name
-        label: Nom
-        widget: string
-        i18n: true
-      - name: h1
-        label: Titre de la page
-        widget: string
-        i18n: true
-      - name: title
-        label: Titre Google (60 caractères max.)
-        widget: string
-        i18n: true
-      - name: meta
-        label: Description Google (155 caractères max.)
-        widget: text
-        i18n: true
-      - name: lead
-        label: Texte d'introduction
-        widget: text
-        i18n: true
-      - name: img
-        label: Photo
-        widget: image
-        i18n: duplicate
-      - name: alt
-        label: Description de la photo
-        widget: string
-        i18n: true
-      - name: brand
-        label: Marque
-        widget: string
-        i18n: true
-      - name: model
-        label: Modèle
-        widget: string
-        i18n: true
-      - name: specs
-        label: Caractéristiques
-        label_singular: caractéristique
-        widget: list
-        summary: '{{label}} : {{valeur}}'
-        fields:
-        - name: label
-          label: Libellé
-          widget: string
-          i18n: true
-        - name: valeur
-          label: Valeur
-          widget: string
-          i18n: true
-        i18n: true
-      - name: day
-        label: Prix 1 jour (€)
-        widget: number
-        value_type: int
-        i18n: duplicate
-      - name: weekend
-        label: Prix week-end (€)
-        widget: number
-        value_type: int
-        i18n: duplicate
-      - name: week
-        label: Prix semaine (€)
-        widget: number
-        value_type: int
-        i18n: duplicate
-      - name: grid
-        label: Grille jour par jour, de 1 à 7 jours (€)
-        hint: Un prix par ligne, dans l'ordre 1 jour, 2 jours… 7 jours. Grille incomplète = « – » (tarif sur demande) sur le site et dans le PDF.
-        widget: list
-        required: false
-        field:
-          name: prix
-          label: Prix
-          widget: number
-          value_type: int
-          i18n: duplicate
-        i18n: duplicate
-      - name: extra
-        label: Jour supplémentaire au-delà de 7 jours (€)
-        widget: number
-        value_type: int
-        required: false
-        i18n: duplicate
-      - name: protect
-        label: Protection casse et vol (€ / jour)
-        widget: number
-        value_type: int
-        required: false
-        hint: Laisser vide = « nous consulter »
-        i18n: duplicate
-      - name: deposit
-        label: Caution (€)
-        widget: number
-        value_type: int
-        i18n: duplicate
-      - name: galerie
-        label: Galerie photo (6 photos maximum)
-        label_singular: photo
-        hint: Vos photos s'affichent en premier dans la galerie « en images » de la page ; des photos du site complètent jusqu'à 6. Traduisez les légendes dans les autres langues.
-        widget: list
-        required: false
-        max: 6
-        i18n: true
-        fields:
-        - name: image
-          label: Photo
-          widget: image
-          i18n: duplicate
-        - name: legende
-          label: Légende (décrit la photo, sert aussi pour Google)
-          widget: string
-          i18n: true
-      - name: good
-        label: Itinéraires conseillés
-        widget: select
-        multiple: true
-        options:
-        - label: La Loire à Vélo
-          value: loire
-        - label: La Vélodyssée
-          value: velodyssee
-        - label: La Régalante
-          value: regalante
-        - label: La Traversée bretonne
-          value: traversee
-        - label: Le Canal de Nantes à Brest
-          value: canal
-        - label: Le Vignoble nantais
-          value: vignoble
-        i18n: duplicate
-      - name: why
-        label: Pour quels voyages ?
-        widget: text
-        i18n: true
-      i18n: true
-    - name: accessoires
-      label: Accessoires en option
-      label_singular: accessoire
-      widget: list
-      summary: '{{nom}} · {{prix}} € / jour'
-      fields:
-      - name: nom
-        label: Accessoire
-        widget: string
-        i18n: true
-      - name: prix
-        label: Prix par jour (€)
-        widget: number
-        value_type: int
-        i18n: duplicate
-      - name: description
-        label: Description (page Accessoires)
-        widget: text
-        required: false
-        i18n: true
-      i18n: true
-    - name: inclus
-      label: Inclus avec chaque vélo
-      label_singular: élément
-      widget: list
-      field:
-        name: element
-        label: Élément
-        widget: string
-        i18n: true
-      i18n: true
-  - name: itineraires
-    label: Itinéraires
-    file: content/{{locale}}/itineraires.json
-    i18n: true
-    fields:
-    - name: itineraires
-      label: Itinéraires
-      label_singular: itinéraire
-      widget: list
-      allow_add: false
-      allow_remove: false
-      allow_reorder: false
-      summary: '{{name}} · {{km}}'
-      hint: Le tracé de la carte n'est pas modifiable ici.
-      fields:
-      - name: id
-        widget: hidden
-        i18n: duplicate
-      - name: color
-        widget: hidden
-        i18n: duplicate
-      - name: url
-        widget: hidden
-        i18n: duplicate
-      - name: dur
-        widget: hidden
-        i18n: duplicate
-      - name: name
-        label: Nom
-        widget: string
-        i18n: true
-      - name: short
-        label: Accroche courte
-        widget: string
-        i18n: true
-      - name: desc
-        label: Description (accueil)
-        widget: text
-        i18n: true
-      - name: img
-        label: Photo
-        widget: image
-        i18n: duplicate
-      - name: alt
-        label: Description de la photo
-        widget: string
-        i18n: true
-      - name: dist
-        label: Distance (texte complet)
-        widget: string
-        hint: Ex. ≈ 165 km jusqu'à Saumur
-        i18n: true
-      - name: km
-        label: Distance (court)
-        widget: string
-        hint: Ex. 165 km
-        i18n: true
-      - name: days
-        label: Durée conseillée
-        widget: string
-        i18n: true
-      - name: level
-        label: Niveau
-        widget: select
-        options:
-        - Facile
-        - Modéré
-        - Difficile
-        i18n: duplicate
-      - name: oneway
-        label: Aller simple possible
-        widget: boolean
-        i18n: duplicate
-      - name: steps
-        label: Principales villes étapes
-        widget: list
-        field:
-          name: ville
-          label: Ville
-          widget: string
-          i18n: true
-        i18n: true
-      - name: bike
-        label: Vélo conseillé (texte)
-        widget: string
-        i18n: true
-      - name: page
-        label: Page de l'itinéraire
-        widget: object
-        collapsed: true
-        fields:
-        - name: h1
-          label: Titre de la page
-          widget: string
-          i18n: true
-        - name: title
-          label: Titre Google (60 caractères max.)
-          widget: string
-          i18n: true
-        - name: meta
-          label: Description Google (155 caractères max.)
-          widget: text
-          i18n: true
-        - name: intro
-          label: Introduction
-          widget: text
-          i18n: true
-        - name: stages
-          label: Étapes conseillées
-          label_singular: étape
-          widget: list
-          summary: '{{etape}}'
-          fields:
-          - name: etape
-            label: Étape (ex. Nantes → Ancenis)
-            widget: string
-            i18n: true
-          - name: texte
-            label: Description
-            widget: text
-            i18n: true
-          i18n: true
-        - name: highlights
-          label: À ne pas manquer
-          widget: list
-          field:
-            name: point
-            label: Point fort
-            widget: string
-            i18n: true
-          i18n: true
-        - name: back
-          label: Le retour
-          widget: text
-          i18n: true
-        - name: faq
-          label: Questions fréquentes
-          label_singular: question
-          widget: list
-          summary: '{{question}}'
-          fields:
-          - name: question
-            label: Question
-            widget: string
-            i18n: true
-          - name: reponse
-            label: Réponse
-            widget: text
-            i18n: true
-          i18n: true
-        i18n: true
-      - name: galerie
-        label: Galerie photo (6 photos maximum)
-        label_singular: photo
-        hint: Vos photos s'affichent en premier dans la galerie « en images » de la page ; des photos du site complètent jusqu'à 6. Traduisez les légendes dans les autres langues.
-        widget: list
-        required: false
-        max: 6
-        i18n: true
-        fields:
-        - name: image
-          label: Photo
-          widget: image
-          i18n: duplicate
-        - name: legende
-          label: Légende (décrit la photo, sert aussi pour Google)
-          widget: string
-          i18n: true
-      - name: points
-        label: Points de vue (carte et page)
-        label_singular: point de vue
-        widget: list
-        required: false
-        i18n: true
-        summary: '{{nom}}'
-        hint: 'Lieux à voir le long de l''itinéraire. Coordonnées : clic droit sur le lieu dans Google Maps, puis copier les deux nombres (latitude, longitude).'
-        fields:
-        - name: nom
-          label: Nom du lieu
-          widget: string
-          i18n: duplicate
-        - name: texte
-          label: Ce qu'il y a à voir (une phrase)
-          widget: string
-          i18n: true
-        - name: lat
-          label: Latitude (ex. 47.3478)
-          widget: number
-          value_type: float
-          i18n: duplicate
-        - name: lon
-          label: Longitude (ex. -1.2853)
-          widget: number
-          value_type: float
-          i18n: duplicate
-        - name: article
-          label: Article du blog lié (adresse après /post/, facultatif)
-          widget: string
-          required: false
-          i18n: duplicate
-      i18n: true
-  - name: visites
-    label: Visites guidées
-    file: content/{{locale}}/visites.json
-    i18n: true
-    fields:
-    - name: visites
-      label: Visites
-      label_singular: visite
-      widget: list
-      allow_add: false
-      allow_remove: false
-      summary: '{{name}} · {{price}} €'
-      fields:
-      - name: id
-        widget: hidden
-        i18n: duplicate
-      - name: url
-        widget: hidden
-        i18n: duplicate
-      - name: iso
-        widget: hidden
-        i18n: duplicate
-      - name: name
-        label: Nom
-        widget: string
-        i18n: true
-      - name: short
-        label: Étiquette
-        widget: string
-        i18n: true
-      - name: title
-        label: Titre Google (60 caractères max.)
-        widget: string
-        i18n: true
-      - name: meta
-        label: Description Google (155 caractères max.)
-        widget: text
-        i18n: true
-      - name: lead
-        label: Introduction
-        widget: text
-        i18n: true
-      - name: img
-        label: Photo
-        widget: image
-        i18n: duplicate
-      - name: alt
-        label: Description de la photo
-        widget: string
-        i18n: true
-      - name: price
-        label: Prix par personne (€)
-        widget: number
-        value_type: int
-        i18n: duplicate
-      - name: duration
-        label: Durée
-        widget: string
-        hint: Ex. 2 h 30
-        i18n: true
-      - name: when
-        label: Jours et heure de départ
-        widget: string
-        i18n: true
-      - name: langs
-        label: Langues
-        widget: string
-        i18n: true
-      - name: meet
-        label: Point de rendez-vous
-        widget: string
-        i18n: true
-      - name: stops
-        label: Parcours
-        label_singular: arrêt
-        widget: list
-        summary: '{{lieu}}'
-        fields:
-        - name: lieu
-          label: Lieu
-          widget: string
-          i18n: true
-        - name: texte
-          label: Description
-          widget: text
-          i18n: true
-        i18n: true
-      - name: included
-        label: Inclus
-        widget: list
-        field:
-          name: element
-          label: Élément
-          widget: string
-          i18n: true
-        i18n: true
-      i18n: true
-  - name: groupes
-    label: Groupes et entreprises
-    file: content/{{locale}}/groupes.json
-    i18n: true
-    fields:
-    - name: offres
-      label: Formules
-      label_singular: formule
-      widget: list
-      summary: '{{name}} · {{price}}'
-      fields:
-      - name: id
-        label: Identifiant (ancre, sans espace)
-        widget: string
-        i18n: duplicate
-      - name: name
-        label: Nom
-        widget: string
-        i18n: true
-      - name: price
-        label: Prix
-        widget: string
-        hint: Ex. À partir de 16,67 € HT par vélo
-        i18n: true
-      - name: items
-        label: Détail
-        widget: list
-        field:
-          name: ligne
-          label: Ligne
-          widget: string
-          i18n: true
-        i18n: true
-      i18n: true
-  - name: balades
-    label: Idées de balades
-    file: content/{{locale}}/balades.json
-    i18n: true
-    fields:
-    - name: balades
-      label: Balades
-      label_singular: balade
-      widget: list
-      summary: '{{name}} · {{km}}'
-      fields:
-      - name: name
-        label: Nom
-        widget: string
-        i18n: true
-      - name: km
-        label: Distance
-        widget: string
-        i18n: true
-      - name: time
-        label: Durée
-        widget: string
-        i18n: true
-        hint: Ex. Journée, Demi-journée, Week-end
-      - name: level
-        label: Niveau
-        widget: select
-        options:
-        - Facile
-        - Modéré
-        - Difficile
-        i18n: duplicate
-      - name: text
-        label: Description
-        widget: text
-        i18n: true
-      - name: back
-        label: Retour
-        widget: string
-        i18n: true
-      i18n: true
-  - name: faq
-    label: FAQ (page complète)
-    file: content/{{locale}}/faq.json
-    i18n: true
-    fields:
-    - name: rubriques
-      label: Rubriques
-      label_singular: rubrique
-      widget: list
-      summary: '{{titre}}'
-      fields:
-      - name: titre
-        label: Titre de la rubrique
-        widget: string
-        i18n: true
-      - name: questions
-        label: Questions
-        label_singular: question
-        widget: list
-        summary: '{{question}}'
-        fields:
-        - name: question
-          label: Question
-          widget: string
-          i18n: true
-        - name: reponse
-          label: Réponse
-          widget: text
-          i18n: true
-        i18n: true
-      i18n: true
-  i18n: true
-- name: reglages
-  label: Coordonnées, statistiques et presse
-  label_singular: réglage
-  files:
-  - name: presse
-    label: Ils parlent de nous
-    file: content/fr/presse.json
-    fields:
-    - name: articles
-      label: Articles de presse
-      label_singular: article
-      widget: list
-      summary: '{{media}} · {{titre}}'
-      fields:
-      - name: media
-        label: Média
-        widget: string
-      - name: titre
-        label: Titre
-        widget: string
-      - name: url
-        label: Lien
-        widget: string
-    - name: references
-      label: Ils nous recommandent (guides, offices de tourisme)
-      label_singular: référence
-      widget: list
-      required: false
-      summary: '{{media}} · {{titre}}'
-      fields:
-      - name: media
-        label: Site
-        widget: string
-      - name: titre
-        label: Titre
-        widget: string
-      - name: url
-        label: Lien
-        widget: string
-  - name: coordonnees
-    label: Coordonnées et réservation
-    file: content/fr/site.json
-    fields:
-    - name: lien_google_avis
-      label: Lien vers les avis Google
-      widget: string
-      required: false
-      hint: Lien de votre fiche Google Business (Google Maps → Partager → Copier le lien). Sert pour le badge « Avis Google ».
-    - name: lien_fiche_google
-      label: Lien de la fiche Google Business (identité)
-      widget: string
-      required: false
-      hint: Même lien que ci-dessus en général. Il relie votre site à votre fiche Google pour Google et les assistants IA.
-    - name: lien_tripadvisor
-      label: Lien de la page Tripadvisor
-      widget: string
-      required: false
-      hint: Adresse de votre page Tripadvisor (https://www.tripadvisor.fr/Attraction_Review-…). Sert pour le badge et pour Google.
-    - name: telephone_affiche
-      label: Téléphone (affiché)
-      widget: string
-      hint: Ex. 06 52 62 94 64
-    - name: whatsapp
-      label: Numéro WhatsApp (format international, sans + ni espaces)
-      widget: string
-      hint: Ex. 33652629464 pour le 06 52 62 94 64
-    - name: telephone
-      label: Téléphone (format international)
-      widget: string
-      hint: Ex. +33652629464
-    - name: email
-      label: Email
-      widget: string
-    - name: reservation
-      label: Lien de réservation en ligne
-      widget: string
-    - name: analytics_ga4
-      label: 'Google Analytics 4 : identifiant de mesure'
-      widget: string
-      required: false
-      hint: Ex. G-ABC123XYZ. Une fois renseigné, la bannière cookies s'affiche et les statistiques ne se chargent qu'après accord du visiteur.
-    - name: matomo_url
-      label: 'Matomo : adresse du serveur (facultatif)'
-      widget: string
-      required: false
-      hint: Ex. https://bikentour.matomo.cloud/
-    - name: matomo_id
-      label: 'Matomo : identifiant du site (facultatif)'
-      widget: string
-      required: false
-- name: textes
-  label: Pages de texte
-  label_singular: page
-  files:
-  - name: mentions
-    label: Mentions légales
-    file: content/pages/mentions-legales.md
-    format: frontmatter
-    fields: &id001
-    - name: titre
-      label: Titre de la page
-      widget: string
-    - name: title
-      label: Titre Google
-      widget: string
-    - name: description
-      label: Description Google
-      widget: text
-    - name: body
-      label: Texte
-      widget: markdown
-  - name: cgv
-    label: Conditions générales de location
-    file: content/pages/conditions-generales-de-vente.md
-    format: frontmatter
-    fields: *id001
-  - name: recrutement
-    label: Nous rejoindre
-    file: content/pages/nous-rejoindre.md
-    format: frontmatter
-    fields: *id001
-i18n:
-  structure: multiple_folders
-  locales:
-  - fr
-  - en
-  - nl
-  - de
-  - es
-  default_locale: fr
+  icon: translate

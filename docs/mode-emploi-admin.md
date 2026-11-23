@@ -2,6 +2,11 @@
 
 Adresse : **https://www.bikentour.com/admin**
 
+## 0. Tutoriel interactif (à faire en premier)
+À la première connexion, l'administration ouvre un **tutoriel interactif** : 7 démonstrations pas à pas sur les vrais écrans (se repérer, changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, les langues, les coordonnées) et les 10 bonnes pratiques. Il reste accessible à tout moment depuis la rubrique **« Tutoriel et bonnes pratiques »** (en haut du menu de gauche), depuis la page de connexion, ou à l'adresse `/admin/guide/`.
+
+Le menu de gauche donne un accès direct à chaque rubrique : Accueil, Vélos et tarifs, Itinéraires, Visites guidées, Groupes, Idées de balades, FAQ, Coordonnées et liens, Presse, Mentions légales, Conditions de location, Recrutement, et le Blog (avec ses traductions Blog EN, NL, DE, ES).
+
 ## 1. Se connecter
 1. Saisir l'identifiant et le mot de passe fournis par Afffect.
 2. Cliquer sur **« Se connecter avec GitHub »** : la connexion est immédiate, aucun compte GitHub personnel n'est nécessaire.
@@ -18,13 +23,13 @@ Adresse : **https://www.bikentour.com/admin**
 Les encadrés « En bref », le plan du site, les fichiers pour Google et les assistants IA se mettent à jour tout seuls.
 
 ## 3. Changer un tarif
-*Pages du site → Vélos, tarifs et accessoires* → ouvrir le vélo → modifier « Prix 1 jour », « Prix week-end », « Prix semaine »
+*Vélos et tarifs* → ouvrir le vélo → modifier « Prix 1 jour », « Prix week-end », « Prix semaine »
 et la grille jour par jour → **Enregistrer**. Le nouveau prix apparaît partout : pages vélo, tarifs, accueil, guide, et dans les 5 langues.
 
 ## 4. Les langues
 Les pages existent en français, anglais, néerlandais, allemand et espagnol. En haut du formulaire, les onglets **FR / EN / NL / DE / ES**
 permettent de modifier chaque langue. Les prix, photos et identifiants se modifient **en français uniquement** et s'appliquent
-à toutes les langues. Quand vous ajoutez un élément en français (une question de FAQ, un avis, une photo de galerie), pensez à le traduire dans les autres onglets : sinon le texte français s'affiche sur les pages étrangères.
+à toutes les langues. Quand vous ajoutez un élément en français (une question de FAQ, un avis, une photo de galerie), il est ajouté automatiquement dans les autres langues : pensez à traduire son texte dans la colonne de droite, sinon le texte français s'affiche sur les pages étrangères.
 
 ## 5. Écrire un article
 *Articles du blog → Nouveau*
@@ -42,17 +47,17 @@ permettent de modifier chaque langue. Les prix, photos et identifiants se modifi
 - **Articles traduits** : les traductions se modifient dans *Articles du blog (EN)*, *(NL)*, *(DE)* et *(ES)*. Ne changez pas le champ « Adresse de la page » d'un article déjà publié.
 
 ## 7. Liens Google et Tripadvisor (à faire une fois)
-*Coordonnées et réservation* → collez le lien de votre fiche Google Business (Google Maps → votre fiche → Partager → Copier le lien) dans « Lien vers les avis Google » et « Lien de la fiche Google Business », puis l'adresse de votre page Tripadvisor. Les badges d'avis de l'accueil mènent alors vers vos vraies fiches, et Google relie le site à vos avis.
+*Coordonnées et liens* → collez le lien de votre fiche Google Business (Google Maps → votre fiche → Partager → Copier le lien) dans « Lien vers les avis Google » et « Lien de la fiche Google Business », puis l'adresse de votre page Tripadvisor. Les badges d'avis de l'accueil mènent alors vers vos vraies fiches, et Google relie le site à vos avis.
 
 ## 8. Grille de tarifs et PDF
-*Pages du site → Vélos, tarifs et accessoires* → pour chaque vélo, « Grille jour par jour, de 1 à 7 jours » (7 prix) et « Jour supplémentaire ». Le tableau de la page Tarifs et le **PDF téléchargeable** se mettent à jour tout seuls. Pour le gravel et le vélo enfant, la grille n'est pas encore renseignée : les cases manquantes affichent « – » (tarif sur demande).
+*Vélos et tarifs* → pour chaque vélo, « Grille jour par jour, de 1 à 7 jours » (7 prix) et « Jour supplémentaire ». Le tableau de la page Tarifs et le **PDF téléchargeable** se mettent à jour tout seuls. Pour le gravel et le vélo enfant, la grille n'est pas encore renseignée : les cases manquantes affichent « – » (tarif sur demande).
 
 ## 9. Accessoires
 Même rubrique, liste « Accessoires » : nom, prix par jour et description. Ils apparaissent sur l'accueil (sous les vélos), sur la page « Nos accessoires », dans la page Tarifs et dans la grille PDF.
 
 ## 10. Avis clients, WhatsApp et galeries photo
-- **Avis mis en avant** : *Pages du site → Accueil* → « Avis clients mis en avant » (3 maximum) : texte (sans guillemets), prénom et initiale, itinéraire cité si besoin. Ils s'affichent sur l'accueil, les pages vélos et itinéraires. Mettez aussi à jour « Nombre d'avis Google » de temps en temps.
-- **WhatsApp** : *Coordonnées et réservation* → « Numéro WhatsApp » (format 33652629464). Tous les boutons WhatsApp du site suivent.
+- **Avis mis en avant** : *Accueil* → « Avis clients mis en avant » (3 maximum) : texte (sans guillemets), prénom et initiale, itinéraire cité si besoin. Ils s'affichent sur l'accueil, les pages vélos et itinéraires. Mettez aussi à jour « Nombre d'avis Google » de temps en temps.
+- **WhatsApp** : *Coordonnées et liens* → « Numéro WhatsApp » (format 33652629464). Tous les boutons WhatsApp du site suivent.
 - **Galeries photo** : *Vélos* et *Itinéraires* → ouvrir un vélo ou un itinéraire → « Galerie photo » (6 maximum, avec une légende). Vos photos passent en premier ; les photos du site complètent. Les photos sont redimensionnées et optimisées automatiquement, même prises au téléphone.
 
 ## 11. Bonnes pratiques
