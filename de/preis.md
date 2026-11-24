@@ -10,7 +10,7 @@ Preise 2026
 
 Einfache Preise mit Staffelrabatt, Schloss, Pannenset und Beleuchtung inklusive. Online in wenigen Minuten buchen, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt

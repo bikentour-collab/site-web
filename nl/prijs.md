@@ -10,7 +10,7 @@ Prijzen 2026
 
 Eenvoudige prijzen met staffelkorting, inclusief slot, bandenreparatieset en verlichting. Reserveer online in een paar minuten, gratis annuleren tot 48 uur voor vertrek.
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat

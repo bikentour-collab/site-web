@@ -430,7 +430,10 @@ button { font-family: inherit; }
   .keys-grid, .bikes, .timeline { grid-template-columns: minmax(0, 1fr); }
   .key + .key { border-left: 0; border-top: 1px solid var(--line); }
   .partners a { width: 76px; height: 76px; }
-  .ft-grid { grid-template-columns: minmax(0, 1fr); }
+  .ft-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 20px; padding-block: 36px; }
+  .ft-grid > :first-child, .ft-grid > :last-child { grid-column: 1 / -1; }
+  .ft-go { display: none !important; }
+  .ft-social { margin-bottom: 0; }
   .brief dl div { grid-template-columns: 34px minmax(0, 1fr); column-gap: 12px; }
   .brief { padding: 26px 20px 22px; }
 }
@@ -920,3 +923,13 @@ table.data { width: 100%; border-collapse: collapse; font-size: 15px; background
 .more-reviews { display: flex; flex-wrap: wrap; gap: .5rem 2rem; }
 .ft-news .form-status { color: #fff; }
 .ft-news .form-status.is-error { color: #ffb4a8; }
+
+/* Bandeau d'appel à l'action : jaune, pour ne pas se fondre dans le pied de page bleu nuit */
+.cta-band { background: var(--yellow); color: var(--navy); }
+.cta-inner strong { color: var(--navy); }
+.cta-inner p { color: var(--navy); }
+.cta-band .btn-yellow { background: var(--navy); color: var(--white); }
+.cta-band .btn-yellow:hover { background: var(--navy-2); color: var(--white); }
+.cta-band .btn-line { border-color: var(--navy); color: var(--navy); background: transparent; }
+.cta-band .btn-line:hover { background: var(--navy); color: var(--white); }
+.ft .cbtn-go, .ft .cbtn-go span, .ft .cbtn-go:hover { color: var(--navy-2); }

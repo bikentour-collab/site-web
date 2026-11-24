@@ -10,7 +10,7 @@ Our bikes
 
 Recent bikes, serviced after every hire: Velo de Ville touring bikes, Sunn e-bikes and gravel bikes made in Loire-Atlantique, and kids' bikes. All fitted to your size before you set off.
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Detailed prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Detailed prices](https://www.bikentour.com/en/biken-tour-prices)
 
 ![Bike'N Tour touring bikes outside the shop in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
@@ -81,4 +81,4 @@ Included with every bike
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)

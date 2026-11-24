@@ -10,7 +10,7 @@ Page : https://www.bikentour.com/nl · Bike'N Tour, 27 quai de Versailles, 44000
 
 Zes fietsroutes beginnen bij onze winkel. Wij maken je fiets, je fietstassen en de GPX-track klaar, jij hoeft alleen nog te trappen. Enkele reis mogelijk.
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Kies je route](#itineraires)
 
 Vertrek vanaf de winkel
@@ -65,7 +65,7 @@ Onderweg te zien
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-mauves-sur-loire-1-w480.webp)Mauves-sur-Loire](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2-w480.webp)Château d'Oudon](https://www.bikentour.com/post/les-bords-de-loire-oudon)
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [De route in detail](https://www.bikentour.com/nl/reisideeen/loire-a-velo)
 
 ![Reizigers met hun fietstassen op een landweg](https://www.bikentour.com/assets/img/photo-sacoches.webp)Makkelijk240 km · 4 tot 5 dagen
@@ -97,7 +97,7 @@ Onderweg te zien
 
 - [![](https://www.bikentour.com/assets/img/blog-une-creature-mythique-aux-portes-de-lestuaire-1-w480.webp)Serpent d'océan](https://www.bikentour.com/post/une-creature-mythique-aux-portes-de-lestuaire)
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [De route in detail](https://www.bikentour.com/nl/reisideeen/velodyssee)
 
 ![Drie fietsreizigers op een bospad](https://www.bikentour.com/assets/img/v2-chemin-foret.webp)Makkelijk275 km · 9 etappes
@@ -130,7 +130,7 @@ Onderweg te zien
 
 - [![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2-w480.webp)Sucé-sur-Erdre](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [De route in detail](https://www.bikentour.com/nl/reisideeen/la-regalante)
 
 ![Fietser op een e-bike op een landweggetje](https://www.bikentour.com/assets/img/v2-cycliste-vignes.webp)Gemiddeld485 km · 8 tot 10 dagen
@@ -161,7 +161,7 @@ Enkele reis
 6. Saint-Malo
 7. Mont-Saint-Michel
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [De route in detail](https://www.bikentour.com/nl/reisideeen/bretagne-doorkruisen)
 
 ![Twee reizigers vertrekken op de fiets vanuit het centrum van Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)Makkelijk360 km · 6 tot 8 dagen
@@ -192,7 +192,7 @@ Enkele reis
 6. Carhaix
 7. Châteaulin
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [De route in detail](https://www.bikentour.com/nl/reisideeen/kanaal-nantes-brest)
 
 ![Fietsers op een smalle weg door de wijngaarden van Nantes](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Makkelijk80 km · 2 dagen
@@ -226,7 +226,7 @@ Onderweg te zien
 - [![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1-w480.webp)Marais de Goulaine](https://www.bikentour.com/post/le-marais-de-goulaine)
 - [![](https://www.bikentour.com/assets/img/blog-le-porte-vue-un-belvedere-exceptionnel-w480.webp)Le Porte-Vue](https://www.bikentour.com/post/le-porte-vue-un-belvedere-exceptionnel)
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [De route in detail](https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes)
 
 **Gratis annuleren**Tot 48 uur voor vertrek
@@ -361,7 +361,7 @@ Geverifieerde reviews
 >
 > Jérémy M. · Google
 
-[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Onze partners
 
@@ -396,7 +396,7 @@ Talen
 Contact
 :   [06 52 62 94 64](tel:+33652629464) · [WhatsApp](https://wa.me/33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 Veelgestelde vragen
 

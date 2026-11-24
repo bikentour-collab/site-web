@@ -10,7 +10,7 @@ Unsere Räder
 
 Aktuelle Räder, nach jeder Miete gewartet: Reiseräder von Velo de Ville, E-Bikes und Gravelbikes von Sunn, hergestellt in der Loire-Atlantique, dazu Kinderräder. Alle werden vor der Abfahrt auf Ihre Größe eingestellt.
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Detaillierte Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Detaillierte Preise](https://www.bikentour.com/de/preis)
 
 ![Die Reiseräder von Bike'N Tour vor dem Laden in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
@@ -81,4 +81,4 @@ Bei jedem Rad inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)

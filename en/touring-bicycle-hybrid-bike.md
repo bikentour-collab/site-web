@@ -12,7 +12,7 @@ Our touring bike is custom-built for cycle touring with our German partner Velo 
 
 From **€22** a day
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -75,7 +75,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 

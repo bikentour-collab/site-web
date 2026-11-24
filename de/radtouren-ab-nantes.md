@@ -10,7 +10,7 @@ Ausflugsideen
 
 Ein Tag oder ein Wochenende: unsere Ideen für Radausflüge auf eigene Faust ab dem Laden, mit Rückfahrt im Regionalzug (TER), wo möglich. Distanzen und Schwierigkeitsgrade stammen von unseren eigenen Touren mit dem Team.
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pause mit dem Rad im Zentrum von Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 

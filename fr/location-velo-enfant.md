@@ -12,7 +12,7 @@ Pour partir en famille : des vélos enfant de 20 à 26 pouces, et pour les plus 
 
 Dès **20 €** / jour
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -72,7 +72,7 @@ Inclus
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 Ou au [06 52 62 94 64](tel:+33652629464)
 

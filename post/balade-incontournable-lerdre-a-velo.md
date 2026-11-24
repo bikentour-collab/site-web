@@ -106,7 +106,7 @@ Itinéraire au départ de la boutique
 
 Les chemins de halage vers le Finistère
 
-[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest) [Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest) [Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## À lire aussi
 

@@ -10,7 +10,7 @@ Accessoires
 
 Sacoches étanches Ortlieb, sacoche de guidon, porte-smartphone, housse de selle, casque, siège bébé et remorque : tout ce qu'il faut pour partir à vélo, à ajouter à votre location.
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Vélo de voyage équipé de sacoches Ortlieb](https://www.bikentour.com/assets/img/photo-sacoches.webp)
 
@@ -24,7 +24,7 @@ Deux sacoches arrière étanches de 20 litres chacune, qui se clipsent sur le po
 
 5 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os)
 
 ### Sacoche de guidon (6 L)
 
@@ -32,7 +32,7 @@ Une sacoche de 6 litres fixée au guidon, pour garder à portée de main télép
 
 5 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os)
 
 ### Housse de selle confort
 
@@ -40,7 +40,7 @@ Une housse de selle rembourrée pour gagner en confort sur les longues étapes.
 
 1 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os)
 
 ### Porte-smartphone
 
@@ -48,7 +48,7 @@ Un support solide pour suivre la trace GPX sur votre téléphone sans vous arrê
 
 1 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os)
 
 ### Siège bébé (dès 1 an)
 
@@ -56,7 +56,7 @@ Un siège bébé homologué, pour les enfants à partir de 1 an, monté sur le p
 
 5 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os)
 
 ### Remorque enfant (dès 1 an)
 
@@ -64,7 +64,7 @@ Une remorque pour transporter un ou deux enfants à partir de 1 an, à l'abri du
 
 15 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os)
 
 ### Casque
 
@@ -72,7 +72,7 @@ Un casque réglable, conseillé pour toute la famille.
 
 1 € / jour
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os)
 
 Inclus avec chaque vélo : cadenas, kit anti-crevaison et éclairage. [Voir tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation#grille)
 

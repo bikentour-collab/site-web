@@ -12,7 +12,7 @@ Le vélo électrique de voyage Sunn, fabriqué à quelques kilomètres de Nantes
 
 Dès **35 €** / jour
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -81,7 +81,7 @@ Inclus
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Ou au [06 52 62 94 64](tel:+33652629464)
 

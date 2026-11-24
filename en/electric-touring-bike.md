@@ -12,7 +12,7 @@ The Sunn touring e-bike, made just a few kilometres from Nantes, with a Bosch mo
 
 From **€35** a day
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -81,7 +81,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 

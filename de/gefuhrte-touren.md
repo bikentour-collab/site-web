@@ -10,7 +10,7 @@ Geführte Touren
 
 Vom Hafen geprägt, hat Nantes tausend Geschichten zu erzählen. Unsere lokalen Guides zeigen sie Ihnen auf dem E-Bike, in kleiner Gruppe und zu 100 % auf Radwegen: mit der Familie, mit Freunden oder mit Kollegen.
 
-[Tour buchen](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Private Tour](https://www.bikentour.com/de/gruppen-und-unternehmen#visites)
+[Tour buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Private Tour](https://www.bikentour.com/de/gruppen-und-unternehmen#visites)
 
 ![Gruppe bei einer Führung vor dem Carrousel des Mondes Marins in Nantes](https://www.bikentour.com/assets/img/v2-visite-carrousel.webp)
 

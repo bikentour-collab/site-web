@@ -98,7 +98,7 @@ De borg bedraagt 500 € (trekkingfiets, kinderfiets), 1.000 € (e-bike, grav
 
 ## Hoe reserveer je en kun je annuleren?
 
-Je reserveert online via [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), telefonisch op 06 52 62 94 64 of in de winkel. Annuleren is gratis tot 48 uur voor vertrek. Je betaalt online of in de winkel, met bankpas/creditcard of cheque.
+Je reserveert online via [Lokki (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os), telefonisch op 06 52 62 94 64 of in de winkel. Annuleren is gratis tot 48 uur voor vertrek. Je betaalt online of in de winkel, met bankpas/creditcard of cheque.
 
 ## Kun je Nantes op de fiets bezoeken met een gids?
 
@@ -125,7 +125,7 @@ Inhoud
 9. [Kun je Nantes op de fiets bezoeken met een gids?](#q9)
 10. [En voor een groep of bedrijf?](#q10)
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Van onze blog
 

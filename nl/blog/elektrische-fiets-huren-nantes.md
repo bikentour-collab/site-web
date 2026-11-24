@@ -108,7 +108,7 @@ Te huur in Nantes
 
 Vanaf € 35 per dag, € 172 per week.
 
-[Bekijk de fiets](https://www.bikentour.com/nl/elektrische-fiets) [Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Bekijk de fiets](https://www.bikentour.com/nl/elektrische-fiets) [Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Ook op onze blog
 

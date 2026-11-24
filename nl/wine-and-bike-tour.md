@@ -15,7 +15,7 @@ De stad en de wijngaarden van Nantes in één tocht: het verhaal van de Muscadet
 - Vertrek**Donderdag tot en met zondag om 14.00 uur**
 - Talen**Frans, Engels**
 
-[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Rondleiding reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Gratis annuleren tot 48 uur vooraf
 - Maximaal 12 personen
@@ -78,7 +78,7 @@ Inbegrepen
 
 **Rendez-vous :** Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Onze andere rondleidingen
 

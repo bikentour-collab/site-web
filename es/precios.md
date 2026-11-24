@@ -10,7 +10,7 @@ Precios 2026
 
 Precios sencillos y decrecientes, con candado, kit antipinchazos y luces incluidos. Reserve en línea en pocos minutos, con cancelación gratuita hasta 48 h antes de la salida.
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla

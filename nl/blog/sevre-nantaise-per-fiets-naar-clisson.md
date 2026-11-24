@@ -109,7 +109,7 @@ Route vanaf de winkel
 
 Een weekend tussen Sèvre en Muscadet
 
-[Bekijk de route](https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes) [Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Bekijk de route](https://www.bikentour.com/nl/reisideeen/wijngaarden-nantes) [Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Ook op onze blog
 

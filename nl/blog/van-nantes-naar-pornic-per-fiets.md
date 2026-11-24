@@ -108,7 +108,7 @@ Route vanaf de winkel
 
 Naar de oceaan en de Vendée
 
-[Bekijk de route](https://www.bikentour.com/nl/reisideeen/velodyssee) [Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Bekijk de route](https://www.bikentour.com/nl/reisideeen/velodyssee) [Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Ook op onze blog
 

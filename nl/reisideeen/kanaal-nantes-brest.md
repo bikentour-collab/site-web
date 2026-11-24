@@ -15,7 +15,7 @@ Sluizen, sluiswachtershuisjes en vlakke jaagpaden: het kanaal van Nantes naar Br
 - Niveau**Makkelijk**
 - Enkele reis**Ja, op aanvraag**
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[GPX-track ontvangen](#gpx)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[GPX-track ontvangen](#gpx)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -97,7 +97,7 @@ Aanbevolen fiets
 
 Waterdichte Ortlieb-fietstassen optioneel (€ 5 per dag), enkele reis op offerte.
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## De andere routes vanuit Nantes
 

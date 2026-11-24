@@ -108,7 +108,7 @@ For hire in Nantes
 
 From €35 a day, €172 a week.
 
-[See the bike](https://www.bikentour.com/en/electric-touring-bike) [Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[See the bike](https://www.bikentour.com/en/electric-touring-bike) [Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Also on our blog
 

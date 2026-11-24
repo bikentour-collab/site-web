@@ -105,7 +105,7 @@ Partir à vélo depuis Nantes
 
 Six véloroutes partent de notre boutique, en plein centre de Nantes : on vous prépare le vélo, les sacoches et la trace GPX.
 
-[Les itinéraires](https://www.bikentour.com/fr/itineraires-velo-depart-nantes) [Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Les itinéraires](https://www.bikentour.com/fr/itineraires-velo-depart-nantes) [Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## À lire aussi
 

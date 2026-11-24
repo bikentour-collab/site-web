@@ -98,7 +98,7 @@ The deposit is 500 € (touring bike, kids' bike), 1,000 € (e-bike, gravel b
 
 ## How do I book, and can I cancel?
 
-You can book online at [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), by phone on 06 52 62 94 64 or at the shop. Cancellation is free up to 48 hours before you set off. You can pay online or at the shop, by credit card or cheque.
+You can book online at [Lokki (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os), by phone on 06 52 62 94 64 or at the shop. Cancellation is free up to 48 hours before you set off. You can pay online or at the shop, by credit card or cheque.
 
 ## Can I take a guided bike tour of Nantes?
 
@@ -125,7 +125,7 @@ Contents
 9. [Can I take a guided bike tour of Nantes?](#q9)
 10. [What about groups or companies?](#q10)
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## From our blog
 

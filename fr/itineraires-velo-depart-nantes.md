@@ -10,7 +10,7 @@ Au départ de la boutique
 
 Six grandes véloroutes partent de notre boutique, en plein centre de Nantes : la Loire à Vélo, la Vélodyssée, la Régalante, la Traversée bretonne, le Canal de Nantes à Brest et le Vignoble nantais. Pour chacune, on vous prépare le vélo, les sacoches et la trace GPX.
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Balades à la journée](https://www.bikentour.com/fr/idees-de-balades)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Balades à la journée](https://www.bikentour.com/fr/idees-de-balades)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
@@ -58,7 +58,7 @@ Inclus avec chaque itinéraire
 - Accès en train et retour
 - Nos bonnes adresses
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Le voyage à vélo en images
 

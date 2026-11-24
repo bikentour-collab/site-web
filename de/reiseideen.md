@@ -10,7 +10,7 @@ Start direkt am Laden
 
 Sechs große Radfernwege starten an unserem Laden mitten in Nantes: La Loire à Vélo, La Vélodyssée, La Régalante, die Bretagne-Durchquerung, der Kanal von Nantes nach Brest und die Weinberge von Nantes. Für jede Route bereiten wir Ihnen Rad, Packtaschen und GPX-Track vor.
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Tagesausflüge](https://www.bikentour.com/de/radtouren-ab-nantes)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Tagesausflüge](https://www.bikentour.com/de/radtouren-ab-nantes)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
@@ -58,7 +58,7 @@ Bei jeder Route inklusive
 - Anreise und Rückfahrt mit dem Zug
 - Unsere Lieblingsadressen
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Radreisen in Bildern
 

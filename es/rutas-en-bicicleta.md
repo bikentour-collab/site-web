@@ -10,7 +10,7 @@ Desde nuestra tienda
 
 Seis grandes rutas ciclistas salen de nuestra tienda, en pleno centro de Nantes: la Loire à Vélo, la Vélodyssée, La Régalante, la Traversée bretonne, el Canal de Nantes à Brest y los viñedos de Nantes. Para cada una, le preparamos la bici, las alforjas y el track GPX.
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Paseos de un día](https://www.bikentour.com/es/paseos-en-bicicleta-desde-nantes)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Paseos de un día](https://www.bikentour.com/es/paseos-en-bicicleta-desde-nantes)
 
 ![Grupo de ciclistas a orillas del Loira](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
@@ -58,7 +58,7 @@ Incluido con cada ruta
 - Acceso en tren y vuelta
 - Nuestras direcciones favoritas
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## El viaje en bici en imágenes
 

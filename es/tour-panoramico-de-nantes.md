@@ -15,7 +15,7 @@ El castillo de los duques de Bretaña, el Elefante de las Machines de l'île, la
 - Salidas**De martes a domingo a las 15:00**
 - Idiomas**Francés, inglés, español**
 
-[Reservar la visita](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar la visita (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Cancelación gratuita hasta 48 h antes
 - 12 personas como máximo
@@ -88,7 +88,7 @@ Incluido
 
 **Rendez-vous :** Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nuestras otras visitas
 

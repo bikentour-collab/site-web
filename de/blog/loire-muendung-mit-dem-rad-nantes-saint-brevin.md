@@ -109,7 +109,7 @@ Route ab dem Laden
 
 Nach Angers und Saumur
 
-[Route ansehen](https://www.bikentour.com/de/reiseideen/loire-radweg) [Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Route ansehen](https://www.bikentour.com/de/reiseideen/loire-radweg) [Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Mehr aus unserem Blog
 

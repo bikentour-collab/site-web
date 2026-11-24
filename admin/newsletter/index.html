@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Newsletter · Administration Bike'N Tour</title>
+<link rel="stylesheet" href="/admin/guide/guide.css">
+<link rel="stylesheet" href="/admin/newsletter/newsletter.css">
+</head>
+<body>
+<header class="g-top">
+  <a class="g-brand" href="/admin/"><img src="/assets/img/logo-texte.png" alt="Bike'N Tour"><span>Newsletter</span></a>
+  <div class="g-top-right"><a class="g-btn" href="/admin/">Retour à l'administration</a></div>
+</header>
+
+<main class="nl">
+  <div class="nl-intro">
+    <h1>Écrire une newsletter</h1>
+    <p>Rédigez à gauche, l'aperçu se met à jour à droite. Envoyez-vous d'abord un test, puis envoyez à tous les abonnés. Chaque email contient un lien de désinscription.</p>
+    <p class="nl-state" id="etat" role="status">Vérification de la configuration…</p>
+  </div>
+
+  <div class="nl-grid">
+    <form class="nl-form" id="form" novalidate>
+      <fieldset>
+        <legend>L'email dans la boîte de réception</legend>
+        <label for="objet">Objet <span aria-hidden="true">*</span></label>
+        <input id="objet" name="objet" maxlength="150" required placeholder="Ex. La saison 2027 est ouverte !">
+        <p class="nl-hint">Court et concret : 40 à 60 caractères.</p>
+        <label for="apercu">Texte d'aperçu</label>
+        <input id="apercu" name="apercu" maxlength="200" placeholder="Ex. Nouveaux itinéraires, vélos neufs et réservations ouvertes">
+        <p class="nl-hint">La ligne grise affichée après l'objet dans la boîte de réception.</p>
+      </fieldset>
+
+      <fieldset>
+        <legend>Le contenu</legend>
+        <label for="image">Photo en haut de l'email</label>
+        <select id="image" name="image">
+          <option value="">Pas de photo</option>
+          <option value="/assets/img/v2-bord-de-loire-w1200.webp">Groupe au bord de la Loire</option>
+          <option value="/assets/img/v2-depart-boutique-w1200.webp">Départ de la boutique</option>
+          <option value="/assets/img/v2-flotte-boutique-w1200.webp">Les vélos devant la boutique</option>
+          <option value="/assets/img/v2-cycliste-vignes-w1200.webp">Cycliste dans les vignes</option>
+          <option value="/assets/img/v2-chemin-foret-w1200.webp">Chemin en forêt</option>
+          <option value="/assets/img/v2-groupe-elephant-w1200.webp">Groupe devant l'Éléphant</option>
+          <option value="/assets/img/photo-sacoches-w1200.webp">Vélo équipé de sacoches</option>
+        </select>
+        <label for="titre">Titre</label>
+        <input id="titre" name="titre" maxlength="150" placeholder="Ex. Bonne nouvelle : on rouvre le 1er avril">
+        <label for="texte">Texte <span aria-hidden="true">*</span></label>
+        <textarea id="texte" name="texte" rows="12" required placeholder="Bonjour,&#10;&#10;Votre message…"></textarea>
+        <details class="nl-help">
+          <summary>Mise en forme (gras, liens, listes)</summary>
+          <ul>
+            <li>Une ligne vide entre deux paragraphes.</li>
+            <li><code>**mots en gras**</code> pour mettre en gras.</li>
+            <li><code>- élément</code> au début de chaque ligne pour une liste.</li>
+            <li><code>## Intertitre</code> pour un sous-titre.</li>
+            <li><code>[texte du lien](https://www.bikentour.com/fr)</code> pour un lien.</li>
+          </ul>
+        </details>
+      </fieldset>
+
+      <fieldset>
+        <legend>Bouton (facultatif)</legend>
+        <div class="nl-row">
+          <div><label for="bouton_texte">Texte du bouton</label><input id="bouton_texte" name="bouton_texte" maxlength="60" placeholder="Réserver mes vélos"></div>
+          <div><label for="bouton_lien">Lien du bouton</label><input id="bouton_lien" name="bouton_lien" type="url" maxlength="500" placeholder="https://www.lokki.rent/loueur/bike-n-tour?c=os"></div>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Envoyer</legend>
+        <label for="email-test">Adresse pour le test</label>
+        <div class="nl-row nl-row-btn">
+          <input id="email-test" type="email" autocomplete="email" placeholder="contact@bikentour.com">
+          <button class="g-btn" type="button" id="btn-test">M'envoyer un test</button>
+        </div>
+        <button class="g-btn g-btn-primary nl-send" type="button" id="btn-send">Envoyer à tous les abonnés…</button>
+        <p class="nl-msg" id="msg" role="status" aria-live="polite"></p>
+      </fieldset>
+    </form>
+
+    <section class="nl-preview" aria-label="Aperçu de l'email">
+      <div class="nl-preview-bar"><span>Aperçu</span><span class="nl-preview-subject" id="pv-objet">Objet de l'email</span></div>
+      <iframe id="preview" title="Aperçu de la newsletter" sandbox=""></iframe>
+    </section>
+  </div>
+
+  <section class="nl-history">
+    <h2>Newsletters déjà envoyées</h2>
+    <ul id="history"><li class="nl-hint">Chargement…</li></ul>
+  </section>
+</main>
+
+<dialog id="confirm" class="nl-dialog">
+  <form method="dialog">
+    <h2>Envoyer à tous les abonnés ?</h2>
+    <p>La newsletter « <strong id="cf-objet"></strong> » part tout de suite vers tous les abonnés. Un envoi ne peut pas être annulé.</p>
+    <p>Pour confirmer, tapez <strong>ENVOYER</strong> :</p>
+    <input id="cf-input" autocomplete="off" aria-label="Tapez ENVOYER pour confirmer">
+    <div class="nl-dialog-btns">
+      <button class="g-btn" value="cancel">Annuler</button>
+      <button class="g-btn g-btn-primary" value="ok" id="cf-ok" disabled>Envoyer maintenant</button>
+    </div>
+  </form>
+</dialog>
+<script src="/admin/newsletter/newsletter.js"></script>
+</body>
+</html>

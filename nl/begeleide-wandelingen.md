@@ -10,7 +10,7 @@ Rondleidingen
 
 Gevormd door zijn haven heeft Nantes duizend verhalen te vertellen. Onze lokale gidsen laten je ze ontdekken op de e-bike, in een kleine groep en 100% over fietspaden: met het gezin, met vrienden of met collega's.
 
-[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Privérondleiding](https://www.bikentour.com/nl/groepen-en-bedrijven#visites)
+[Rondleiding reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Privérondleiding](https://www.bikentour.com/nl/groepen-en-bedrijven#visites)
 
 ![Groep tijdens een rondleiding voor de Carrousel des Mondes Marins in Nantes](https://www.bikentour.com/assets/img/v2-visite-carrousel.webp)
 

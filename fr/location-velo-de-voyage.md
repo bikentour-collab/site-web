@@ -12,7 +12,7 @@ Notre vélo de voyage est construit sur mesure avec notre partenaire allemand Ve
 
 Dès **22 €** / jour
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -75,7 +75,7 @@ Inclus
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
 
 Ou au [06 52 62 94 64](tel:+33652629464)
 

@@ -89,3 +89,8 @@ L'admin fonctionne aussi en local avec « Travailler avec un dépôt local » (C
 - `tools/gpx_export.py` écrit `assets/gpx/bikentour-<itinéraire>.gpx` (parcours au départ de Nantes, même découpage que la carte), recalculé seulement si `tools/data` change.
 - `tools/fiche.py` écrit `assets/pdf/fiches/<itinéraire>-<langue>.pdf` à chaque génération (30 fiches : 6 itinéraires × 5 langues) à partir du contenu de l'admin : une étape modifiée dans l'admin est donc à jour dans la fiche.
 - Envoi : `server.js` (`/api/gpx`, Resend).
+
+## Newsletter
+
+- Inscription : formulaire du pied de page (consentement obligatoire) → contact Resend, ajouté au segment `RESEND_SEGMENT_ID`.
+- Envoi : **Administration → Newsletter** (`/admin/newsletter/`, protégé par le mot de passe admin). Objet, texte d'aperçu, photo du site, titre, texte (gras, listes, liens, intertitres), bouton. Aperçu en direct, envoi de test, puis envoi à tous les abonnés (confirmation « ENVOYER »). L'envoi passe par Resend Broadcasts ; le lien de désinscription est ajouté et géré par Resend. Historique des envois affiché en bas de page.

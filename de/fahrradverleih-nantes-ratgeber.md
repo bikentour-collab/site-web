@@ -98,7 +98,7 @@ Die Kaution beträgt 500 € (Reiserad, Kinderrad), 1.000 € (E-Bike, Gravelb
 
 ## Wie bucht man, und kann man stornieren?
 
-Die Buchung erfolgt online auf [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), telefonisch unter 06 52 62 94 64 oder im Laden. Die Stornierung ist bis 48 Std. vor Abfahrt kostenlos. Die Zahlung erfolgt online oder im Laden, per Kreditkarte oder Scheck.
+Die Buchung erfolgt online auf [Lokki (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os), telefonisch unter 06 52 62 94 64 oder im Laden. Die Stornierung ist bis 48 Std. vor Abfahrt kostenlos. Die Zahlung erfolgt online oder im Laden, per Kreditkarte oder Scheck.
 
 ## Kann man Nantes mit einem Guide per Rad entdecken?
 
@@ -125,7 +125,7 @@ Inhalt
 9. [Kann man Nantes mit einem Guide per Rad entdecken?](#q9)
 10. [Und für Gruppen oder Unternehmen?](#q10)
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Aus unserem Blog
 

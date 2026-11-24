@@ -15,7 +15,7 @@ Het kasteel van de hertogen van Bretagne, de Olifant van de Machines de l'île, 
 - Vertrek**Dinsdag tot en met zondag om 15.00 uur**
 - Talen**Frans, Engels, Spaans**
 
-[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Rondleiding reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Gratis annuleren tot 48 uur vooraf
 - Maximaal 12 personen
@@ -88,7 +88,7 @@ Inbegrepen
 
 **Rendez-vous :** Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Onze andere rondleidingen
 

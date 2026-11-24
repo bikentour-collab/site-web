@@ -10,7 +10,7 @@ Page : https://www.bikentour.com/en · Bike'N Tour, 27 quai de Versailles, 44000
 
 Six cycle routes start right from our shop. We get your bike, panniers and GPX track ready – all you have to do is pedal. One-way hire available.
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Choose my route](#itineraires)
 
 Starting from our shop
@@ -65,7 +65,7 @@ Worth seeing along the way
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-mauves-sur-loire-1-w480.webp)Mauves-sur-Loire](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2-w480.webp)Château d'Oudon](https://www.bikentour.com/post/les-bords-de-loire-oudon)
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [The detailed route](https://www.bikentour.com/en/travel-ideas/loire-by-bike)
 
 ![Cyclists with panniers on a country track](https://www.bikentour.com/assets/img/photo-sacoches.webp)Easy240 km · 4 to 5 days
@@ -97,7 +97,7 @@ Worth seeing along the way
 
 - [![](https://www.bikentour.com/assets/img/blog-une-creature-mythique-aux-portes-de-lestuaire-1-w480.webp)Serpent d'océan](https://www.bikentour.com/post/une-creature-mythique-aux-portes-de-lestuaire)
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [The detailed route](https://www.bikentour.com/en/travel-ideas/velodyssee)
 
 ![Three cyclists on a forest track](https://www.bikentour.com/assets/img/v2-chemin-foret.webp)Easy275 km · 9 stages
@@ -130,7 +130,7 @@ Worth seeing along the way
 
 - [![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2-w480.webp)Sucé-sur-Erdre](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [The detailed route](https://www.bikentour.com/en/travel-ideas/la-regalante)
 
 ![A cyclist on an e-bike on a quiet country road](https://www.bikentour.com/assets/img/v2-cycliste-vignes.webp)Moderate485 km · 8 to 10 days
@@ -161,7 +161,7 @@ One-way hire
 6. Saint-Malo
 7. Mont-Saint-Michel
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [The detailed route](https://www.bikentour.com/en/travel-ideas/brittany-crossing)
 
 ![Two cyclists setting off from the centre of Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)Easy360 km · 6 to 8 days
@@ -192,7 +192,7 @@ One-way hire
 6. Carhaix
 7. Châteaulin
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [The detailed route](https://www.bikentour.com/en/travel-ideas/nantes-brest-canal)
 
 ![Cyclists on a quiet lane in the Nantes vineyards](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Easy80 km · 2 days
@@ -226,7 +226,7 @@ Worth seeing along the way
 - [![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1-w480.webp)Marais de Goulaine](https://www.bikentour.com/post/le-marais-de-goulaine)
 - [![](https://www.bikentour.com/assets/img/blog-le-porte-vue-un-belvedere-exceptionnel-w480.webp)Le Porte-Vue](https://www.bikentour.com/post/le-porte-vue-un-belvedere-exceptionnel)
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [The detailed route](https://www.bikentour.com/en/travel-ideas/nantes-vineyards)
 
 **Free cancellation**Up to 48 hours before you set off
@@ -361,7 +361,7 @@ Verified reviews
 >
 > Jérémy M. · Google
 
-[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Our partners
 
@@ -396,7 +396,7 @@ Languages
 Contact
 :   [06 52 62 94 64](tel:+33652629464) · [WhatsApp](https://wa.me/33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 FAQ
 

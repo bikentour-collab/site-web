@@ -15,7 +15,7 @@ Le château des ducs de Bretagne, l'Éléphant des Machines de l'île, les œuvr
 - Départs**Du mardi au dimanche à 15 h**
 - Langues**Français, anglais, espagnol**
 
-[Réserver la visite](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver la visite (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Annulation gratuite jusqu'à 48 h
 - 12 personnes maximum
@@ -88,7 +88,7 @@ Inclus
 
 **Rendez-vous :** Boutique Bike'N Tour, 27 quai de Versailles (tram ligne 2, arrêt Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nos autres visites
 

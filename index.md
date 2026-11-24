@@ -10,7 +10,7 @@ Page : https://www.bikentour.com/ · Bike'N Tour, 27 quai de Versailles, 44000 N
 
 Six véloroutes partent de notre boutique. On vous prépare le vélo, les sacoches et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Choisir mon itinéraire](#itineraires)
 
 Au départ de la boutique
@@ -65,7 +65,7 @@ Aller simple
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-mauves-sur-loire-1-w480.webp)Mauves-sur-Loire](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2-w480.webp)Château d'Oudon](https://www.bikentour.com/post/les-bords-de-loire-oudon)
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [L'itinéraire détaillé](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo)
 
 ![Voyageurs à vélo avec leurs sacoches sur un chemin de campagne](https://www.bikentour.com/assets/img/photo-sacoches.webp)Facile240 km · 4 à 5 jours
@@ -97,7 +97,7 @@ Aller simple
 
 - [![](https://www.bikentour.com/assets/img/blog-une-creature-mythique-aux-portes-de-lestuaire-1-w480.webp)Serpent d'océan](https://www.bikentour.com/post/une-creature-mythique-aux-portes-de-lestuaire)
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [L'itinéraire détaillé](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee)
 
 ![Trois voyageurs à vélo sur un chemin forestier](https://www.bikentour.com/assets/img/v2-chemin-foret.webp)Facile275 km · 9 étapes
@@ -130,7 +130,7 @@ Aller simple
 
 - [![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2-w480.webp)Sucé-sur-Erdre](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [L'itinéraire détaillé](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/regalante)
 
 ![Cycliste en vélo électrique sur une petite route de campagne](https://www.bikentour.com/assets/img/v2-cycliste-vignes.webp)Modéré485 km · 8 à 10 jours
@@ -161,7 +161,7 @@ Aller simple
 6. Saint-Malo
 7. Mont-Saint-Michel
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [L'itinéraire détaillé](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/traversee-bretonne)
 
 ![Deux voyageurs partent à vélo depuis le centre de Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)Facile360 km · 6 à 8 jours
@@ -192,7 +192,7 @@ Aller simple
 6. Carhaix
 7. Châteaulin
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [L'itinéraire détaillé](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/canal-nantes-brest)
 
 ![Cyclistes sur une petite route du vignoble nantais](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Facile80 km · 2 jours
@@ -226,7 +226,7 @@ Aller simple
 - [![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1-w480.webp)Marais de Goulaine](https://www.bikentour.com/post/le-marais-de-goulaine)
 - [![](https://www.bikentour.com/assets/img/blog-le-porte-vue-un-belvedere-exceptionnel-w480.webp)Le Porte-Vue](https://www.bikentour.com/post/le-porte-vue-un-belvedere-exceptionnel)
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [L'itinéraire détaillé](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais)
 
 **Annulation gratuite**Jusqu'à 48 h avant le départ
@@ -359,7 +359,7 @@ Avis vérifiés
 >
 > Jérémy M. · Google
 
-[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Nos partenaires
 
@@ -394,7 +394,7 @@ Langues
 Contact
 :   [06 52 62 94 64](tel:+33652629464) · [WhatsApp](https://wa.me/33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 Questions fréquentes
 

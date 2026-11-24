@@ -12,7 +12,7 @@ Für Wege abseits der Straße: Treidelpfade, Waldwege und kleine Sträßchen dur
 
 Ab **35 €** pro Tag
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -75,7 +75,7 @@ Inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 Oder telefonisch unter [06 52 62 94 64](tel:+33652629464)
 

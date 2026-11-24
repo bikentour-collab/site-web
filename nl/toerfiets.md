@@ -12,7 +12,7 @@ Onze trekkingfiets is op maat gebouwd met onze Duitse partner Velo de Ville, spe
 
 Vanaf **€ 22** per dag
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -75,7 +75,7 @@ Inbegrepen
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
 
 Of bel [06 52 62 94 64](tel:+33652629464)
 

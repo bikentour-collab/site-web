@@ -15,7 +15,7 @@ An “off-script” tour of Nantes: repurposed spaces, street art, architecture 
 - Departures**Every day at 10am except Sunday**
 - Languages**French, English**
 
-[Book the tour](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book the tour (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Free cancellation up to 48 hours before
 - Maximum 12 people
@@ -72,7 +72,7 @@ Included
 
 **Rendez-vous :** Bike'N Tour shop, 27 quai de Versailles (tram line 2, Saint-Mihiel stop). Venez 10 minutes avant le départ.
 
-[Book](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Our other tours
 

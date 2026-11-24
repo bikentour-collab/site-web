@@ -10,7 +10,7 @@ Ideas de paseos
 
 Un día o un fin de semana: nuestras ideas de paseos por libre desde la tienda, con vuelta en tren regional (TER) cuando es posible. Las distancias y los niveles salen de nuestras propias salidas con el equipo.
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pausa en bici en el centro de Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 

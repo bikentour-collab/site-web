@@ -12,7 +12,7 @@ Op pad met het gezin: kinderfietsen van 20 tot 26 inch, en voor de allerkleinste
 
 Vanaf **€ 20** per dag
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -72,7 +72,7 @@ Inbegrepen
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 Of bel [06 52 62 94 64](tel:+33652629464)
 

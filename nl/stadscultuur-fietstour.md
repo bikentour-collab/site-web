@@ -15,7 +15,7 @@ Een alternatieve kijk op Nantes: herbestemde plekken, streetart, architectuur en
 - Vertrek**Elke dag om 10.00 uur, behalve zondag**
 - Talen**Frans, Engels**
 
-[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Rondleiding reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Gratis annuleren tot 48 uur vooraf
 - Maximaal 12 personen
@@ -72,7 +72,7 @@ Inbegrepen
 
 **Rendez-vous :** Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Onze andere rondleidingen
 

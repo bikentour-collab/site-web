@@ -15,7 +15,7 @@ Das Schloss der Herzöge der Bretagne, der Elefant der Machines de l'île, die K
 - Abfahrten**Dienstag bis Sonntag um 15 Uhr**
 - Sprachen**Französisch, Englisch, Spanisch**
 
-[Tour buchen](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Tour buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Max. 12 Personen
@@ -88,7 +88,7 @@ Inklusive
 
 **Rendez-vous :** Laden Bike'N Tour, Quai de Versailles 27 (Tram Linie 2, Haltestelle Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Unsere weiteren Touren
 

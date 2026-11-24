@@ -10,7 +10,7 @@ Idées de balades
 
 Une journée ou un week-end : nos idées de balades autonomes au départ de la boutique, avec retour en TER quand c'est possible. Les distances et niveaux viennent de nos sorties avec l'équipe.
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pause à vélo dans le centre de Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 

@@ -108,7 +108,7 @@ Route ab dem Laden
 
 Zum Atlantik und in die Vendée
 
-[Route ansehen](https://www.bikentour.com/de/reiseideen/velodyssee) [Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Route ansehen](https://www.bikentour.com/de/reiseideen/velodyssee) [Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Mehr aus unserem Blog
 

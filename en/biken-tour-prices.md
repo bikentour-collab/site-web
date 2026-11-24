@@ -10,7 +10,7 @@ Page : https://www.bikentour.com/en/biken-tour-prices · Bike'N Tour, 27 quai de
 
 Simple prices that get cheaper the longer you ride, with lock, puncture repair kit and lights included. Book online in minutes, with free cancellation up to 48 hours before you set off.
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size

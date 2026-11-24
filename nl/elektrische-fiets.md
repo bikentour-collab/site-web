@@ -12,7 +12,7 @@ De elektrische reisfiets van Sunn, gemaakt op een paar kilometer van Nantes, met
 
 Vanaf **€ 35** per dag
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -81,7 +81,7 @@ Inbegrepen
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Of bel [06 52 62 94 64](tel:+33652629464)
 

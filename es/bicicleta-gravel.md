@@ -12,7 +12,7 @@ Para salirse de los caminos trillados: caminos de sirga, pistas forestales y car
 
 Desde **35 €** / día
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -75,7 +75,7 @@ Incluido
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 O llame al [06 52 62 94 64](tel:+33652629464)
 

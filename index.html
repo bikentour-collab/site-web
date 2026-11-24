@@ -38,7 +38,7 @@
 <link rel="alternate" type="text/markdown" href="/index.md" title="Version Markdown de cette page">
 <link rel="preload" as="image" href="/assets/img/v2-hero-vignoble-w1200.webp" imagesrcset="/assets/img/v2-hero-vignoble-w480.webp 480w, /assets/img/v2-hero-vignoble-w800.webp 800w, /assets/img/v2-hero-vignoble-w1200.webp 1200w, /assets/img/v2-hero-vignoble-w1600.webp 1600w, /assets/img/v2-hero-vignoble.webp 2400w" imagesizes="100vw" fetchpriority="high">
 <link rel="preload" href="/assets/fonts/montserrat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/style.css?v=5b39d0fe">
+<link rel="stylesheet" href="/assets/css/style.css?v=849a1bba">
 <script src="/assets/js/main.js?v=06fbf33c" defer></script>
 <script type="application/ld+json">
 {
@@ -249,8 +249,15 @@
       ],
       "potentialAction": {
         "@type": "ReserveAction",
-        "target": "https://bike-n-tour.lokki.rent",
-        "name": "Réserver un vélo"
+        "name": "Réserver un vélo",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.lokki.rent/loueur/bike-n-tour?c=os",
+          "actionPlatform": [
+            "https://schema.org/DesktopWebPlatform",
+            "https://schema.org/MobileWebPlatform"
+          ]
+        }
       },
       "slogan": "Le point de départ de vos vacances à vélo",
       "geo": {
@@ -1131,7 +1138,7 @@
         <li><a class="nav-link" href="/fr/qui-sommes-nous-nous-contacter">Contact</a></li>
       </ul>
       <p class="nav-contact"><a href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</a> <a class="wa" href="https://wa.me/33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg>WhatsApp</a></p>
-      <a class="btn btn-primary nav-cta" href="https://bike-n-tour.lokki.rent">Réserver mes vélos</a>
+      <a class="btn btn-primary nav-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
     </nav>
     <div class="hd-actions">
       <div class="drop lang">
@@ -1140,7 +1147,7 @@
       </div>
       <span class="hd-contact" role="group" aria-label="Nous contacter"><a class="hd-phone" href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg><span>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</span></a>
         <a class="hd-wa" href="https://wa.me/33652629464" aria-label="Écrire sur WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a></span>
-      <a class="btn btn-primary hd-cta" href="https://bike-n-tour.lokki.rent">Réserver</a>
+      <a class="btn btn-primary hd-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver<span class="sr-only"> (nouvel onglet)</span></a>
       <button class="burger" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle><span class="sr-only">Ouvrir le menu</span><span aria-hidden="true"></span></button>
     </div>
   </div>
@@ -1155,7 +1162,7 @@
       <h1 id="hero-title"><span class="h1-line">Location de vélos</span> <span class="h1-line">de voyage <em>à Nantes</em></span></h1>
       <p class="hero-lead">Six véloroutes partent de notre boutique. On vous prépare le vélo, les sacoches et la trace GPX, vous n&#x27;avez plus qu&#x27;à pédaler. Aller simple possible.</p>
       <div class="hero-actions">
-        <a class="btn btn-yellow" href="https://bike-n-tour.lokki.rent">Réserver mes vélos</a>
+        <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
         <a class="btn btn-line" href="#itineraires">Choisir mon itinéraire</a>
       </div>
     </div>
@@ -1260,7 +1267,7 @@
               <ol class="rc-steps" aria-label="Principales étapes"><li>Nantes</li><li>Ancenis</li><li>Angers</li><li>Saumur</li></ol>
               <div class="rc-pois"><p class="rc-pois-title">À voir en chemin</p><ul><li><a href="/post/les-bords-de-loire-mauves-sur-loire"><img src="/assets/img/blog-les-bords-de-loire-mauves-sur-loire-1-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Mauves-sur-Loire</span></a></li><li><a href="/post/les-bords-de-loire-oudon"><img src="/assets/img/blog-les-bords-de-loire-oudon-2-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Château d&#x27;Oudon</span></a></li></ul></div>
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
                 <a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes/loire-a-velo">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -1281,7 +1288,7 @@
               <ol class="rc-steps" aria-label="Principales étapes"><li>Nantes</li><li>Pornic</li><li>Saint-Jean-de-Monts</li><li>Les Sables-d&#x27;Olonne</li></ol>
               <div class="rc-pois"><p class="rc-pois-title">À voir en chemin</p><ul><li><a href="/post/une-creature-mythique-aux-portes-de-lestuaire"><img src="/assets/img/blog-une-creature-mythique-aux-portes-de-lestuaire-1-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Serpent d&#x27;océan</span></a></li></ul></div>
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
                 <a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes/velodyssee">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -1302,7 +1309,7 @@
               <ol class="rc-steps" aria-label="Principales étapes"><li>Nantes</li><li>Châteaubriant</li><li>Vitré</li><li>Fougères</li><li>Mont-Saint-Michel</li></ol>
               <div class="rc-pois"><p class="rc-pois-title">À voir en chemin</p><ul><li><a href="/post/balade-incontournable-lerdre-a-velo"><img src="/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Sucé-sur-Erdre</span></a></li></ul></div>
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
                 <a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes/regalante">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -1323,7 +1330,7 @@
               <ol class="rc-steps" aria-label="Principales étapes"><li>Nantes</li><li>Saint-Nazaire</li><li>Redon</li><li>Rennes</li><li>Dinan</li><li>Saint-Malo</li><li>Mont-Saint-Michel</li></ol>
               
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
                 <a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes/traversee-bretonne">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -1344,7 +1351,7 @@
               <ol class="rc-steps" aria-label="Principales étapes"><li>Nantes</li><li>Nort-sur-Erdre</li><li>Redon</li><li>Josselin</li><li>Pontivy</li><li>Carhaix</li><li>Châteaulin</li></ol>
               
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
                 <a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes/canal-nantes-brest">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -1365,7 +1372,7 @@
               <ol class="rc-steps" aria-label="Principales étapes"><li>Nantes</li><li>Vertou</li><li>Clisson</li><li>Vallet</li></ol>
               <div class="rc-pois"><p class="rc-pois-title">À voir en chemin</p><ul><li><a href="/post/balade-incontournable-la-sevre-nantaise"><img src="/assets/img/blog-balade-incontournable-la-sevre-nantaise-1-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Chaussée des Moines</span></a></li><li><a href="/post/le-marais-de-goulaine"><img src="/assets/img/blog-le-marais-de-goulaine-1-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Marais de Goulaine</span></a></li><li><a href="/post/le-porte-vue-un-belvedere-exceptionnel"><img src="/assets/img/blog-le-porte-vue-un-belvedere-exceptionnel-w480.webp" alt="" width="480" height="320" loading="lazy" decoding="async"><span>Le Porte-Vue</span></a></li></ul></div>
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
                 <a class="btn btn-ghost" href="/fr/itineraires-velo-depart-nantes/vignoble-nantais">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -1492,7 +1499,7 @@
       <div class="quotes">
         <blockquote><p>« Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »</p><footer>Valentine D. · <button type="button" data-goto="loire">La Loire à Vélo</button></footer></blockquote><blockquote><p>« Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide. »</p><footer>Hélène D. · Google</footer></blockquote><blockquote><p>« Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue. »</p><footer>Jérémy M. · Google</footer></blockquote>
       </div>
-      <p class="more-reviews"><a class="arrow-link arrow-light" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0">Lire tous les avis Google</a></p>
+      <p class="more-reviews"><a class="arrow-link arrow-light" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0">Lire tous les avis Google</a> <a class="arrow-link arrow-light" href="https://g.page/r/CSUgp_2wq_1tEBM/review">Vous avez loué chez nous ? Laissez un avis</a></p>
       <div class="partners">
         <h2 class="partners-title">Nos partenaires</h2>
         <ul>
@@ -1521,7 +1528,7 @@
           <div><dt>Langues</dt><dd>Accueil en français et en anglais</dd></div>
           <div><dt>Contact</dt><dd><a href="tel:+33652629464">06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</a> · <a href="https://wa.me/33652629464">WhatsApp</a> · <a href="mailto:contact@bikentour.com">contact@bikentour.com</a></dd></div>
         </dl>
-        <a class="btn btn-yellow brief-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+        <a class="btn btn-yellow brief-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
       </section>
       <div class="faq">
         <p class="eyebrow">Questions fréquentes</p>
@@ -1656,7 +1663,7 @@
     <p><a href="/fr/mentions-legales">Mentions légales</a> · <a href="/fr/conditions-generales-de-vente">Conditions générales de location</a> · <a href="/fr/cookies">Cookies</a> · <button type="button" class="link-btn" data-cc-open>Gérer mes cookies</button></p>
   </div>
   <div class="mcta" data-mcta>
-    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
+    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Réserver mes vélos<span class="sr-only"> (nouvel onglet)</span></a>
     <a class="mcta-tel mcta-wa" href="https://wa.me/33652629464" aria-label="Écrire à Bike'N Tour sur WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a>
     <a class="mcta-tel" href="tel:+33652629464" aria-label="Appeler Bike'N Tour au 06 52 62 94 64"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></a>
   </div>

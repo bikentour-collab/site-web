@@ -102,7 +102,7 @@ Itinéraire au départ de la boutique
 
 Vers l'océan et la Vendée
 
-[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee) [Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/velodyssee) [Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## À lire aussi
 

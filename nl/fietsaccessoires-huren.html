@@ -37,7 +37,7 @@
 <link rel="alternate" type="application/rss+xml" title="Blog van Bike&#x27;N Tour (in het Frans)" href="/fr/blog.xml">
 <link rel="alternate" type="text/markdown" href="/nl/fietsaccessoires-huren.md" title="Version Markdown de cette page">
 <link rel="preload" href="/assets/fonts/montserrat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/style.css?v=5b39d0fe">
+<link rel="stylesheet" href="/assets/css/style.css?v=849a1bba">
 <script src="/assets/js/main.js?v=06fbf33c" defer></script>
 <script type="application/ld+json">
 {
@@ -227,8 +227,15 @@
    ],
    "potentialAction": {
     "@type": "ReserveAction",
-    "target": "https://bike-n-tour.lokki.rent",
-    "name": "Fiets reserveren"
+    "name": "Fiets reserveren",
+    "target": {
+     "@type": "EntryPoint",
+     "urlTemplate": "https://www.lokki.rent/loueur/bike-n-tour?c=os",
+     "actionPlatform": [
+      "https://schema.org/DesktopWebPlatform",
+      "https://schema.org/MobileWebPlatform"
+     ]
+    }
    },
    "slogan": "Het startpunt van je fietsvakantie",
    "geo": {
@@ -687,7 +694,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os"
     },
     {
      "@type": "Offer",
@@ -700,7 +708,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os"
     },
     {
      "@type": "Offer",
@@ -713,7 +722,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os"
     },
     {
      "@type": "Offer",
@@ -726,7 +736,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os"
     },
     {
      "@type": "Offer",
@@ -739,7 +750,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os"
     },
     {
      "@type": "Offer",
@@ -752,7 +764,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os"
     },
     {
      "@type": "Offer",
@@ -765,7 +778,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/nl#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os"
     }
    ]
   },
@@ -849,7 +863,7 @@
         <li><a class="nav-link" href="/nl/contact">Contact</a></li>
       </ul>
       <p class="nav-contact"><a href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</a> <a class="wa" href="https://wa.me/33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg>WhatsApp</a></p>
-      <a class="btn btn-primary nav-cta" href="https://bike-n-tour.lokki.rent">Fietsen reserveren</a>
+      <a class="btn btn-primary nav-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Fietsen reserveren<span class="sr-only"> (nieuw tabblad)</span></a>
     </nav>
     <div class="hd-actions">
       <div class="drop lang">
@@ -858,7 +872,7 @@
       </div>
       <span class="hd-contact" role="group" aria-label="Neem contact op"><a class="hd-phone" href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg><span>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</span></a>
         <a class="hd-wa" href="https://wa.me/33652629464" aria-label="Stuur ons een bericht via WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a></span>
-      <a class="btn btn-primary hd-cta" href="https://bike-n-tour.lokki.rent">Reserveren</a>
+      <a class="btn btn-primary hd-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a>
       <button class="burger" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle><span class="sr-only">Menu openen</span><span aria-hidden="true"></span></button>
     </div>
   </div>
@@ -873,12 +887,12 @@
       <p class="eyebrow">Accessoires</p>
       <h1>Fietsaccessoires te huur in Nantes</h1>
       <p class="lead">Waterdichte Ortlieb-fietstassen, stuurtas, telefoonhouder, zadelhoes, helm, kinderzitje en fietskar: alles wat je nodig hebt om op de fiets te vertrekken, als aanvulling op je huur.</p>
-      <div class="hero-actions"><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Fietsen reserveren</a></div>
+      <div class="hero-actions"><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Fietsen reserveren<span class="sr-only"> (nieuw tabblad)</span></a></div>
     </div>
     <figure class="phero-media"><img srcset="/assets/img/photo-sacoches-w480.webp 480w, /assets/img/photo-sacoches-w800.webp 800w, /assets/img/photo-sacoches-w1200.webp 1200w, /assets/img/photo-sacoches.webp 1400w" sizes="(max-width: 980px) 100vw, 50vw" src="/assets/img/photo-sacoches.webp" alt="Trekkingfiets met Ortlieb-fietstassen" width="1400" height="933" fetchpriority="high"></figure>
   </div>
 </section>
-<section class="section"><div class="wrap"><h2>Onze accessoires te huur</h2><p class="lead acc-intro">Accessoires reserveer je samen met de fiets. Ze liggen klaar in de winkel en worden bij vertrek gemonteerd en afgesteld: fietstassen op de bagagedrager, telefoonhouder geplaatst, helm op maat. Voor een meerdaagse tocht over de Loire à Vélo of de Vélodyssée is het paar Ortlieb-achtertassen (2 × 20 l) genoeg voor twee personen die licht reizen; de stuurtas houdt papieren, telefoon en snacks binnen handbereik. Alles lever je na afloop weer in bij de winkel, of op de eindbestemming bij een enkele reis.</p><div class="acc-cards"><article class="acc-card"><h3>Set waterdichte Ortlieb-achtertassen (2 × 20 l)</h3><p>Twee waterdichte achtertassen van elk 20 liter, die je op de bagagedrager vastklikt: de basisuitrusting voor een meerdaagse reis.</p><p class="price">€ 5 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os">Reserveren</a></article><article class="acc-card"><h3>Stuurtas (6 l)</h3><p>Een tas van 6 liter aan het stuur, om telefoon, papieren, zonnebrandcrème en snacks binnen handbereik te houden.</p><p class="price">€ 5 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os">Reserveren</a></article><article class="acc-card"><h3>Comfortabele zadelhoes</h3><p>Een gevoerde zadelhoes voor meer comfort tijdens lange etappes.</p><p class="price">€ 1 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os">Reserveren</a></article><article class="acc-card"><h3>Telefoonhouder</h3><p>Een stevige houder om de GPX-track op je telefoon te volgen zonder te stoppen.</p><p class="price">€ 1 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os">Reserveren</a></article><article class="acc-card"><h3>Kinderzitje (vanaf 1 jaar)</h3><p>Een goedgekeurd kinderzitje voor kinderen vanaf 1 jaar, gemonteerd op de bagagedrager.</p><p class="price">€ 5 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os">Reserveren</a></article><article class="acc-card"><h3>Fietskar voor kinderen (vanaf 1 jaar)</h3><p>Een fietskar voor een of twee kinderen vanaf 1 jaar, beschut tegen wind en zon.</p><p class="price">€ 15 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os">Reserveren</a></article><article class="acc-card"><h3>Helm</h3><p>Een verstelbare helm, aanbevolen voor het hele gezin.</p><p class="price">€ 1 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os">Reserveren</a></article></div>
+<section class="section"><div class="wrap"><h2>Onze accessoires te huur</h2><p class="lead acc-intro">Accessoires reserveer je samen met de fiets. Ze liggen klaar in de winkel en worden bij vertrek gemonteerd en afgesteld: fietstassen op de bagagedrager, telefoonhouder geplaatst, helm op maat. Voor een meerdaagse tocht over de Loire à Vélo of de Vélodyssée is het paar Ortlieb-achtertassen (2 × 20 l) genoeg voor twee personen die licht reizen; de stuurtas houdt papieren, telefoon en snacks binnen handbereik. Alles lever je na afloop weer in bij de winkel, of op de eindbestemming bij een enkele reis.</p><div class="acc-cards"><article class="acc-card"><h3>Set waterdichte Ortlieb-achtertassen (2 × 20 l)</h3><p>Twee waterdichte achtertassen van elk 20 liter, die je op de bagagedrager vastklikt: de basisuitrusting voor een meerdaagse reis.</p><p class="price">€ 5 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article><article class="acc-card"><h3>Stuurtas (6 l)</h3><p>Een tas van 6 liter aan het stuur, om telefoon, papieren, zonnebrandcrème en snacks binnen handbereik te houden.</p><p class="price">€ 5 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article><article class="acc-card"><h3>Comfortabele zadelhoes</h3><p>Een gevoerde zadelhoes voor meer comfort tijdens lange etappes.</p><p class="price">€ 1 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article><article class="acc-card"><h3>Telefoonhouder</h3><p>Een stevige houder om de GPX-track op je telefoon te volgen zonder te stoppen.</p><p class="price">€ 1 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article><article class="acc-card"><h3>Kinderzitje (vanaf 1 jaar)</h3><p>Een goedgekeurd kinderzitje voor kinderen vanaf 1 jaar, gemonteerd op de bagagedrager.</p><p class="price">€ 5 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article><article class="acc-card"><h3>Fietskar voor kinderen (vanaf 1 jaar)</h3><p>Een fietskar voor een of twee kinderen vanaf 1 jaar, beschut tegen wind en zon.</p><p class="price">€ 15 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article><article class="acc-card"><h3>Helm</h3><p>Een verstelbare helm, aanbevolen voor het hele gezin.</p><p class="price">€ 1 per dag</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os" target="_blank" rel="noopener">Reserveren<span class="sr-only"> (nieuw tabblad)</span></a></article></div>
 <p class="small muted">Inbegrepen bij elke fiets: slot, bandenreparatieset en verlichting. <a href="/nl/prijs#grille">Alle prijzen bekijken</a></p></div></section>
 <section class="section section-tint"><div class="wrap prose"><section class="faq page-faq" aria-label="Veelgestelde vragen"><h2>Veelgestelde vragen</h2>
 <details open><summary><h3>Kun je accessoires huren zonder fiets?</h3></summary><p>Accessoires huur je samen met een fiets van Bike'N Tour. Heb je een eigen fiets? Bel ons, dan bekijken we samen wat mogelijk is.</p></details>
@@ -887,7 +901,7 @@
 </section></div></section>
 <section class="section section-navy"><div class="wrap"><div class="head"><div><p class="eyebrow eyebrow-light">Geverifieerde reviews</p><h2>Wat onze reizigers zeggen</h2></div><a class="score" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0"><img src="/assets/img/logo-google.webp" alt="Google-reviews" width="300" height="97" loading="lazy"><span><strong>5,0</strong>/5 · 206 reviews</span></a></div><div class="quotes"><blockquote><p>“Voor het eerst een fietskar gehuurd en ik ben verkocht! Ik ging alleen een dag 30 km langs de Loire fietsen met mijn baby van anderhalf: de kar was perfect en licht, mijn dochter zat er heel goed in. De verhuurder is top, heel vriendelijk, attent en flexibel. […] Met een baby een absolute aanrader!”</p><footer>Diane B. · Google</footer></blockquote><blockquote><p>“Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!”</p><footer>Valentine D. · Google</footer></blockquote><blockquote><p>“Fijne fiets, drie dagen zonder problemen gebruikt. Een verzorgde ontvangst en een heel vlotte reservering.”</p><footer>Hélène D. · Google</footer></blockquote></div><p class="more-reviews"><a class="arrow-link arrow-light" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0">Alle Google-reviews lezen</a> <a class="arrow-link arrow-light" href="https://g.page/r/CSUgp_2wq_1tEBM/review">Bij ons gehuurd? Laat een review achter</a></p></div></section>
 <section class="cta-band"><div class="wrap cta-inner"><p>Route gekozen? <strong>Alleen de fiets ontbreekt nog.</strong></p>
-<div class="cta-actions"><a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Fietsen reserveren</a><a class="btn btn-line" href="tel:+33652629464">06 52 62 94 64</a></div></div></section>
+<div class="cta-actions"><a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Fietsen reserveren<span class="sr-only"> (nieuw tabblad)</span></a><a class="btn btn-line" href="tel:+33652629464">06 52 62 94 64</a></div></div></section>
 </main>
 
 <footer class="ft">
@@ -968,7 +982,7 @@
     <p><a href="/fr/mentions-legales">Juridische informatie</a> · <a href="/fr/conditions-generales-de-vente">Algemene huurvoorwaarden</a> · <a href="/nl/cookies">Cookies</a> · <button type="button" class="link-btn" data-cc-open>Mijn cookies beheren</button></p>
   </div>
   <div class="mcta" data-mcta>
-    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Fietsen reserveren</a>
+    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Fietsen reserveren<span class="sr-only"> (nieuw tabblad)</span></a>
     <a class="mcta-tel mcta-wa" href="https://wa.me/33652629464" aria-label="Stuur Bike&#x27;N Tour een bericht via WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a>
     <a class="mcta-tel" href="tel:+33652629464" aria-label="Bel Bike&#x27;N Tour op 06 52 62 94 64"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></a>
   </div>

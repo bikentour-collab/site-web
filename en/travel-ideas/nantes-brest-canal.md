@@ -15,7 +15,7 @@ Locks, lock-keepers' cottages and perfectly flat towpaths: the Nantes–Brest Ca
 - Level**Easy**
 - One-way hire**Yes, on request**
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Get the GPX track](#gpx)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Get the GPX track](#gpx)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -97,7 +97,7 @@ Recommended bike
 
 Waterproof Ortlieb panniers available (€5 a day), one-way hire on request.
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Other routes starting from Nantes
 

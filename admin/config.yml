@@ -71,6 +71,19 @@ singletons:
     before_input: '**[▶ Ouvrir le tutoriel interactif](/admin/guide/)**'
     after_input: J'ai suivi le tutoriel
     hint: 'Démonstrations pas à pas sur les vrais écrans : changer un prix, mettre en avant un avis, écrire un article, ajouter des photos, traduire, coordonnées, et les bonnes pratiques. À revoir quand vous voulez. Le tutoriel est aussi accessible depuis la page de connexion.'
+- name: newsletter
+  label: Newsletter
+  icon: mail
+  file: content/newsletter.json
+  fields:
+  - name: ouvrir
+    label: Écrire et envoyer une newsletter
+    widget: boolean
+    required: false
+    default: false
+    before_input: '**[✉ Ouvrir l''éditeur de newsletter](/admin/newsletter/)**'
+    after_input: Je sais où écrire ma newsletter
+    hint: 'Rédigez votre email avec une photo et un bouton, envoyez-vous un test, puis envoyez à tous les inscrits du pied de page du site. Chaque email contient un lien de désinscription.'
 - name: d0
   divider: true
 - name: accueil

@@ -98,7 +98,7 @@ La fianza es de 500 € (bicicleta de viaje, bicicleta infantil), 1 000 € 
 
 ## ¿Cómo reservar y se puede cancelar?
 
-La reserva se hace en línea en [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), por teléfono al 06 52 62 94 64 o en la tienda. La cancelación es gratuita hasta 48 h antes de la salida. El pago se realiza en línea o en la tienda, con tarjeta bancaria o cheque.
+La reserva se hace en línea en [Lokki (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os), por teléfono al 06 52 62 94 64 o en la tienda. La cancelación es gratuita hasta 48 h antes de la salida. El pago se realiza en línea o en la tienda, con tarjeta bancaria o cheque.
 
 ## ¿Se puede visitar Nantes en bici con un guía?
 
@@ -125,7 +125,7 @@ Bike'N Tour organiza salidas para grupos y eventos de empresa: alquiler desde 16
 9. [¿Se puede visitar Nantes en bici con un guía?](#q9)
 10. [¿Y para un grupo o una empresa?](#q10)
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## De nuestro blog
 

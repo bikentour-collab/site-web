@@ -12,7 +12,7 @@ Für Familienreisen: Kinderräder von 20 bis 26 Zoll und für die Kleinsten opti
 
 Ab **20 €** pro Tag
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -72,7 +72,7 @@ Inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 Oder telefonisch unter [06 52 62 94 64](tel:+33652629464)
 

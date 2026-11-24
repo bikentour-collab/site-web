@@ -10,7 +10,7 @@ Ride ideas
 
 A day or a weekend: our ideas for self-guided rides from the shop, with a TER train back when possible. Distances and levels are based on our own rides with the team.
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![A cycling break in the centre of Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 

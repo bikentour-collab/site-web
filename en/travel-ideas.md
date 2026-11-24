@@ -10,7 +10,7 @@ Starting from our shop
 
 Six major cycle routes start right from our shop in the centre of Nantes: La Loire à Vélo, La Vélodyssée, La Régalante, the Brittany Crossing, the Nantes–Brest Canal and the Nantes Vineyards. Whichever you choose, we get your bike, panniers and GPX track ready.
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Day rides](https://www.bikentour.com/en/day-rides-from-nantes)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Day rides](https://www.bikentour.com/en/day-rides-from-nantes)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
@@ -58,7 +58,7 @@ Included with every route
 - Getting there and back by train
 - Our favourite places
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Cycle touring in pictures
 

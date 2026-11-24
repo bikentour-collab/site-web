@@ -10,7 +10,7 @@ Nuestras bicis
 
 Bicis recientes y revisadas después de cada alquiler: bicis de viaje Velo de Ville, bicis eléctricas y gravel Sunn fabricadas en Loire-Atlantique y bicis infantiles. Todas ajustadas a su talla antes de salir.
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Precios detallados](https://www.bikentour.com/es/precios)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Precios detallados](https://www.bikentour.com/es/precios)
 
 ![Las bicis de viaje de Bike'N Tour delante de la tienda en Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
@@ -81,4 +81,4 @@ Incluido con cada bici
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)

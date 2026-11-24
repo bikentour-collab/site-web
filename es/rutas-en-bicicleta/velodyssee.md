@@ -15,7 +15,7 @@ La Vélodyssée (EuroVelo 1) une Roscoff con Hendaya. Desde Nantes, llega al oc�
 - Nivel**Fácil**
 - Solo ida**Sí, bajo petición**
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recibir el track GPX](#gpx)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recibir el track GPX](#gpx)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -87,7 +87,7 @@ Bici recomendada
 
 Alforjas Ortlieb impermeables opcionales (5 € / día), solo ida con presupuesto a medida.
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Las demás rutas desde Nantes
 

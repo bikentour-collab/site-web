@@ -575,7 +575,7 @@ def product_ld(b):
     return {"@type": "Product", "@id": SITE + b['url'] + '#product', "name": (lambda x: x[0].upper() + x[1:])(T("Location {bike} à Nantes", bike=low(b['name']))), "brand": {"@type": "Brand", "name": b['brand'].split(' (')[0]},
             "model": b['model'], "image": SITE + '/assets/img/' + b['img'], "description": b['lead'],
             "offers": {"@type": "AggregateOffer", "priceCurrency": "EUR", "lowPrice": str(b['day']), "highPrice": str(b['week']), "offerCount": "3",
-                       "availability": "https://schema.org/InStock", "url": BOOK, "seller": {"@id": BIZ}}}
+                       "availability": "https://schema.org/InStock", "url": b.get('reservation') or BOOK, "seller": {"@id": BIZ}}}
 
 
 def bike_pages():
@@ -751,7 +751,7 @@ def accessories_page():
 {reviews_block('accessoires')}
 {cta_band()}'''
     lst = {"@type": "OfferCatalog", "name": T("Accessoires de vélo à louer à Nantes"), "itemListElement": [
-        {"@type": "Offer", "itemOffered": {"@type": "Product", "name": n}, "price": str(p), "priceCurrency": "EUR", "unitText": "DAY", "seller": {"@id": BIZ}} for n, p in ACCESSORIES]}
+        {"@type": "Offer", "itemOffered": {"@type": "Product", "name": n}, "price": str(p), "priceCurrency": "EUR", "unitText": "DAY", "seller": {"@id": BIZ}, **({"url": ACC_BOOK[n]} if ACC_BOOK.get(n) else {})} for n, p in ACCESSORIES]}
     page(url, T("Location d'accessoires vélo à Nantes : sacoches | Bike'N Tour"),
          T("Louez vos accessoires de vélo à Nantes : sacoches Ortlieb étanches 2 × 20 L, sacoche de guidon, porte-smartphone, housse de selle, casque, siège bébé, remorque. Dès 1 € par jour."),
          [CRUMB_HOME, (T('Nos vélos'), '/fr/nos-velos-location'), (T('Accessoires'), None)], body, [lst, faq_ld(qas)], img='photo-sacoches.webp', priority='0.6')
@@ -1010,7 +1010,7 @@ def write_seo_files():
          "- Inclus : antivol, kit anti-crevaison, pompe, porte-bagages, éclairage, chargeur (électrique)",
          "- Aller simple : sur devis · annulation gratuite jusqu'à 48 h",
          '', '## Tarifs de location']
-    L += [f"- [{b['name']}]({SITE}{b['url']}) ({b['brand']}, {b['model']}) : {b['day']} €/jour, {b['weekend']} € le week-end, {b['week']} € la semaine ; caution {nb(b['deposit'])} €" for b in BIKES]
+    L += [f"- [{b['name']}]({SITE}{b['url']}) ({b['brand']}, {b['model']}) : {b['day']} €/jour, {b['weekend']} € le week-end, {b['week']} € la semaine ; caution {nb(b['deposit'])} €" + (f" ; réserver : {b['reservation']}" if b.get('reservation') else '') for b in BIKES]
     L += [f"- Grille complète de 1 à 7 jours : {SITE}/fr/nos-tarifs-reservation#grille (PDF : {SITE}/assets/pdf/grille-tarifs-bike-n-tour.pdf)"]
     for k in GRID_BIKES:
         g, extra = full_grid(BIKE[k])
@@ -1025,6 +1025,12 @@ def write_seo_files():
     L += ['', '## Groupes et entreprises'] + [f"- {o['name']} : {o['price']}" for o in GROUP_OFFERS]
     L += ['', '## Blog : balades et lieux à vélo autour de Nantes', f"- [Tous les articles]({SITE}/fr/blog)"]
     L += [f"- [{p['h1']}]({SITE}{p['url']})" for p in blog.all_posts() if p['cat'] == 'balades'][:12]
+    L += ['', f"## Avis clients (Google, note {HOME['google_note']}/5 sur {HOME['google_avis']} avis)"]
+    _seen = set()
+    for _t, _a in [(t, a) for t, a in REVIEWS] + [(t, a) for t, a, p in PAGE_REVIEWS]:
+        if _t and _t not in _seen:
+            _seen.add(_t); L.append(f"- « {_t} » ({_a}, avis Google)")
+    L += [f"- Tous les avis Google : {SITE_CFG.get('lien_google_avis') or ''}"] + ([f"- Avis Tripadvisor : {SITE_CFG['lien_tripadvisor']}"] if SITE_CFG.get('lien_tripadvisor') else [])
     from content import PRESS, REFS
     L += ['', '## Ils parlent de Bike\'N Tour (sources externes)'] + [f"- {m} : [{t}]({u})" for m, t, u in PRESS + REFS]
     L += ['', '## Other languages / Andere talen / Andere Sprachen / Otros idiomas',

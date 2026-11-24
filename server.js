@@ -157,7 +157,7 @@ ${error ? `<p class="err" role="alert">${esc(error)}</p>` : ''}
 <label>Mot de passe<input name="password" type="password" autocomplete="current-password" required></label>
 <input type="hidden" name="next" value="${esc(next)}">
 <button type="submit">Se connecter</button>
-<p><a href="/admin/guide/">Revoir le tutoriel de l'administration</a></p>
+<p><a href="/admin/guide/">Revoir le tutoriel de l'administration</a> · <a href="/admin/newsletter/">Écrire une newsletter</a></p>
 </form></body></html>`);
 }
 
@@ -353,6 +353,119 @@ async function handleNewsletter(json, email, lang) {
   return json(200, { ok: true });
 }
 
+// ---------- Newsletter : rédaction et envoi depuis l'admin (/admin/newsletter/) ----------
+// Les inscrits du pied de page sont des contacts Resend (segment RESEND_SEGMENT_ID). L'envoi crée une diffusion
+// (Resend Broadcasts) vers ce segment ; Resend ajoute la désinscription et respecte les désinscrits.
+const NL_SEGMENT = () => process.env.RESEND_SEGMENT_ID || process.env.RESEND_AUDIENCE_ID || '';
+const escHtml = v => String(v || '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const safeUrl = u => /^https?:\/\/[^\s"'<>]+$/i.test(String(u || '').trim()) ? String(u).trim() : '';
+function nlText(t) {
+  const inline = x => escHtml(x)
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, (m, a, u) => `<a href="${u}" style="color:#30336E;font-weight:700">${a}</a>`);
+  // intertitres « ## » sur leur propre bloc, puis listes et paragraphes séparés à l'intérieur d'un bloc
+  const src = String(t || '').replace(/\r/g, '').replace(/^(##\s+.*)$/gm, '\n$1\n');
+  const out = [];
+  for (const block of src.split(/\n{2,}/).map(x => x.trim()).filter(Boolean)) {
+    if (/^##\s+/.test(block)) { out.push(`<h2 style="margin:26px 0 10px;font-size:19px;line-height:1.3;color:#30336E">${inline(block.replace(/^##\s+/, ''))}</h2>`); continue; }
+    let run = [], isList = null;
+    const flush = () => {
+      if (!run.length) return;
+      out.push(isList
+        ? '<ul style="margin:0 0 18px;padding-left:20px">' + run.map(l => `<li style="margin:0 0 6px">${inline(l.replace(/^\s*[-•]\s+/, ''))}</li>`).join('') + '</ul>'
+        : `<p style="margin:0 0 18px">${run.map(inline).join('<br>')}</p>`);
+      run = [];
+    };
+    for (const line of block.split('\n')) {
+      const li = /^\s*[-•]\s+/.test(line);
+      if (isList !== null && li !== isList) flush();
+      isList = li; run.push(line);
+    }
+    flush();
+  }
+  return out.join('\n');
+}
+function nlRender(d, base, test) {
+  const img = safeUrl(d.image) || (d.image && /^\/assets\//.test(d.image) ? base + d.image : '');
+  const btn = safeUrl(d.bouton_lien) && d.bouton_texte
+    ? `<table role="presentation" cellpadding="0" cellspacing="0" style="margin:8px 0 26px"><tr><td style="background:#E7C14F;border-radius:999px"><a href="${escHtml(safeUrl(d.bouton_lien))}" style="display:inline-block;padding:14px 28px;font-weight:700;color:#30336E;text-decoration:none;font-size:16px">${escHtml(d.bouton_texte)}</a></td></tr></table>` : '';
+  const unsub = test ? '#' : '{{{RESEND_UNSUBSCRIBE_URL}}}';
+  return `<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escHtml(d.objet)}</title></head>
+<body style="margin:0;background:#F4F1EA;font-family:Helvetica,Arial,sans-serif;color:#2E2D45">
+<div style="display:none;max-height:0;overflow:hidden">${escHtml(d.apercu || '')}</div>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#F4F1EA"><tr><td align="center" style="padding:28px 12px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:#ffffff;border-radius:18px;overflow:hidden">
+<tr><td style="padding:26px 32px 18px;border-bottom:1px solid #EEE9DD"><a href="${base}/fr"><img src="${base}/assets/img/logo-texte.png" alt="Bike'N Tour Nantes" width="170" style="display:block;border:0;width:170px;height:auto"></a></td></tr>
+${img ? `<tr><td><img src="${escHtml(img)}" alt="" width="600" style="display:block;width:100%;max-width:600px;height:auto;border:0"></td></tr>` : ''}
+<tr><td style="padding:30px 32px 8px;font-size:16px;line-height:1.6">
+${d.titre ? `<h1 style="margin:0 0 18px;font-size:26px;line-height:1.2;color:#30336E">${escHtml(d.titre)}</h1>` : ''}
+${nlText(d.texte)}
+${btn}
+<p style="margin:0 0 26px">À bientôt sur la route,<br><strong>Antoine et l'équipe Bike'N Tour</strong></p>
+</td></tr>
+<tr><td style="background:#30336E;color:#D8D7EA;padding:22px 32px;font-size:13px;line-height:1.6">
+Bike'N Tour · 27 quai de Versailles, 44000 Nantes · <a href="tel:+33652629464" style="color:#ffffff">06 52 62 94 64</a><br>
+Vous recevez cet email car vous vous êtes inscrit à la newsletter sur bikentour.com. <a href="${unsub}" style="color:#E7C14F">Se désinscrire</a>
+</td></tr></table></td></tr></table></body></html>`;
+}
+async function resendApi(method, p, body) {
+  const r = await fetch((process.env.RESEND_API_URL || 'https://api.resend.com') + p, {
+    method, headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
+    body: body ? JSON.stringify(body) : undefined,
+  });
+  const txt = await r.text();
+  if (!r.ok) throw new Error(`resend ${r.status} ${txt.slice(0, 200)}`);
+  try { return JSON.parse(txt); } catch (e) { return {}; }
+}
+async function handleNewsletterAdmin(req, res, u) {
+  const json = (code, obj) => { res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); res.end(JSON.stringify(obj)); };
+  const host = req.headers['x-forwarded-host'] || req.headers.host || 'www.bikentour.com';
+  const proto = (req.headers['x-forwarded-proto'] || (/^(localhost|127\.)/.test(host) ? 'http' : 'https')).split(',')[0];
+  const base = `${proto}://${host}`;
+  const action = u.pathname.split('/').pop();
+  if (req.method === 'GET' && action === 'etat') {
+    const out = { resend: !!process.env.RESEND_API_KEY, segment: !!NL_SEGMENT(), contact: CONTACT_EMAIL, envois: [] };
+    if (out.resend) {
+      try {
+        const b = await resendApi('GET', '/broadcasts');
+        out.envois = (b.data || []).filter(x => !NL_SEGMENT() || [x.segment_id, x.audience_id].includes(NL_SEGMENT())).slice(0, 12)
+          .map(x => ({ nom: x.name || '', statut: x.status || '', date: x.sent_at || x.scheduled_at || x.created_at || '' }));
+      } catch (e) { out.erreur_historique = true; }
+    }
+    return json(200, out);
+  }
+  if (req.method !== 'POST') return json(405, { ok: false });
+  // protection CSRF : requêtes JSON du même site uniquement
+  const origin = req.headers.origin || '';
+  if (!/application\/json/.test(req.headers['content-type'] || '') || (origin && new URL(origin).host !== host)) return json(403, { ok: false });
+  const d = await readJson(req, 200 * 1024);
+  if (!d) return json(400, { ok: false });
+  const clip = (v, n) => String(v || '').slice(0, n);
+  const n = { objet: clip(d.objet, 150), apercu: clip(d.apercu, 200), titre: clip(d.titre, 150), texte: clip(d.texte, 20000), image: clip(d.image, 500), bouton_texte: clip(d.bouton_texte, 60), bouton_lien: clip(d.bouton_lien, 500) };
+  if (action === 'apercu') { res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end(nlRender(n, base, true)); }
+  if (!n.objet || !n.texte.trim()) return json(400, { ok: false, message: "L'objet et le texte sont obligatoires." });
+  if (!process.env.RESEND_API_KEY) return json(501, { ok: false, message: 'Resend n\'est pas configuré (variable RESEND_API_KEY).' });
+  try {
+    if (action === 'test') {
+      const to = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(d.email || '') ? d.email : CONTACT_EMAIL;
+      await resendSend({ from: SENDER, to: [to], subject: '[TEST] ' + n.objet, html: nlRender(n, base, true) });
+      return json(200, { ok: true, message: `Test envoyé à ${to}.` });
+    }
+    if (action === 'envoyer') {
+      if (!NL_SEGMENT()) return json(400, { ok: false, message: 'Ajoutez la variable RESEND_SEGMENT_ID dans Railway pour envoyer à tous les abonnés.' });
+      if (d.confirmation !== 'ENVOYER') return json(400, { ok: false, message: 'Confirmation manquante.' });
+      const date = new Date().toLocaleDateString('fr-FR', { timeZone: 'Europe/Paris' });
+      const b = await resendApi('POST', '/broadcasts', { segment_id: NL_SEGMENT(), from: SENDER, reply_to: CONTACT_EMAIL, subject: n.objet, html: nlRender(n, base, false), name: `${n.objet} (${date})` });
+      await resendApi('POST', `/broadcasts/${encodeURIComponent(b.id)}/send`, {});
+      return json(200, { ok: true, message: 'Newsletter envoyée à tous les abonnés. Resend la distribue dans les minutes qui viennent.' });
+    }
+  } catch (e) {
+    console.error('Newsletter :', e.message);
+    return json(502, { ok: false, message: "L'envoi n'a pas abouti (Resend). Réessayez dans un instant ; si cela continue, vérifiez la clé et le domaine dans Resend." });
+  }
+  return json(404, { ok: false });
+}
+
 // Connexion en une étape : avec GITHUB_TOKEN, la session Sveltia est préparée dans le navigateur après le mot de passe
 // (même format que lorsque Sveltia enregistre une connexion par jeton). En cas d'échec, l'écran de connexion habituel s'affiche.
 let ghUser = null, ghUserAt = 0;
@@ -415,11 +528,12 @@ http.createServer((req, res) => {
     if (u.pathname === '/admin' || u.pathname.startsWith('/admin/')) {
       if (!loggedIn(req)) {
         if (u.pathname === '/admin' || u.pathname.endsWith('/') || u.pathname.endsWith('.html')) {
-          const back = u.pathname.startsWith('/admin/guide') ? '?next=' + encodeURIComponent('/admin/guide/') : '';
+          const back = u.pathname.startsWith('/admin/guide') ? '?next=' + encodeURIComponent('/admin/guide/') : u.pathname.startsWith('/admin/newsletter') ? '?next=' + encodeURIComponent('/admin/newsletter/') : '';
           res.writeHead(303, { Location: '/admin/login' + back, 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
         }
         res.writeHead(401, { 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); return res.end();
       }
+      if (u.pathname.startsWith('/admin/api/newsletter/')) return void handleNewsletterAdmin(req, res, u);
       if (u.pathname === '/admin/config.yml') return adminConfig(res);
       if ((u.pathname === '/admin/' || u.pathname === '/admin/index.html') && (process.env.GITHUB_TOKEN || process.env.TRANSLATE_API_KEY)) return void adminIndex(res);
       if (u.pathname === '/admin') { res.writeHead(301, { Location: '/admin/', ...SECURITY_HEADERS }); return res.end(); }

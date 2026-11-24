@@ -15,7 +15,7 @@ Nantes einmal anders: umgenutzte Orte, Street-Art, Architektur und Viertel im Wa
 - Abfahrten**Täglich um 10 Uhr, außer sonntags**
 - Sprachen**Französisch, Englisch**
 
-[Tour buchen](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Tour buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Max. 12 Personen
@@ -72,7 +72,7 @@ Inklusive
 
 **Rendez-vous :** Laden Bike'N Tour, Quai de Versailles 27 (Tram Linie 2, Haltestelle Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Unsere weiteren Touren
 

@@ -37,7 +37,7 @@
 <link rel="alternate" type="application/rss+xml" title="El blog de Bike&#x27;N Tour (en francés)" href="/fr/blog.xml">
 <link rel="alternate" type="text/markdown" href="/es/alquiler-accesorios-bicicleta.md" title="Version Markdown de cette page">
 <link rel="preload" href="/assets/fonts/montserrat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/style.css?v=5b39d0fe">
+<link rel="stylesheet" href="/assets/css/style.css?v=849a1bba">
 <script src="/assets/js/main.js?v=06fbf33c" defer></script>
 <script type="application/ld+json">
 {
@@ -227,8 +227,15 @@
    ],
    "potentialAction": {
     "@type": "ReserveAction",
-    "target": "https://bike-n-tour.lokki.rent",
-    "name": "Reservar una bici"
+    "name": "Reservar una bici",
+    "target": {
+     "@type": "EntryPoint",
+     "urlTemplate": "https://www.lokki.rent/loueur/bike-n-tour?c=os",
+     "actionPlatform": [
+      "https://schema.org/DesktopWebPlatform",
+      "https://schema.org/MobileWebPlatform"
+     ]
+    }
    },
    "slogan": "El punto de partida de sus vacaciones en bici",
    "geo": {
@@ -687,7 +694,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os"
     },
     {
      "@type": "Offer",
@@ -700,7 +708,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os"
     },
     {
      "@type": "Offer",
@@ -713,7 +722,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os"
     },
     {
      "@type": "Offer",
@@ -726,7 +736,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os"
     },
     {
      "@type": "Offer",
@@ -739,7 +750,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os"
     },
     {
      "@type": "Offer",
@@ -752,7 +764,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os"
     },
     {
      "@type": "Offer",
@@ -765,7 +778,8 @@
      "unitText": "DAY",
      "seller": {
       "@id": "https://www.bikentour.com/es#business"
-     }
+     },
+     "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os"
     }
    ]
   },
@@ -849,7 +863,7 @@
         <li><a class="nav-link" href="/es/contacto">Contacto</a></li>
       </ul>
       <p class="nav-contact"><a href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</a> <a class="wa" href="https://wa.me/33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg>WhatsApp</a></p>
-      <a class="btn btn-primary nav-cta" href="https://bike-n-tour.lokki.rent">Reservar mis bicis</a>
+      <a class="btn btn-primary nav-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a>
     </nav>
     <div class="hd-actions">
       <div class="drop lang">
@@ -858,7 +872,7 @@
       </div>
       <span class="hd-contact" role="group" aria-label="Contacto"><a class="hd-phone" href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg><span>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</span></a>
         <a class="hd-wa" href="https://wa.me/33652629464" aria-label="Escribir por WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a></span>
-      <a class="btn btn-primary hd-cta" href="https://bike-n-tour.lokki.rent">Reservar</a>
+      <a class="btn btn-primary hd-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a>
       <button class="burger" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle><span class="sr-only">Abrir el menú</span><span aria-hidden="true"></span></button>
     </div>
   </div>
@@ -873,12 +887,12 @@
       <p class="eyebrow">Accesorios</p>
       <h1>Accesorios de bici de alquiler en Nantes</h1>
       <p class="lead">Alforjas impermeables Ortlieb, bolsa de manillar, soporte para smartphone, funda de sillín, casco, silla de bebé y remolque: todo lo necesario para salir en bici, para añadir a su alquiler.</p>
-      <div class="hero-actions"><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Reservar mis bicis</a></div>
+      <div class="hero-actions"><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a></div>
     </div>
     <figure class="phero-media"><img srcset="/assets/img/photo-sacoches-w480.webp 480w, /assets/img/photo-sacoches-w800.webp 800w, /assets/img/photo-sacoches-w1200.webp 1200w, /assets/img/photo-sacoches.webp 1400w" sizes="(max-width: 980px) 100vw, 50vw" src="/assets/img/photo-sacoches.webp" alt="Bici de viaje equipada con alforjas Ortlieb" width="1400" height="933" fetchpriority="high"></figure>
   </div>
 </section>
-<section class="section"><div class="wrap"><h2>Nuestros accesorios de alquiler</h2><p class="lead acc-intro">Los accesorios se reservan junto con la bicicleta y le esperan en la tienda, montados y ajustados antes de salir: alforjas fijadas en el portaequipajes, soporte de móvil instalado y casco ajustado. Para un viaje de varios días por la Loire à Vélo o la Vélodyssée, el par de alforjas traseras Ortlieb (2 × 20 L) basta para dos personas que viajan ligeras; la bolsa de manillar mantiene a mano documentos, móvil y algo de comer. Todo se devuelve en la tienda al final, o en el destino si elige el alquiler solo de ida.</p><div class="acc-cards"><article class="acc-card"><h3>Par de alforjas traseras impermeables Ortlieb (2 × 20 L)</h3><p>Dos alforjas traseras impermeables de 20 litros cada una, que se enganchan al portaequipajes: el equipo básico para un viaje de varios días.</p><p class="price">5 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os">Reservar</a></article><article class="acc-card"><h3>Bolsa de manillar (6 L)</h3><p>Una bolsa de 6 litros fijada al manillar, para tener a mano el teléfono, la documentación, la crema solar y algo de picar.</p><p class="price">5 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os">Reservar</a></article><article class="acc-card"><h3>Funda de sillín confort</h3><p>Una funda de sillín acolchada para ganar comodidad en las etapas largas.</p><p class="price">1 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os">Reservar</a></article><article class="acc-card"><h3>Soporte para smartphone</h3><p>Un soporte resistente para seguir el track GPX en su teléfono sin tener que pararse.</p><p class="price">1 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os">Reservar</a></article><article class="acc-card"><h3>Sillita de bebé (desde 1 año)</h3><p>Una silla de bebé homologada, para niños a partir de 1 año, montada en el portaequipajes.</p><p class="price">5 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os">Reservar</a></article><article class="acc-card"><h3>Remolque infantil (desde 1 año)</h3><p>Un remolque para llevar a uno o dos niños a partir de 1 año, protegidos del viento y del sol.</p><p class="price">15 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os">Reservar</a></article><article class="acc-card"><h3>Casco</h3><p>Un casco ajustable, recomendado para toda la familia.</p><p class="price">1 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os">Reservar</a></article></div>
+<section class="section"><div class="wrap"><h2>Nuestros accesorios de alquiler</h2><p class="lead acc-intro">Los accesorios se reservan junto con la bicicleta y le esperan en la tienda, montados y ajustados antes de salir: alforjas fijadas en el portaequipajes, soporte de móvil instalado y casco ajustado. Para un viaje de varios días por la Loire à Vélo o la Vélodyssée, el par de alforjas traseras Ortlieb (2 × 20 L) basta para dos personas que viajan ligeras; la bolsa de manillar mantiene a mano documentos, móvil y algo de comer. Todo se devuelve en la tienda al final, o en el destino si elige el alquiler solo de ida.</p><div class="acc-cards"><article class="acc-card"><h3>Par de alforjas traseras impermeables Ortlieb (2 × 20 L)</h3><p>Dos alforjas traseras impermeables de 20 litros cada una, que se enganchan al portaequipajes: el equipo básico para un viaje de varios días.</p><p class="price">5 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article><article class="acc-card"><h3>Bolsa de manillar (6 L)</h3><p>Una bolsa de 6 litros fijada al manillar, para tener a mano el teléfono, la documentación, la crema solar y algo de picar.</p><p class="price">5 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article><article class="acc-card"><h3>Funda de sillín confort</h3><p>Una funda de sillín acolchada para ganar comodidad en las etapas largas.</p><p class="price">1 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article><article class="acc-card"><h3>Soporte para smartphone</h3><p>Un soporte resistente para seguir el track GPX en su teléfono sin tener que pararse.</p><p class="price">1 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article><article class="acc-card"><h3>Sillita de bebé (desde 1 año)</h3><p>Una silla de bebé homologada, para niños a partir de 1 año, montada en el portaequipajes.</p><p class="price">5 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article><article class="acc-card"><h3>Remolque infantil (desde 1 año)</h3><p>Un remolque para llevar a uno o dos niños a partir de 1 año, protegidos del viento y del sol.</p><p class="price">15 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article><article class="acc-card"><h3>Casco</h3><p>Un casco ajustable, recomendado para toda la familia.</p><p class="price">1 € / día</p><a class="arrow-link" href="https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a></article></div>
 <p class="small muted">Incluido con cada bici: candado, kit antipinchazos y luces. <a href="/es/precios#grille">Ver todos los precios</a></p></div></section>
 <section class="section section-tint"><div class="wrap prose"><section class="faq page-faq" aria-label="Preguntas frecuentes"><h2>Preguntas frecuentes</h2>
 <details open><summary><h3>¿Se pueden alquilar accesorios sin bici?</h3></summary><p>Los accesorios se alquilan con una bici de Bike'N Tour. Si tiene su propia bici, llámenos: veremos juntos qué es posible.</p></details>
@@ -887,7 +901,7 @@
 </section></div></section>
 <section class="section section-navy"><div class="wrap"><div class="head"><div><p class="eyebrow eyebrow-light">Opiniones verificadas</p><h2>Lo que dicen nuestros viajeros</h2></div><a class="score" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0"><img src="/assets/img/logo-google.webp" alt="Opiniones en Google" width="300" height="97" loading="lazy"><span><strong>5,0</strong>/5 · 206 opiniones</span></a></div><div class="quotes"><blockquote><p>«Primer alquiler de remolque para bici y estoy encantada. Salí sola a hacer 30 km por las orillas del Loira con mi bebé de año y medio durante un día: el remolque, impecable y ligero, y mi hija iba muy a gusto. El alquiler es estupendo, muy amable, atento y flexible. […] ¡Lo recomiendo con los ojos cerrados con bebé!»</p><footer>Diane B. · Google</footer></blockquote><blockquote><p>«Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»</p><footer>Valentine D. · Google</footer></blockquote><blockquote><p>«Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla.»</p><footer>Hélène D. · Google</footer></blockquote></div><p class="more-reviews"><a class="arrow-link arrow-light" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0">Leer todas las opiniones en Google</a> <a class="arrow-link arrow-light" href="https://g.page/r/CSUgp_2wq_1tEBM/review">¿Has alquilado con nosotros? Deja una reseña</a></p></div></section>
 <section class="cta-band"><div class="wrap cta-inner"><p>¿Ya ha elegido su ruta? <strong>Solo le falta la bici.</strong></p>
-<div class="cta-actions"><a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Reservar mis bicis</a><a class="btn btn-line" href="tel:+33652629464">06 52 62 94 64</a></div></div></section>
+<div class="cta-actions"><a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a><a class="btn btn-line" href="tel:+33652629464">06 52 62 94 64</a></div></div></section>
 </main>
 
 <footer class="ft">
@@ -968,7 +982,7 @@
     <p><a href="/fr/mentions-legales">Aviso legal</a> · <a href="/fr/conditions-generales-de-vente">Condiciones generales de alquiler</a> · <a href="/es/cookies">Cookies</a> · <button type="button" class="link-btn" data-cc-open>Gestionar mis cookies</button></p>
   </div>
   <div class="mcta" data-mcta>
-    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Reservar mis bicis</a>
+    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a>
     <a class="mcta-tel mcta-wa" href="https://wa.me/33652629464" aria-label="Escribir a Bike&#x27;N Tour por WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a>
     <a class="mcta-tel" href="tel:+33652629464" aria-label="Llamar a Bike&#x27;N Tour al 06 52 62 94 64"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></a>
   </div>

@@ -10,7 +10,7 @@ Ideeën voor fietstochten
 
 Een dag of een weekend: onze ideeën voor fietstochten op eigen houtje vanaf de winkel, met de regionale trein (TER) terug waar dat kan. Afstanden en niveaus komen uit onze eigen ritten met het team.
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pauze tijdens een fietstocht in het centrum van Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 

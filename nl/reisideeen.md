@@ -10,7 +10,7 @@ Vertrek vanaf de winkel
 
 Zes grote fietsroutes beginnen bij onze winkel, midden in Nantes: de Loire à Vélo, de Vélodyssée, de Régalante, de Bretagne-oversteek, het kanaal van Nantes naar Brest en de wijngaarden van Nantes. Voor elke route maken we je fiets, je fietstassen en de GPX-track klaar.
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Dagtochten](https://www.bikentour.com/nl/fietstochten-vanuit-nantes)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Dagtochten](https://www.bikentour.com/nl/fietstochten-vanuit-nantes)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
@@ -58,7 +58,7 @@ Inbegrepen bij elke route
 - Bereikbaarheid per trein en terugreis
 - Onze favoriete adressen
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Fietsreizen in beeld
 

@@ -10,7 +10,7 @@ Accesorios
 
 Alforjas impermeables Ortlieb, bolsa de manillar, soporte para smartphone, funda de sillín, casco, silla de bebé y remolque: todo lo necesario para salir en bici, para añadir a su alquiler.
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Bici de viaje equipada con alforjas Ortlieb](https://www.bikentour.com/assets/img/photo-sacoches.webp)
 
@@ -24,7 +24,7 @@ Dos alforjas traseras impermeables de 20 litros cada una, que se enganchan al po
 
 5 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os)
 
 ### Bolsa de manillar (6 L)
 
@@ -32,7 +32,7 @@ Una bolsa de 6 litros fijada al manillar, para tener a mano el teléfono, la doc
 
 5 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os)
 
 ### Funda de sillín confort
 
@@ -40,7 +40,7 @@ Una funda de sillín acolchada para ganar comodidad en las etapas largas.
 
 1 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os)
 
 ### Soporte para smartphone
 
@@ -48,7 +48,7 @@ Un soporte resistente para seguir el track GPX en su teléfono sin tener que par
 
 1 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os)
 
 ### Sillita de bebé (desde 1 año)
 
@@ -56,7 +56,7 @@ Una silla de bebé homologada, para niños a partir de 1 año, montada en el por
 
 5 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os)
 
 ### Remolque infantil (desde 1 año)
 
@@ -64,7 +64,7 @@ Un remolque para llevar a uno o dos niños a partir de 1 año, protegidos del vi
 
 15 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os)
 
 ### Casco
 
@@ -72,7 +72,7 @@ Un casco ajustable, recomendado para toda la familia.
 
 1 € / día
 
-[Reservar](https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os)
+[Reservar (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os)
 
 Incluido con cada bici: candado, kit antipinchazos y luces. [Ver todos los precios](https://www.bikentour.com/es/precios#grille)
 

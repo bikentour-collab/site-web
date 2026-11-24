@@ -10,7 +10,7 @@ Onze fietsen
 
 Recente fietsen, na elke verhuur nagekeken: trekkingfietsen van Velo de Ville, e-bikes en gravelbikes van Sunn, gemaakt in Loire-Atlantique, en kinderfietsen. Allemaal vóór vertrek op jouw maat afgesteld.
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Gedetailleerde prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Gedetailleerde prijzen](https://www.bikentour.com/nl/prijs)
 
 ![De reisfietsen van Bike'N Tour voor de winkel in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
@@ -81,4 +81,4 @@ Inbegrepen bij elke fiets
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)

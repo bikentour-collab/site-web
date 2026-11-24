@@ -37,7 +37,7 @@
 <link rel="alternate" type="application/rss+xml" title="El blog de Bike&#x27;N Tour (en francés)" href="/fr/blog.xml">
 <link rel="alternate" type="text/markdown" href="/es/bicicleta-de-viaje.md" title="Version Markdown de cette page">
 <link rel="preload" href="/assets/fonts/montserrat-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/style.css?v=5b39d0fe">
+<link rel="stylesheet" href="/assets/css/style.css?v=849a1bba">
 <script src="/assets/js/main.js?v=06fbf33c" defer></script>
 <script type="application/ld+json">
 {
@@ -227,8 +227,15 @@
    ],
    "potentialAction": {
     "@type": "ReserveAction",
-    "target": "https://bike-n-tour.lokki.rent",
-    "name": "Reservar una bici"
+    "name": "Reservar una bici",
+    "target": {
+     "@type": "EntryPoint",
+     "urlTemplate": "https://www.lokki.rent/loueur/bike-n-tour?c=os",
+     "actionPlatform": [
+      "https://schema.org/DesktopWebPlatform",
+      "https://schema.org/MobileWebPlatform"
+     ]
+    }
    },
    "slogan": "El punto de partida de sus vacaciones en bici",
    "geo": {
@@ -696,7 +703,7 @@
     "highPrice": "110",
     "offerCount": "3",
     "availability": "https://schema.org/InStock",
-    "url": "https://www.lokki.rent/loueur/bike-n-tour?c=os",
+    "url": "https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os",
     "seller": {
      "@id": "https://www.bikentour.com/es#business"
     }
@@ -774,7 +781,7 @@
         <li><a class="nav-link" href="/es/contacto">Contacto</a></li>
       </ul>
       <p class="nav-contact"><a href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</a> <a class="wa" href="https://wa.me/33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg>WhatsApp</a></p>
-      <a class="btn btn-primary nav-cta" href="https://bike-n-tour.lokki.rent">Reservar mis bicis</a>
+      <a class="btn btn-primary nav-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a>
     </nav>
     <div class="hd-actions">
       <div class="drop lang">
@@ -783,7 +790,7 @@
       </div>
       <span class="hd-contact" role="group" aria-label="Contacto"><a class="hd-phone" href="tel:+33652629464"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg><span>06&nbsp;52&nbsp;62&nbsp;94&nbsp;64</span></a>
         <a class="hd-wa" href="https://wa.me/33652629464" aria-label="Escribir por WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a></span>
-      <a class="btn btn-primary hd-cta" href="https://bike-n-tour.lokki.rent">Reservar</a>
+      <a class="btn btn-primary hd-cta" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar<span class="sr-only"> (nueva pestaña)</span></a>
       <button class="burger" type="button" aria-expanded="false" aria-controls="menu" data-menu-toggle><span class="sr-only">Abrir el menú</span><span aria-hidden="true"></span></button>
     </div>
   </div>
@@ -798,7 +805,7 @@
       <p class="eyebrow">Location de vélos à Nantes</p>
       <h1>Alquiler de bicicletas de viaje en Nantes</h1>
       <p class="lead">Nuestra bicicleta de viaje está fabricada a medida con nuestro socio alemán Velo de Ville para el cicloturismo: robusta, cómoda y lista para llevar dos alforjas.</p>
-      <p class="price-big">Desde <strong>22 €</strong> / día</p><div class="hero-actions"><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os">Reservar mis bicis</a><a class="btn btn-ghost" href="/es/precios">Todos los precios</a></div><ul class="reassure"><li>Cancelación gratuita hasta 48 h antes</li><li>Bici ajustada a su talla</li><li>Track GPX gratuito</li></ul>
+      <p class="price-big">Desde <strong>22 €</strong> / día</p><div class="hero-actions"><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a><a class="btn btn-ghost" href="/es/precios">Todos los precios</a></div><ul class="reassure"><li>Cancelación gratuita hasta 48 h antes</li><li>Bici ajustada a su talla</li><li>Track GPX gratuito</li></ul>
     </div>
     <figure class="phero-media"><img src="/assets/img/photo-voyage.webp" alt="Bicicleta de viaje Velo de Ville Trekking L200 de alquiler en Nantes" width="500" height="366" fetchpriority="high"></figure>
   </div>
@@ -815,7 +822,7 @@
 <details><summary><h3>¿Qué está incluido?</h3></summary><p>Candado, kit antipinchazos, bomba, portaequipajes y luces, además del ajuste de la bici a su talla y nuestros consejos de ruta.</p></details>
 </section>
   </div>
-  <div class="side"><div class="side-card side-body"><p class="eyebrow">Incluido</p><ul class="ticks"><li>Candado</li><li>Kit antipinchazos y bomba</li><li>Portaequipajes</li><li>Luces delantera y trasera</li><li>Cargador y llave de la batería (bicicletas eléctricas)</li><li>Ajuste de la bicicleta a su medida y consejos sobre el itinerario</li></ul><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os">Reservar mis bicis</a><p class="small">O llame al <a href="tel:+33652629464">06 52 62 94 64</a></p></div></div>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Incluido</p><ul class="ticks"><li>Candado</li><li>Kit antipinchazos y bomba</li><li>Portaequipajes</li><li>Luces delantera y trasera</li><li>Cargador y llave de la batería (bicicletas eléctricas)</li><li>Ajuste de la bicicleta a su medida y consejos sobre el itinerario</li></ul><a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a><p class="small">O llame al <a href="tel:+33652629464">06 52 62 94 64</a></p></div></div>
 </div></section>
 <section class="section section-tint"><div class="wrap"><h2>Ideal para</h2><div class="cards cards-3"><a class="tile" href="/es/rutas-en-bicicleta/loira-en-bicicleta"><img srcset="/assets/img/v2-bord-de-loire-w480.webp 480w, /assets/img/v2-bord-de-loire-w800.webp 800w, /assets/img/v2-bord-de-loire-w1200.webp 1200w, /assets/img/v2-bord-de-loire-w1600.webp 1600w, /assets/img/v2-bord-de-loire.webp 2000w" sizes="(max-width: 640px) 100vw, (max-width: 980px) 50vw, 33vw" src="/assets/img/v2-bord-de-loire.webp" alt="" width="2000" height="1500" loading="lazy" decoding="async">
 <span class="tile-body"><span class="tile-meta"><span class="lvl lvl-1"><svg viewBox="0 0 16 11" aria-hidden="true"><rect x="1" y="7" width="3.4" height="3" rx="1" class="on"/><rect x="6" y="4" width="3.4" height="6" rx="1"/><rect x="11" y="1" width="3.4" height="9" rx="1"/></svg>Fácil</span><span>165 km · 3 a 4 días</span></span><strong>La Loire à Vélo</strong><span class="small">Hacia Angers y Saumur</span></span></a><a class="tile" href="/es/rutas-en-bicicleta/velodyssee"><img srcset="/assets/img/photo-sacoches-w480.webp 480w, /assets/img/photo-sacoches-w800.webp 800w, /assets/img/photo-sacoches-w1200.webp 1200w, /assets/img/photo-sacoches.webp 1400w" sizes="(max-width: 640px) 100vw, (max-width: 980px) 50vw, 33vw" src="/assets/img/photo-sacoches.webp" alt="" width="1400" height="933" loading="lazy" decoding="async">
@@ -826,7 +833,7 @@
 <section class="section section-navy"><div class="wrap"><div class="head"><div><p class="eyebrow eyebrow-light">Opiniones verificadas</p><h2>Lo que dicen nuestros viajeros</h2></div><a class="score" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0"><img src="/assets/img/logo-google.webp" alt="Opiniones en Google" width="300" height="97" loading="lazy"><span><strong>5,0</strong>/5 · 206 opiniones</span></a></div><div class="quotes"><blockquote><p>«Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»</p><footer>Valentine D. · Google</footer></blockquote><blockquote><p>«Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla.»</p><footer>Hélène D. · Google</footer></blockquote><blockquote><p>«¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo.»</p><footer>Jérémy M. · Google</footer></blockquote></div><p class="more-reviews"><a class="arrow-link arrow-light" href="https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0">Leer todas las opiniones en Google</a> <a class="arrow-link arrow-light" href="https://g.page/r/CSUgp_2wq_1tEBM/review">¿Has alquilado con nosotros? Deja una reseña</a></p></div></section>
 <section class="section"><div class="wrap"><h2>De nuestro blog</h2><div class="posts"><a class="post" href="/es/blog/sevre-nantaise-en-bicicleta-hasta-clisson"><img srcset="/assets/img/blog-balade-incontournable-la-sevre-nantaise-1-w480.webp 480w, /assets/img/blog-balade-incontournable-la-sevre-nantaise-1-w800.webp 800w, /assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp 1280w" sizes="(max-width: 980px) 100vw, 33vw" src="/assets/img/blog-balade-incontournable-la-sevre-nantaise-1.webp" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="post-tag">Rutas en bicicleta</span><h3 class="post-title">Sèvre nantaise en bicicleta, de Nantes a Clisson</h3><span class="post-meta">De Nantes a Clisson en bicicleta: 37 km a lo largo de la Sèvre nantaise y entre los viñedos del Muscadet, con…</span></a><a class="post" href="/es/blog/estuario-del-loira-en-bicicleta-nantes-saint-brevin"><img srcset="/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1-w480.webp 480w, /assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1-w800.webp 800w, /assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp 1280w" sizes="(max-width: 980px) 100vw, 33vw" src="/assets/img/blog-balade-incontournable-le-parcours-de-lestuaire-de-nantes-a-s-1.webp" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="post-tag">Rutas en bicicleta</span><h3 class="post-title">Estuario del Loira en bicicleta, Nantes – Saint-Brevin</h3><span class="post-meta">De Nantes a Saint-Brevin-les-Pins, unos 63 km en bicicleta a lo largo del estuario, del canal de la…</span></a><a class="post" href="/es/blog/primer-viaje-en-bicicleta-desde-nantes"><img srcset="/assets/img/blog-balade-incontournable-le-voyage-a-velo-w480.webp 480w, /assets/img/blog-balade-incontournable-le-voyage-a-velo-w800.webp 800w, /assets/img/blog-balade-incontournable-le-voyage-a-velo.webp 1280w" sizes="(max-width: 980px) 100vw, 33vw" src="/assets/img/blog-balade-incontournable-le-voyage-a-velo.webp" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="post-tag">Consejos de cicloturismo</span><h3 class="post-title">Primer viaje en bicicleta desde Nantes, cómo planearlo</h3><span class="post-meta">Cómo preparar su primer viaje en bicicleta desde Nantes: elegir el itinerario, dosificar las etapas, hacer el…</span></a></div></div></section>
 <section class="cta-band"><div class="wrap cta-inner"><p>¿Ya ha elegido su ruta? <strong>Solo le falta la bici.</strong></p>
-<div class="cta-actions"><a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Reservar mis bicis</a><a class="btn btn-line" href="tel:+33652629464">06 52 62 94 64</a></div></div></section>
+<div class="cta-actions"><a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a><a class="btn btn-line" href="tel:+33652629464">06 52 62 94 64</a></div></div></section>
 </main>
 
 <footer class="ft">
@@ -907,7 +914,7 @@
     <p><a href="/fr/mentions-legales">Aviso legal</a> · <a href="/fr/conditions-generales-de-vente">Condiciones generales de alquiler</a> · <a href="/es/cookies">Cookies</a> · <button type="button" class="link-btn" data-cc-open>Gestionar mis cookies</button></p>
   </div>
   <div class="mcta" data-mcta>
-    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Reservar mis bicis</a>
+    <a class="btn btn-yellow" href="https://www.lokki.rent/loueur/bike-n-tour?c=os" target="_blank" rel="noopener">Reservar mis bicis<span class="sr-only"> (nueva pestaña)</span></a>
     <a class="mcta-tel mcta-wa" href="https://wa.me/33652629464" aria-label="Escribir a Bike&#x27;N Tour por WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20l1.4-4.2A8 8 0 1 1 8.3 18.6z"/><path d="M9 9.5c0 3 2.5 5.5 5.5 5.5l1.2-1.4-1.9-.9-.8.8a4 4 0 0 1-2.4-2.4l.8-.8-.9-1.9z"/></svg></a>
     <a class="mcta-tel" href="tel:+33652629464" aria-label="Llamar a Bike&#x27;N Tour al 06 52 62 94 64"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></a>
   </div>

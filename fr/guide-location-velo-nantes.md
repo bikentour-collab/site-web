@@ -98,7 +98,7 @@ La caution est de 500 € pour un vélo de voyage ou enfant, 1 000 € pour 
 
 ## Comment réserver et peut-on annuler ?
 
-La réservation se fait en ligne sur [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), par téléphone au 06 52 62 94 64 ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ. Le paiement se fait en ligne ou en boutique, par carte bancaire ou chèque.
+La réservation se fait en ligne sur [Lokki (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os), par téléphone au 06 52 62 94 64 ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ. Le paiement se fait en ligne ou en boutique, par carte bancaire ou chèque.
 
 ## Peut-on visiter Nantes à vélo avec un guide ?
 
@@ -125,7 +125,7 @@ Sommaire
 9. [Peut-on visiter Nantes à vélo avec un guide ?](#q9)
 10. [Et pour un groupe ou une entreprise ?](#q10)
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Pour aller plus loin
 

@@ -10,7 +10,7 @@ Nos vélos
 
 Des vélos récents et entretenus après chaque location : vélos de voyage Velo de Ville, vélos électriques et gravels Sunn fabriqués en Loire-Atlantique, vélos enfant. Tous réglés à votre taille avant le départ.
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Tarifs détaillés](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Tarifs détaillés](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 ![Les vélos de voyage Bike'N Tour devant la boutique à Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
@@ -81,4 +81,4 @@ Inclus avec chaque vélo
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)

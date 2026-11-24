@@ -12,7 +12,7 @@ Voor wie van de gebaande paden af wil: jaagpaden, bospaden en smalle wegen door 
 
 Vanaf **€ 35** per dag
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -75,7 +75,7 @@ Inbegrepen
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
+[Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 Of bel [06 52 62 94 64](tel:+33652629464)
 

@@ -15,7 +15,7 @@ The Château des ducs de Bretagne, the Elephant at Les Machines de l'île, the V
 - Departures**From Tuesday to Sunday at 3pm**
 - Languages**French, English, Spanish**
 
-[Book the tour](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book the tour (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Free cancellation up to 48 hours before
 - Maximum 12 people
@@ -88,7 +88,7 @@ Included
 
 **Rendez-vous :** Bike'N Tour shop, 27 quai de Versailles (tram line 2, Saint-Mihiel stop). Venez 10 minutes avant le départ.
 
-[Book](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Book (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Our other tours
 

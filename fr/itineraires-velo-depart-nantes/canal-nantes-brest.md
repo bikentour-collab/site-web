@@ -15,7 +15,7 @@ Itinéraire au départ de Nantes
 - Niveau**Facile**
 - Aller simple**Oui, sur demande**
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recevoir la trace GPX](#gpx)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recevoir la trace GPX](#gpx)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -97,7 +97,7 @@ Vélo conseillé
 
 Sacoches Ortlieb étanches en option (5 € / jour), aller simple sur devis.
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Les autres itinéraires au départ de Nantes
 

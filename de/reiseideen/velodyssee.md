@@ -15,7 +15,7 @@ La Vélodyssée (EuroVelo 1) verbindet Roscoff mit Hendaye. Ab Nantes erreicht s
 - Schwierigkeit**Leicht**
 - Einwegmiete**Ja, auf Anfrage**
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[GPX-Track erhalten](#gpx)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)[GPX-Track erhalten](#gpx)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -87,7 +87,7 @@ Empfohlenes Rad
 
 Wasserdichte Ortlieb-Packtaschen optional (5 € pro Tag), Einweg-Miete nach Angebot.
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Weitere Radrouten ab Nantes
 

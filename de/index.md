@@ -10,7 +10,7 @@ Page : https://www.bikentour.com/de · Bike'N Tour, 27 quai de Versailles, 44000
 
 Sechs Radrouten starten an unserem Laden. Wir bereiten Rad, Packtaschen und GPX-Track für Sie vor – Sie müssen nur noch in die Pedale treten. Einweg-Miete möglich.
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Meine Route wählen](#itineraires)
 
 Start direkt am Laden
@@ -65,7 +65,7 @@ Sehenswertes unterwegs
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-mauves-sur-loire-1-w480.webp)Mauves-sur-Loire](https://www.bikentour.com/post/les-bords-de-loire-mauves-sur-loire)
 - [![](https://www.bikentour.com/assets/img/blog-les-bords-de-loire-oudon-2-w480.webp)Château d'Oudon](https://www.bikentour.com/post/les-bords-de-loire-oudon)
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Die Route im Detail](https://www.bikentour.com/de/reiseideen/loire-radweg)
 
 ![Radreisende mit Packtaschen auf einem Feldweg](https://www.bikentour.com/assets/img/photo-sacoches.webp)Leicht240 km · 4 bis 5 Tage
@@ -97,7 +97,7 @@ Sehenswertes unterwegs
 
 - [![](https://www.bikentour.com/assets/img/blog-une-creature-mythique-aux-portes-de-lestuaire-1-w480.webp)Serpent d'océan](https://www.bikentour.com/post/une-creature-mythique-aux-portes-de-lestuaire)
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Die Route im Detail](https://www.bikentour.com/de/reiseideen/velodyssee)
 
 ![Drei Radreisende auf einem Waldweg](https://www.bikentour.com/assets/img/v2-chemin-foret.webp)Leicht275 km · 9 Etappen
@@ -130,7 +130,7 @@ Sehenswertes unterwegs
 
 - [![](https://www.bikentour.com/assets/img/blog-le-top-5-des-balades-incontournables-a-velo-2-w480.webp)Sucé-sur-Erdre](https://www.bikentour.com/post/balade-incontournable-lerdre-a-velo)
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Die Route im Detail](https://www.bikentour.com/de/reiseideen/la-regalante)
 
 ![Radfahrer auf einem E-Bike auf einer kleinen Landstraße](https://www.bikentour.com/assets/img/v2-cycliste-vignes.webp)Mittel485 km · 8 bis 10 Tage
@@ -161,7 +161,7 @@ Einweg-Miete
 6. Saint-Malo
 7. Mont-Saint-Michel
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Die Route im Detail](https://www.bikentour.com/de/reiseideen/bretagne-durchquerung)
 
 ![Zwei Radreisende starten im Zentrum von Nantes](https://www.bikentour.com/assets/img/v2-depart-boutique.webp)Leicht360 km · 6 bis 8 Tage
@@ -192,7 +192,7 @@ Einweg-Miete
 6. Carhaix
 7. Châteaulin
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Die Route im Detail](https://www.bikentour.com/de/reiseideen/nantes-brest-kanal)
 
 ![Radfahrer auf einer kleinen Straße in den Weinbergen von Nantes](https://www.bikentour.com/assets/img/v2-vignoble-nantais.webp)Leicht80 km · 2 Tage
@@ -226,7 +226,7 @@ Sehenswertes unterwegs
 - [![](https://www.bikentour.com/assets/img/blog-le-marais-de-goulaine-1-w480.webp)Marais de Goulaine](https://www.bikentour.com/post/le-marais-de-goulaine)
 - [![](https://www.bikentour.com/assets/img/blog-le-porte-vue-un-belvedere-exceptionnel-w480.webp)Le Porte-Vue](https://www.bikentour.com/post/le-porte-vue-un-belvedere-exceptionnel)
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Die Route im Detail](https://www.bikentour.com/de/reiseideen/weinberge-nantes)
 
 **Kostenlose Stornierung**Bis 48 Std. vor Abfahrt
@@ -361,7 +361,7 @@ Verifizierte Bewertungen
 >
 > Jérémy M. · Google
 
-[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Unsere Partner
 
@@ -396,7 +396,7 @@ Sprachen
 Kontakt
 :   [06 52 62 94 64](tel:+33652629464) · [WhatsApp](https://wa.me/33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 Häufige Fragen
 

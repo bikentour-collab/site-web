@@ -10,7 +10,7 @@ Zubehör
 
 Wasserdichte Ortlieb-Packtaschen, Lenkertasche, Smartphone-Halterung, Sattelbezug, Helm, Kindersitz und Anhänger: alles, was Sie für die Radtour brauchen, zusätzlich zu Ihrer Miete.
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Reiserad mit Ortlieb-Packtaschen](https://www.bikentour.com/assets/img/photo-sacoches.webp)
 
@@ -24,7 +24,7 @@ Zwei wasserdichte Hinterradtaschen mit je 20 Litern, die am Gepäckträger einge
 
 5 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os)
 
 ### Lenkertasche (6 l)
 
@@ -32,7 +32,7 @@ Eine 6-Liter-Tasche am Lenker, damit Handy, Papiere, Sonnencreme und Snacks imme
 
 5 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os)
 
 ### Komfort-Sattelbezug
 
@@ -40,7 +40,7 @@ Ein gepolsterter Sattelbezug für mehr Komfort auf langen Etappen.
 
 1 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os)
 
 ### Smartphone-Halterung
 
@@ -48,7 +48,7 @@ Eine stabile Halterung, damit Sie dem GPX-Track auf Ihrem Handy folgen können, 
 
 1 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os)
 
 ### Kindersitz (ab 1 Jahr)
 
@@ -56,7 +56,7 @@ Ein zugelassener Kindersitz für Kinder ab 1 Jahr, montiert auf dem Gepäckträg
 
 5 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os)
 
 ### Kinderanhänger (ab 1 Jahr)
 
@@ -64,7 +64,7 @@ Ein Anhänger für ein oder zwei Kinder ab 1 Jahr, geschützt vor Wind und Sonne
 
 15 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os)
 
 ### Helm
 
@@ -72,7 +72,7 @@ Ein verstellbarer Helm, empfohlen für die ganze Familie.
 
 1 € pro Tag
 
-[Buchen](https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os)
+[Buchen (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os)
 
 Bei jedem Rad inklusive: Schloss, Pannenset und Beleuchtung. [Alle Preise ansehen](https://www.bikentour.com/de/preis#grille)
 

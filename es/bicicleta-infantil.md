@@ -12,7 +12,7 @@ Para viajar en familia: bicicletas infantiles de 20 a 26 pulgadas y, para los m�
 
 Desde **20 €** / día
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -72,7 +72,7 @@ Incluido
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
+[Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 O llame al [06 52 62 94 64](tel:+33652629464)
 

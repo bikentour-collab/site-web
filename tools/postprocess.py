@@ -175,6 +175,20 @@ def table_labels(s):
     return ''.join(out) + s[pos:]
 
 
+NEW_TAB = {'fr': 'nouvel onglet', 'en': 'opens in a new tab', 'nl': 'nieuw tabblad', 'de': 'neuer Tab', 'es': 'nueva pestaña'}
+
+
+def booking_new_tab(s, lang):
+    """Réservation Lokki dans un nouvel onglet : le visiteur garde le site ouvert (itinéraire, tarifs) pendant qu'il réserve."""
+    def fix(m):
+        tag, inner = m.group(1), m.group(2)
+        if 'target=' in tag:
+            return m.group(0)
+        tag = tag[:-1] + ' target="_blank" rel="noopener">'
+        return f'{tag}{inner}<span class="sr-only"> ({NEW_TAB.get(lang, NEW_TAB["fr"])})</span></a>'
+    return re.sub(r'(<a\b[^>]*href="https://www\.lokki\.rent[^"]*"[^>]*>)(.*?)</a>', fix, s, flags=re.S)
+
+
 import og  # images de partage 1200 × 630
 
 
@@ -193,6 +207,7 @@ def run():
         s = table_labels(s)
         d = lastmod(url, s, db, today)
         lang = (re.search(r'<html lang="(\w+)"', s) or [None, 'fr'])[1]
+        s = booking_new_tab(s, lang)
         s = s.replace('{{LASTMOD_ISO}}', d).replace('{{LASTMOD_TXT}}', i18n.date(datetime.date.fromisoformat(d), lang))
         # prix insécables : « 22 € », « € 22 » ne se coupent jamais en fin de ligne
         s = re.sub(r'(\d) €', '\\1\u00a0€', s)

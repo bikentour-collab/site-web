@@ -12,10 +12,10 @@
 - Aller simple : sur devis · annulation gratuite jusqu'à 48 h
 
 ## Tarifs de location
-- [Vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) (Velo de Ville (Allemagne), Trekking L200) : 22 €/jour, 39 € le week-end, 110 € la semaine ; caution 500 €
-- [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) (Sunn (Loire-Atlantique), Start S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 €
-- [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) (Sunn (Loire-Atlantique), Venture S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 €
-- [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) (Decathlon, 20, 24 ou 26 pouces) : 20 €/jour, 38 € le week-end, 88 € la semaine ; caution 500 €
+- [Vélo de voyage](https://www.bikentour.com/fr/location-velo-de-voyage) (Velo de Ville (Allemagne), Trekking L200) : 22 €/jour, 39 € le week-end, 110 € la semaine ; caution 500 € ; réserver : https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os
+- [Vélo électrique](https://www.bikentour.com/fr/location-velo-electrique-voyage) (Sunn (Loire-Atlantique), Start S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 € ; réserver : https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os
+- [Vélo gravel](https://www.bikentour.com/fr/location-gravel-nantes) (Sunn (Loire-Atlantique), Venture S1) : 35 €/jour, 62 € le week-end, 172 € la semaine ; caution 1 000 € ; réserver : https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os
+- [Vélo enfant](https://www.bikentour.com/fr/location-velo-enfant) (Decathlon, 20, 24 ou 26 pouces) : 20 €/jour, 38 € le week-end, 88 € la semaine ; caution 500 € ; réserver : https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os
 - Grille complète de 1 à 7 jours : https://www.bikentour.com/fr/nos-tarifs-reservation#grille (PDF : https://www.bikentour.com/assets/pdf/grille-tarifs-bike-n-tour.pdf)
   - Vélo de voyage : 1 j 22 €, 2 j 39 €, 3 j 52 €, 4 j 70 €, 5 j 82 €, 6 j 96 €, 7 j 110 €, jour suppl. +12 €
   - Vélo électrique : 1 j 35 €, 2 j 62 €, 3 j 83 €, 4 j 106 €, 5 j 128 €, 6 j 150 €, 7 j 172 €, jour suppl. +22 €
@@ -64,6 +64,18 @@
 - [Île de Nantes à vélo : la balade en boucle de 10,5 km](https://www.bikentour.com/post/balade-incontournable-lile-de-nantes)
 - [Nantes – Cordemais à vélo, jusqu'à la Villa Cheminée](https://www.bikentour.com/post/balade-incontournable-la-loire-a-velo-de-nantes-a-cordemais)
 - [Le marais de Goulaine à vélo, entre vignes et roseaux](https://www.bikentour.com/post/le-marais-de-goulaine)
+
+## Avis clients (Google, note 5,0/5 sur 206 avis)
+- « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! » (Valentine D., avis Google)
+- « Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide. » (Hélène D., avis Google)
+- « Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue. » (Jérémy M., avis Google)
+- « Nous avons loué 70 vélos pour notre séminaire d'entreprise et sommes vraiment ravis ! Antoine et son équipe ont été géniaux du début à la fin : livraison, récupération, gestion des bagages avec l'hôtel… ils se sont adaptés à toutes nos demandes et nous ont vraiment simplifié l'organisation. Le rapport qualité-prix est très bon, tout s'est déroulé sans accroc. Rien à redire, c'était parfait ! » (IMING, avis Google)
+- « Super vélo Gravel de très bonne qualité et performant. Habitant à Nantes, j'ai pu profiter des bords de Loire lors d'une belle sortie ensoleillée en septembre. Très bon accueil de l'équipe, je reviendrai pour un itinéraire sur plusieurs jours ! » (Clem J., avis Google)
+- « Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute. » (Corinne S., avis Google)
+- « Location de 2 gravels sur 6 jours avec sacoches pour faire Nantes-Saintes (450 km). Vélos de super qualité, sacoches tops et les équipes de Bike'N Tour aimables et pros. Je recommande pour un premier bikepacking. » (Pierre B., avis Google)
+- « Première location de remorque vélo et je suis conquise ! Partie seule faire 30 km sur les bords de Loire avec mon bébé d'un an et demi pendant une journée : carriole nickel, légère, ma fille était très bien dedans. Le loueur est au top, très sympa, à l'écoute et arrangeant. […] Je recommande les yeux fermés avec bébé ! » (Diane B., avis Google)
+- Tous les avis Google : https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0
+- Avis Tripadvisor : https://www.tripadvisor.fr/Attraction_Review-g187198-d12280776-Reviews-Bike_N_Tour-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
 
 ## Ils parlent de Bike'N Tour (sources externes)
 - Ouest-France : [À Nantes, les loueurs de vélos mouillent le maillot](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/a-nantes-les-loueurs-de-velos-mouillent-le-maillot-23270126-7441-11f0-aae0-d9f2c5541ad0)

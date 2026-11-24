@@ -10,7 +10,7 @@ Tarifs 2026
 
 Des tarifs simples et dégressifs, cadenas, kit anti-crevaison et éclairage compris. Réservez en ligne en quelques minutes, annulation gratuite jusqu'à 48 h avant le départ.
 
-[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille

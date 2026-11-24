@@ -113,6 +113,10 @@ for n in data['@graph']:
     if n['@type'] == 'FAQPage':
         n['mainEntity'] = [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in FAQ]
     if n['@type'] == 'BikeStore':
+        from content import SITE_CFG as _SC0
+        n['potentialAction'] = {"@type": "ReserveAction", "name": "Réserver un vélo",
+                                "target": {"@type": "EntryPoint", "urlTemplate": _SC0.get('reservation') or 'https://www.lokki.rent/loueur/bike-n-tour?c=os',
+                                           "actionPlatform": ["https://schema.org/DesktopWebPlatform", "https://schema.org/MobileWebPlatform"]}}
         n['aggregateRating']['ratingValue'] = str(HOME['google_note']).replace(',', '.')
         n['aggregateRating']['reviewCount'] = n['aggregateRating']['ratingCount'] = str(HOME['google_avis'])
         n['geo'] = {"@type": "GeoCoordinates", "latitude": 47.2238, "longitude": -1.5548}
@@ -186,7 +190,7 @@ from content import SITE_CFG
 _TRIPA = SITE_CFG.get('lien_tripadvisor') or 'https://www.tripadvisor.fr/Search?q=Bike%27N%20Tour%20Nantes'
 _GOOG = SITE_CFG.get('lien_google_avis') or 'https://www.google.com/search?q=bike%27n+tour+nantes+avis'
 page = page.replace('{{lien_tripadvisor}}', html.escape(_TRIPA, quote=True)).replace('{{lien_google_avis}}', html.escape(_GOOG, quote=True))
-for _k in ('reservation', 'telephone', 'telephone_affiche', 'whatsapp', 'analytics_ga4', 'matomo_url', 'matomo_id'):
+for _k in ('reservation', 'lien_laisser_avis', 'telephone', 'telephone_affiche', 'whatsapp', 'analytics_ga4', 'matomo_url', 'matomo_id'):
     page = page.replace('{{' + _k + '}}', html.escape(str(SITE_CFG.get(_k) or ''), quote=True))
 # prix affichés sur l'accueil (content/velos.json, visites.json, groupes.json)
 from content import BIKES, TOURS, GROUP_OFFERS

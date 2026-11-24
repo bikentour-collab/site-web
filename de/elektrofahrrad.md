@@ -12,7 +12,7 @@ Das Reise-E-Bike von Sunn, nur wenige Kilometer von Nantes entfernt hergestellt,
 
 Ab **35 €** pro Tag
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -81,7 +81,7 @@ Inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Oder telefonisch unter [06 52 62 94 64](tel:+33652629464)
 

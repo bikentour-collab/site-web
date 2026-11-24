@@ -12,7 +12,7 @@ For family trips: kids' bikes from 20 to 26 inches, plus a baby seat or trailer 
 
 From **€20** a day
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -72,7 +72,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 

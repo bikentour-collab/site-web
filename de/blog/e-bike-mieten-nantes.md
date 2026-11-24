@@ -108,7 +108,7 @@ Zu mieten in Nantes
 
 Ab 35 € pro Tag, 172 € pro Woche.
 
-[Rad ansehen](https://www.bikentour.com/de/elektrofahrrad) [Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Rad ansehen](https://www.bikentour.com/de/elektrofahrrad) [Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Mehr aus unserem Blog
 

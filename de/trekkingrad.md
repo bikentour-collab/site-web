@@ -12,7 +12,7 @@ Unser Reiserad wird gemeinsam mit unserem deutschen Partner Velo de Ville spezie
 
 Ab **22 €** pro Tag
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -75,7 +75,7 @@ Inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
+[Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
 
 Oder telefonisch unter [06 52 62 94 64](tel:+33652629464)
 

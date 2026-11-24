@@ -15,7 +15,7 @@ Une visite « hors cadre » de Nantes : lieux détournés, street art, architect
 - Départs**Tous les jours à 10 h, sauf le dimanche**
 - Langues**Français, anglais**
 
-[Réserver la visite](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver la visite (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Annulation gratuite jusqu'à 48 h
 - 12 personnes maximum
@@ -72,7 +72,7 @@ Inclus
 
 **Rendez-vous :** Boutique Bike'N Tour, 27 quai de Versailles (tram ligne 2, arrêt Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Réserver](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Réserver (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nos autres visites
 

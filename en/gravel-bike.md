@@ -12,7 +12,7 @@ For heading off the beaten track: towpaths, forest trails and quiet vineyard lan
 
 From **€35** a day
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -75,7 +75,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
+[Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 

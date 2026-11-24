@@ -163,7 +163,7 @@ Mit dem Rad ab Nantes
 
 Sechs Radrouten starten an unserem Laden im Zentrum von Nantes: Wir bereiten Rad, Packtaschen und GPX-Track für Sie vor.
 
-[Die Routen](https://www.bikentour.com/de/reiseideen) [Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[Die Routen](https://www.bikentour.com/de/reiseideen) [Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Mehr aus unserem Blog
 

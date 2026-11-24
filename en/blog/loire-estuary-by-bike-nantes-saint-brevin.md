@@ -109,7 +109,7 @@ Route starting from the shop
 
 To Angers and Saumur
 
-[See the route](https://www.bikentour.com/en/travel-ideas/loire-by-bike) [Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
+[See the route](https://www.bikentour.com/en/travel-ideas/loire-by-bike) [Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Also on our blog
 
