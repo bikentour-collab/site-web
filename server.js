@@ -322,24 +322,32 @@ async function handleForm(req, res) {
   return json(200, { ok: true });
 }
 
-// Newsletter (pied de page) : avec RESEND_AUDIENCE_ID, l'adresse est ajoutée à l'audience Resend (envoi des newsletters
-// depuis Resend → Broadcasts, désinscription gérée par Resend). Sans audience, l'inscription est envoyée par email à CONTACT_EMAIL.
+// Newsletter (pied de page) : l'adresse est enregistrée comme contact Resend (Contacts), puis ajoutée au segment
+// RESEND_SEGMENT_ID (ou RESEND_AUDIENCE_ID, ancien nom) s'il est défini. Antoine envoie ensuite ses newsletters depuis
+// Resend → Broadcasts (lien de désinscription géré par Resend). Si la clé n'a pas le droit de gérer les contacts,
+// l'inscription est envoyée par email à CONTACT_EMAIL pour ne rien perdre.
 async function handleNewsletter(json, email, lang) {
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json(400, { ok: false });
+  const api = process.env.RESEND_API_URL || 'https://api.resend.com';
+  const headers = { Authorization: `Bearer ${process.env.RESEND_API_KEY}`, 'Content-Type': 'application/json' };
+  const segment = process.env.RESEND_SEGMENT_ID || process.env.RESEND_AUDIENCE_ID;
   try {
-    const aud = process.env.RESEND_AUDIENCE_ID;
-    if (aud) {
-      const r = await fetch((process.env.RESEND_API_URL || 'https://api.resend.com') + `/audiences/${encodeURIComponent(aud)}/contacts`, {
-        method: 'POST', headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email, unsubscribed: false }),
-      });
-      if (!r.ok) throw new Error('resend audience ' + r.status + ' ' + (await r.text()).slice(0, 200));
-    } else {
-      await resendSend({ from: SENDER, to: [CONTACT_EMAIL], reply_to: email, subject: `Inscription newsletter – ${email}`,
-        text: `Nouvelle inscription à la newsletter depuis le site (langue : ${lang}) :\n\n${email}\n\nLa personne a coché le consentement. Ajoutez-la à votre liste d'envoi.` });
+    const c = await fetch(api + '/contacts', { method: 'POST', headers, body: JSON.stringify({ email, unsubscribed: false }) });
+    // contact déjà existant : on continue (ajout au segment)
+    if (!c.ok && c.status !== 409 && c.status !== 422) throw new Error('contacts ' + c.status + ' ' + (await c.text()).slice(0, 200));
+    if (segment) {
+      const s = await fetch(`${api}/contacts/${encodeURIComponent(email)}/segments/${encodeURIComponent(segment)}`, { method: 'POST', headers });
+      if (!s.ok) throw new Error('segment ' + s.status + ' ' + (await s.text()).slice(0, 200));
     }
+    return json(200, { ok: true });
   } catch (e) {
-    console.error('Inscription newsletter non enregistrée :', e.message);
+    console.error('Inscription newsletter non enregistrée dans Resend, envoi par email :', e.message);
+  }
+  try {
+    await resendSend({ from: SENDER, to: [CONTACT_EMAIL], reply_to: email, subject: `Inscription newsletter – ${email}`,
+      text: `Nouvelle inscription à la newsletter depuis le site (langue : ${lang}) :\n\n${email}\n\nLa personne a coché le consentement. Elle n'a pas pu être ajoutée automatiquement aux contacts Resend : ajoutez-la à la main (Resend → Audience → Contacts).` });
+  } catch (e) {
+    console.error('Inscription newsletter non envoyée :', e.message);
     return json(502, { ok: false });
   }
   return json(200, { ok: true });
