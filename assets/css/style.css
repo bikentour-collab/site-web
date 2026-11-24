@@ -823,7 +823,7 @@ table.data { width: 100%; border-collapse: collapse; font-size: 15px; background
 
 /* ---------- Icônes, formulaires, Contact, Recrutement, FAQ, Presse (nov. 2026) ---------- */
 .ic { width: 18px; height: 18px; flex: 0 0 auto; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; vertical-align: -3px; }
-.section-top0 { padding-top: 8px; }
+.section-top0 { padding-top: clamp(28px, 4vw, 48px); }
 .btn-block { width: 100%; }
 .form-card { background: var(--white); border: 1px solid var(--line); border-radius: 20px; padding: clamp(20px, 3vw, 32px); box-shadow: var(--shadow); display: grid; gap: 14px; align-content: start; }
 .form-card h2 { margin: 0; font-size: 1.5rem; display: flex; align-items: center; gap: 10px; }
@@ -886,13 +886,14 @@ table.data { width: 100%; border-collapse: collapse; font-size: 15px; background
 .press-kit { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(280px, 1fr); gap: clamp(24px, 4vw, 56px); align-items: start; }
 .cbtn-go { background: var(--yellow); border-color: var(--yellow); color: var(--navy-2); }
 .cbtn-go:hover { background: #F0CD62; color: var(--navy-2); }
-.ft-social { display: flex !important; gap: 10px; list-style: none; padding: 0; margin: 0 0 16px; }
+.ft-social { display: flex !important; gap: 10px; list-style: none; padding: 0; margin: 0 0 28px; }
 .ft-social a { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 12px; background: rgba(255, 255, 255, .1); border: 1px solid rgba(255, 255, 255, .2); color: var(--white); transition: background .15s, transform .15s; }
 .ft-social a:hover { background: var(--yellow); color: var(--navy-2); transform: translateY(-2px); }
 .ft-social .ic { width: 20px; height: 20px; }
-.ft-go { display: flex; gap: 10px; align-items: flex-start; color: rgba(255, 255, 255, .85); text-decoration: none; font-size: 14px; line-height: 1.45; }
+.ft-go { display: flex; gap: 12px; align-items: flex-start; padding-top: 22px; border-top: 1px solid rgba(255, 255, 255, .12); color: rgba(255, 255, 255, .85); text-decoration: none; font-size: 14px; line-height: 1.5; }
+.ft-go strong { display: inline-block; margin-top: 4px; }
 .ft-go strong { color: var(--yellow); }
-.ft-go .ic { margin-top: 2px; color: var(--yellow); }
+.ft-go .ic { flex: none; margin-top: 1px; color: var(--yellow); }
 .ft-go:hover strong { text-decoration: underline; }
 @media (max-width: 980px) {
   .contact-grid, .jobs-grid, .faq-layout, .press-kit { grid-template-columns: minmax(0, 1fr); }
