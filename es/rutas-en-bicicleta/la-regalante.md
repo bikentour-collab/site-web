@@ -15,7 +15,7 @@ La Régalante es una ruta ciclista reciente que une Nantes con el Mont-Saint-Mic
 - Nivel**Fácil**
 - Solo ida**Sí, bajo petición**
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)[Recibir el track GPX](#gpx)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recibir el track GPX](#gpx)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -91,7 +91,7 @@ Bici recomendada
 
 Alforjas Ortlieb impermeables opcionales (5 € / día), solo ida con presupuesto a medida.
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Las demás rutas desde Nantes
 
@@ -143,3 +143,23 @@ De Nantes a Saint-Brevin-les-Pins, unos 63 km en bicicleta a lo largo del estuar
 ### Primer viaje en bicicleta desde Nantes, cómo planearlo
 
 Cómo preparar su primer viaje en bicicleta desde Nantes: elegir el itinerario, dosificar las etapas, hacer el…](https://www.bikentour.com/es/blog/primer-viaje-en-bicicleta-desde-nantes)
+
+Opiniones verificadas
+
+## Lo que dicen nuestros viajeros
+
+[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> «Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»
+>
+> Valentine D. · Google
+
+> «Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla.»
+>
+> Hélène D. · Google
+
+> «¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo.»
+>
+> Jérémy M. · Google
+
+[Leer todas las opiniones en Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [¿Has alquilado con nosotros? Deja una reseña](https://g.page/r/CSUgp_2wq_1tEBM/review)

@@ -16,7 +16,7 @@ Team building, evento de empresa, salida de equipo o visita entre amigos: gracia
 
 **En resumen.** Bike'N Tour organiza en Nantes salidas en bici para grupos y empresas: alquiler de bicicletas para grupos desde 16,67 € por bicicleta (IVA no incluido); visitas guiadas privadas desde 36 € por persona (IVA no incluido) y actividades y team building con presupuesto. 10 % de descuento a partir de 10 personas, bicis eléctricas para que todo el mundo pedalee junto y entrega en el lugar del evento.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Nuestras fórmulas
 
@@ -67,3 +67,23 @@ Su solicitud
 Indique el número de participantes, la fecha, el lugar y el tipo de salida: le responderemos rápidamente con una propuesta.
 
 [contact@bikentour.com](mailto:contact@bikentour.com?subject=Demande%20de%20devis%20groupe)
+
+Opiniones verificadas
+
+## Lo que dicen nuestros viajeros
+
+[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> «Alquilamos 70 bicicletas para nuestro seminario de empresa y estamos encantados. Antoine y su equipo fueron geniales de principio a fin: entrega, recogida, gestión del equipaje con el hotel… se adaptaron a todas nuestras peticiones y nos simplificaron mucho la organización. Muy buena relación calidad-precio, todo salió sin problemas. Nada que objetar, ¡fue perfecto!»
+>
+> IMING · Google
+
+> «Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»
+>
+> Valentine D. · Google
+
+> «Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla.»
+>
+> Hélène D. · Google
+
+[Leer todas las opiniones en Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [¿Has alquilado con nosotros? Deja una reseña](https://g.page/r/CSUgp_2wq_1tEBM/review)

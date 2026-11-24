@@ -15,7 +15,7 @@ Le week-end idéal à deux pas de Nantes : les bords de la Sèvre nantaise, les 
 - Niveau**Facile**
 - Aller simple**Boucle**
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Recevoir la trace GPX](#gpx)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recevoir la trace GPX](#gpx)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -77,7 +77,7 @@ Vélo conseillé
 
 Sacoches Ortlieb étanches en option (5 € / jour), aller simple sur devis.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Les autres itinéraires au départ de Nantes
 
@@ -131,3 +131,23 @@ Le vignoble nantais à vélo : les coteaux du Muscadet, la Sèvre, le Porte-Vue 
 Le château de Chassay, mairie de Sainte-Luce-sur-Loire : manoir des évêques de Nantes, étape d'Henri IV en…](https://www.bikentour.com/post/chateau-de-chassay)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)
+
+Avis vérifiés
+
+## Ce qu'en disent nos voyageurs
+
+[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »
+>
+> Valentine D. · Google
+
+> « Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide. »
+>
+> Hélène D. · Google
+
+> « Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue. »
+>
+> Jérémy M. · Google
+
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)

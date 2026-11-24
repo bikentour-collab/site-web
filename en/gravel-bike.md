@@ -12,7 +12,7 @@ For heading off the beaten track: towpaths, forest trails and quiet vineyard lan
 
 From **€35** a day
 
-[Book my bikes](https://bike-n-tour.lokki.rent)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -22,7 +22,7 @@ From **€35** a day
 
 **In short.** In Nantes, Bike'N Tour hires out the Sunn Venture S1 gravel bike: €35 a day, €62 for the weekend and €172 for the week, with lower rates for longer hires and a €1,000 deposit. Lock, puncture repair kit, pump and lights are included, and the bike is fitted to your size. Recommended for The Nantes Vineyards and The Nantes–Brest Canal. Pick up at the shop, 27 quai de Versailles in Nantes.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Specifications
 
@@ -75,7 +75,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 
@@ -117,21 +117,21 @@ Verified reviews
 
 ## What our riders say
 
-[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “Great gravel bike, very high quality and efficient. As I live in Nantes, I enjoyed the banks of the Loire on a lovely sunny ride in September. Very warm welcome from the team, I'll be back for a multi-day trip!”
+>
+> Clem J. · Google
+
+> “Hired 2 gravel bikes for 6 days with panniers to ride from Nantes to Saintes (450 km). Superb bikes, great panniers and the Bike'N Tour team was friendly and professional. I recommend them for a first bikepacking trip.”
+>
+> Pierre B. · Google
 
 > “A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!”
 >
 > Valentine D. · Google
 
-> “A pleasant bike, used for three days without any trouble. A warm welcome and a really smooth booking process.”
->
-> Hélène D. · Google
-
-> “Thanks for the gravel bike for my ride along the Loire! Antoine is brilliant – quick to respond and great at explaining things.”
->
-> Jérémy M. · Google
-
-[Read all Google reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Read all Google reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Have you rented from us? Leave a review](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## From our blog
 

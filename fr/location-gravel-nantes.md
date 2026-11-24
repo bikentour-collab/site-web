@@ -12,7 +12,7 @@ Pour sortir des sentiers battus : chemins de halage, pistes en forêt et petites
 
 Dès **35 €** / jour
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -22,7 +22,7 @@ Dès **35 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos gravel Sunn Venture S1 : 35 € la journée, 62 € le week-end et 172 € la semaine, tarifs dégressifs, caution de 1 000 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour le Vignoble nantais et le Canal de Nantes à Brest. Retrait à la boutique, 27 quai de Versailles à Nantes.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Caractéristiques
 
@@ -75,7 +75,7 @@ Inclus
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 Ou au [06 52 62 94 64](tel:+33652629464)
 
@@ -117,21 +117,21 @@ Avis vérifiés
 
 ## Ce qu'en disent nos voyageurs
 
-[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> « Super vélo Gravel de très bonne qualité et performant. Habitant à Nantes, j'ai pu profiter des bords de Loire lors d'une belle sortie ensoleillée en septembre. Très bon accueil de l'équipe, je reviendrai pour un itinéraire sur plusieurs jours ! »
+>
+> Clem J. · Google
+
+> « Location de 2 gravels sur 6 jours avec sacoches pour faire Nantes-Saintes (450 km). Vélos de super qualité, sacoches tops et les équipes de Bike'N Tour aimables et pros. Je recommande pour un premier bikepacking. »
+>
+> Pierre B. · Google
 
 > « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »
 >
 > Valentine D. · Google
 
-> « Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide. »
->
-> Hélène D. · Google
-
-> « Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue. »
->
-> Jérémy M. · Google
-
-[Lire tous les avis Google](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Sur le blog
 

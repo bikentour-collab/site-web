@@ -15,7 +15,7 @@ Stadt und Weinberge von Nantes in einer Tour erzählt: die Geschichte des Muscad
 - Abfahrten**Donnerstag bis Sonntag um 14 Uhr**
 - Sprachen**Französisch, Englisch**
 
-[Tour buchen](https://bike-n-tour.lokki.rent)
+[Tour buchen](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Max. 12 Personen
@@ -25,7 +25,7 @@ Stadt und Weinberge von Nantes in einer Tour erzählt: die Geschichte des Muscad
 
 **Kurz gesagt.** Wine & Bike Tour in Nantes: geführte E-Bike-Tour durch Nantes mit Bike'N Tour. Dauer 3,5 Std., 65 € pro Person (E-Bike und Helm, Begeisterter Guide, Verkostung von 3 Weinen und lokalem Käse, Kommentierter Stadtplan). Abfahrten: Donnerstag bis Sonntag um 14 Uhr; Sprachen: Französisch oder Englisch; max. 12 Personen pro Guide, 100 % auf Radwegen. Treffpunkt: Laden Bike'N Tour, Quai de Versailles 27 (Tram Linie 2, Haltestelle Saint-Mihiel).
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Die Strecke
 
@@ -78,7 +78,7 @@ Inklusive
 
 **Rendez-vous :** Laden Bike'N Tour, Quai de Versailles 27 (Tram Linie 2, Haltestelle Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reservieren](https://bike-n-tour.lokki.rent)
+[Reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Unsere weiteren Touren
 

@@ -15,7 +15,7 @@ La ville et le vignoble nantais racontés en une balade : l'histoire du Muscadet
 - Départs**Du jeudi au dimanche à 14 h**
 - Langues**Français, anglais**
 
-[Réserver la visite](https://bike-n-tour.lokki.rent)
+[Réserver la visite](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Annulation gratuite jusqu'à 48 h
 - 12 personnes maximum
@@ -25,7 +25,7 @@ La ville et le vignoble nantais racontés en une balade : l'histoire du Muscadet
 
 **En bref.** Wine & Bike Tour à Nantes : visite guidée de Nantes à vélo électrique proposée par Bike'N Tour. Durée 3 h 30, 65 € par personne (vélo électrique et casque, guide passionné, dégustation de 3 vins et fromages locaux, carte commentée de la ville). Départs du jeudi au dimanche à 14 h, en français ou anglais, 12 personnes maximum par guide, 100 % sur pistes cyclables. Rendez-vous : Boutique Bike'N Tour, 27 quai de Versailles (tram ligne 2, arrêt Saint-Mihiel).
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Le parcours
 
@@ -78,7 +78,7 @@ Inclus
 
 **Rendez-vous :** Boutique Bike'N Tour, 27 quai de Versailles (tram ligne 2, arrêt Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Réserver](https://bike-n-tour.lokki.rent)
+[Réserver](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nos autres visites
 

@@ -10,13 +10,13 @@ Starting from our shop
 
 Six major cycle routes start right from our shop in the centre of Nantes: La Loire à Vélo, La Vélodyssée, La Régalante, the Brittany Crossing, the Nantes–Brest Canal and the Nantes Vineyards. Whichever you choose, we get your bike, panniers and GPX track ready.
 
-[Book my bikes](https://bike-n-tour.lokki.rent)[Day rides](https://www.bikentour.com/en/day-rides-from-nantes)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Day rides](https://www.bikentour.com/en/day-rides-from-nantes)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
 **In short.** Six major cycle routes start from the Bike'N Tour shop at 27 quai de Versailles in Nantes: La Loire à Vélo (165 km, 3 to 4 days, easy level); La Vélodyssée (240 km, 4 to 5 days, easy level); La Régalante (275 km, 9 stages, easy level); The Brittany Crossing (485 km, 8 to 10 days, moderate level); The Nantes–Brest Canal (360 km, 6 to 8 days, easy level); The Nantes Vineyards (80 km, 2 days, easy level). For a first cycling trip or a family holiday, the easiest is the Loire à Vélo: flat, very well signposted and with train links for the journey back.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## The 6 cycle routes at a glance
 
@@ -58,7 +58,7 @@ Included with every route
 - Getting there and back by train
 - Our favourite places
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Cycle touring in pictures
 

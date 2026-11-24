@@ -55,5 +55,37 @@
       "auteur": "Jérémy M.",
       "itineraire": ""
     }
+  ],
+  "avis_pages": [
+    {
+      "texte": "Nous avons loué 70 vélos pour notre séminaire d'entreprise et sommes vraiment ravis ! Antoine et son équipe ont été géniaux du début à la fin : livraison, récupération, gestion des bagages avec l'hôtel… ils se sont adaptés à toutes nos demandes et nous ont vraiment simplifié l'organisation. Le rapport qualité-prix est très bon, tout s'est déroulé sans accroc. Rien à redire, c'était parfait !",
+      "auteur": "IMING",
+      "page": "groupes"
+    },
+    {
+      "texte": "Super vélo Gravel de très bonne qualité et performant. Habitant à Nantes, j'ai pu profiter des bords de Loire lors d'une belle sortie ensoleillée en septembre. Très bon accueil de l'équipe, je reviendrai pour un itinéraire sur plusieurs jours !",
+      "auteur": "Clem J.",
+      "page": "gravel"
+    },
+    {
+      "texte": "Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute.",
+      "auteur": "Corinne S.",
+      "page": "canal"
+    },
+    {
+      "texte": "Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute.",
+      "auteur": "Corinne S.",
+      "page": "electrique"
+    },
+    {
+      "texte": "Location de 2 gravels sur 6 jours avec sacoches pour faire Nantes-Saintes (450 km). Vélos de super qualité, sacoches tops et les équipes de Bike'N Tour aimables et pros. Je recommande pour un premier bikepacking.",
+      "auteur": "Pierre B.",
+      "page": "gravel"
+    },
+    {
+      "texte": "Première location de remorque vélo et je suis conquise ! Partie seule faire 30 km sur les bords de Loire avec mon bébé d'un an et demi pendant une journée : carriole nickel, légère, ma fille était très bien dedans. Le loueur est au top, très sympa, à l'écoute et arrangeant. […] Je recommande les yeux fermés avec bébé !",
+      "auteur": "Diane B.",
+      "page": "accessoires"
+    }
   ]
 }

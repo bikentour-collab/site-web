@@ -12,7 +12,7 @@ Le vélo électrique de voyage Sunn, fabriqué à quelques kilomètres de Nantes
 
 Dès **35 €** / jour
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -22,7 +22,7 @@ Dès **35 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos électriques Sunn Start S1 : 35 € la journée, 62 € le week-end et 172 € la semaine, tarifs dégressifs, caution de 1 000 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour la Régalante, la Traversée bretonne et la Loire à Vélo. Retrait à la boutique, 27 quai de Versailles à Nantes.
 
-Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Caractéristiques
 
@@ -81,7 +81,7 @@ Inclus
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Ou au [06 52 62 94 64](tel:+33652629464)
 
@@ -124,7 +124,11 @@ Avis vérifiés
 
 ## Ce qu'en disent nos voyageurs
 
-[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> « Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute. »
+>
+> Corinne S. · Google
 
 > « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »
 >
@@ -134,11 +138,7 @@ Avis vérifiés
 >
 > Hélène D. · Google
 
-> « Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue. »
->
-> Jérémy M. · Google
-
-[Lire tous les avis Google](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Sur le blog
 

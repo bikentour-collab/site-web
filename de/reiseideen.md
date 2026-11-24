@@ -10,13 +10,13 @@ Start direkt am Laden
 
 Sechs große Radfernwege starten an unserem Laden mitten in Nantes: La Loire à Vélo, La Vélodyssée, La Régalante, die Bretagne-Durchquerung, der Kanal von Nantes nach Brest und die Weinberge von Nantes. Für jede Route bereiten wir Ihnen Rad, Packtaschen und GPX-Track vor.
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)[Tagesausflüge](https://www.bikentour.com/de/radtouren-ab-nantes)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Tagesausflüge](https://www.bikentour.com/de/radtouren-ab-nantes)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
 **Kurz gesagt.** Sechs große Radrouten starten am Laden von Bike'N Tour, 27 quai de Versailles in Nantes: La Loire à Vélo (165 km, 3 bis 4 Tage, Schwierigkeit leicht); La Vélodyssée (240 km, 4 bis 5 Tage, Schwierigkeit leicht); La Régalante (275 km, 9 Etappen, Schwierigkeit leicht); Die Bretagne-Durchquerung (485 km, 8 bis 10 Tage, Schwierigkeit mittel); Der Kanal von Nantes nach Brest (360 km, 6 bis 8 Tage, Schwierigkeit leicht); Die Weinberge von Nantes (80 km, 2 Tage, Schwierigkeit leicht). Für die erste Radreise oder mit der Familie ist die Loire à Vélo am einfachsten: flach, sehr gut ausgeschildert und für die Rückfahrt gut mit dem Zug erreichbar.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Die 6 Radrouten auf einen Blick
 
@@ -58,7 +58,7 @@ Bei jeder Route inklusive
 - Anreise und Rückfahrt mit dem Zug
 - Unsere Lieblingsadressen
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Radreisen in Bildern
 

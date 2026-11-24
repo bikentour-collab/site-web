@@ -10,7 +10,7 @@ Page : https://www.bikentour.com/en/biken-tour-prices · Bike'N Tour, 27 quai de
 
 Simple prices that get cheaper the longer you ride, with lock, puncture repair kit and lights included. Book online in minutes, with free cancellation up to 48 hours before you set off.
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -20,7 +20,7 @@ Simple prices that get cheaper the longer you ride, with lock, puncture repair k
 
 **In short.** 2026 bike hire prices at Bike'N Tour, 27 quai de Versailles in Nantes: touring bike €22 a day, €110 a week; e-bike €35 a day, €172 a week; gravel bike €35 a day, €172 a week; kids' bike €20 a day, €88 a week. Lock, puncture repair kit and lights included. One-way hire on request, free cancellation up to 48 hours before you set off.
 
-Updated November 21, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 

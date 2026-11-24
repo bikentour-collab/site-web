@@ -16,7 +16,7 @@ Team building, séminaire, sortie d'équipe ou visite entre amis : grâce à l'a
 
 **En bref.** Bike'N Tour organise à Nantes des sorties à vélo pour les groupes et les entreprises : location de vélos pour groupes à partir de 16,67 € HT par vélo ; visites guidées privées à partir de 36 € HT par personne et animations et team building sur devis. 10 % de remise dès 10 personnes, vélos électriques pour que tout le monde roule ensemble, livraison sur le lieu du séminaire.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Nos formules
 
@@ -67,3 +67,23 @@ Votre demande
 Indiquez le nombre de participants, la date, le lieu et le type de sortie : nous revenons vers vous rapidement avec une proposition.
 
 [contact@bikentour.com](mailto:contact@bikentour.com?subject=Demande%20de%20devis%20groupe)
+
+Avis vérifiés
+
+## Ce qu'en disent nos voyageurs
+
+[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> « Nous avons loué 70 vélos pour notre séminaire d'entreprise et sommes vraiment ravis ! Antoine et son équipe ont été géniaux du début à la fin : livraison, récupération, gestion des bagages avec l'hôtel… ils se sont adaptés à toutes nos demandes et nous ont vraiment simplifié l'organisation. Le rapport qualité-prix est très bon, tout s'est déroulé sans accroc. Rien à redire, c'était parfait ! »
+>
+> IMING · Google
+
+> « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »
+>
+> Valentine D. · Google
+
+> « Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide. »
+>
+> Hélène D. · Google
+
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)

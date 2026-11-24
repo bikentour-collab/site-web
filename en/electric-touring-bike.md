@@ -12,7 +12,7 @@ The Sunn touring e-bike, made just a few kilometres from Nantes, with a Bosch mo
 
 From **€35** a day
 
-[Book my bikes](https://bike-n-tour.lokki.rent)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -22,7 +22,7 @@ From **€35** a day
 
 **In short.** In Nantes, Bike'N Tour hires out the Sunn Start S1 e-bike: €35 a day, €62 for the weekend and €172 for the week, with lower rates for longer hires and a €1,000 deposit. Lock, puncture repair kit, pump and lights are included, and the bike is fitted to your size. Recommended for La Régalante, The Brittany Crossing and La Loire à Vélo. Pick up at the shop, 27 quai de Versailles in Nantes.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Specifications
 
@@ -81,7 +81,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 
@@ -124,7 +124,11 @@ Verified reviews
 
 ## What our riders say
 
-[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “We hired 6 bikes from Bike'N Tour for a week to ride the Nantes–Brest Canal: 4 e-bikes and 2 city bikes, plus extra accessories. All very high-quality equipment. A warm welcome from Antoine, who took the time to advise us properly, as it was our first cycling holiday. Top service, a very professional and attentive rental shop.”
+>
+> Corinne S. · Google
 
 > “A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!”
 >
@@ -134,11 +138,7 @@ Verified reviews
 >
 > Hélène D. · Google
 
-> “Thanks for the gravel bike for my ride along the Loire! Antoine is brilliant – quick to respond and great at explaining things.”
->
-> Jérémy M. · Google
-
-[Read all Google reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Read all Google reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Have you rented from us? Leave a review](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## From our blog
 

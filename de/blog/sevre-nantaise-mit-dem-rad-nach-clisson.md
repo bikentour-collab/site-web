@@ -109,7 +109,7 @@ Route ab dem Laden
 
 Ein Wochenende zwischen Sèvre und Muscadet
 
-[Route ansehen](https://www.bikentour.com/de/reiseideen/weinberge-nantes) [Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Route ansehen](https://www.bikentour.com/de/reiseideen/weinberge-nantes) [Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Mehr aus unserem Blog
 

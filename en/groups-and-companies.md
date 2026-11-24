@@ -16,7 +16,7 @@ Team building, away day, team outing or a tour with friends: thanks to electric 
 
 **In short.** Bike'N Tour organises bike outings in Nantes for groups and companies: group bike hire from €16.67 excl. VAT per bike; private guided tours from €36 excl. VAT per person and team events and team building on request. 10% off for 10 people or more, e-bikes so everyone rides together, and delivery to your event venue.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Our packages
 
@@ -67,3 +67,23 @@ Your request
 Tell us the number of participants, the date, the place and the type of outing: we'll get back to you quickly with a proposal.
 
 [contact@bikentour.com](mailto:contact@bikentour.com?subject=Demande%20de%20devis%20groupe)
+
+Verified reviews
+
+## What our riders say
+
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “We hired 70 bikes for our company seminar and we are truly delighted! Antoine and his team were brilliant from start to finish: delivery, collection, handling the luggage with the hotel… they adapted to all our requests and really made the organisation easier. Excellent value for money, everything went smoothly. Nothing to fault, it was perfect!”
+>
+> IMING · Google
+
+> “A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!”
+>
+> Valentine D. · Google
+
+> “A pleasant bike, used for three days without any trouble. A warm welcome and a really smooth booking process.”
+>
+> Hélène D. · Google
+
+[Read all Google reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Have you rented from us? Leave a review](https://g.page/r/CSUgp_2wq_1tEBM/review)

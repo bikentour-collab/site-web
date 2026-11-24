@@ -10,13 +10,13 @@ Au départ de la boutique
 
 Six grandes véloroutes partent de notre boutique, en plein centre de Nantes : la Loire à Vélo, la Vélodyssée, la Régalante, la Traversée bretonne, le Canal de Nantes à Brest et le Vignoble nantais. Pour chacune, on vous prépare le vélo, les sacoches et la trace GPX.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Balades à la journée](https://www.bikentour.com/fr/idees-de-balades)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Balades à la journée](https://www.bikentour.com/fr/idees-de-balades)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
 **En bref.** Six grandes véloroutes partent de la boutique Bike'N Tour, au 27 quai de Versailles à Nantes : la Loire à Vélo (165 km, 3 à 4 jours, niveau facile) ; la Vélodyssée (240 km, 4 à 5 jours, niveau facile) ; la Régalante (275 km, 9 étapes, niveau facile) ; la Traversée bretonne (485 km, 8 à 10 jours, niveau modéré) ; le Canal de Nantes à Brest (360 km, 6 à 8 jours, niveau facile) ; le Vignoble nantais (80 km, 2 jours, niveau facile). Pour un premier voyage à vélo ou en famille, la plus simple est la Loire à Vélo : plate, très bien balisée et desservie par le train pour le retour.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les 6 véloroutes en un coup d'œil
 
@@ -58,7 +58,7 @@ Inclus avec chaque itinéraire
 - Accès en train et retour
 - Nos bonnes adresses
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Le voyage à vélo en images
 

@@ -10,13 +10,13 @@ Desde nuestra tienda
 
 Seis grandes rutas ciclistas salen de nuestra tienda, en pleno centro de Nantes: la Loire à Vélo, la Vélodyssée, La Régalante, la Traversée bretonne, el Canal de Nantes à Brest y los viñedos de Nantes. Para cada una, le preparamos la bici, las alforjas y el track GPX.
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)[Paseos de un día](https://www.bikentour.com/es/paseos-en-bicicleta-desde-nantes)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Paseos de un día](https://www.bikentour.com/es/paseos-en-bicicleta-desde-nantes)
 
 ![Grupo de ciclistas a orillas del Loira](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
 **En resumen.** Seis grandes rutas ciclistas salen de la tienda Bike'N Tour, en el 27 quai de Versailles de Nantes: La Loire à Vélo (165 km, 3 a 4 días, nivel fácil); La Vélodyssée (240 km, 4 a 5 días, nivel fácil); La Régalante (275 km, 9 etapas, nivel fácil); La Travesía bretona (485 km, 8 a 10 días, nivel moderado); El Canal de Nantes à Brest (360 km, 6 a 8 días, nivel fácil); El Viñedo de Nantes (80 km, 2 días, nivel fácil). Para un primer viaje en bici o en familia, la más sencilla es la Loire à Vélo: llana, muy bien señalizada y con conexiones de tren para la vuelta.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Las 6 rutas ciclistas de un vistazo
 
@@ -58,7 +58,7 @@ Incluido con cada ruta
 - Acceso en tren y vuelta
 - Nuestras direcciones favoritas
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## El viaje en bici en imágenes
 

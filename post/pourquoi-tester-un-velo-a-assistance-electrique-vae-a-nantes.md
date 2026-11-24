@@ -108,7 +108,7 @@ Article publié le 11 décembre 2019, mis à jour le 4 novembre 2026 par l'équi
 
 Dès 35 € / jour, 172 € la semaine.
 
-[Voir le vélo](https://www.bikentour.com/fr/location-velo-electrique-voyage) [Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Voir le vélo](https://www.bikentour.com/fr/location-velo-electrique-voyage) [Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## À lire aussi
 

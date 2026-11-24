@@ -12,7 +12,7 @@ Op pad met het gezin: kinderfietsen van 20 tot 26 inch, en voor de allerkleinste
 
 Vanaf **€ 20** per dag
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)[Alle prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -22,7 +22,7 @@ Vanaf **€ 20** per dag
 
 **In het kort.** Bike'N Tour verhuurt in Nantes de kinderfiets van Decathlon (20, 24 of 26 inch): € 20 per dag, € 38 per weekend en € 88 per week, met staffelkorting, borg € 500. Slot, bandenreparatieset, pomp en verlichting zijn inbegrepen en de fiets wordt op je maat afgesteld. Aanbevolen voor La Loire à Vélo en De wijngaarden van Nantes. Ophalen in de winkel, 27 quai de Versailles in Nantes.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Kenmerken
 
@@ -72,7 +72,7 @@ Inbegrepen
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 Of bel [06 52 62 94 64](tel:+33652629464)
 
@@ -114,7 +114,7 @@ Geverifieerde reviews
 
 ## Wat onze reizigers zeggen
 
-[![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
 
 > “Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!”
 >
@@ -128,7 +128,7 @@ Geverifieerde reviews
 >
 > Jérémy M. · Google
 
-[Alle Google-reviews lezen](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Alle Google-reviews lezen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Bij ons gehuurd? Laat een review achter](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Van onze blog
 

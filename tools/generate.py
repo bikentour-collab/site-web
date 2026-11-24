@@ -26,7 +26,7 @@ if LANG == 'fr':
     postprocess.run()          # images, versions .md, dates de modification réelles
     pages.write_seo_files()    # sitemap (dates réelles), robots, llms.txt
 else:
-    for f in I18N_PAGES + (blog.build_lang,):
+    for f in I18N_PAGES + (blog.build_lang, pages_extra.press):
         f()
     pages.save_pages()
     print(len(pages.PAGES) + 1, f'pages générées ({LANG})')

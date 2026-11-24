@@ -12,7 +12,7 @@ Precios, elección de la bici, rutas desde Nantes, solo ida, accesorios, fianza:
 
 **En resumen.** Para alquilar una bici en Nantes e irse de viaje, Bike'N Tour (27 quai de Versailles, a orillas del Erdre) alquila bicicleta de viaje desde 22 €, bicicleta eléctrica desde 35 €, bicicleta gravel desde 35 € y bicicleta infantil desde 20 € al día, con opción solo ida con presupuesto a medida y cancelación gratuita hasta 48 h antes. Seis rutas ciclistas salen de la tienda, entre ellas la Loire à Vélo (165 km hasta Saumur).
 
-Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## ¿Dónde alquilar una bici en Nantes para irse de viaje?
 
@@ -98,7 +98,7 @@ La fianza es de 500 € (bicicleta de viaje, bicicleta infantil), 1 000 € 
 
 ## ¿Cómo reservar y se puede cancelar?
 
-La reserva se hace en línea en [bike-n-tour.lokki.rent](https://bike-n-tour.lokki.rent), por teléfono al 06 52 62 94 64 o en la tienda. La cancelación es gratuita hasta 48 h antes de la salida. El pago se realiza en línea o en la tienda, con tarjeta bancaria o cheque.
+La reserva se hace en línea en [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), por teléfono al 06 52 62 94 64 o en la tienda. La cancelación es gratuita hasta 48 h antes de la salida. El pago se realiza en línea o en la tienda, con tarjeta bancaria o cheque.
 
 ## ¿Se puede visitar Nantes en bici con un guía?
 
@@ -125,7 +125,7 @@ Bike'N Tour organiza salidas para grupos y eventos de empresa: alquiler desde 16
 9. [¿Se puede visitar Nantes en bici con un guía?](#q9)
 10. [¿Y para un grupo o una empresa?](#q10)
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## De nuestro blog
 

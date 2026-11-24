@@ -15,7 +15,7 @@ Itinéraire au départ de Nantes
 - Niveau**Facile**
 - Aller simple**Oui, sur demande**
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Recevoir la trace GPX](#gpx)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Recevoir la trace GPX](#gpx)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -97,7 +97,7 @@ Vélo conseillé
 
 Sacoches Ortlieb étanches en option (5 € / jour), aller simple sur devis.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Les autres itinéraires au départ de Nantes
 
@@ -151,3 +151,23 @@ Le bassin Ceineray, à quelques minutes de notre boutique, est le dernier plan d
 Préparer son premier voyage à vélo au départ de Nantes : choisir l'itinéraire, doser les étapes, faire ses…](https://www.bikentour.com/post/balade-incontournable-le-voyage-a-velo)
 
 [Tous les articles du blog](https://www.bikentour.com/fr/blog)
+
+Avis vérifiés
+
+## Ce qu'en disent nos voyageurs
+
+[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> « Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute. »
+>
+> Corinne S. · Google
+
+> « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »
+>
+> Valentine D. · Google
+
+> « Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide. »
+>
+> Hélène D. · Google
+
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)

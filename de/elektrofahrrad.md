@@ -12,7 +12,7 @@ Das Reise-E-Bike von Sunn, nur wenige Kilometer von Nantes entfernt hergestellt,
 
 Ab **35 €** pro Tag
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)[Alle Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Alle Preise](https://www.bikentour.com/de/preis)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -22,7 +22,7 @@ Ab **35 €** pro Tag
 
 **Kurz gesagt.** Bike'N Tour vermietet in Nantes das Modell Sunn Start S1 (E-Bike): 35 € pro Tag, 62 € pro Wochenende und 172 € pro Woche, Staffelpreise, Kaution 1.000 €. Schloss, Pannenset, Pumpe und Beleuchtung sind inklusive, und das Rad wird auf Ihre Größe eingestellt. Empfohlen für La Régalante, Die Bretagne-Durchquerung und La Loire à Vélo. Abholung im Laden, 27 quai de Versailles in Nantes.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Technische Daten
 
@@ -81,7 +81,7 @@ Inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 Oder telefonisch unter [06 52 62 94 64](tel:+33652629464)
 
@@ -124,7 +124,11 @@ Verifizierte Bewertungen
 
 ## Das sagen unsere Gäste
 
-[![Google-Bewertungen](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 Bewertungen](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Google-Bewertungen](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 Bewertungen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> „Wir haben bei Bike'N Tour für eine Woche 6 Räder für den Kanal von Nantes nach Brest gemietet: 4 E-Bikes und 2 Stadträder, dazu Zubehör. Durchweg sehr hochwertiges Material. Herzlicher Empfang von Antoine, der sich Zeit nahm, uns gut zu beraten – es war unser erster Fahrradurlaub. Top-Service, ein sehr professioneller und aufmerksamer Verleih.“
+>
+> Corinne S. · Google
 
 > „Radreise entlang der Loire à Vélo mit 2 E-Bikes und einem Reiserad, alle mit Packtaschen! Danke für die Empfehlungen, wir waren begeistert!“
 >
@@ -134,11 +138,7 @@ Verifizierte Bewertungen
 >
 > Hélène D. · Google
 
-> „Danke für das Gravelbike für meine Tour an der Loire! Antoine ist spitze, schnell und erklärt alles super.“
->
-> Jérémy M. · Google
-
-[Alle Google-Bewertungen lesen](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Alle Google-Bewertungen lesen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Schon bei uns gemietet? Bewertung schreiben](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Aus unserem Blog
 

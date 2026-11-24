@@ -10,13 +10,13 @@ Ideeën voor fietstochten
 
 Een dag of een weekend: onze ideeën voor fietstochten op eigen houtje vanaf de winkel, met de regionale trein (TER) terug waar dat kan. Afstanden en niveaus komen uit onze eigen ritten met het team.
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pauze tijdens een fietstocht in het centrum van Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 
 **In het kort.** 11 ideeën voor fietstochten van een dag of een weekend vanaf de winkel van Bike'N Tour in Nantes: De Sèvre nantaise tot Clisson (37 km (enkele reis)), De Loireoevers tot Oudon (30 km), De Loire à Vélo tot Cordemais (46 km), Het meer van Grand-Lieu (18 km), Het panorama van Nantes (20 km), De Erdre tot Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17,5 km), Le Pellerin via de zuidoever (24 km), Nantes – Pornic in twee dagen (100 km), Nantes – Angers in twee dagen (110 km), Nantes – Saint-Nazaire via de Vélidéale (90 km). Fiets huren vanaf € 22 per dag, e-bike vanaf € 35.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## De Sèvre nantaise tot Clisson
 

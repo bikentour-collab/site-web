@@ -16,7 +16,7 @@ Teambuilding, seminar, teamuitje of een rondleiding met vrienden: dankzij de ele
 
 **In het kort.** Bike'N Tour organiseert in Nantes fietsuitjes voor groepen en bedrijven: fietsverhuur voor groepen vanaf € 16,67 excl. btw per fiets; privérondleidingen vanaf € 36 excl. btw per persoon en activiteiten en teambuilding op offerte. 10% korting vanaf 10 personen, e-bikes zodat iedereen samen fietst, bezorging op de seminarlocatie.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Onze formules
 
@@ -67,3 +67,23 @@ Je aanvraag
 Vermeld het aantal deelnemers, de datum, de plaats en het soort uitje: we komen snel bij je terug met een voorstel.
 
 [contact@bikentour.com](mailto:contact@bikentour.com?subject=Demande%20de%20devis%20groupe)
+
+Geverifieerde reviews
+
+## Wat onze reizigers zeggen
+
+[![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “We huurden 70 fietsen voor ons bedrijfsseminar en zijn echt heel blij! Antoine en zijn team waren van begin tot eind geweldig: levering, ophalen, de bagage met het hotel regelen… ze pasten zich aan al onze wensen aan en maakten de organisatie echt eenvoudiger. Uitstekende prijs-kwaliteitverhouding, alles verliep vlekkeloos. Niets op aan te merken, het was perfect!”
+>
+> IMING · Google
+
+> “Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!”
+>
+> Valentine D. · Google
+
+> “Fijne fiets, drie dagen zonder problemen gebruikt. Een verzorgde ontvangst en een heel vlotte reservering.”
+>
+> Hélène D. · Google
+
+[Alle Google-reviews lezen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Bij ons gehuurd? Laat een review achter](https://g.page/r/CSUgp_2wq_1tEBM/review)

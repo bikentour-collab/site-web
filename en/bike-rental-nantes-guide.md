@@ -12,7 +12,7 @@ Prices, choosing a bike, routes from Nantes, one-way hire, accessories, deposit:
 
 **In short.** To hire a bike in Nantes for a cycling trip, Bike'N Tour (27 quai de Versailles, on the banks of the Erdre) offers touring bikes from €22, e-bikes from €35, gravel bikes from €35 and kids' bikes from €20 a day, with one-way hire on request and free cancellation up to 48 hours before. Six cycle routes start from the shop, including the Loire à Vélo (165 km to Saumur).
 
-Updated November 21, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Where can I hire a touring bike in Nantes?
 
@@ -98,7 +98,7 @@ The deposit is 500 € (touring bike, kids' bike), 1,000 € (e-bike, gravel b
 
 ## How do I book, and can I cancel?
 
-You can book online at [bike-n-tour.lokki.rent](https://bike-n-tour.lokki.rent), by phone on 06 52 62 94 64 or at the shop. Cancellation is free up to 48 hours before you set off. You can pay online or at the shop, by credit card or cheque.
+You can book online at [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), by phone on 06 52 62 94 64 or at the shop. Cancellation is free up to 48 hours before you set off. You can pay online or at the shop, by credit card or cheque.
 
 ## Can I take a guided bike tour of Nantes?
 
@@ -125,7 +125,7 @@ Contents
 9. [Can I take a guided bike tour of Nantes?](#q9)
 10. [What about groups or companies?](#q10)
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## From our blog
 

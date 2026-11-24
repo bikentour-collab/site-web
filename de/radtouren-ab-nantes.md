@@ -10,13 +10,13 @@ Ausflugsideen
 
 Ein Tag oder ein Wochenende: unsere Ideen für Radausflüge auf eigene Faust ab dem Laden, mit Rückfahrt im Regionalzug (TER), wo möglich. Distanzen und Schwierigkeitsgrade stammen von unseren eigenen Touren mit dem Team.
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pause mit dem Rad im Zentrum von Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 
 **Kurz gesagt.** 11 Ideen für Radausflüge von einem Tag oder einem Wochenende ab dem Laden von Bike'N Tour in Nantes: Die Sèvre nantaise bis Clisson (37 km (einfache Strecke)), Die Loire-Ufer bis Oudon (30 km), Die Loire à Vélo bis Cordemais (46 km), Der Lac de Grand-Lieu (18 km), Rundtour Panorama von Nantes (20 km), Die Erdre bis Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17,5 km), Le Pellerin über das Südufer (24 km), Nantes – Pornic in zwei Tagen (100 km), Nantes – Angers in zwei Tagen (110 km), Nantes – Saint-Nazaire über die Vélidéale (90 km). Fahrradverleih ab 22 € pro Tag, E-Bike ab 35 €.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Die Sèvre nantaise bis Clisson
 

@@ -8,7 +8,28 @@ Preguntas frecuentes
 
 # Alquilar una bici en Nantes: todas sus preguntas
 
-Alquiler, reserva, fianza, solo ida, cómo llegar a la tienda: las respuestas a las preguntas que más nos hacen. ¿Tiene otra pregunta? Llámenos al [06 52 62 94 64](tel:+33652629464). Para entenderlo todo en una sola página: [la guía del alquiler de bicicletas en Nantes](https://www.bikentour.com/es/guia-alquiler-bicicletas-nantes).
+Alquiler, reserva, fianza, solo ida, cómo llegar a la tienda: respuestas a las preguntas más frecuentes.
+
+Buscar una pregunta
+
+Ninguna pregunta coincide. Escríbanos: le responderemos enseguida.
+
+[El alquiler](#faq-el-alquiler)[Reserva y servicios](#faq-reserva-y-servicios)[Fianza, daños y asistencia](#faq-fianza-danos-y-asistencia)[Cómo llegar a la tienda](#faq-como-llegar-a-la-tienda)
+
+Temas
+
+- [El alquiler 5](#faq-el-alquiler)
+- [Reserva y servicios 3](#faq-reserva-y-servicios)
+- [Fianza, daños y asistencia 3](#faq-fianza-danos-y-asistencia)
+- [Cómo llegar a la tienda 3](#faq-como-llegar-a-la-tienda)
+
+**¿No encuentra su respuesta?**
+
+Respondemos enseguida, normalmente en el mismo día.
+
+[06 52 62 94 64](tel:+33652629464)
+[WhatsApp](https://wa.me/33652629464)
+[Escríbanos](https://www.bikentour.com/es/contacto)
 
 ## El alquiler
 
@@ -73,3 +94,5 @@ De abril a octubre, de martes a domingo, y todos los días en julio y agosto, de
 ### ¿Ofrecen visitas privadas?
 
 Sí, para familias, grupos de amigos y empresas: consulte nuestra página Grupos y empresas o contacte con nosotros.
+
+Todo en una página: [nuestra guía del alquiler de bicicletas en Nantes](https://www.bikentour.com/es/guia-alquiler-bicicletas-nantes).

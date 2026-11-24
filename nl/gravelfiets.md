@@ -12,7 +12,7 @@ Voor wie van de gebaande paden af wil: jaagpaden, bospaden en smalle wegen door 
 
 Vanaf **€ 35** per dag
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)[Alle prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Alle prijzen](https://www.bikentour.com/nl/prijs)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -22,7 +22,7 @@ Vanaf **€ 35** per dag
 
 **In het kort.** Bike'N Tour verhuurt in Nantes de gravelbike van Sunn (Venture S1): € 35 per dag, € 62 per weekend en € 172 per week, met staffelkorting, borg € 1.000. Slot, bandenreparatieset, pomp en verlichting zijn inbegrepen en de fiets wordt op je maat afgesteld. Aanbevolen voor De wijngaarden van Nantes en Het kanaal van Nantes naar Brest. Ophalen in de winkel, 27 quai de Versailles in Nantes.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Kenmerken
 
@@ -75,7 +75,7 @@ Inbegrepen
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 Of bel [06 52 62 94 64](tel:+33652629464)
 
@@ -117,21 +117,21 @@ Geverifieerde reviews
 
 ## Wat onze reizigers zeggen
 
-[![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “Super gravelbike, van zeer goede kwaliteit en snel. Ik woon in Nantes en heb op een mooie zonnige dag in september genoten van de Loireoevers. Heel goed onthaal door het team, ik kom terug voor een meerdaagse tocht!”
+>
+> Clem J. · Google
+
+> “2 gravelbikes gehuurd voor 6 dagen met fietstassen om van Nantes naar Saintes te rijden (450 km). Fietsen van topkwaliteit, prima tassen en het team van Bike'N Tour was vriendelijk en professioneel. Aanrader voor een eerste bikepackingtocht.”
+>
+> Pierre B. · Google
 
 > “Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!”
 >
 > Valentine D. · Google
 
-> “Fijne fiets, drie dagen zonder problemen gebruikt. Een verzorgde ontvangst en een heel vlotte reservering.”
->
-> Hélène D. · Google
-
-> “Bedankt voor de gravelbike voor mijn tocht langs de Loire! Antoine is top, reageert snel en legt alles goed uit.”
->
-> Jérémy M. · Google
-
-[Alle Google-reviews lezen](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Alle Google-reviews lezen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Bij ons gehuurd? Laat een review achter](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Van onze blog
 

@@ -109,7 +109,7 @@ Itinéraire au départ de la boutique
 
 Un fin de semana entre el Sèvre y el Muscadet
 
-[Voir l'itinéraire](https://www.bikentour.com/es/rutas-en-bicicleta/vinedos-de-nantes) [Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Voir l'itinéraire](https://www.bikentour.com/es/rutas-en-bicicleta/vinedos-de-nantes) [Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Más en nuestro blog
 

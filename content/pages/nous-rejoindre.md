@@ -1,56 +1,44 @@
 ---
-titre: "Nous rejoindre"
-title: "Nous rejoindre : stages et emplois | Bike'N Tour"
-description: "Rejoignez l'équipe Bike'N Tour à Nantes : stage en gestion de projet et relation clients, renfort saisonnier dans la location de vélos."
+titre: "Rejoindre l'équipe Bike'N Tour"
+title: "Nous rejoindre : stage et emploi saisonnier | Bike'N Tour"
+description: "Rejoignez l'équipe Bike'N Tour à Nantes : stage en gestion de projet et relation clients, renfort saisonnier dans la location de vélos. Postulez en ligne."
 ---
 
-## Fiche de poste - Stage Gestion de projet & Relation clients :
+Bike'N Tour loue des vélos de voyage, électriques et gravel aux voyageurs, aux visiteurs et aux entreprises, et fait découvrir Nantes à vélo en visite guidée. La boutique est au 27 quai de Versailles, au bord de l'Erdre, au départ du canal de Nantes à Brest. L'équipe : un gérant mécanicien vélo, un renfort saisonnier pendant le pic d'activité, et une personne en stage (peut-être vous !).
 
-Bike N Tour est une entreprise de location de vélo à destination des visiteurs, des voyageurs et des professionnels.  
-Basé en plein coeur de Nantes, nous proposons une quantité de vélos variés pour répondre aux besoins de nos différents visiteurs.
+## Stage gestion de projet et relation clients
 
-**Nous proposons différentes offres**
+Bike'N Tour est une entreprise en croissance : la mission mêle opérationnel et développement, et s'adapte à vos compétences, à vos envies et au rythme de la saison.
 
-- Location simple de vélos & accessoires  
-- Balades guidées et thématisés (FR / EN)  
-- Prestations, séminaires  
-- Location longue durée pour des hôtels, campings ...  
+**Vos missions**
 
-Il s'agit d'une entreprise en croissance, notre objectif est de répondre au mieux aux attentes des touristes à vélo avec une solution adaptés à leur besoin.  
-Pour cela l'équipe est composé d'un gérant, d'un renfort saisonnier pendant le pic d'activité et d'une personne en stage ( Toi ! ).  
-Notre boutique est au 27 quai de Versailles, au bord de l'Erdre, face à l'île de Versailles et au départ du canal de Nantes à Brest.
-
-Concernant la mission : Celle ci est variable en fonction de tes compétences, appétences et préférences mais aussi du flux d'activité.  
-Bike N Tour est une société en plein développement, il y a donc à la fois des missions opérationnelles et des missions de développement.
-
-> Renseignement client (tel, mail & en boutique)  
-> Gérer les réservations (en ligne et en boutique) et s'assurer que tous les clients soient satisfaits (5/5 sur Google & Tripadvisor!)  
-> Préparer les départs (avec le gérant - mécanicien vélo)  
-> Rencontre et partenariats avec les acteurs locaux (Voyage à Nantes, hébergeurs ...)  
-> Animation du site interner & communication sur les réseaux sociaux (Plan marketing partagé par le gérant)  
-> Gestion des balades guidées (optionnel)  
-> Réponses aux demandes des entreprises et participation à l'organisation des événements B2B
-
-Le poste est large et peut s'adapter en fonction des compétences, passions et volonté
+- Renseigner les clients au téléphone, par email et en boutique
+- Gérer les réservations (en ligne et en boutique) et veiller à ce que chaque client reparte satisfait (5/5 sur Google et Tripadvisor !)
+- Préparer les départs avec le gérant, mécanicien vélo
+- Développer les partenariats avec les acteurs locaux (Le Voyage à Nantes, hébergeurs…)
+- Animer le site internet et les réseaux sociaux, selon le plan marketing défini avec le gérant
+- Gérer les balades guidées (en option)
+- Répondre aux demandes des entreprises et participer à l'organisation des événements
 
 **Profil recherché**
 
-Homme / Femme  
-Niveau L3 / M1 / M2  
-Dynamique, volontaire, force de proposition et toujours le sourire pour accueillir nos clients et leur apporter la bonne solution !  
-Vous vous débrouillez en Anglais (french accent autorisé ;)).  
-Vous êtes formé.e dans l'univers du tourisme, de la gestion de projet, de la durabilité, ou tout autre formation en lien avec le poste et vous êtes pratiquant.e / sensible à l'usage du vélo.  
-Vous souhaitez participer activement au développement de la structure et prendre des responsabilités pour y contribuer.  
-Vous êtes rigoureux.se et organisé.e, Bref, vous vous reconnaissez parfaitement dans ce poste et vous aimeriez contribuer au développement de Bike N Tour, vous êtes bienvenue dans la Team !!
+- Niveau L3, M1 ou M2 : tourisme, gestion de projet, développement durable ou formation proche
+- Dynamique, volontaire, force de proposition, et le sourire pour accueillir nos clients
+- À l'aise en anglais (l'accent français est autorisé)
+- Pratiquant ou sensible au vélo
+- Rigoureux, organisé, et envie de prendre des responsabilités
 
-Infos pratiques :Stage de 4 à 6 mois (dates flexibles) à partir du 4 Avril 2024 Basé à Nantes - 27 quai de Versailles. (en présentiel).
+**Infos pratiques**
 
-Gratification : 600 € / mois + prêt d'un vélo à la demande  
-Emploi du temps variable à prévoir (travail le weekend possible). Présence physique.
+- Stage de 4 à 6 mois, à partir du printemps (dates flexibles)
+- À Nantes, 27 quai de Versailles, en présentiel
+- Gratification : 600 € par mois, et prêt d'un vélo à la demande
+- Emploi du temps variable, travail le week-end possible
 
-Cela t'intéresse ? Partages nous ton CV et une lettre de motivation personnalisée pour nous expliquer pourquoi tu seras la prochaine pépite de l'équipe !  
-A bientôt à vélo avec Bike N Tour
+## Renfort saisonnier
 
-## contact
+Pendant la haute saison, nous renforçons l'équipe pour l'accueil des clients, la préparation des vélos et les départs. Envoyez-nous une candidature spontanée en précisant vos disponibilités.
 
-Faites nous parvenir votre CV et une lettre de motivation à l'attention d'Antoine : contact@bikentour.com
+## Comment postuler ?
+
+Remplissez le formulaire avec votre CV et quelques lignes sur vous : pourquoi Bike'N Tour, et ce que vous aimeriez apporter à l'équipe. Antoine lit toutes les candidatures et vous répond rapidement.

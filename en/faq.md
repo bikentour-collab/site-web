@@ -8,7 +8,28 @@ FAQ
 
 # Hiring a bike in Nantes: all your questions
 
-Hire, booking, deposit, one-way hire, getting to the shop: answers to the questions we're asked most often. Another question? Call us on [06 52 62 94 64](tel:+33652629464). For the full picture on one page: [our guide to bike hire in Nantes](https://www.bikentour.com/en/bike-rental-nantes-guide).
+Hire, booking, deposit, one-way hire, getting to the shop: answers to the questions we are asked most often.
+
+Search a question
+
+No matching question. Write to us: we will reply quickly.
+
+[Bike hire](#faq-bike-hire)[Booking and services](#faq-booking-and-services)[Deposit, damage and assistance](#faq-deposit-damage-and-assistance)[Getting to the shop](#faq-getting-to-the-shop)
+
+Topics
+
+- [Bike hire 5](#faq-bike-hire)
+- [Booking and services 3](#faq-booking-and-services)
+- [Deposit, damage and assistance 3](#faq-deposit-damage-and-assistance)
+- [Getting to the shop 3](#faq-getting-to-the-shop)
+
+**Can't find your answer?**
+
+We reply quickly, usually within the day.
+
+[06 52 62 94 64](tel:+33652629464)
+[WhatsApp](https://wa.me/33652629464)
+[Write to us](https://www.bikentour.com/en/contact)
 
 ## Bike hire
 
@@ -73,3 +94,5 @@ From April to October, Tuesday to Sunday, and every day in July and August, 9.30
 ### Do you offer private tours?
 
 Yes, for families, groups of friends and companies: see our Groups and companies page or get in touch.
+
+Everything on one page: [our guide to bike hire in Nantes](https://www.bikentour.com/en/bike-rental-nantes-guide).

@@ -260,6 +260,91 @@ async function handleGpx(req, res) {
   return json(200, { ok: true });
 }
 
+// ---------- Formulaires Contact et Recrutement (pages Contact et Nous rejoindre) ----------
+// POST /api/contact (JSON). Envoi par Resend à CONTACT_EMAIL (ou JOBS_EMAIL pour les candidatures), CV en pièce jointe,
+// et accusé de réception au visiteur. Sans RESEND_API_KEY : 501, le navigateur ouvre la messagerie.
+const formHits = new Map();
+const FILE_TYPES = { pdf: 'application/pdf', doc: 'application/msword', docx: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', odt: 'application/vnd.oasis.opendocument.text', jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png' };
+function readJson(req, max) {
+  return new Promise(resolve => {
+    let size = 0; const chunks = [];
+    req.on('data', c => { size += c.length; if (size > max) { req.destroy(); resolve(null); } else chunks.push(c); });
+    req.on('end', () => { try { resolve(JSON.parse(Buffer.concat(chunks).toString('utf8'))); } catch (e) { resolve(null); } });
+  });
+}
+const ACK = {
+  contact: {
+    fr: ['Nous avons bien reçu votre message', "Bonjour {nom},\n\nMerci pour votre message, nous l'avons bien reçu. Nous vous répondons rapidement, en général dans la journée pendant la saison.\n\nBesoin d'une réponse immédiate ? Appelez-nous au 06 52 62 94 64 ou écrivez-nous sur WhatsApp.\n\nÀ bientôt,\nL'équipe Bike'N Tour"],
+    en: ['We have received your message', "Hello {nom},\n\nThank you for your message. We will get back to you shortly, usually within the day during the season.\n\nNeed an answer right away? Call us on +33 6 52 62 94 64 or message us on WhatsApp.\n\nSee you soon,\nThe Bike'N Tour team"],
+    nl: ['We hebben uw bericht ontvangen', "Hallo {nom},\n\nBedankt voor uw bericht. We antwoorden snel, tijdens het seizoen meestal dezelfde dag.\n\nMeteen een antwoord nodig? Bel ons op +33 6 52 62 94 64 of stuur een WhatsApp-bericht.\n\nTot snel,\nHet team van Bike'N Tour"],
+    de: ['Wir haben Ihre Nachricht erhalten', "Hallo {nom},\n\nvielen Dank für Ihre Nachricht. Wir melden uns schnell, in der Saison meist noch am selben Tag.\n\nSie brauchen sofort eine Antwort? Rufen Sie uns an unter +33 6 52 62 94 64 oder schreiben Sie uns per WhatsApp.\n\nBis bald,\nIhr Bike'N Tour-Team"],
+    es: ['Hemos recibido su mensaje', "Hola, {nom}:\n\nGracias por su mensaje. Le responderemos enseguida, normalmente en el mismo día durante la temporada.\n\n¿Necesita una respuesta inmediata? Llámenos al +33 6 52 62 94 64 o escríbanos por WhatsApp.\n\nHasta pronto,\nEl equipo de Bike'N Tour"],
+  },
+  candidature: { fr: ['Votre candidature chez Bike\'N Tour', "Bonjour {nom},\n\nMerci pour votre candidature, nous l'avons bien reçue. Nous la lisons avec attention et revenons vers vous rapidement.\n\nÀ bientôt,\nAntoine et l'équipe Bike'N Tour"] },
+};
+async function handleForm(req, res) {
+  const json = (code, obj) => { res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); res.end(JSON.stringify(obj)); };
+  if (!process.env.RESEND_API_KEY) return json(501, { ok: false });
+  const ip = clientIp(req), now = Date.now();
+  const recent = (formHits.get(ip) || []).filter(t => now - t < 60 * 60 * 1000);
+  if (recent.length >= 5) return json(429, { ok: false });
+  const d = await readJson(req, 8 * 1024 * 1024);
+  if (!d) return json(413, { ok: false });
+  if (d.site) return json(200, { ok: true }); // champ piège anti-robots
+  recent.push(now); formHits.set(ip, recent);
+  const clean = (v, n) => String(v || '').replace(/[\u0000-\u0008\u000b-\u001f]/g, '').trim().slice(0, n);
+  const kind = ['candidature', 'newsletter'].includes(d.kind) ? d.kind : 'contact';
+  const lang = LANGS.includes(d.lang) ? d.lang : 'fr';
+  if (kind === 'newsletter') return handleNewsletter(json, clean(d.email, 200), lang);
+  const f = { nom: clean(d.nom, 120), email: clean(d.email, 200), tel: clean(d.tel, 40), sujet: clean(d.sujet, 120), dates: clean(d.dates, 120), poste: clean(d.poste, 120), message: clean(d.message, 5000) };
+  if (!f.nom || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(f.email) || (kind === 'contact' && f.message.length < 2)) return json(400, { ok: false });
+  const attachments = [];
+  if (kind === 'candidature' && d.file && d.file.data) {
+    const ext = String(d.file.name || '').split('.').pop().toLowerCase();
+    const buf = Buffer.from(String(d.file.data), 'base64');
+    if (!FILE_TYPES[ext] || buf.length > 5 * 1024 * 1024) return json(415, { ok: false });
+    attachments.push({ filename: `CV-${f.nom.replace(/[^\p{L}\p{N}]+/gu, '-')}.${ext}`.slice(0, 100), content: buf.toString('base64') });
+  }
+  const to = kind === 'candidature' ? (process.env.JOBS_EMAIL || CONTACT_EMAIL) : CONTACT_EMAIL;
+  const subject = kind === 'candidature' ? `Candidature : ${f.poste || 'spontanée'} – ${f.nom}` : `Message du site : ${f.sujet || 'contact'} – ${f.nom}`;
+  const lines = [`${kind === 'candidature' ? 'Nouvelle candidature' : 'Nouveau message'} depuis le site (langue : ${lang})`, '',
+    `Nom : ${f.nom}`, `Email : ${f.email}`, f.tel && `Téléphone : ${f.tel}`, f.sujet && `Sujet : ${f.sujet}`, f.dates && `Dates : ${f.dates}`, f.poste && `Poste : ${f.poste}`,
+    attachments.length ? 'CV : en pièce jointe' : (kind === 'candidature' ? 'CV : non joint' : false), '', f.message, '', '— Répondez à ce message pour écrire directement à cette personne.'].filter(x => x !== false && x !== undefined);
+  try {
+    await resendSend({ from: SENDER, to: [to], reply_to: f.email, subject, text: lines.join('\n'), attachments });
+  } catch (e) {
+    console.error('Formulaire non envoyé :', e.message);
+    return json(502, { ok: false });
+  }
+  const ack = (ACK[kind][lang] || ACK[kind].fr);
+  resendSend({ from: SENDER, to: [f.email], reply_to: to, subject: ack[0], text: ack[1].replace('{nom}', f.nom.split(' ')[0]) + `\n\nBike'N Tour · 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · ${CONTACT_EMAIL}` })
+    .catch(e => console.error('Accusé de réception non envoyé :', e.message));
+  return json(200, { ok: true });
+}
+
+// Newsletter (pied de page) : avec RESEND_AUDIENCE_ID, l'adresse est ajoutée à l'audience Resend (envoi des newsletters
+// depuis Resend → Broadcasts, désinscription gérée par Resend). Sans audience, l'inscription est envoyée par email à CONTACT_EMAIL.
+async function handleNewsletter(json, email, lang) {
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json(400, { ok: false });
+  try {
+    const aud = process.env.RESEND_AUDIENCE_ID;
+    if (aud) {
+      const r = await fetch((process.env.RESEND_API_URL || 'https://api.resend.com') + `/audiences/${encodeURIComponent(aud)}/contacts`, {
+        method: 'POST', headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, unsubscribed: false }),
+      });
+      if (!r.ok) throw new Error('resend audience ' + r.status + ' ' + (await r.text()).slice(0, 200));
+    } else {
+      await resendSend({ from: SENDER, to: [CONTACT_EMAIL], reply_to: email, subject: `Inscription newsletter – ${email}`,
+        text: `Nouvelle inscription à la newsletter depuis le site (langue : ${lang}) :\n\n${email}\n\nLa personne a coché le consentement. Ajoutez-la à votre liste d'envoi.` });
+    }
+  } catch (e) {
+    console.error('Inscription newsletter non enregistrée :', e.message);
+    return json(502, { ok: false });
+  }
+  return json(200, { ok: true });
+}
+
 // Connexion en une étape : avec GITHUB_TOKEN, la session Sveltia est préparée dans le navigateur après le mot de passe
 // (même format que lorsque Sveltia enregistre une connexion par jeton). En cas d'échec, l'écran de connexion habituel s'affiche.
 let ghUser = null, ghUserAt = 0;
@@ -318,6 +403,7 @@ http.createServer((req, res) => {
     }
     if (u.pathname === '/cms/auth' || u.pathname === '/cms/callback') return void cmsAuth(req, res, u);
     if (u.pathname === '/api/gpx' && req.method === 'POST') return void handleGpx(req, res);
+    if (u.pathname === '/api/contact' && req.method === 'POST') return void handleForm(req, res);
     if (u.pathname === '/admin' || u.pathname.startsWith('/admin/')) {
       if (!loggedIn(req)) {
         if (u.pathname === '/admin' || u.pathname.endsWith('/') || u.pathname.endsWith('.html')) {

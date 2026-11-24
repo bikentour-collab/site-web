@@ -10,7 +10,7 @@ Preise 2026
 
 Einfache Preise mit Staffelrabatt, Schloss, Pannenset und Beleuchtung inklusive. Online in wenigen Minuten buchen, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -20,7 +20,7 @@ Einfache Preise mit Staffelrabatt, Schloss, Pannenset und Beleuchtung inklusive.
 
 **Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 27 quai de Versailles in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 

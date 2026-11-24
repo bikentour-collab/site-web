@@ -15,7 +15,7 @@ Het ideale weekend vlak bij Nantes: de oevers van de Sèvre nantaise, de Muscade
 - Niveau**Makkelijk**
 - Enkele reis**Rondrit**
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)[GPX-track ontvangen](#gpx)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[GPX-track ontvangen](#gpx)
 
 - Gratis annuleren tot 48 uur vooraf
 - Fiets afgesteld op jouw maat
@@ -77,7 +77,7 @@ Aanbevolen fiets
 
 Waterdichte Ortlieb-fietstassen optioneel (€ 5 per dag), enkele reis op offerte.
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## De andere routes vanuit Nantes
 
@@ -129,3 +129,23 @@ Van Nantes naar Saint-Brevin-les-Pins, zo'n 63 km fietsen langs het estuarium, v
 ### Eerste fietsreis vanuit Nantes: onze tips
 
 Uw eerste fietsreis vanuit Nantes voorbereiden: route kiezen, etappes doseren, bagage inpakken en met de…](https://www.bikentour.com/nl/blog/eerste-fietsreis-vanuit-nantes)
+
+Geverifieerde reviews
+
+## Wat onze reizigers zeggen
+
+[![Google-reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!”
+>
+> Valentine D. · Google
+
+> “Fijne fiets, drie dagen zonder problemen gebruikt. Een verzorgde ontvangst en een heel vlotte reservering.”
+>
+> Hélène D. · Google
+
+> “Bedankt voor de gravelbike voor mijn tocht langs de Loire! Antoine is top, reageert snel en legt alles goed uit.”
+>
+> Jérémy M. · Google
+
+[Alle Google-reviews lezen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Bij ons gehuurd? Laat een review achter](https://g.page/r/CSUgp_2wq_1tEBM/review)

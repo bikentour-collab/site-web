@@ -15,7 +15,7 @@ Locks, lock-keepers' cottages and perfectly flat towpaths: the Nantes–Brest Ca
 - Level**Easy**
 - One-way hire**Yes, on request**
 
-[Book my bikes](https://bike-n-tour.lokki.rent)[Get the GPX track](#gpx)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Get the GPX track](#gpx)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -97,7 +97,7 @@ Recommended bike
 
 Waterproof Ortlieb panniers available (€5 a day), one-way hire on request.
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Other routes starting from Nantes
 
@@ -149,3 +149,23 @@ From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, fro
 ### First cycling trip from Nantes: planning tips
 
 How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)
+
+Verified reviews
+
+## What our riders say
+
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “We hired 6 bikes from Bike'N Tour for a week to ride the Nantes–Brest Canal: 4 e-bikes and 2 city bikes, plus extra accessories. All very high-quality equipment. A warm welcome from Antoine, who took the time to advise us properly, as it was our first cycling holiday. Top service, a very professional and attentive rental shop.”
+>
+> Corinne S. · Google
+
+> “A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!”
+>
+> Valentine D. · Google
+
+> “A pleasant bike, used for three days without any trouble. A warm welcome and a really smooth booking process.”
+>
+> Hélène D. · Google
+
+[Read all Google reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Have you rented from us? Leave a review](https://g.page/r/CSUgp_2wq_1tEBM/review)

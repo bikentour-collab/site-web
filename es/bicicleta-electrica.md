@@ -12,7 +12,7 @@ La bicicleta eléctrica de viaje Sunn, fabricada a pocos kilómetros de Nantes, 
 
 Desde **35 €** / día
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)[Todos los precios](https://www.bikentour.com/es/precios)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -22,7 +22,7 @@ Desde **35 €** / día
 
 **En resumen.** Bike'N Tour alquila en Nantes la bicicleta eléctrica Sunn Start S1: 35 € al día, 62 € el fin de semana y 172 € la semana, con precios decrecientes y una fianza de 1 000 €. Incluye candado, kit antipinchazos, bomba y luces, y la bici se ajusta a su talla. Recomendada para La Régalante, La Travesía bretona y La Loire à Vélo. Recogida en la tienda, 27 quai de Versailles, Nantes.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Características
 
@@ -81,7 +81,7 @@ Incluido
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os)
 
 O llame al [06 52 62 94 64](tel:+33652629464)
 
@@ -124,7 +124,11 @@ Opiniones verificadas
 
 ## Lo que dicen nuestros viajeros
 
-[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> «Alquilamos 6 bicicletas en Bike'N Tour durante una semana para recorrer el canal de Nantes a Brest: 4 eléctricas y 2 de ciudad, además de accesorios. Todo material de muy buena calidad. Acogida muy cálida de Antoine, que se tomó el tiempo de asesorarnos bien, porque era nuestra primera experiencia de vacaciones en bici. Servicio excelente, un alquiler muy profesional y atento.»
+>
+> Corinne S. · Google
 
 > «Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»
 >
@@ -134,11 +138,7 @@ Opiniones verificadas
 >
 > Hélène D. · Google
 
-> «¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo.»
->
-> Jérémy M. · Google
-
-[Leer todas las opiniones en Google](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Leer todas las opiniones en Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [¿Has alquilado con nosotros? Deja una reseña](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## De nuestro blog
 

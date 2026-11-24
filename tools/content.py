@@ -102,6 +102,7 @@ for _b in _v['velos']:
     BIKES.append(_b)
 ACCESSORIES = pairs(_v['accessoires'], 'nom', 'prix')
 ACC_DESC = {x.get('nom', ''): x.get('description') or '' for x in _v['accessoires']}
+ACC_BOOK = {x.get('nom', ''): x.get('reservation') or '' for x in _v['accessoires']}
 INCLUDED = _v['inclus']
 
 TOURS = []

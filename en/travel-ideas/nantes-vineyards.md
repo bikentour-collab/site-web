@@ -15,7 +15,7 @@ The perfect weekend right on Nantes' doorstep: the banks of the Sèvre Nantaise,
 - Level**Easy**
 - One-way hire**Loop**
 
-[Book my bikes](https://bike-n-tour.lokki.rent)[Get the GPX track](#gpx)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Get the GPX track](#gpx)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -77,7 +77,7 @@ Recommended bike
 
 Waterproof Ortlieb panniers available (€5 a day), one-way hire on request.
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Other routes starting from Nantes
 
@@ -129,3 +129,23 @@ From Nantes to Saint-Brevin-les-Pins, about 63 km by bike along the estuary, fro
 ### First cycling trip from Nantes: planning tips
 
 How to plan your first cycling trip from Nantes: choosing a route, pacing your stages, packing and coming…](https://www.bikentour.com/en/blog/first-cycling-trip-from-nantes)
+
+Verified reviews
+
+## What our riders say
+
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> “A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!”
+>
+> Valentine D. · Google
+
+> “A pleasant bike, used for three days without any trouble. A warm welcome and a really smooth booking process.”
+>
+> Hélène D. · Google
+
+> “Thanks for the gravel bike for my ride along the Loire! Antoine is brilliant – quick to respond and great at explaining things.”
+>
+> Jérémy M. · Google
+
+[Read all Google reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Have you rented from us? Leave a review](https://g.page/r/CSUgp_2wq_1tEBM/review)

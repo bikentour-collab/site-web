@@ -10,13 +10,13 @@ Nuestras bicis
 
 Bicis recientes y revisadas después de cada alquiler: bicis de viaje Velo de Ville, bicis eléctricas y gravel Sunn fabricadas en Loire-Atlantique y bicis infantiles. Todas ajustadas a su talla antes de salir.
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)[Precios detallados](https://www.bikentour.com/es/precios)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Precios detallados](https://www.bikentour.com/es/precios)
 
 ![Las bicis de viaje de Bike'N Tour delante de la tienda en Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
 **En resumen.** Precios 2026 de alquiler de bicis en Bike'N Tour, 27 quai de Versailles, Nantes: bicicleta de viaje: 22 € al día, 110 € la semana; bicicleta eléctrica: 35 € al día, 172 € la semana; bicicleta gravel: 35 € al día, 172 € la semana; bicicleta infantil: 20 € al día, 88 € la semana. Candado, kit antipinchazos y luces incluidos. Solo ida con presupuesto a medida, cancelación gratuita hasta 48 h antes de la salida.
 
-Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## La flota
 
@@ -81,4 +81,4 @@ Incluido con cada bici
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)

@@ -24,7 +24,8 @@
   "faq": "/fr/faq-locationdeveloanantes",
   "guide": "/fr/guide-location-velo-nantes",
   "cookies": "/fr/cookies",
-  "accessoires": "/fr/location-accessoires-velo"
+  "accessoires": "/fr/location-accessoires-velo",
+  "press": "/fr/ils-parlent-de-nous-tv-radio-presse-blogs"
  },
  "urls": {
   "/": {
@@ -176,6 +177,12 @@
    "nl": "/nl/fietsaccessoires-huren",
    "de": "/de/fahrradzubehoer-mieten",
    "es": "/es/alquiler-accesorios-bicicleta"
+  },
+  "/fr/ils-parlent-de-nous-tv-radio-presse-blogs": {
+   "en": "/en/press",
+   "nl": "/nl/pers",
+   "de": "/de/presse",
+   "es": "/es/prensa"
   }
  }
 }

@@ -10,13 +10,13 @@ Vertrek vanaf de winkel
 
 Zes grote fietsroutes beginnen bij onze winkel, midden in Nantes: de Loire à Vélo, de Vélodyssée, de Régalante, de Bretagne-oversteek, het kanaal van Nantes naar Brest en de wijngaarden van Nantes. Voor elke route maken we je fiets, je fietstassen en de GPX-track klaar.
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)[Dagtochten](https://www.bikentour.com/nl/fietstochten-vanuit-nantes)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Dagtochten](https://www.bikentour.com/nl/fietstochten-vanuit-nantes)
 
 ![Groupe de cyclistes au bord de la Loire](https://www.bikentour.com/assets/img/v2-bord-de-loire.webp)
 
 **In het kort.** Zes grote fietsroutes beginnen bij de winkel van Bike'N Tour, 27 quai de Versailles in Nantes: La Loire à Vélo (165 km, 3 tot 4 dagen, niveau makkelijk); La Vélodyssée (240 km, 4 tot 5 dagen, niveau makkelijk); La Régalante (275 km, 9 etappes, niveau makkelijk); De Bretagne-oversteek (485 km, 8 tot 10 dagen, niveau gemiddeld); Het kanaal van Nantes naar Brest (360 km, 6 tot 8 dagen, niveau makkelijk); De wijngaarden van Nantes (80 km, 2 dagen, niveau makkelijk). Voor een eerste fietsreis of met het gezin is de Loire à Vélo de makkelijkste: vlak, uitstekend bewegwijzerd en met de trein bereikbaar voor de terugreis.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## De 6 fietsroutes in één oogopslag
 
@@ -58,7 +58,7 @@ Inbegrepen bij elke route
 - Bereikbaarheid per trein en terugreis
 - Onze favoriete adressen
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Fietsreizen in beeld
 

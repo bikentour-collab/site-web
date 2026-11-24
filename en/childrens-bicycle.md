@@ -12,7 +12,7 @@ For family trips: kids' bikes from 20 to 26 inches, plus a baby seat or trailer 
 
 From **€20** a day
 
-[Book my bikes](https://bike-n-tour.lokki.rent)[All prices](https://www.bikentour.com/en/biken-tour-prices)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[All prices](https://www.bikentour.com/en/biken-tour-prices)
 
 - Free cancellation up to 48 hours before
 - Bike fitted to your size
@@ -22,7 +22,7 @@ From **€20** a day
 
 **In short.** In Nantes, Bike'N Tour hires out the Decathlon 20, 24 or 26 inches kids' bike: €20 a day, €38 for the weekend and €88 for the week, with lower rates for longer hires and a €500 deposit. Lock, puncture repair kit, pump and lights are included, and the bike is fitted to your size. Recommended for La Loire à Vélo and The Nantes Vineyards. Pick up at the shop, 27 quai de Versailles in Nantes.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Specifications
 
@@ -72,7 +72,7 @@ Included
 - Charger and battery key (e-bikes)
 - Bike fitted to your size and route advice
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 Or call [06 52 62 94 64](tel:+33652629464)
 
@@ -114,7 +114,7 @@ Verified reviews
 
 ## What our riders say
 
-[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Google reviews](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
 
 > “A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!”
 >
@@ -128,7 +128,7 @@ Verified reviews
 >
 > Jérémy M. · Google
 
-[Read all Google reviews](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Read all Google reviews](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Have you rented from us? Leave a review](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## From our blog
 

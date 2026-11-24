@@ -10,13 +10,13 @@ Ride ideas
 
 A day or a weekend: our ideas for self-guided rides from the shop, with a TER train back when possible. Distances and levels are based on our own rides with the team.
 
-[Book my bikes](https://bike-n-tour.lokki.rent)
+[Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![A cycling break in the centre of Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 
 **In short.** 11 ideas for day or weekend bike rides from the Bike'N Tour shop in Nantes: The Sèvre Nantaise to Clisson (37 km (one way)), The Loire banks to Oudon (30 km), The Loire à Vélo to Cordemais (46 km), Lac de Grand-Lieu (18 km), The Nantes panorama loop (20 km), The Erdre to Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17.5 km), Le Pellerin via the south bank (24 km), Nantes – Pornic in two days (100 km), Nantes – Angers in two days (110 km), Nantes – Saint-Nazaire via the Vélidéale (90 km). Bike hire from €22 a day, e-bikes from €35.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## The Sèvre Nantaise to Clisson
 

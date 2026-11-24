@@ -91,7 +91,7 @@ def route_card(r, i):
               <ol class="rc-steps" aria-label="Principales étapes">{steps}</ol>
               {poi_strip(r)}
               <div class="rc-actions">
-                <a class="btn btn-primary" href="https://bike-n-tour.lokki.rent">Réserver mes vélos</a>
+                <a class="btn btn-primary" href="https://www.lokki.rent/loueur/bike-n-tour?c=os">Réserver mes vélos</a>
                 <a class="btn btn-ghost" href="{r['url']}">L'itinéraire détaillé</a>
               </div>
             </div>
@@ -122,8 +122,22 @@ for n in data['@graph']:
                           + [{"@type": "WebPage", "name": t, "url": u, "publisher": {"@type": "Organization", "name": m}} for m, t, u in REFS])
         from content import SITE_CFG as _SC
         _same = ["https://www.instagram.com/bikentour_nantes/", "https://www.facebook.com/BikentourNantes", "https://www.linkedin.com/company/bike'n-tour/",
-                 "https://www.francevelotourisme.com/pratique/loueurs-reparateurs-de-velo/bike-n-tour-nantes"]
+                 "https://www.francevelotourisme.com/pratique/loueurs-reparateurs-de-velo/bike-n-tour-nantes",
+                 "https://www.lokki.rent/loueur/bike-n-tour",
+                 "https://www.levoyageanantes.fr/activites/biken-tour-location-de-velo-et-visites/",
+                 "https://www.loireavelo.fr/tsft/biken-tour-nantes-nantes/",
+                 "https://www.petitfute.com/v27598-nantes-44000/c1122-voyage-transports/c1083-location-de-vehicules/c539-velo/1617793-bike-n-tour.html",
+                 "https://www.outdooractive.com/fr/poi/nantes-metropole/bike-n-tour-nantes/803956540/",
+                 "https://www.outgoing.world/activity/bike-n-tour-location-velos-et-visites-guidees-886b033c0b49",
+                 "https://peekandgo.fr/organisation/44000/nantes/biken-tour-nantes/9761b1cf-511c-42f6-af9b-b0700767c9f2",
+                 "https://locationvelo.net/44/nantes/bike-n-tour-9g",
+                 "https://www.enpaysdelaloire.com/activites/autour-du-velo/bike-n-tour-nantes",
+                 "https://www.atlantic-loire-valley.com/activities/by-bike/bike-n-tour-nantes",
+                 "https://rando.loire-atlantique.fr/service/175832-BIKE-N-TOUR-NANTES",
+                 "https://www.pagesjaunes.fr/pros/57397475"]
         _same += [u for u in (_SC.get('lien_tripadvisor'), _SC.get('lien_fiche_google')) if u]
+        if _SC.get('google_place_id'):
+            n['hasMap'] = f"https://www.google.com/maps/place/?q=place_id:{_SC['google_place_id']}"
         n['sameAs'] = _same
         n['areaServed'] = [{"@type": "City", "name": "Nantes"}, {"@type": "AdministrativeArea", "name": "Loire-Atlantique"}]
         n['description'] = "Loueur de vélos de voyage, électriques et gravel à Nantes, au départ de la Loire à Vélo, de la Vélodyssée, de la Régalante, de la Traversée bretonne et du Canal de Nantes à Brest. Location en aller simple (One Way), accessoires (sacoches Ortlieb, casque), visites guidées et animations à vélo pour les groupes."

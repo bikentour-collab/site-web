@@ -10,13 +10,13 @@ Nos vélos
 
 Des vélos récents et entretenus après chaque location : vélos de voyage Velo de Ville, vélos électriques et gravels Sunn fabriqués en Loire-Atlantique, vélos enfant. Tous réglés à votre taille avant le départ.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Tarifs détaillés](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Tarifs détaillés](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 ![Les vélos de voyage Bike'N Tour devant la boutique à Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
 **En bref.** Tarifs 2026 de location de vélos chez Bike'N Tour, 27 quai de Versailles à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
 
-Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## La flotte
 
@@ -81,4 +81,4 @@ Inclus avec chaque vélo
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)

@@ -15,7 +15,7 @@ El castillo de los duques de Bretaña, el Elefante de las Machines de l'île, la
 - Salidas**De martes a domingo a las 15:00**
 - Idiomas**Francés, inglés, español**
 
-[Reservar la visita](https://bike-n-tour.lokki.rent)
+[Reservar la visita](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Cancelación gratuita hasta 48 h antes
 - 12 personas como máximo
@@ -25,7 +25,7 @@ El castillo de los duques de Bretaña, el Elefante de las Machines de l'île, la
 
 **En resumen.** Nantes Bike Tour: el panorama de Nantes: visita guiada por Nantes en bici eléctrica con Bike'N Tour. Duración 2 h 30 min, 44 € por persona (Bicicleta eléctrica y casco, Guía apasionado, Delicias locales, Mapa comentado de la ciudad). Salidas De martes a domingo a las 15:00, en Francés, inglés o español, 12 personas como máximo por guía, 100 % por carriles bici. Punto de encuentro: Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel).
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## El recorrido
 
@@ -88,7 +88,7 @@ Incluido
 
 **Rendez-vous :** Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reservar](https://bike-n-tour.lokki.rent)
+[Reservar](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nuestras otras visitas
 

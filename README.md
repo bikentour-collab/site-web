@@ -30,6 +30,7 @@ GitHub (dépôt unique)  ──push──▶  GitHub Action « Générer le site
 | `SITE_URL` | facultatif, `https://www.bikentour.com` par défaut |
 | `PROD_HOSTS` | facultatif : domaines indexables (par défaut `www.bikentour.com,bikentour.com`). Toute autre adresse, dont l'adresse de test Railway, est servie en `noindex`. |
 | `RESEND_API_KEY` | clé API Resend (resend.com, gratuit jusqu'à 3 000 emails/mois). Le formulaire « Fiche PDF et trace GPX » des pages itinéraires envoie alors **immédiatement** au visiteur, dans sa langue, la fiche PDF et la trace GPX en pièces jointes, et une copie de la demande à `CONTACT_EMAIL`. Sans clé, le formulaire ouvre la messagerie du visiteur. |
+| `RESEND_AUDIENCE_ID` | facultatif. Identifiant d'une audience Resend (Audiences → Create). Les inscriptions à la newsletter du pied de page y sont ajoutées, et Antoine envoie ses newsletters depuis Resend → Broadcasts (lien de désinscription géré par Resend). Sans audience, chaque inscription arrive par email à `CONTACT_EMAIL`. |
 | `SENDER_EMAIL` | facultatif : expéditeur, sur un domaine vérifié dans Resend (DNS de bikentour.com : enregistrements SPF/DKIM fournis par Resend). Par défaut `Bike'N Tour <contact@bikentour.com>`. |
 | `CONTACT_EMAIL` | facultatif : adresse qui reçoit les demandes et les réponses des visiteurs (par défaut `contact@bikentour.com`). |
 | `CONTACT_EMAIL` | facultatif : adresse qui reçoit les demandes (par défaut `contact@bikentour.com`) |

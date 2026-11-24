@@ -50,7 +50,8 @@
         "velodyssee",
         "canal"
       ],
-      "why": "C'est notre vélo le plus demandé pour la Loire à Vélo et la Vélodyssée : position droite, 9 vitesses bien étagées et un porte-bagages qui accepte deux sacoches Ortlieb de 20 litres."
+      "why": "C'est notre vélo le plus demandé pour la Loire à Vélo et la Vélodyssée : position droite, 9 vitesses bien étagées et un porte-bagages qui accepte deux sacoches Ortlieb de 20 litres.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os"
     },
     {
       "id": "electrique",
@@ -110,7 +111,8 @@
         "traversee",
         "loire"
       ],
-      "why": "Idéal pour les longues étapes, les couples aux niveaux différents et les itinéraires vallonnés comme la Traversée bretonne. La batterie se retire avec la clé fournie pour la recharger dans votre hébergement."
+      "why": "Idéal pour les longues étapes, les couples aux niveaux différents et les itinéraires vallonnés comme la Traversée bretonne. La batterie se retire avec la clé fournie pour la recharger dans votre hébergement.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/velo-a-assistance-electrique-65ddece92ea1a2003a49c306?c=os"
     },
     {
       "id": "gravel",
@@ -153,7 +155,8 @@
         "vignoble",
         "canal"
       ],
-      "why": "Le bon choix pour un week-end dans le Vignoble nantais ou pour le Canal de Nantes à Brest, dont les chemins de halage sont souvent en stabilisé."
+      "why": "Le bon choix pour un week-end dans le Vignoble nantais ou pour le Canal de Nantes à Brest, dont les chemins de halage sont souvent en stabilisé.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os"
     },
     {
       "id": "enfant",
@@ -192,44 +195,52 @@
         "loire",
         "vignoble"
       ],
-      "why": "Sur la Loire à Vélo, les portions en site propre et le profil très plat permettent aux enfants de rouler en sécurité. Comptez 20 à 30 km par jour avec des enfants."
+      "why": "Sur la Loire à Vélo, les portions en site propre et le profil très plat permettent aux enfants de rouler en sécurité. Comptez 20 à 30 km par jour avec des enfants.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os"
     }
   ],
   "accessoires": [
     {
       "nom": "Paire de sacoches arrière Ortlieb étanches (2 × 20 L)",
       "prix": 5,
-      "description": "Deux sacoches arrière étanches de 20 litres chacune, qui se clipsent sur le porte-bagages : l'équipement de base pour un voyage de plusieurs jours."
+      "description": "Deux sacoches arrière étanches de 20 litres chacune, qui se clipsent sur le porte-bagages : l'équipement de base pour un voyage de plusieurs jours.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/paire-de-sacoches-arrieres-ortlieb-etanches-65ddb94b2ea1a2003a4474cb?c=os"
     },
     {
       "nom": "Sacoche de guidon (6 L)",
       "prix": 5,
-      "description": "Une sacoche de 6 litres fixée au guidon, pour garder à portée de main téléphone, papiers, crème solaire et en-cas."
+      "description": "Une sacoche de 6 litres fixée au guidon, pour garder à portée de main téléphone, papiers, crème solaire et en-cas.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/sacoche-de-guidon-65ddbc1e2ea1a2003a44c616?c=os"
     },
     {
       "nom": "Housse de selle confort",
       "prix": 1,
-      "description": "Une housse de selle rembourrée pour gagner en confort sur les longues étapes."
+      "description": "Une housse de selle rembourrée pour gagner en confort sur les longues étapes.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/housse-de-selle-65ddbcfcc44a66003bc1c656?c=os"
     },
     {
       "nom": "Porte-smartphone",
       "prix": 1,
-      "description": "Un support solide pour suivre la trace GPX sur votre téléphone sans vous arrêter."
+      "description": "Un support solide pour suivre la trace GPX sur votre téléphone sans vous arrêter.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/porte-smartphone-65ddbb0e20e31f0039c2c1b5?c=os"
     },
     {
       "nom": "Siège bébé (dès 1 an)",
       "prix": 5,
-      "description": "Un siège bébé homologué, pour les enfants à partir de 1 an, monté sur le porte-bagages."
+      "description": "Un siège bébé homologué, pour les enfants à partir de 1 an, monté sur le porte-bagages.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/siege-enfant-65ddba17e471aa0037d8c6db?c=os"
     },
     {
       "nom": "Remorque enfant (dès 1 an)",
       "prix": 15,
-      "description": "Une remorque pour transporter un ou deux enfants à partir de 1 an, à l'abri du vent et du soleil."
+      "description": "Une remorque pour transporter un ou deux enfants à partir de 1 an, à l'abri du vent et du soleil.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/remorque-enfant-65fc3961ce1b35003a84b765?c=os"
     },
     {
       "nom": "Casque",
       "prix": 1,
-      "description": "Un casque réglable, conseillé pour toute la famille."
+      "description": "Un casque réglable, conseillé pour toute la famille.",
+      "reservation": "https://www.lokki.rent/loueur/bike-n-tour/produit/casque-adulte-65ddb83a1d6df6003adbaec5?c=os"
     }
   ],
   "inclus": [

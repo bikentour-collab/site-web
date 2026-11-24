@@ -10,13 +10,13 @@ Rondleidingen
 
 Gevormd door zijn haven heeft Nantes duizend verhalen te vertellen. Onze lokale gidsen laten je ze ontdekken op de e-bike, in een kleine groep en 100% over fietspaden: met het gezin, met vrienden of met collega's.
 
-[Rondleiding reserveren](https://bike-n-tour.lokki.rent)[Privérondleiding](https://www.bikentour.com/nl/groepen-en-bedrijven#visites)
+[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Privérondleiding](https://www.bikentour.com/nl/groepen-en-bedrijven#visites)
 
 ![Groep tijdens een rondleiding voor de Carrousel des Mondes Marins in Nantes](https://www.bikentour.com/assets/img/v2-visite-carrousel.webp)
 
 **In het kort.** Bike'N Tour biedt drie rondleidingen door Nantes op de e-bike, met een lokale gids en maximaal 12 personen: Nantes Bike Tour: het panorama van Nantes (2,5 uur, € 44 per persoon); Wine & Bike Tour in Nantes (3,5 uur, € 65 per persoon); Tour "Stadscultuur" op de e-bike (2,5 uur, € 45 per persoon). E-bike en helm inbegrepen, route 100% over fietspaden, gratis annuleren tot 48 uur vooraf.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Kies je rondleiding
 

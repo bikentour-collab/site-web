@@ -15,7 +15,7 @@ An “off-script” tour of Nantes: repurposed spaces, street art, architecture 
 - Departures**Every day at 10am except Sunday**
 - Languages**French, English**
 
-[Book the tour](https://bike-n-tour.lokki.rent)
+[Book the tour](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Free cancellation up to 48 hours before
 - Maximum 12 people
@@ -25,7 +25,7 @@ An “off-script” tour of Nantes: repurposed spaces, street art, architecture 
 
 **In short.** “Urban Culture” e-bike tour: guided e-bike tour of Nantes by Bike'N Tour. Duration 2.5 hrs, €45 per person (E-bike and helmet, Passionate guide, Local treats). Departures Every day at 10am except Sunday, in French or English, maximum 12 people per guide, 100% on cycle paths. Meeting point: Bike'N Tour shop, 27 quai de Versailles (tram line 2, Saint-Mihiel stop).
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## The route
 
@@ -72,7 +72,7 @@ Included
 
 **Rendez-vous :** Bike'N Tour shop, 27 quai de Versailles (tram line 2, Saint-Mihiel stop). Venez 10 minutes avant le départ.
 
-[Book](https://bike-n-tour.lokki.rent)
+[Book](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Our other tours
 

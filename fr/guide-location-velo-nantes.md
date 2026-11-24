@@ -12,7 +12,7 @@ Prix, choix du vélo, itinéraires au départ de Nantes, aller simple, accessoir
 
 **En bref.** Pour louer un vélo à Nantes et partir en voyage, Bike'N Tour (27 quai de Versailles, au bord de l'Erdre) loue des vélos de voyage dès 22 €, des vélos électriques dès 35 €, des vélos gravel dès 35 € et des vélos enfant dès 20 € la journée, avec aller simple sur devis et annulation gratuite jusqu'à 48 h. Six véloroutes partent de la boutique, dont la Loire à Vélo (165 km jusqu'à Saumur).
 
-Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Où louer un vélo à Nantes pour partir en voyage ?
 
@@ -98,7 +98,7 @@ La caution est de 500 € pour un vélo de voyage ou enfant, 1 000 € pour 
 
 ## Comment réserver et peut-on annuler ?
 
-La réservation se fait en ligne sur [bike-n-tour.lokki.rent](https://bike-n-tour.lokki.rent), par téléphone au 06 52 62 94 64 ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ. Le paiement se fait en ligne ou en boutique, par carte bancaire ou chèque.
+La réservation se fait en ligne sur [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), par téléphone au 06 52 62 94 64 ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ. Le paiement se fait en ligne ou en boutique, par carte bancaire ou chèque.
 
 ## Peut-on visiter Nantes à vélo avec un guide ?
 
@@ -125,7 +125,7 @@ Sommaire
 9. [Peut-on visiter Nantes à vélo avec un guide ?](#q9)
 10. [Et pour un groupe ou une entreprise ?](#q10)
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Pour aller plus loin
 

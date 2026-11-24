@@ -15,7 +15,7 @@ La Loire à Vélo (EuroVelo 6) ist der meistbefahrene Radfernweg Frankreichs. Ab
 - Schwierigkeit**Leicht**
 - Einwegmiete**Ja, auf Anfrage**
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)[GPX-Track erhalten](#gpx)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[GPX-Track erhalten](#gpx)
 
 - Kostenlose Stornierung bis 48 Std. vorher
 - Rad auf Ihre Größe eingestellt
@@ -88,7 +88,7 @@ Empfohlenes Rad
 
 Wasserdichte Ortlieb-Packtaschen optional (5 € pro Tag), Einweg-Miete nach Angebot.
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Weitere Radrouten ab Nantes
 
@@ -140,3 +140,23 @@ Von Nantes nach Clisson mit dem Rad: 37 km entlang der Sèvre nantaise und durch
 ### Erste Radreise ab Nantes: gut vorbereitet
 
 Ihre erste Radreise ab Nantes vorbereiten: Route wählen, Etappen planen, packen und mit dem Zug…](https://www.bikentour.com/de/blog/erste-radreise-ab-nantes)
+
+Verifizierte Bewertungen
+
+## Das sagen unsere Gäste
+
+[![Google-Bewertungen](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 Bewertungen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> „Radreise entlang der Loire à Vélo mit 2 E-Bikes und einem Reiserad, alle mit Packtaschen! Danke für die Empfehlungen, wir waren begeistert!“
+>
+> Valentine D. · Google
+
+> „Angenehmes Rad, drei Tage lang problemlos genutzt. Ein herzlicher Empfang und eine sehr reibungslose Buchung.“
+>
+> Hélène D. · Google
+
+> „Danke für das Gravelbike für meine Tour an der Loire! Antoine ist spitze, schnell und erklärt alles super.“
+>
+> Jérémy M. · Google
+
+[Alle Google-Bewertungen lesen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Schon bei uns gemietet? Bewertung schreiben](https://g.page/r/CSUgp_2wq_1tEBM/review)

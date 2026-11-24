@@ -10,13 +10,13 @@ Unsere Räder
 
 Aktuelle Räder, nach jeder Miete gewartet: Reiseräder von Velo de Ville, E-Bikes und Gravelbikes von Sunn, hergestellt in der Loire-Atlantique, dazu Kinderräder. Alle werden vor der Abfahrt auf Ihre Größe eingestellt.
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)[Detaillierte Preise](https://www.bikentour.com/de/preis)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Detaillierte Preise](https://www.bikentour.com/de/preis)
 
 ![Die Reiseräder von Bike'N Tour vor dem Laden in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
 **Kurz gesagt.** Preise 2026 für den Fahrradverleih bei Bike'N Tour, 27 quai de Versailles in Nantes: Reiserad: 22 € pro Tag, 110 € pro Woche; E-Bike: 35 € pro Tag, 172 € pro Woche; Gravelbike: 35 € pro Tag, 172 € pro Woche; Kinderrad: 20 € pro Tag, 88 € pro Woche. Schloss, Pannenset und Beleuchtung inklusive. Einweg-Miete nach Angebot, kostenlose Stornierung bis 48 Std. vor Abfahrt.
 
-Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Die Flotte
 
@@ -81,4 +81,4 @@ Bei jedem Rad inklusive
 - Ladegerät und Akkuschlüssel (E-Bikes)
 - Einstellung des Rads auf Ihre Größe und Routentipps
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)

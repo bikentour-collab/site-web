@@ -109,7 +109,7 @@ Route vanaf de winkel
 
 Naar Angers en Saumur
 
-[Bekijk de route](https://www.bikentour.com/nl/reisideeen/loire-a-velo) [Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Bekijk de route](https://www.bikentour.com/nl/reisideeen/loire-a-velo) [Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Ook op onze blog
 

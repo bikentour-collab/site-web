@@ -12,7 +12,7 @@ Notre vélo de voyage est construit sur mesure avec notre partenaire allemand Ve
 
 Dès **22 €** / jour
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)[Tous les tarifs](https://www.bikentour.com/fr/nos-tarifs-reservation)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -22,7 +22,7 @@ Dès **22 €** / jour
 
 **En bref.** Bike'N Tour loue à Nantes des vélos de voyage Velo de Ville Trekking L200 : 22 € la journée, 39 € le week-end et 110 € la semaine, tarifs dégressifs, caution de 500 €. Antivol, kit anti-crevaison, pompe et éclairage sont inclus et le vélo est réglé à votre taille. Conseillé pour la Loire à Vélo, la Vélodyssée et le Canal de Nantes à Brest. Retrait à la boutique, 27 quai de Versailles à Nantes.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Caractéristiques
 
@@ -75,7 +75,7 @@ Inclus
 - Chargeur et clé de batterie (vélos électriques)
 - Réglage du vélo à votre taille et conseils d'itinéraire
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-de-voyage-65dde8c32ea1a2003a492f16?c=os)
 
 Ou au [06 52 62 94 64](tel:+33652629464)
 
@@ -118,7 +118,7 @@ Avis vérifiés
 
 ## Ce qu'en disent nos voyageurs
 
-[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Avis Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 avis](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
 
 > « Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré ! »
 >
@@ -132,7 +132,7 @@ Avis vérifiés
 >
 > Jérémy M. · Google
 
-[Lire tous les avis Google](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Lire tous les avis Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Vous avez loué chez nous ? Laissez un avis](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## Sur le blog
 

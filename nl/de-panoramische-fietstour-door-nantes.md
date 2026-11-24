@@ -15,7 +15,7 @@ Het kasteel van de hertogen van Bretagne, de Olifant van de Machines de l'île, 
 - Vertrek**Dinsdag tot en met zondag om 15.00 uur**
 - Talen**Frans, Engels, Spaans**
 
-[Rondleiding reserveren](https://bike-n-tour.lokki.rent)
+[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Gratis annuleren tot 48 uur vooraf
 - Maximaal 12 personen
@@ -25,7 +25,7 @@ Het kasteel van de hertogen van Bretagne, de Olifant van de Machines de l'île, 
 
 **In het kort.** Nantes Bike Tour: het panorama van Nantes: rondleiding door Nantes op de e-bike van Bike'N Tour. Duur 2,5 uur, € 44 per persoon (E-bike en helm, Gepassioneerde gids, Lokale lekkernijen, Stadskaart met toelichting). Vertrek Dinsdag tot en met zondag om 15.00 uur, in het Frans, Engels of Spaans, maximaal 12 personen per gids, 100% over fietspaden. Verzamelpunt: Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel).
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## De route
 
@@ -88,7 +88,7 @@ Inbegrepen
 
 **Rendez-vous :** Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reserveren](https://bike-n-tour.lokki.rent)
+[Reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Onze andere rondleidingen
 

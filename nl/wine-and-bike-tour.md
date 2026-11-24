@@ -15,7 +15,7 @@ De stad en de wijngaarden van Nantes in één tocht: het verhaal van de Muscadet
 - Vertrek**Donderdag tot en met zondag om 14.00 uur**
 - Talen**Frans, Engels**
 
-[Rondleiding reserveren](https://bike-n-tour.lokki.rent)
+[Rondleiding reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Gratis annuleren tot 48 uur vooraf
 - Maximaal 12 personen
@@ -25,7 +25,7 @@ De stad en de wijngaarden van Nantes in één tocht: het verhaal van de Muscadet
 
 **In het kort.** Wine & Bike Tour in Nantes: rondleiding door Nantes op de e-bike van Bike'N Tour. Duur 3,5 uur, € 65 per persoon (E-bike en helm, Gepassioneerde gids, Proeverij van 3 wijnen en lokale kazen, Stadskaart met toelichting). Vertrek Donderdag tot en met zondag om 14.00 uur, in het Frans of Engels, maximaal 12 personen per gids, 100% over fietspaden. Verzamelpunt: Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel).
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## De route
 
@@ -78,7 +78,7 @@ Inbegrepen
 
 **Rendez-vous :** Winkel Bike'N Tour, quai de Versailles 27 (tram lijn 2, halte Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reserveren](https://bike-n-tour.lokki.rent)
+[Reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Onze andere rondleidingen
 

@@ -10,7 +10,7 @@ Precios 2026
 
 Precios sencillos y decrecientes, con candado, kit antipinchazos y luces incluidos. Reserve en línea en pocos minutos, con cancelación gratuita hasta 48 h antes de la salida.
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -20,7 +20,7 @@ Precios sencillos y decrecientes, con candado, kit antipinchazos y luces incluid
 
 **En resumen.** Precios 2026 de alquiler de bicis en Bike'N Tour, 27 quai de Versailles, Nantes: bicicleta de viaje: 22 € al día, 110 € la semana; bicicleta eléctrica: 35 € al día, 172 € la semana; bicicleta gravel: 35 € al día, 172 € la semana; bicicleta infantil: 20 € al día, 88 € la semana. Candado, kit antipinchazos y luces incluidos. Solo ida con presupuesto a medida, cancelación gratuita hasta 48 h antes de la salida.
 
-Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 

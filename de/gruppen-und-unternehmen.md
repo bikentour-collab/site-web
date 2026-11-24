@@ -16,7 +16,7 @@ Teambuilding, Seminar, Teamausflug oder Tour mit Freunden: Dank Elektrounterstü
 
 **Kurz gesagt.** Bike'N Tour organisiert in Nantes Radausflüge für Gruppen und Unternehmen: Fahrradverleih für Gruppen Ab 16,67 € zzgl. MwSt. pro Rad; Private geführte Touren Ab 36 € zzgl. MwSt. pro Person und Events und Teambuilding Auf Anfrage. 10 % Rabatt ab 10 Personen, E-Bikes, damit alle gemeinsam fahren, Lieferung an den Seminarort.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Unsere Angebote
 
@@ -67,3 +67,23 @@ Ihre Anfrage
 Nennen Sie uns Teilnehmerzahl, Datum, Ort und Art des Ausflugs: Wir melden uns schnell mit einem Vorschlag.
 
 [contact@bikentour.com](mailto:contact@bikentour.com?subject=Demande%20de%20devis%20groupe)
+
+Verifizierte Bewertungen
+
+## Das sagen unsere Gäste
+
+[![Google-Bewertungen](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 Bewertungen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> „Wir haben 70 Räder für unser Firmenseminar gemietet und sind wirklich begeistert! Antoine und sein Team waren von Anfang bis Ende großartig: Lieferung, Abholung, Gepäckabstimmung mit dem Hotel… sie sind auf all unsere Wünsche eingegangen und haben uns die Organisation wirklich erleichtert. Sehr gutes Preis-Leistungs-Verhältnis, alles lief reibungslos. Nichts auszusetzen, es war perfekt!“
+>
+> IMING · Google
+
+> „Radreise entlang der Loire à Vélo mit 2 E-Bikes und einem Reiserad, alle mit Packtaschen! Danke für die Empfehlungen, wir waren begeistert!“
+>
+> Valentine D. · Google
+
+> „Angenehmes Rad, drei Tage lang problemlos genutzt. Ein herzlicher Empfang und eine sehr reibungslose Buchung.“
+>
+> Hélène D. · Google
+
+[Alle Google-Bewertungen lesen](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [Schon bei uns gemietet? Bewertung schreiben](https://g.page/r/CSUgp_2wq_1tEBM/review)

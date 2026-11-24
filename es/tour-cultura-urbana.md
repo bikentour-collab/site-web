@@ -15,7 +15,7 @@ Una visita «fuera de lo común» de Nantes: lugares reconvertidos, street art, 
 - Salidas**Todos los días a las 10:00, excepto el domingo**
 - Idiomas**Francés, inglés**
 
-[Reservar la visita](https://bike-n-tour.lokki.rent)
+[Reservar la visita](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Cancelación gratuita hasta 48 h antes
 - 12 personas como máximo
@@ -25,7 +25,7 @@ Una visita «fuera de lo común» de Nantes: lugares reconvertidos, street art, 
 
 **En resumen.** Tour «Cultura urbana» en bicicleta eléctrica: visita guiada por Nantes en bici eléctrica con Bike'N Tour. Duración 2 h 30 min, 45 € por persona (Bicicleta eléctrica y casco, Guía apasionado, Delicias locales). Salidas Todos los días a las 10:00, excepto el domingo, en Francés o inglés, 12 personas como máximo por guía, 100 % por carriles bici. Punto de encuentro: Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel).
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## El recorrido
 
@@ -72,7 +72,7 @@ Incluido
 
 **Rendez-vous :** Tienda Bike'N Tour, 27 quai de Versailles (tranvía línea 2, parada Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Reservar](https://bike-n-tour.lokki.rent)
+[Reservar](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nuestras otras visitas
 

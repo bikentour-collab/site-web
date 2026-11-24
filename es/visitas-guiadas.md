@@ -10,13 +10,13 @@ Visitas guiadas
 
 Moldeada por su puerto, Nantes tiene mil historias que contar. Nuestros guías locales se las descubren en bici eléctrica, en grupo reducido y 100 % por carriles bici: en familia, con amigos o entre compañeros de trabajo.
 
-[Reservar una visita](https://bike-n-tour.lokki.rent)[Visita privada](https://www.bikentour.com/es/grupos-y-empresas#visites)
+[Reservar una visita](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Visita privada](https://www.bikentour.com/es/grupos-y-empresas#visites)
 
 ![Grupo en una visita guiada delante del Carrousel des Mondes Marins en Nantes](https://www.bikentour.com/assets/img/v2-visite-carrousel.webp)
 
 **En resumen.** Bike'N Tour ofrece tres visitas guiadas por Nantes en bici eléctrica, con un guía local y 12 personas como máximo: Nantes Bike Tour: el panorama de Nantes (2 h 30 min, 44 € por persona); Wine & Bike Tour en Nantes (3 h 30 min, 65 € por persona); Tour «Cultura urbana» en bicicleta eléctrica (2 h 30 min, 45 € por persona). Bici eléctrica y casco incluidos, recorrido 100 % por carriles bici, cancelación gratuita hasta 48 h antes.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Elija su visita
 

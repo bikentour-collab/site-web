@@ -10,13 +10,13 @@ Idées de balades
 
 Une journée ou un week-end : nos idées de balades autonomes au départ de la boutique, avec retour en TER quand c'est possible. Les distances et niveaux viennent de nos sorties avec l'équipe.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pause à vélo dans le centre de Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 
 **En bref.** 11 idées de balades à vélo d'une journée ou d'un week-end au départ de la boutique Bike'N Tour à Nantes : La Sèvre nantaise jusqu'à Clisson (37 km (aller)), Les rives de Loire jusqu'à Oudon (30 km), La Loire à Vélo jusqu'à Cordemais (46 km), Le lac de Grand-Lieu (18 km), Le tour du panorama nantais (20 km), L'Erdre jusqu'à Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17,5 km), Le Pellerin par la rive sud (24 km), Nantes – Pornic en deux jours (100 km), Nantes – Angers en deux jours (110 km), Nantes – Saint-Nazaire par la Vélidéale (90 km). Location de vélo dès 22 € la journée, vélo électrique dès 35 €.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## La Sèvre nantaise jusqu'à Clisson
 

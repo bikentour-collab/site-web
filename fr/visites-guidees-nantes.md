@@ -10,13 +10,13 @@ Visites guidées
 
 Façonnée par son port, Nantes a mille histoires à raconter. Nos guides locaux vous les font découvrir à vélo électrique, en petit groupe et 100 % sur pistes cyclables : en famille, entre amis ou entre collègues.
 
-[Réserver une visite](https://bike-n-tour.lokki.rent)[Visite privée](https://www.bikentour.com/fr/offre-groupes-seminaires#visites)
+[Réserver une visite](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Visite privée](https://www.bikentour.com/fr/offre-groupes-seminaires#visites)
 
 ![Groupe en visite guidée devant le Carrousel des Mondes Marins à Nantes](https://www.bikentour.com/assets/img/v2-visite-carrousel.webp)
 
 **En bref.** Bike'N Tour propose trois visites guidées de Nantes à vélo électrique, avec un guide local et 12 personnes maximum : Nantes Bike Tour : le panorama nantais (2 h 30, 44 € par personne) ; Wine & Bike Tour à Nantes (3 h 30, 65 € par personne) ; Tour « Culture urbaine » à vélo électrique (2 h 30, 45 € par personne). Vélo électrique et casque compris, parcours 100 % sur pistes cyclables, annulation gratuite jusqu'à 48 h.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Choisissez votre visite
 

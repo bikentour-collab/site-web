@@ -8,7 +8,28 @@ Questions fréquentes
 
 # Louer un vélo à Nantes : toutes vos questions
 
-Location, réservation, caution, aller simple, accès à la boutique : les réponses aux questions qu'on nous pose le plus souvent. Une autre question ? Appelez-nous au [06 52 62 94 64](tel:+33652629464). Pour tout comprendre en une page : [le guide de la location de vélo à Nantes](https://www.bikentour.com/fr/guide-location-velo-nantes).
+Location, réservation, caution, aller simple, accès à la boutique : les réponses aux questions qu'on nous pose le plus souvent.
+
+Rechercher une question
+
+Aucune question ne correspond. Écrivez-nous : nous vous répondons rapidement.
+
+[La location](#faq-la-location)[Réservation et services](#faq-reservation-et-services)[Caution, casse et assistance](#faq-caution-casse-et-assistance)[Venir à la boutique](#faq-venir-a-la-boutique)
+
+Rubriques
+
+- [La location 5](#faq-la-location)
+- [Réservation et services 3](#faq-reservation-et-services)
+- [Caution, casse et assistance 3](#faq-caution-casse-et-assistance)
+- [Venir à la boutique 3](#faq-venir-a-la-boutique)
+
+**Vous ne trouvez pas votre réponse ?**
+
+On vous répond rapidement, en général dans la journée.
+
+[06 52 62 94 64](tel:+33652629464)
+[WhatsApp](https://wa.me/33652629464)
+[Nous écrire](https://www.bikentour.com/fr/qui-sommes-nous-nous-contacter)
 
 ## La location
 
@@ -73,3 +94,5 @@ D'avril à octobre, du mardi au dimanche, et tous les jours en juillet et août,
 ### Proposez-vous des visites privées ?
 
 Oui, pour les familles, groupes d'amis et entreprises : consultez notre page Groupes et entreprises ou contactez-nous.
+
+Pour tout comprendre en une page : [le guide de la location de vélo à Nantes](https://www.bikentour.com/fr/guide-location-velo-nantes).

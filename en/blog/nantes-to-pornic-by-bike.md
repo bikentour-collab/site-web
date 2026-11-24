@@ -108,7 +108,7 @@ Route starting from the shop
 
 To the ocean and the Vendée
 
-[See the route](https://www.bikentour.com/en/travel-ideas/velodyssee) [Book my bikes](https://bike-n-tour.lokki.rent)
+[See the route](https://www.bikentour.com/en/travel-ideas/velodyssee) [Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Also on our blog
 

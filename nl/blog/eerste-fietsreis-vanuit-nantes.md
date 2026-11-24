@@ -105,7 +105,7 @@ Vertrekken per fiets vanuit Nantes
 
 Zes fietsroutes vertrekken bij onze winkel in het centrum van Nantes: wij zetten je fiets, fietstassen en GPX-track klaar.
 
-[De routes](https://www.bikentour.com/nl/reisideeen) [Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[De routes](https://www.bikentour.com/nl/reisideeen) [Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Ook op onze blog
 

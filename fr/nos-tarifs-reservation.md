@@ -10,7 +10,7 @@ Tarifs 2026
 
 Des tarifs simples et dégressifs, cadenas, kit anti-crevaison et éclairage compris. Réservez en ligne en quelques minutes, annulation gratuite jusqu'à 48 h avant le départ.
 
-[Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Annulation gratuite jusqu'à 48 h
 - Vélo réglé à votre taille
@@ -20,7 +20,7 @@ Des tarifs simples et dégressifs, cadenas, kit anti-crevaison et éclairage com
 
 **En bref.** Tarifs 2026 de location de vélos chez Bike'N Tour, 27 quai de Versailles à Nantes : vélo de voyage 22 € la journée, 110 € la semaine ; vélo électrique 35 € la journée, 172 € la semaine ; vélo gravel 35 € la journée, 172 € la semaine ; vélo enfant 20 € la journée, 88 € la semaine. Antivol, kit anti-crevaison et éclairage inclus. Aller simple sur devis, annulation gratuite jusqu'à 48 h avant le départ.
 
-Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Location de vélos
 

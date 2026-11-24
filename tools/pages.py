@@ -219,6 +219,11 @@ def cta_band(text='Votre itinéraire est choisi ?', strong='Il ne manque que le 
 
 
 BOOK_BTN = f'<a class="btn btn-primary" href="{BOOK}">Réserver mes vélos</a>'
+
+
+def book_btn(url=None, label=None):
+    """Bouton de réservation : lien direct vers le produit Lokki quand il est renseigné dans l'admin."""
+    return f'<a class="btn btn-primary" href="{esc(url or BOOK)}">{label or "Réserver mes vélos"}</a>'
 REASSURE = '<ul class="reassure"><li>Annulation gratuite jusqu\'à 48 h</li><li>Vélo réglé à votre taille</li><li>Trace GPX offerte</li></ul>'
 CRUMB_HOME = ('Accueil', '/')
 HUB = '/fr/itineraires-velo-depart-nantes'
@@ -291,16 +296,27 @@ def bike_gallery(b):
 
 QM = {'fr': ('« ', ' »'), 'en': ('“', '”'), 'nl': ('“', '”'), 'de': ('„', '“'), 'es': ('«', '»')}.get(LANG, ('« ', ' »'))
 REVIEWS = [(x.get('texte') or '', x.get('auteur') or '') for x in (HOME.get('avis') or [])][:3]
+PAGE_REVIEWS = [(x.get('texte') or '', x.get('auteur') or '', x.get('page') or '') for x in (HOME.get('avis_pages') or [])]
 
 
-def reviews_block():
+def reviews_block(ctx=None):
+    """3 avis : d'abord ceux rattachés à la page (admin : Accueil → Avis sur les pages), complétés par ceux de l'accueil."""
     link = SITE_CFG.get('lien_google_avis') or 'https://www.google.com/search?q=bike%27n+tour+nantes+avis'
-    q = ''.join(f'<blockquote><p>{QM[0]}{esc(t)}{QM[1]}</p><footer>{esc(a)} · Google</footer></blockquote>' for t, a in REVIEWS)
+    leave = SITE_CFG.get('lien_laisser_avis')
+    pool = [(t, a, ' · Google') for t, a, p in PAGE_REVIEWS if ctx and p == ctx] + [(t, a, ' · Google') for t, a in REVIEWS]
+    seen, picked = set(), []
+    for t, a, src in pool:
+        if t and t not in seen:
+            seen.add(t); picked.append((t, a, src))
+    q = ''.join(f'<blockquote><p>{QM[0]}{esc(t)}{QM[1]}</p><footer>{esc(a)}{src}</footer></blockquote>' for t, a, src in picked[:3])
     title = T("Ce qu'en disent nos voyageurs")
+    more = f'<a class="arrow-link arrow-light" href="{esc(link)}">{T("Lire tous les avis Google")}</a>'
+    if leave:
+        more += f' <a class="arrow-link arrow-light" href="{esc(leave)}">{T("Vous avez loué chez nous ? Laissez un avis")}</a>'
     return (f'<section class="section section-navy"><div class="wrap"><div class="head"><div><p class="eyebrow eyebrow-light">{T("Avis vérifiés")}</p>'
             f'<h2>{title}</h2></div><a class="score" href="{esc(link)}"><img src="/assets/img/logo-google.webp" alt="Avis Google" width="300" height="97" loading="lazy">'
             f'<span><strong>{HOME["google_note"]}</strong>/5 · {T("{n} avis", n=HOME["google_avis"])}</span></a></div><div class="quotes">{q}</div>'
-            f'<p class="more-reviews"><a class="arrow-link arrow-light" href="{esc(link)}">{T("Lire tous les avis Google")}</a></p></div></section>')
+            f'<p class="more-reviews">{more}</p></div></section>')
 
 
 # =================================================================== itinéraires
@@ -403,6 +419,7 @@ def route_pages():
 </section>
 {route_gallery(r)}
 {blog.blog_block('route', r['id'], 'À lire sur le blog : ' + r['name'], extra=BLOG_EXTRA.get(r['id'], ()))}
+{reviews_block(r['id'])}
 {cta_band()}'''
         pois_ld = [{"@type": "TouristAttraction", "name": p['nom'], "description": p.get('texte', ''),
                     "geo": {"@type": "GeoCoordinates", "latitude": p['lat'], "longitude": p['lon']},
@@ -572,7 +589,7 @@ def bike_pages():
                (T("Qu'est-ce qui est inclus ?"), T("Antivol, kit anti-crevaison, pompe, porte-bagages, éclairage, chargeur et clé de batterie, ainsi que le réglage du vélo à votre taille et nos conseils d'itinéraire.") if b['id'] in ('electrique', 'cargo')
                 else T("Antivol, kit anti-crevaison, pompe, porte-bagages et éclairage, ainsi que le réglage du vélo à votre taille et nos conseils d'itinéraire."))]
         body = f'''
-{phero('Location de vélos à Nantes', esc(b['h1']), esc(b['lead']), b['img'], b['iw'], b['ih'], b['alt'], f'<p class="price-big">{T("Dès <strong>{price} €</strong> / jour", price=b["day"])}</p><div class="hero-actions">{BOOK_BTN}<a class="btn btn-ghost" href="/fr/nos-tarifs-reservation">Tous les tarifs</a></div>{REASSURE}')}
+{phero('Location de vélos à Nantes', esc(b['h1']), esc(b['lead']), b['img'], b['iw'], b['ih'], b['alt'], f'<p class="price-big">{T("Dès <strong>{price} €</strong> / jour", price=b["day"])}</p><div class="hero-actions">{book_btn(b.get('reservation'))}<a class="btn btn-ghost" href="/fr/nos-tarifs-reservation">Tous les tarifs</a></div>{REASSURE}')}
 <section class="section"><div class="wrap two-col">
   <div class="prose">
     <h2>Caractéristiques</h2><dl class="specs">{specs}</dl>
@@ -581,12 +598,12 @@ def bike_pages():
     <h2>Pour quels voyages ?</h2><p>{esc(b['why'])}</p>
     {faq_block(qas)}
   </div>
-  <div class="side"><div class="side-card side-body"><p class="eyebrow">Inclus</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in INCLUDED)}</ul>{BOOK_BTN}<p class="small">Ou au <a href="tel:{PHONE}">{PHONE_TXT}</a></p></div></div>
+  <div class="side"><div class="side-card side-body"><p class="eyebrow">Inclus</p><ul class="ticks">{''.join(f'<li>{esc(i)}</li>' for i in INCLUDED)}</ul>{book_btn(b.get('reservation'))}<p class="small">Ou au <a href="tel:{PHONE}">{PHONE_TXT}</a></p></div></div>
 </div></section>
 <section class="section section-tint"><div class="wrap"><h2>Idéal pour</h2><div class="cards cards-3">{good}</div>
 <p class="more"><a class="arrow-link" href="/fr/nos-velos-location">Comparer tous nos vélos</a></p></div></section>
 {bike_gallery(b)}
-{reviews_block()}
+{reviews_block(b['id'])}
 {blog.blog_block('bike', b['id'], 'Sur le blog', extra=BLOG_EXTRA.get(b['id'], ()))}
 {cta_band()}'''
         page(b['url'], b['title'], b['meta'], [CRUMB_HOME, ('Nos vélos', '/fr/nos-velos-location'), (b['name'], None)], body,
@@ -722,7 +739,7 @@ def pricing():
 # =================================================================== accessoires
 def accessories_page():
     url = '/fr/location-accessoires-velo'
-    cards = ''.join(f'<article class="acc-card"><h3>{esc(n)}</h3><p>{esc(ACC_DESC.get(n) or "")}</p><p class="price">{T("{price} € / jour", price=p)}</p></article>' for n, p in ACCESSORIES)
+    cards = ''.join(f'<article class="acc-card"><h3>{esc(n)}</h3><p>{esc(ACC_DESC.get(n) or "")}</p><p class="price">{T("{price} € / jour", price=p)}</p>{f'<a class="arrow-link" href="{esc(ACC_BOOK[n])}">{T("Réserver")}</a>' if ACC_BOOK.get(n) else ''}</article>' for n, p in ACCESSORIES)
     qas = [(T("Peut-on louer des accessoires sans vélo ?"), T("Les accessoires se louent avec un vélo Bike'N Tour. Si vous avez votre propre vélo, appelez-nous : on regarde ensemble ce qui est possible.")),
            (T("Les sacoches s'adaptent-elles à tous les vélos ?"), T("Oui, les sacoches Ortlieb se fixent sur le porte-bagages de nos vélos de voyage et électriques.")),
            (T("Comment réserver les accessoires ?"), T("En même temps que votre vélo, sur notre site de réservation, ou par téléphone."))]
@@ -731,6 +748,7 @@ def accessories_page():
 <section class="section"><div class="wrap"><h2>{T("Nos accessoires en location")}</h2><p class="lead acc-intro">{T("Les accessoires se réservent en même temps que le vélo et vous attendent à la boutique, montés et réglés au départ : sacoches fixées sur le porte-bagages, support de téléphone installé, casque ajusté. Pour un voyage de plusieurs jours sur la Loire à Vélo ou la Vélodyssée, la paire de sacoches arrière Ortlieb (2 × 20 L) suffit pour deux personnes en itinérance légère ; la sacoche de guidon garde à portée de main papiers, téléphone et en-cas. Tout est rendu à la boutique au retour, ou à l'arrivée en cas d'aller simple.")}</p><div class="acc-cards">{cards}</div>
 <p class="small muted">{T("Inclus avec chaque vélo : cadenas, kit anti-crevaison et éclairage.")} <a href="/fr/nos-tarifs-reservation#grille">{T("Voir tous les tarifs")}</a></p></div></section>
 <section class="section section-tint"><div class="wrap prose">{faq_block(qas)}</div></section>
+{reviews_block('accessoires')}
 {cta_band()}'''
     lst = {"@type": "OfferCatalog", "name": T("Accessoires de vélo à louer à Nantes"), "itemListElement": [
         {"@type": "Offer", "itemOffered": {"@type": "Product", "name": n}, "price": str(p), "priceCurrency": "EUR", "unitText": "DAY", "seller": {"@id": BIZ}} for n, p in ACCESSORIES]}
@@ -812,6 +830,7 @@ def groups():
 <section class="section section-tint"><div class="wrap two-col"><div class="prose">{faq_block(qas)}</div>
 <div class="side"><div class="side-card side-body"><p class="eyebrow">Votre demande</p><p>Indiquez le nombre de participants, la date, le lieu et le type de sortie : nous revenons vers vous rapidement avec une proposition.</p>
 <a class="btn btn-primary" href="mailto:{EMAIL}?subject=Demande%20de%20devis%20groupe">{EMAIL}</a></div></div></div></section>
+{reviews_block('groupes')}
 {cta_band('Un projet de sortie ?', 'On le construit avec vous.')}'''
     page('/fr/offre-groupes-seminaires', 'Team building et séminaire à vélo à Nantes | Bike\'N Tour',
          T("Sorties à vélo pour groupes et entreprises à Nantes : location {location}, visites privées {visits}, team building.", location=offer_price('location'), visits=offer_price('visites')),
@@ -821,36 +840,111 @@ def groups():
 
 
 # =================================================================== à propos, FAQ
+MAPS_DIR = "https://www.google.com/maps/dir/?api=1&amp;destination=Bike%27N%20Tour%2C%2027%20quai%20de%20Versailles%2C%2044000%20Nantes&amp;destination_place_id=ChIJs4a_MafuBUgRJSCn_bCr_W0"
+
+
+def contact_form():
+    from icons import icon
+    return f'''<form class="form-card" data-form-api="/api/contact" data-kind="contact" data-mailto="{EMAIL}" novalidate
+  data-ok="Merci ! Votre message est bien parti. Nous vous répondons rapidement, en général dans la journée pendant la saison."
+  data-err="L'envoi n'a pas fonctionné. Réessayez, ou écrivez-nous directement à {EMAIL}."
+  data-msg="Votre messagerie s'ouvre : envoyez le message, on vous répond rapidement.">
+  <h2>Écrivez-nous</h2>
+  <p class="small muted">Les champs marqués d'un * sont obligatoires.</p>
+  <div class="hp" aria-hidden="true"><label>Site web <input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
+  <div class="field-row">
+    <label class="field"><span>Nom et prénom *</span><input name="nom" autocomplete="name" required></label>
+    <label class="field"><span>Email *</span><input name="email" type="email" autocomplete="email" required></label>
+  </div>
+  <div class="field-row">
+    <label class="field"><span>Téléphone</span><input name="tel" type="tel" autocomplete="tel"></label>
+    <label class="field"><span>Sujet</span><select name="sujet">
+      <option>Location de vélos</option><option>Itinéraire et conseils</option><option>Visite guidée</option><option>Groupe ou entreprise</option><option>Autre demande</option>
+    </select></label>
+  </div>
+  <label class="field"><span>Dates de votre séjour (facultatif)</span><input name="dates" placeholder="Ex. du 12 au 15 juin, 2 adultes"></label>
+  <label class="field"><span>Votre message *</span><textarea name="message" rows="6" required></textarea></label>
+  <p class="small muted">Vos coordonnées servent uniquement à vous répondre. Elles ne sont ni conservées sur le site ni transmises à des tiers.</p>
+  <button class="btn btn-primary" type="submit">{icon('send')}<span>Envoyer le message</span></button>
+  <p class="form-status" role="status" aria-live="polite"></p>
+</form>'''
+
+
 def about():
+    from icons import icon
     body = f'''
-{phero('Qui sommes-nous', 'Bike\'N Tour, loueur de vélos de voyage à Nantes', "Depuis 10 ans, Antoine et l'équipe de Bike'N Tour préparent les vélos de celles et ceux qui partent à l'aventure au départ de Nantes, et font découvrir la ville à vélo électrique.", 'v2-flotte-boutique.webp', 1400, 933, 'La flotte Bike\'N Tour devant la boutique')}
-<section class="section"><div class="wrap two-col">
+<section class="phero phero-slim"><div class="wrap"><p class="eyebrow">Contact</p><h1>Contactez Bike'N Tour</h1>
+<p class="lead">Une question sur la location, un itinéraire, une visite guidée ou un groupe ? Écrivez-nous ou appelez-nous : on vous répond rapidement, en général dans la journée pendant la saison.</p></div></section>
+<section class="section section-top0"><div class="wrap contact-grid">
+  {contact_form()}
+  <div class="contact-side" id="contact">
+    <div class="ccard">
+      <p class="eyebrow">{icon('map-pin')} La boutique</p>
+      <address class="addr"><strong>Bike'N Tour</strong><br>27 quai de Versailles, 44000 Nantes<br>Au bord de l'Erdre, face à l'île de Versailles</address>
+      <p class="small">{icon('tram-front')} Tram ligne 2, arrêt Saint-Mihiel, à deux pas</p>
+      <a class="btn btn-yellow btn-block" href="{MAPS_DIR}" rel="noopener">{icon('navigation')}<span>Itinéraire vers la boutique</span></a>
+    </div>
+    <div class="ccard">
+      <p class="eyebrow">{icon('clock')} Horaires</p>
+      <p>D'avril à octobre, du mardi au dimanche<br>Tous les jours en juillet et août<br><strong>9 h 30 – 12 h · 14 h – 18 h 30</strong></p>
+    </div>
+    <div class="ccard">
+      <p class="eyebrow">{icon('phone')} En direct</p>
+      <div class="cquick">
+        <a class="qbtn" href="tel:{PHONE}">{icon('phone')}<span>{PHONE_TXT}</span></a>
+        <a class="qbtn qbtn-wa" href="https://wa.me/{SITE_CFG.get('whatsapp') or '33652629464'}">{icon('message-circle')}<span>WhatsApp</span></a>
+        <a class="qbtn" href="mailto:{EMAIL}">{icon('mail')}<span>{EMAIL}</span></a>
+      </div>
+    </div>
+  </div>
+</div></section>
+<section class="section section-tint"><div class="wrap two-col">
   <div class="prose" id="histoire">
     <h2>Notre histoire</h2>
     <p>Bike'N Tour est né d'une idée simple : à Nantes, au carrefour de la Loire à Vélo, de la Vélodyssée et des véloroutes bretonnes, il manquait un loueur pensé pour le voyage à vélo. Dix ans plus tard, la boutique du quai de Versailles prépare chaque saison des centaines de voyageurs, venus de toute la France, des Pays-Bas, d'Allemagne ou d'ailleurs.</p>
     <p>Nous choisissons nos vélos pour l'itinérance, dont plusieurs fabriqués à quelques kilomètres de Nantes par Sunn, nous les contrôlons après chaque location, et nous prenons le temps de vous montrer la route. Nos guides font aussi découvrir Nantes à vélo électrique, en petit groupe.</p>
-    <p><strong>[À compléter avec Antoine : date de création, parcours, anecdote.]</strong></p>
-    <h2 id="contact">Nous trouver</h2>
-    <address class="addr"><strong>Bike'N Tour</strong><br>27 quai de Versailles, 44000 Nantes<br>Au bord de l'Erdre, face à l'île de Versailles<br>Tram ligne 2, arrêt Saint-Mihiel<br><a href="tel:{PHONE}">{PHONE_TXT}</a> · <a href="mailto:{EMAIL}">{EMAIL}</a></address>
-    <p><a class="arrow-link" href="https://www.google.com/maps/search/?api=1&amp;query=Bike%27N+Tour+19+rue+Jean+Jaur%C3%A8s+Nantes">Ouvrir dans Google Maps</a></p>
+    <p><a class="arrow-link" href="/fr/nous-rejoindre">Envie de nous rejoindre ? Nos offres de stage et d'emploi</a></p>
   </div>
-  <div class="side"><div class="side-card side-body"><p class="eyebrow">Horaires</p><p>D'avril à octobre, du mardi au dimanche<br>Tous les jours en juillet et août<br><strong>9 h 30 – 12 h · 14 h – 18 h 30</strong></p>
-  <p class="small">Retrait en boutique. Paiement en ligne ou en boutique, carte bancaire et chèque.</p>{BOOK_BTN}</div></div>
+  <figure class="about-photo"><img src="/assets/img/v2-flotte-boutique.webp" alt="La flotte Bike'N Tour devant la boutique" width="1400" height="933" loading="lazy" decoding="async"></figure>
 </div></section>
 {cta_band()}'''
-    page('/fr/qui-sommes-nous-nous-contacter', 'Qui sommes-nous et contact | Bike\'N Tour Nantes',
-         'Bike\'N Tour, loueur de vélos de voyage et organisateur de visites guidées à Nantes depuis 10 ans : notre histoire, adresse, horaires, accès et contact.',
-         [CRUMB_HOME, ('Qui sommes-nous', None)], body, [], img='v2-flotte-boutique.webp', priority='0.6', kind='AboutPage',
+    contact_ld = {"@type": "ContactPage", "name": "Contact Bike'N Tour", "url": SITE + (i18n.url('/fr/qui-sommes-nous-nous-contacter') or '/fr/qui-sommes-nous-nous-contacter'), "about": {"@id": BIZ}}
+    page('/fr/qui-sommes-nous-nous-contacter', "Contact et accès à la boutique | Bike'N Tour Nantes",
+         "Contactez Bike'N Tour, loueur de vélos à Nantes : formulaire, téléphone, WhatsApp, adresse (27 quai de Versailles), horaires et itinéraire vers la boutique.",
+         [CRUMB_HOME, ('Contact', None)], body, [contact_ld], img='v2-flotte-boutique.webp', priority='0.6', kind='AboutPage',
          brief=T("Bike'N Tour est un loueur de vélos de voyage, électriques et gravel installé au 27 quai de Versailles, 44000 Nantes, au bord de l'Erdre (tram ligne 2, arrêt Saint-Mihiel). Ouvert d'avril à octobre du mardi au dimanche, tous les jours en juillet et août, de 9 h 30 à 12 h et de 14 h à 18 h 30. Contact : {phone}, {email}.", phone=PHONE_TXT, email=EMAIL))
 
 
 def faq_page():
-    blocks = ''.join(faq_block(qs, title, 'h2') for title, qs in FAQ_FULL)
+    from icons import icon
+    import unicodedata
+    def slug(t):
+        t = unicodedata.normalize('NFD', t).encode('ascii', 'ignore').decode().lower()
+        return 'faq-' + re.sub(r'[^a-z0-9]+', '-', t).strip('-')
+    cats = [(slug(title), title, qs) for title, qs in FAQ_FULL]
+    nav = ''.join(f'<li><a href="#{sid}">{esc(title)} <span>{len(qs)}</span></a></li>' for sid, title, qs in cats)
+    chips = ''.join(f'<a class="chip" href="#{sid}">{esc(title)}</a>' for sid, title, _ in cats)
+    blocks = ''.join(f'<div class="faq-cat" id="{sid}">{faq_block(qs, title, "h2")}</div>' for sid, title, qs in cats)
     allq = [qa for _, qs in FAQ_FULL for qa in qs]
     body = f'''
-<section class="phero phero-slim"><div class="wrap"><p class="eyebrow">Questions fréquentes</p><h1>Louer un vélo à Nantes : toutes vos questions</h1>
-<p class="lead">Location, réservation, caution, aller simple, accès à la boutique : les réponses aux questions qu'on nous pose le plus souvent. Une autre question ? Appelez-nous au <a href="tel:{PHONE}">{PHONE_TXT}</a>. Pour tout comprendre en une page : <a href="/fr/guide-location-velo-nantes">le guide de la location de vélo à Nantes</a>.</p></div></section>
-<section class="section"><div class="wrap narrow">{blocks}</div></section>
+<section class="phero phero-slim faq-hero"><div class="wrap">
+  <p class="eyebrow">Questions fréquentes</p><h1>Louer un vélo à Nantes : toutes vos questions</h1>
+  <p class="lead">Location, réservation, caution, aller simple, accès à la boutique : les réponses aux questions qu'on nous pose le plus souvent.</p>
+  <div class="faq-search"><label class="sr-only" for="faq-q">Rechercher une question</label>{icon('search')}<input id="faq-q" type="search" placeholder="Rechercher : caution, aller simple, enfant…" autocomplete="off" data-faq-search></div>
+  <p class="faq-empty small" data-faq-empty hidden>Aucune question ne correspond. Écrivez-nous : nous vous répondons rapidement.</p>
+  <nav class="faq-chips" aria-label="Rubriques">{chips}</nav>
+</div></section>
+<section class="section section-top0"><div class="wrap faq-layout">
+  <aside class="faq-nav"><p class="eyebrow">Rubriques</p><ul>{nav}</ul>
+    <div class="faq-help"><p><strong>Vous ne trouvez pas votre réponse ?</strong></p><p class="small">On vous répond rapidement, en général dans la journée.</p>
+      <a class="qbtn" href="tel:{PHONE}">{icon('phone')}<span>{PHONE_TXT}</span></a>
+      <a class="qbtn qbtn-wa" href="https://wa.me/{SITE_CFG.get('whatsapp') or '33652629464'}">{icon('message-circle')}<span>WhatsApp</span></a>
+      <a class="qbtn" href="/fr/qui-sommes-nous-nous-contacter">{icon('mail')}<span>Nous écrire</span></a></div>
+  </aside>
+  <div class="faq-main">{blocks}
+    <div class="faq-more"><p>Pour tout comprendre en une page : <a href="/fr/guide-location-velo-nantes">le guide de la location de vélo à Nantes</a>.</p></div>
+  </div>
+</div></section>
 {cta_band()}'''
     page('/fr/faq-locationdeveloanantes', 'FAQ location de vélo à Nantes | Bike\'N Tour',
          'Location de vélo à Nantes : tarifs, caution, assurance, accessoires, aller simple, annulation, horaires et accès à la boutique Bike\'N Tour. Toutes les réponses.',
@@ -1002,7 +1096,7 @@ def guide():
          T("La caution est de {deposits}, plafonnée à {cap} € pour plusieurs vélos. Une protection casse et vol est proposée en option : {protections}.",
            deposits=grouped('deposit', lambda v: f'{nb(v)} €'), cap=nb(2000), protections=grouped('protect', lambda v: T('{price} € par jour', price=v))), ''),
         ('Comment réserver et peut-on annuler ?',
-         f"La réservation se fait en ligne sur <a href=\"{BOOK}\">bike-n-tour.lokki.rent</a>, par téléphone au {PHONE_TXT} ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ. Le paiement se fait en ligne ou en boutique, par carte bancaire ou chèque.", ''),
+         f"La réservation se fait en ligne sur <a href=\"{BOOK}\">Lokki</a>, par téléphone au {PHONE_TXT} ou en boutique. L'annulation est gratuite jusqu'à 48 h avant le départ. Le paiement se fait en ligne ou en boutique, par carte bancaire ou chèque.", ''),
         ('Peut-on visiter Nantes à vélo avec un guide ?',
          T("Oui : Bike'N Tour propose trois visites guidées à vélo électrique, en petit groupe de 12 personnes maximum et 100 % sur pistes cyclables : {list}.", list=tours_txt),
          '<p><a class="arrow-link" href="/fr/visites-guidees-nantes">Toutes les visites guidées</a></p>'),

@@ -12,7 +12,7 @@ Preise, Radwahl, Routen ab Nantes, Einweg-Miete, Zubehör, Kaution: alles, was S
 
 **Kurz gesagt.** Um in Nantes ein Fahrrad für eine Radreise zu mieten: Bike'N Tour (27 quai de Versailles, an der Erdre) vermietet Reiserad ab 22 €, E-Bike ab 35 €, Gravelbike ab 35 € und Kinderrad ab 20 € pro Tag, mit Einweg-Miete nach Angebot und kostenloser Stornierung bis 48 Std. vorher. Sechs Radrouten starten am Laden, darunter die Loire à Vélo (165 km bis Saumur).
 
-Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Wo kann man in Nantes ein Fahrrad für eine Radreise mieten?
 
@@ -98,7 +98,7 @@ Die Kaution beträgt 500 € (Reiserad, Kinderrad), 1.000 € (E-Bike, Gravelb
 
 ## Wie bucht man, und kann man stornieren?
 
-Die Buchung erfolgt online auf [bike-n-tour.lokki.rent](https://bike-n-tour.lokki.rent), telefonisch unter 06 52 62 94 64 oder im Laden. Die Stornierung ist bis 48 Std. vor Abfahrt kostenlos. Die Zahlung erfolgt online oder im Laden, per Kreditkarte oder Scheck.
+Die Buchung erfolgt online auf [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), telefonisch unter 06 52 62 94 64 oder im Laden. Die Stornierung ist bis 48 Std. vor Abfahrt kostenlos. Die Zahlung erfolgt online oder im Laden, per Kreditkarte oder Scheck.
 
 ## Kann man Nantes mit einem Guide per Rad entdecken?
 
@@ -125,7 +125,7 @@ Inhalt
 9. [Kann man Nantes mit einem Guide per Rad entdecken?](#q9)
 10. [Und für Gruppen oder Unternehmen?](#q10)
 
-[Fahrräder reservieren](https://bike-n-tour.lokki.rent)
+[Fahrräder reservieren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Aus unserem Blog
 

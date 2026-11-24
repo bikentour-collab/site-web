@@ -312,7 +312,7 @@
   }
 
   // Formulaires sans serveur : ouverture d'un email pré-rempli
-  document.querySelectorAll('form[data-mailto]').forEach((form) => {
+  document.querySelectorAll('form[data-mailto]:not([data-form-api])').forEach((form) => {
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       const email = form.querySelector('input[type="email"]');
@@ -396,5 +396,82 @@
     const c = read();
     if (c && c.analytics) start();
     else if (!c && tracked) show(); // la bannière n'apparaît que si un outil de mesure est configuré
+  }
+})();
+
+/* Formulaires Contact et Recrutement : envoi par le serveur (Resend), CV joint ; repli sur la messagerie */
+(function () {
+  'use strict';
+  const MAX = 5 * 1024 * 1024;
+  const toB64 = (file) => new Promise((ok, ko) => {
+    const r = new FileReader();
+    r.onload = () => ok(String(r.result).split(',')[1] || '');
+    r.onerror = ko;
+    r.readAsDataURL(file);
+  });
+  document.querySelectorAll('form[data-form-api]').forEach((form) => {
+    const status = form.querySelector('.form-status');
+    const say = (msg, err) => { if (status) { status.textContent = msg || ''; status.classList.toggle('is-error', !!err); } };
+    form.addEventListener('input', (e) => { if (e.target.getAttribute('aria-invalid')) e.target.removeAttribute('aria-invalid'); });
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const bad = [...form.querySelectorAll('input, textarea, select')].filter((f) => !f.checkValidity());
+      bad.forEach((f) => f.setAttribute('aria-invalid', 'true'));
+      if (bad.length) { bad[0].focus(); bad[0].reportValidity(); return; }
+      const data = { kind: form.dataset.kind || 'contact', lang: document.documentElement.lang || 'fr' };
+      new FormData(form).forEach((v, k) => { if (!(v instanceof File)) data[k] = v; });
+      const fileInput = form.querySelector('input[type="file"]');
+      const file = fileInput && fileInput.files[0];
+      if (file && file.size > MAX) { say(form.dataset.big, true); fileInput.setAttribute('aria-invalid', 'true'); return; }
+      const btn = form.querySelector('button[type="submit"]');
+      if (btn) btn.disabled = true;
+      say('…');
+      const mailto = () => {
+        const body = Object.entries(data).filter(([k, v]) => v && !['kind', 'lang', 'site'].includes(k)).map(([k, v]) => `${k} : ${v}`).join('\n');
+        const subject = data.kind === 'candidature' ? `Candidature : ${data.poste || ''} – ${data.nom || ''}` : `Message du site : ${data.sujet || ''} – ${data.nom || ''}`;
+        window.location.href = `mailto:${form.dataset.mailto}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        say(form.dataset.msg);
+      };
+      try {
+        if (file) data.file = { name: file.name, type: file.type, data: await toB64(file) };
+        const r = await fetch(form.dataset.formApi, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
+        if (r.status === 501) { mailto(); return; }
+        if (!r.ok) throw new Error(String(r.status));
+        form.reset();
+        say(form.dataset.ok);
+      } catch (err) {
+        say(form.dataset.err, true);
+      } finally {
+        if (btn) btn.disabled = false;
+      }
+    });
+  });
+
+  /* FAQ : recherche instantanée et rubrique en cours */
+  const q = document.querySelector('[data-faq-search]');
+  if (q) {
+    const items = [...document.querySelectorAll('.faq-main details')];
+    const cats = [...document.querySelectorAll('.faq-cat')];
+    const empty = document.querySelector('[data-faq-empty]');
+    const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    q.addEventListener('input', () => {
+      const words = norm(q.value.trim()).split(/\s+/).filter(Boolean);
+      let shown = 0;
+      items.forEach((d) => {
+        const hit = !words.length || words.every((w) => norm(d.textContent).includes(w));
+        d.hidden = !hit;
+        if (hit) shown++;
+        if (words.length && hit) d.open = true;
+      });
+      cats.forEach((c) => { c.hidden = !c.querySelector('details:not([hidden])'); });
+      if (empty) empty.hidden = shown > 0;
+    });
+    const links = [...document.querySelectorAll('.faq-nav a[href^="#"]')];
+    if ('IntersectionObserver' in window && links.length) {
+      const io = new IntersectionObserver((en) => en.forEach((x) => {
+        if (x.isIntersecting) links.forEach((a) => a.classList.toggle('is-on', a.getAttribute('href') === '#' + x.target.id));
+      }), { rootMargin: '-30% 0px -60% 0px' });
+      cats.forEach((c) => io.observe(c));
+    }
   }
 })();

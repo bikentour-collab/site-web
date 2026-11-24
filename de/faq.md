@@ -8,7 +8,28 @@ Häufige Fragen
 
 # Fahrrad mieten in Nantes: alle Ihre Fragen
 
-Miete, Buchung, Kaution, Einweg-Miete, Anfahrt zum Laden: Antworten auf die Fragen, die uns am häufigsten gestellt werden. Noch eine Frage? Rufen Sie uns an unter [06 52 62 94 64](tel:+33652629464). Alles auf einer Seite: [der Ratgeber zum Fahrradverleih in Nantes](https://www.bikentour.com/de/fahrradverleih-nantes-ratgeber).
+Miete, Buchung, Kaution, Einwegmiete, Anfahrt zum Laden: Antworten auf die häufigsten Fragen.
+
+Frage suchen
+
+Keine passende Frage. Schreiben Sie uns: Wir antworten schnell.
+
+[Die Miete](#faq-die-miete)[Buchung und Services](#faq-buchung-und-services)[Kaution, Schäden und Hilfe unterwegs](#faq-kaution-schaden-und-hilfe-unterwegs)[Anfahrt zum Laden](#faq-anfahrt-zum-laden)
+
+Themen
+
+- [Die Miete 5](#faq-die-miete)
+- [Buchung und Services 3](#faq-buchung-und-services)
+- [Kaution, Schäden und Hilfe unterwegs 3](#faq-kaution-schaden-und-hilfe-unterwegs)
+- [Anfahrt zum Laden 3](#faq-anfahrt-zum-laden)
+
+**Keine Antwort gefunden?**
+
+Wir antworten schnell, meist noch am selben Tag.
+
+[06 52 62 94 64](tel:+33652629464)
+[WhatsApp](https://wa.me/33652629464)
+[Schreiben Sie uns](https://www.bikentour.com/de/kontakt)
 
 ## Die Miete
 
@@ -73,3 +94,5 @@ Von April bis Oktober, Dienstag bis Sonntag, im Juli und August täglich, 9:30�
 ### Bieten Sie private Touren an?
 
 Ja, für Familien, Freundesgruppen und Unternehmen: Besuchen Sie unsere Seite Gruppen und Unternehmen oder kontaktieren Sie uns.
+
+Alles auf einer Seite: [unser Ratgeber zum Fahrradverleih in Nantes](https://www.bikentour.com/de/fahrradverleih-nantes-ratgeber).

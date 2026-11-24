@@ -101,7 +101,7 @@ Itinéraire au départ de la boutique
 
 Vers Angers et Saumur
 
-[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo) [Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/loire-a-velo) [Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## À lire aussi
 

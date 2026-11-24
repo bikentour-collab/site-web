@@ -1,38 +1,28 @@
-# Over ons en contact | Bike'N Tour Nantes
+# Contact en route naar de winkel | Bike'N Tour Nantes
 
-> Bike'N Tour, al 10 jaar verhuurder van reisfietsen en organisator van rondleidingen in Nantes: ons verhaal, adres, openingstijden, route en contact.
+> Neem contact op met Bike'N Tour, fietsverhuur in Nantes: formulier, telefoon, WhatsApp, adres (27 quai de Versailles), openingstijden en route naar de winkel.
 
 Page : https://www.bikentour.com/nl/contact · Bike'N Tour, 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · contact@bikentour.com
 
-Over ons
+Contact
 
-# Bike'N Tour, verhuurder van reisfietsen in Nantes
+# Neem contact op met Bike'N Tour
 
-Al 10 jaar maken Antoine en het team van Bike'N Tour de fietsen klaar voor iedereen die vanuit Nantes op avontuur gaat, en laten ze de stad zien op de e-bike.
-
-![De vloot van Bike'N Tour voor de winkel](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
+Een vraag over de verhuur, een route, een rondleiding of een groep? Schrijf of bel ons: we antwoorden snel, tijdens het seizoen meestal dezelfde dag.
 
 **In het kort.** Bike'N Tour is een verhuurder van trekkingfietsen, e-bikes en gravelbikes, gevestigd aan de 27 quai de Versailles, 44000 Nantes, aan de Erdre (tram lijn 2, halte Saint-Mihiel). Open van april tot oktober, dinsdag tot en met zondag, in juli en augustus elke dag, van 9.30 tot 12.00 uur en van 14.00 tot 18.30 uur. Contact: 06 52 62 94 64, contact@bikentour.com.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
-## Ons verhaal
-
-Bike'N Tour is ontstaan uit een eenvoudig idee: in Nantes, op het kruispunt van de Loire à Vélo, de Vélodyssée en de Bretonse fietsroutes, ontbrak een verhuurder die echt is ingericht op fietsreizen. Tien jaar later maakt de winkel aan de quai de Versailles elk seizoen honderden reizigers klaar, uit heel Frankrijk, Nederland, Duitsland en elders.
-
-We kiezen onze fietsen voor meerdaagse tochten, waaronder verschillende die op een paar kilometer van Nantes worden gemaakt door Sunn. We controleren ze na elke verhuur en nemen de tijd om je de weg te wijzen. Onze gidsen laten je bovendien Nantes ontdekken op de e-bike, in een kleine groep.
-
-**[Aan te vullen met Antoine: oprichtingsdatum, achtergrond, anekdote.]**
-
-## Waar vind je ons?
+De winkel
 
 **Bike'N Tour**  
 27 quai de Versailles, 44000 Nantes  
-Aan de Erdre, tegenover het Île de Versailles  
-Tram lijn 2, halte Saint-Mihiel  
-[06 52 62 94 64](tel:+33652629464) · [contact@bikentour.com](mailto:contact@bikentour.com)
+Aan de Erdre, tegenover het Île de Versailles
 
-[Openen in Google Maps](https://www.google.com/maps/search/?api=1&query=Bike%27N+Tour+19+rue+Jean+Jaur%C3%A8s+Nantes)
+Tramlijn 2, halte Saint-Mihiel, op een paar stappen
+
+[Route naar de winkel](https://www.google.com/maps/dir/?api=1&destination=Bike%27N%20Tour%2C%2027%20quai%20de%20Versailles%2C%2044000%20Nantes&destination_place_id=ChIJs4a_MafuBUgRJSCn_bCr_W0)
 
 Openingstijden
 
@@ -40,6 +30,18 @@ Van april tot oktober, dinsdag tot en met zondag
 In juli en augustus elke dag  
 **9.30–12.00 uur · 14.00–18.30 uur**
 
-Ophalen in de winkel. Betalen online of in de winkel, met bankpas/creditcard of cheque.
+Direct contact
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[06 52 62 94 64](tel:+33652629464)
+[WhatsApp](https://wa.me/33652629464)
+[contact@bikentour.com](mailto:contact@bikentour.com)
+
+## Ons verhaal
+
+Bike'N Tour is ontstaan uit een eenvoudig idee: in Nantes, op het kruispunt van de Loire à Vélo, de Vélodyssée en de Bretonse fietsroutes, ontbrak een verhuurder die echt is ingericht op fietsreizen. Tien jaar later maakt de winkel aan de quai de Versailles elk seizoen honderden reizigers klaar, uit heel Frankrijk, Nederland, Duitsland en elders.
+
+We kiezen onze fietsen voor meerdaagse tochten, waaronder verschillende die op een paar kilometer van Nantes worden gemaakt door Sunn. We controleren ze na elke verhuur en nemen de tijd om je de weg te wijzen. Onze gidsen laten je bovendien Nantes ontdekken op de e-bike, in een kleine groep.
+
+[Zin om ons team te versterken? Onze stages en vacatures (in het Frans)](https://www.bikentour.com/fr/nous-rejoindre)
+
+![De vloot van Bike'N Tour voor de winkel](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)

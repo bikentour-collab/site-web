@@ -108,7 +108,7 @@ Itinéraire au départ de la boutique
 
 Hacia el océano y la Vendée
 
-[Voir l'itinéraire](https://www.bikentour.com/es/rutas-en-bicicleta/velodyssee) [Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Voir l'itinéraire](https://www.bikentour.com/es/rutas-en-bicicleta/velodyssee) [Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Más en nuestro blog
 

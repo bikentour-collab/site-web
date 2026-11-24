@@ -12,7 +12,7 @@ Prijzen, fietskeuze, routes vanuit Nantes, enkele reis, accessoires, borg: alles
 
 **In het kort.** Wil je in Nantes een fiets huren voor een fietsreis? Bike'N Tour (27 quai de Versailles, aan de Erdre) verhuurt een trekkingfiets vanaf € 22, een e-bike vanaf € 35, een gravelbike vanaf € 35 en een kinderfiets vanaf € 20 per dag, met enkele reis op offerte en gratis annuleren tot 48 uur vooraf. Zes fietsroutes beginnen bij de winkel, waaronder de Loire à Vélo (165 km tot Saumur).
 
-Bijgewerkt op 21 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Waar huur je in Nantes een fiets voor een fietsreis?
 
@@ -98,7 +98,7 @@ De borg bedraagt 500 € (trekkingfiets, kinderfiets), 1.000 € (e-bike, grav
 
 ## Hoe reserveer je en kun je annuleren?
 
-Je reserveert online via [bike-n-tour.lokki.rent](https://bike-n-tour.lokki.rent), telefonisch op 06 52 62 94 64 of in de winkel. Annuleren is gratis tot 48 uur voor vertrek. Je betaalt online of in de winkel, met bankpas/creditcard of cheque.
+Je reserveert online via [Lokki](https://www.lokki.rent/loueur/bike-n-tour?c=os), telefonisch op 06 52 62 94 64 of in de winkel. Annuleren is gratis tot 48 uur voor vertrek. Je betaalt online of in de winkel, met bankpas/creditcard of cheque.
 
 ## Kun je Nantes op de fiets bezoeken met een gids?
 
@@ -125,7 +125,7 @@ Inhoud
 9. [Kun je Nantes op de fiets bezoeken met een gids?](#q9)
 10. [En voor een groep of bedrijf?](#q10)
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Van onze blog
 

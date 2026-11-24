@@ -163,7 +163,7 @@ Set off by bike from Nantes
 
 Six cycle routes start from our shop in the centre of Nantes: we get your bike, panniers and GPX track ready.
 
-[The routes](https://www.bikentour.com/en/travel-ideas) [Book my bikes](https://bike-n-tour.lokki.rent)
+[The routes](https://www.bikentour.com/en/travel-ideas) [Book my bikes](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Also on our blog
 

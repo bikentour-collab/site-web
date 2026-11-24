@@ -10,13 +10,13 @@ Onze fietsen
 
 Recente fietsen, na elke verhuur nagekeken: trekkingfietsen van Velo de Ville, e-bikes en gravelbikes van Sunn, gemaakt in Loire-Atlantique, en kinderfietsen. Allemaal vóór vertrek op jouw maat afgesteld.
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)[Gedetailleerde prijzen](https://www.bikentour.com/nl/prijs)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)[Gedetailleerde prijzen](https://www.bikentour.com/nl/prijs)
 
 ![De reisfietsen van Bike'N Tour voor de winkel in Nantes](https://www.bikentour.com/assets/img/v2-flotte-boutique.webp)
 
 **In het kort.** Prijzen 2026 voor fietsverhuur bij Bike'N Tour, 27 quai de Versailles in Nantes: trekkingfiets € 22 per dag, € 110 per week; e-bike € 35 per dag, € 172 per week; gravelbike € 35 per dag, € 172 per week; kinderfiets € 20 per dag, € 88 per week. Slot, bandenreparatieset en verlichting inbegrepen. Enkele reis op offerte, gratis annuleren tot 48 uur voor vertrek.
 
-Bijgewerkt op 21 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## De vloot
 
@@ -81,4 +81,4 @@ Inbegrepen bij elke fiets
 - Oplader en accusleutel (e-bikes)
 - Fiets afgesteld op jouw maat en routeadvies
 
-[Fietsen reserveren](https://bike-n-tour.lokki.rent)
+[Fietsen reserveren](https://www.lokki.rent/loueur/bike-n-tour?c=os)

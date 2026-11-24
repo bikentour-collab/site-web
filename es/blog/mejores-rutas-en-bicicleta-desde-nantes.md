@@ -163,7 +163,7 @@ Partir à vélo depuis Nantes
 
 Seis rutas ciclistas salen de nuestra tienda, en pleno centro de Nantes: le preparamos la bici, las alforjas y el track GPX.
 
-[Les itinéraires](https://www.bikentour.com/es/rutas-en-bicicleta) [Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Les itinéraires](https://www.bikentour.com/es/rutas-en-bicicleta) [Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Más en nuestro blog
 

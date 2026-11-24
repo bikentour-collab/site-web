@@ -221,7 +221,7 @@ def segments(s):
     return out
 
 
-ATTRS = re.compile(r'(\s(?:alt|title|aria-label|placeholder|data-subject|data-body|data-msg|data-ok)=")([^"]*)(")')
+ATTRS = re.compile(r'(\s(?:alt|title|aria-label|placeholder|data-subject|data-body|data-msg|data-ok|data-err|data-big)=")([^"]*)(")')
 META = re.compile(r'(<meta (?:name|property)="(?:description|og:title|og:description|og:image:alt|twitter:title|twitter:description)" content=")([^"]*)(")')
 JSONLD = re.compile(r'(<script type="application/ld\+json">)(.*?)(</script>)', re.S)
 HREF = re.compile(r'((?:href|data-href)=")((?:https://www\.bikentour\.com)?/[^"#?]*)([#?][^"]*)?(")')

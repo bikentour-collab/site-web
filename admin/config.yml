@@ -153,6 +153,41 @@ singletons:
       i18n: duplicate
     collapsed: false
     allow_reorder: false
+  - name: avis_pages
+    label: Avis sur les pages (vélos, itinéraires, accessoires, groupes)
+    label_singular: avis
+    hint: 'Chaque avis s''affiche en premier sur la page choisie, puis les avis de l''accueil complètent. Pensez à traduire après un ajout.'
+    widget: list
+    required: false
+    collapsed: true
+    summary: '{{page}} · {{auteur}} · {{texte}}'
+    i18n: true
+    fields:
+    - name: page
+      label: Page où l'afficher
+      widget: select
+      i18n: duplicate
+      options:
+      - {label: Vélo de voyage, value: voyage}
+      - {label: Vélo électrique, value: electrique}
+      - {label: Gravel, value: gravel}
+      - {label: Vélo enfant, value: enfant}
+      - {label: Accessoires, value: accessoires}
+      - {label: Groupes et entreprises, value: groupes}
+      - {label: Loire à Vélo, value: loire}
+      - {label: Vélodyssée, value: velodyssee}
+      - {label: Régalante, value: regalante}
+      - {label: Traversée bretonne, value: traversee}
+      - {label: Canal de Nantes à Brest, value: canal}
+      - {label: Vignoble nantais, value: vignoble}
+    - name: texte
+      label: Texte de l'avis (sans guillemets)
+      widget: text
+      i18n: true
+    - name: auteur
+      label: Prénom et initiale
+      widget: string
+      i18n: duplicate
   - name: faq
     label: Questions fréquentes de l'accueil
     label_singular: question
@@ -246,6 +281,12 @@ singletons:
       i18n: duplicate
       after_input: €
       min: 0
+    - name: reservation
+      label: Lien Lokki de ce vélo
+      widget: string
+      required: false
+      i18n: duplicate
+      hint: Les boutons « Réserver » de la page du vélo ouvrent directement sa fiche Lokki. Vide = page Lokki générale.
     - name: lead
       label: Texte d'introduction
       widget: text
@@ -373,6 +414,12 @@ singletons:
       widget: text
       required: false
       i18n: true
+    - name: reservation
+      label: Lien Lokki de l'accessoire
+      widget: string
+      required: false
+      i18n: duplicate
+      hint: Optionnel. Lien de la fiche produit sur Lokki (lien « Réserver » sur la page Accessoires).
     i18n: true
     collapsed: true
     allow_reorder: false
@@ -869,6 +916,15 @@ singletons:
   - name: reservation
     label: Lien de réservation en ligne
     widget: string
+  - name: lien_laisser_avis
+    label: Lien « Laisser un avis Google »
+    widget: string
+    required: false
+    hint: Lien court de votre fiche Google Business (Demander des avis). Affiché sous les avis du site.
+  - name: google_place_id
+    label: Google Place ID
+    widget: string
+    required: false
   - name: lien_google_avis
     label: Lien vers les avis Google
     widget: string

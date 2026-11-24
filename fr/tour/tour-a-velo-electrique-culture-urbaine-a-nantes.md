@@ -15,7 +15,7 @@ Une visite « hors cadre » de Nantes : lieux détournés, street art, architect
 - Départs**Tous les jours à 10 h, sauf le dimanche**
 - Langues**Français, anglais**
 
-[Réserver la visite](https://bike-n-tour.lokki.rent)
+[Réserver la visite](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 - Annulation gratuite jusqu'à 48 h
 - 12 personnes maximum
@@ -25,7 +25,7 @@ Une visite « hors cadre » de Nantes : lieux détournés, street art, architect
 
 **En bref.** Tour « Culture urbaine » à vélo électrique : visite guidée de Nantes à vélo électrique proposée par Bike'N Tour. Durée 2 h 30, 45 € par personne (vélo électrique et casque, guide passionné, gourmandises locales). Départs tous les jours à 10 h, sauf le dimanche, en français ou anglais, 12 personnes maximum par guide, 100 % sur pistes cyclables. Rendez-vous : Boutique Bike'N Tour, 27 quai de Versailles (tram ligne 2, arrêt Saint-Mihiel).
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Le parcours
 
@@ -72,7 +72,7 @@ Inclus
 
 **Rendez-vous :** Boutique Bike'N Tour, 27 quai de Versailles (tram ligne 2, arrêt Saint-Mihiel). Venez 10 minutes avant le départ.
 
-[Réserver](https://bike-n-tour.lokki.rent)
+[Réserver](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Nos autres visites
 

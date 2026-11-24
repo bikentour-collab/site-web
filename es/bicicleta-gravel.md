@@ -12,7 +12,7 @@ Para salirse de los caminos trillados: caminos de sirga, pistas forestales y car
 
 Desde **35 €** / día
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)[Todos los precios](https://www.bikentour.com/es/precios)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -22,7 +22,7 @@ Desde **35 €** / día
 
 **En resumen.** Bike'N Tour alquila en Nantes la bicicleta gravel Sunn Venture S1: 35 € al día, 62 € el fin de semana y 172 € la semana, con precios decrecientes y una fianza de 1 000 €. Incluye candado, kit antipinchazos, bomba y luces, y la bici se ajusta a su talla. Recomendada para El Viñedo de Nantes y El Canal de Nantes à Brest. Recogida en la tienda, 27 quai de Versailles, Nantes.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Características
 
@@ -75,7 +75,7 @@ Incluido
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-gravel-65df5c8f1cedd4003844f984?c=os)
 
 O llame al [06 52 62 94 64](tel:+33652629464)
 
@@ -117,21 +117,21 @@ Opiniones verificadas
 
 ## Lo que dicen nuestros viajeros
 
-[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
+
+> «Bicicleta gravel estupenda, de muy buena calidad y con buen rendimiento. Vivo en Nantes y pude disfrutar de las orillas del Loira en una bonita salida soleada en septiembre. Muy buena acogida del equipo, ¡volveré para una ruta de varios días!»
+>
+> Clem J. · Google
+
+> «Alquiler de 2 gravel durante 6 días con alforjas para ir de Nantes a Saintes (450 km). Bicis de gran calidad, alforjas estupendas y el equipo de Bike'N Tour amable y profesional. Lo recomiendo para un primer bikepacking.»
+>
+> Pierre B. · Google
 
 > «Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»
 >
 > Valentine D. · Google
 
-> «Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla.»
->
-> Hélène D. · Google
-
-> «¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo.»
->
-> Jérémy M. · Google
-
-[Leer todas las opiniones en Google](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Leer todas las opiniones en Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [¿Has alquilado con nosotros? Deja una reseña](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## De nuestro blog
 

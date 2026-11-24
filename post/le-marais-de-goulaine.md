@@ -102,7 +102,7 @@ Itinéraire au départ de la boutique
 
 Un week-end entre Sèvre et Muscadet
 
-[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais) [Réserver mes vélos](https://bike-n-tour.lokki.rent)
+[Voir l'itinéraire](https://www.bikentour.com/fr/itineraires-velo-depart-nantes/vignoble-nantais) [Réserver mes vélos](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## À lire aussi
 

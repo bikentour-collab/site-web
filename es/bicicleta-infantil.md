@@ -12,7 +12,7 @@ Para viajar en familia: bicicletas infantiles de 20 a 26 pulgadas y, para los m�
 
 Desde **20 €** / día
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)[Todos los precios](https://www.bikentour.com/es/precios)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)[Todos los precios](https://www.bikentour.com/es/precios)
 
 - Cancelación gratuita hasta 48 h antes
 - Bici ajustada a su talla
@@ -22,7 +22,7 @@ Desde **20 €** / día
 
 **En resumen.** Bike'N Tour alquila en Nantes la bicicleta infantil Decathlon 20, 24 o 26 pulgadas: 20 € al día, 38 € el fin de semana y 88 € la semana, con precios decrecientes y una fianza de 500 €. Incluye candado, kit antipinchazos, bomba y luces, y la bici se ajusta a su talla. Recomendada para La Loire à Vélo y El Viñedo de Nantes. Recogida en la tienda, 27 quai de Versailles, Nantes.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Características
 
@@ -72,7 +72,7 @@ Incluido
 - Cargador y llave de la batería (bicicletas eléctricas)
 - Ajuste de la bicicleta a su medida y consejos sobre el itinerario
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour/produit/velo-enfant-69d8c2fa5f66b14168b6c9c6?c=os)
 
 O llame al [06 52 62 94 64](tel:+33652629464)
 
@@ -114,7 +114,7 @@ Opiniones verificadas
 
 ## Lo que dicen nuestros viajeros
 
-[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[![Opiniones en Google](https://www.bikentour.com/assets/img/logo-google.webp)**5,0**/5 · 206 opiniones](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0)
 
 > «Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!»
 >
@@ -128,7 +128,7 @@ Opiniones verificadas
 >
 > Jérémy M. · Google
 
-[Leer todas las opiniones en Google](https://www.google.com/search?q=bike%27n+tour+nantes+avis)
+[Leer todas las opiniones en Google](https://search.google.com/local/reviews?placeid=ChIJs4a_MafuBUgRJSCn_bCr_W0) [¿Has alquilado con nosotros? Deja una reseña](https://g.page/r/CSUgp_2wq_1tEBM/review)
 
 ## De nuestro blog
 

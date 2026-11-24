@@ -108,7 +108,7 @@ Publicado el 11 de diciembre de 2019 por el equipo de Bike'N Tour, alquiler de b
 
 Desde 35 € / día, 172 € la semana.
 
-[Voir le vélo](https://www.bikentour.com/es/bicicleta-electrica) [Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Voir le vélo](https://www.bikentour.com/es/bicicleta-electrica) [Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ## Más en nuestro blog
 

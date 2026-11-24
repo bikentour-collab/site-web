@@ -8,7 +8,28 @@ Veelgestelde vragen
 
 # Fiets huren in Nantes: al je vragen
 
-Huren, reserveren, borg, enkele reis, bereikbaarheid van de winkel: de antwoorden op de vragen die we het vaakst krijgen. Een andere vraag? Bel ons op [06 52 62 94 64](tel:+33652629464). Alles op één pagina: [de gids voor fietsverhuur in Nantes](https://www.bikentour.com/nl/fiets-huren-nantes-gids).
+Verhuur, reservering, borg, enkele reis, de weg naar de winkel: antwoorden op de vragen die we het vaakst krijgen.
+
+Zoek een vraag
+
+Geen vraag gevonden. Schrijf ons: we antwoorden snel.
+
+[Huren](#faq-huren)[Reserveren en diensten](#faq-reserveren-en-diensten)[Borg, schade en hulp onderweg](#faq-borg-schade-en-hulp-onderweg)[Naar de winkel komen](#faq-naar-de-winkel-komen)
+
+Rubrieken
+
+- [Huren 5](#faq-huren)
+- [Reserveren en diensten 3](#faq-reserveren-en-diensten)
+- [Borg, schade en hulp onderweg 3](#faq-borg-schade-en-hulp-onderweg)
+- [Naar de winkel komen 3](#faq-naar-de-winkel-komen)
+
+**Geen antwoord gevonden?**
+
+We antwoorden snel, meestal dezelfde dag.
+
+[06 52 62 94 64](tel:+33652629464)
+[WhatsApp](https://wa.me/33652629464)
+[Schrijf ons](https://www.bikentour.com/nl/contact)
 
 ## Huren
 
@@ -73,3 +94,5 @@ Van april tot oktober, dinsdag tot en met zondag, en in juli en augustus elke da
 ### Bieden jullie privérondleidingen aan?
 
 Ja, voor gezinnen, vriendengroepen en bedrijven: bekijk onze pagina Groepen en bedrijven of neem contact met ons op.
+
+Alles op één pagina: [onze gids voor fietsverhuur in Nantes](https://www.bikentour.com/nl/fiets-huren-nantes-gids).

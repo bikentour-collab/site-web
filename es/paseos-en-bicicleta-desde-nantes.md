@@ -10,13 +10,13 @@ Ideas de paseos
 
 Un día o un fin de semana: nuestras ideas de paseos por libre desde la tienda, con vuelta en tren regional (TER) cuando es posible. Las distancias y los niveles salen de nuestras propias salidas con el equipo.
 
-[Reservar mis bicis](https://bike-n-tour.lokki.rent)
+[Reservar mis bicis](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 
 ![Pausa en bici en el centro de Nantes](https://www.bikentour.com/assets/img/v2-pause-nantes.webp)
 
 **En resumen.** 11 ideas de paseos en bici de un día o un fin de semana desde la tienda Bike'N Tour en Nantes: La Sèvre nantaise hasta Clisson (37 km (ida)), Las orillas del Loira hasta Oudon (30 km), La Loire à Vélo hasta Cordemais (46 km), El lago de Grand-Lieu (18 km), La vuelta al panorama de Nantes (20 km), El Erdre hasta Sucé-sur-Erdre (18 km), Mauves-sur-Loire (17,5 km), Le Pellerin por la orilla sur (24 km), Nantes – Pornic en dos días (100 km), Nantes – Angers en dos días (110 km), Nantes – Saint-Nazaire por la Vélidéale (90 km). Alquiler de bici desde 22 € al día, bici eléctrica desde 35 €.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## La Sèvre nantaise hasta Clisson
 
