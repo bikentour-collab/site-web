@@ -23,7 +23,7 @@ Das ideale Wochenende direkt vor den Toren von Nantes: die Ufer der Sèvre nanta
 
 **Kurz gesagt.** Die Weinberge von Nantes ab Nantes: 80 km als Rundtour ab dem Laden von Bike'N Tour (27 quai de Versailles), empfohlene Dauer 2 Tage, Schwierigkeit leicht. Wichtigste Etappen: Nantes → Vertou → Clisson → Vallet. Verleih: Gravelbike ab 35 € pro Tag oder Kinderrad ab 20 € pro Tag, wasserdichte Packtaschen optional (5 € pro Tag); Rundtour mit Rückkehr nach Nantes. GPX-Track und Routenblatt per E-Mail.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Empfohlene Etappen
 

@@ -4,6 +4,9 @@ Usage : cd tools && python3 generate.py"""
 import os, sys, runpy, subprocess
 
 LANG = os.environ.get('SITE_LANG', 'fr')
+if LANG == 'fr':
+    import gpx_export
+    gpx_export.write_all()  # traces GPX des itinéraires (assets/gpx), recalculées si les données changent
 runpy.run_path('build.py')
 import pages, pages_extra, blog, i18n
 

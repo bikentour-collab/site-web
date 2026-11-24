@@ -23,7 +23,7 @@ Itinéraire au départ de Nantes
 
 **En bref.** Le Canal de Nantes à Brest au départ de Nantes : 360 km jusqu'à Châteaulin depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 6 à 8 jours, niveau facile. Principales étapes : Nantes → Nort-sur-Erdre → Redon → Josselin → Pontivy → Carhaix → Châteaulin. Location : vélo de voyage dès 22 € la journée ou vélo gravel dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les étapes conseillées
 

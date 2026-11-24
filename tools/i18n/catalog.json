@@ -284,13 +284,12 @@
   "Les étapes conseillées",
   "Découpage indicatif au départ de notre boutique, à adapter à votre rythme. On en parle ensemble au moment de régler votre vélo.",
   "Profil · altitude de 3 à 45 m · dénivelé positif cumulé ≈ 531 m",
-  "À ne pas manquer",
   "Le retour",
   "Vélo conseillé",
   "Sacoches Ortlieb étanches en option (5 € / jour), aller simple sur devis.",
   "Site web",
   "Fiche PDF et trace GPX",
-  "Recevez par email la fiche de l'itinéraire, la trace GPX et nos bonnes adresses.",
+  "Recevez tout de suite par email la fiche PDF de l'itinéraire et la trace GPX, pour votre GPS ou votre téléphone.",
   "Votre email",
   "Recevoir la trace",
   "Les autres itinéraires au départ de Nantes",
@@ -301,7 +300,7 @@
   "Fiche et trace GPX : La Loire à Vélo",
   "Bonjour,||Merci de m'envoyer la fiche de l'itinéraire et la trace GPX à cette adresse : {email}||Merci !",
   "Votre messagerie s'ouvre : envoyez le message, on vous répond sous 24 h.",
-  "C'est noté : la fiche et la trace GPX arrivent par email sous 24 h.",
+  "C'est envoyé ! La fiche PDF et la trace GPX sont dans votre boîte mail (pensez à regarder dans les indésirables).",
   "Voyage à vélo",
   "<span>Distance</span><strong>≈ 240 km jusqu'aux Sables-d'Olonne</strong>",
   "Profil · altitude de 1 à 23 m · dénivelé positif cumulé ≈ 889 m",
@@ -529,7 +528,6 @@
   "Mémorise votre choix sur les cookies (accepté ou refusé).",
   "6 mois",
   "Nécessaire",
-  "Réservation en ligne",
   "Le bouton « Réserver mes vélos » ouvre le site de réservation de notre partenaire Lokki, qui applique sa propre politique de cookies.",
   "Vos droits",
   "Pour toute question sur vos données personnelles, écrivez-nous à <a href=\"mailto:contact@bikentour.com\">contact@bikentour.com</a>. Vous pouvez aussi adresser une réclamation à la CNIL (cnil.fr).",
@@ -543,6 +541,22 @@
   "{price} € / jour": [
    "price"
   ],
+  "Fiche itinéraire": [],
+  "Distance": [],
+  "Durée conseillée": [],
+  "Niveau": [],
+  "Aller simple": [],
+  "Oui, sur demande": [],
+  "Départ : boutique Bike'N Tour, Nantes": [],
+  "Profil · altitude de {lo} à {hi} m · {km} km": [],
+  "Étapes conseillées": [],
+  "À ne pas manquer": [],
+  "Points de vue sur le parcours": [],
+  "Le retour": [],
+  "Votre vélo vous attend à la boutique": [],
+  "Téléphone": [],
+  "Réservation en ligne": [],
+  "Trace GPX et carte interactive : scannez le code.": [],
   "Location de vélo de voyage, à partir de {price} € la journée": [
    "price"
   ],
@@ -550,12 +564,6 @@
    "name"
   ],
   "Oui, sur demande : vous partez de notre boutique à Nantes et laissez le vélo à l'arrivée, nous organisons le rapatriement avec nos partenaires, sur devis.": [],
-  "Distance": [],
-  "Durée conseillée": [],
-  "Niveau": [],
-  "Aller simple": [],
-  "Oui, sur demande": [],
-  "Points de vue sur le parcours": [],
   "dès {price} € / jour": [
    "price"
   ],
@@ -590,8 +598,8 @@
    "date"
   ],
   "En bref.": [],
-  "Cet itinéraire est une boucle : vous revenez à la boutique à Nantes.": [],
   "Boucle": [],
+  "Cet itinéraire est une boucle : vous revenez à la boutique à Nantes.": [],
   "boucle avec retour à Nantes": [],
   "Le voyage à vélo en images": [],
   "{name} ({km}, {days}, niveau {level})": [

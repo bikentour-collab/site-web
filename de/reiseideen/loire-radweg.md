@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) ist der meistbefahrene Radfernweg Frankreichs. Ab
 
 **Kurz gesagt.** La Loire à Vélo ab Nantes: 165 km bis Saumur ab dem Laden von Bike'N Tour (27 quai de Versailles), empfohlene Dauer 3 bis 4 Tage, Schwierigkeit leicht. Wichtigste Etappen: Nantes → Ancenis → Angers → Saumur. Verleih: Reiserad ab 22 € pro Tag oder E-Bike ab 35 € pro Tag, wasserdichte Packtaschen optional (5 € pro Tag); Einweg-Miete nach Angebot möglich (Räder werden am Ziel abgeholt). GPX-Track und Routenblatt per E-Mail.
 
-Aktualisiert am 21. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Empfohlene Etappen
 

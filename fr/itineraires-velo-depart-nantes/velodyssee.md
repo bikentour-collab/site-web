@@ -23,7 +23,7 @@ La Vélodyssée (EuroVelo 1) relie Roscoff à Hendaye. Depuis Nantes, elle rejoi
 
 **En bref.** La Vélodyssée au départ de Nantes : 240 km jusqu'aux Sables-d'Olonne depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 4 à 5 jours, niveau facile. Principales étapes : Nantes → Pornic → Saint-Jean-de-Monts → Les Sables-d'Olonne. Location : vélo de voyage dès 22 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les étapes conseillées
 

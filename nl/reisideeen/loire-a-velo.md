@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) is de drukst bereden fietsroute van Frankrijk. Va
 
 **In het kort.** La Loire à Vélo vanuit Nantes: 165 km tot Saumur vanaf de winkel van Bike'N Tour (27 quai de Versailles), aanbevolen duur 3 tot 4 dagen, niveau makkelijk. Belangrijkste etappes: Nantes → Ancenis → Angers → Saumur. Verhuur: een trekkingfiets vanaf € 22 per dag of een e-bike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 21 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Aanbevolen etappes
 

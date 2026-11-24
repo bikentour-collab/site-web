@@ -23,7 +23,7 @@ La Régalante is een nieuwe fietsroute die Nantes via het binnenland met de Mont
 
 **In het kort.** La Régalante vanuit Nantes: 275 km tot de Mont-Saint-Michel vanaf de winkel van Bike'N Tour (27 quai de Versailles), aanbevolen duur 9 etappes, niveau makkelijk. Belangrijkste etappes: Nantes → Châteaubriant → Vitré → Fougères → Mont-Saint-Michel. Verhuur: een e-bike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Aanbevolen etappes
 

@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) es la ruta ciclista más transitada de Francia. D
 
 **En resumen.** La Loire à Vélo desde Nantes: 165 km hasta Saumur desde la tienda Bike'N Tour (27 quai de Versailles), duración recomendada 3 a 4 días, nivel fácil. Etapas principales: Nantes → Ancenis → Angers → Saumur. Alquiler: bicicleta de viaje desde 22 € al día o bicicleta eléctrica desde 35 € al día, alforjas impermeables opcionales (5 € al día); solo ida posible con presupuesto a medida (recogemos las bicis a la llegada). Track GPX y ficha de la ruta enviados por email.
 
-Actualizado el 21 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Las etapas recomendadas
 

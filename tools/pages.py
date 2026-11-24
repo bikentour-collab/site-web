@@ -304,9 +304,20 @@ def reviews_block():
 
 
 # =================================================================== itinéraires
+def route_fiche(r, x):
+    """Fiche PDF de l'itinéraire dans la langue de la page (envoyée par email avec la trace GPX)."""
+    try:
+        import fiche
+        fiche.make(r, x, LANG, T, {'address': '27 quai de Versailles, 44000 Nantes', 'phone': PHONE_TXT, 'email': EMAIL, 'booking': BOOK},
+                   SITE + (i18n.url(r['url']) or r['url']))
+    except Exception as err:  # la fiche ne doit jamais bloquer la génération du site
+        print('  fiche PDF non générée :', r['id'], LANG, err)
+
+
 def route_pages():
     for r in ROUTES:
         x = ROUTE_EXTRA[r['id']]
+        route_fiche(r, x)
         bikes = [b for b in BIKES if r['id'] in b['good']]
         others = [o for o in ROUTES if o['id'] != r['id']][:3]
         stages = ''.join(f'<li><span class="st-num">{i + 1}</span><div><h3>{esc(a)}</h3><p>{esc(t)}</p></div></li>' for i, (a, t) in enumerate(x['stages']))
@@ -368,11 +379,12 @@ def route_pages():
           {BOOK_BTN}
         </div>
       </div>
-      <form class="side-card gpx" id="gpx" action="mailto:{EMAIL}" method="post" data-mailto="{EMAIL}" data-subject="Fiche et trace GPX : {esc(r['name'])}" data-body="Bonjour,||Merci de m'envoyer la fiche de l'itinéraire et la trace GPX à cette adresse : {{email}}||Merci !" data-msg="Votre messagerie s'ouvre : envoyez le message, on vous répond sous 24 h." data-api="/api/gpx" data-ok="C'est noté : la fiche et la trace GPX arrivent par email sous 24 h.">
+      <form class="side-card gpx" id="gpx" action="mailto:{EMAIL}" method="post" data-mailto="{EMAIL}" data-subject="Fiche et trace GPX : {esc(r['name'])}" data-body="Bonjour,||Merci de m'envoyer la fiche de l'itinéraire et la trace GPX à cette adresse : {{email}}||Merci !" data-msg="Votre messagerie s'ouvre : envoyez le message, on vous répond sous 24 h." data-api="/api/gpx" data-ok="C'est envoyé ! La fiche PDF et la trace GPX sont dans votre boîte mail (pensez à regarder dans les indésirables).">
         <input type="hidden" name="route" value="{esc(r['name'])}">
+        <input type="hidden" name="route_id" value="{r['id']}">
         <div class="hp" aria-hidden="true"><label>Site web <input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
         <p class="eyebrow">Fiche PDF et trace GPX</p>
-        <p class="small">Recevez par email la fiche de l'itinéraire, la trace GPX et nos bonnes adresses.</p>
+        <p class="small">Recevez tout de suite par email la fiche PDF de l'itinéraire et la trace GPX, pour votre GPS ou votre téléphone.</p>
         <label class="sr-only" for="gpx-{r['id']}">Votre email</label>
         <input id="gpx-{r['id']}" type="email" name="email" placeholder="Votre email" required>
         <button class="btn btn-yellow" type="submit">Recevoir la trace</button>

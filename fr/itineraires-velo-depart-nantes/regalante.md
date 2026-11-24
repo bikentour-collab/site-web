@@ -23,7 +23,7 @@ La Régalante est une véloroute récente qui relie Nantes au Mont-Saint-Michel 
 
 **En bref.** La Régalante au départ de Nantes : 275 km jusqu'au Mont-Saint-Michel depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 9 étapes, niveau facile. Principales étapes : Nantes → Châteaubriant → Vitré → Fougères → Mont-Saint-Michel. Location : vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les étapes conseillées
 

@@ -23,7 +23,7 @@ La Loire à Vélo (EuroVelo 6) est la véloroute la plus fréquentée de France.
 
 **En bref.** La Loire à Vélo au départ de Nantes : 165 km jusqu'à Saumur depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 3 à 4 jours, niveau facile. Principales étapes : Nantes → Ancenis → Angers → Saumur. Location : vélo de voyage dès 22 € la journée ou vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 21 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les étapes conseillées
 

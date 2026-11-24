@@ -191,19 +191,46 @@ async function handleLogin(req, res) {
 }
 
 // ---------- Demande de fiche / trace GPX (formulaire des pages itinéraires) ----------
-// Envoi par Brevo (variable BREVO_API_KEY). Sans clé, le navigateur revient à l'ouverture de la messagerie.
+// Envoi par Resend (variable RESEND_API_KEY) : le visiteur reçoit tout de suite la fiche PDF et la trace GPX en pièces jointes,
+// dans sa langue ; Antoine reçoit la demande (répondre = écrire au visiteur). Sans clé, le navigateur ouvre la messagerie.
 const CONTACT_EMAIL = process.env.CONTACT_EMAIL || 'contact@bikentour.com';
+const SENDER = process.env.SENDER_EMAIL || `Bike'N Tour <${CONTACT_EMAIL}>`;
+const ROUTE_IDS = ['loire', 'velodyssee', 'regalante', 'traversee', 'canal', 'vignoble'];
+const LANGS = ['fr', 'en', 'nl', 'de', 'es'];
 const gpxHits = new Map();
-async function brevoSend(payload) {
-  const r = await fetch('https://api.brevo.com/v3/smtp/email', {
-    method: 'POST', headers: { 'api-key': process.env.BREVO_API_KEY, 'content-type': 'application/json', accept: 'application/json' },
+async function resendSend(payload) {
+  const r = await fetch((process.env.RESEND_API_URL || 'https://api.resend.com') + '/emails', {
+    method: 'POST', headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
     body: JSON.stringify(payload),
   });
-  if (!r.ok) throw new Error('brevo ' + r.status);
+  if (!r.ok) throw new Error('resend ' + r.status + ' ' + (await r.text()).slice(0, 200));
+  return r.json();
+}
+function attachment(file, filename) {
+  try { return { filename, content: fs.readFileSync(path.join(ROOT, file)).toString('base64') }; } catch (e) { return null; }
+}
+const MAIL = {
+  fr: { subject: 'Votre fiche et trace GPX : {route}', hello: 'Bonjour,', body: "Merci pour votre demande ! Vous trouverez en pièces jointes la fiche de l'itinéraire « {route} » (PDF) et sa trace GPX, à importer dans votre GPS ou dans une application comme Komoot.", tip: 'Une question sur le parcours, le choix du vélo ou un aller simple ? Répondez simplement à cet email, ou appelez-nous.', cta: 'Réserver mes vélos', bye: "À bientôt à la boutique,\nL'équipe Bike'N Tour" },
+  en: { subject: 'Your route sheet and GPX track: {route}', hello: 'Hello,', body: 'Thank you for your request! Attached you will find the route sheet for "{route}" (PDF) and its GPX track, ready to import into your GPS or an app such as Komoot.', tip: 'Any question about the route, choosing a bike or a one-way hire? Just reply to this email or give us a call.', cta: 'Book my bikes', bye: "See you soon at the shop,\nThe Bike'N Tour team" },
+  nl: { subject: 'Uw routekaart en GPX-track: {route}', hello: 'Hallo,', body: 'Bedankt voor uw aanvraag! In de bijlagen vindt u de routekaart van "{route}" (pdf) en de GPX-track, klaar om te importeren in uw gps of een app zoals Komoot.', tip: 'Een vraag over de route, de keuze van de fiets of een enkele reis? Beantwoord gewoon deze e-mail of bel ons.', cta: 'Mijn fietsen reserveren', bye: "Tot snel in de winkel,\nHet team van Bike'N Tour" },
+  de: { subject: 'Ihr Routenblatt und GPX-Track: {route}', hello: 'Hallo,', body: 'vielen Dank für Ihre Anfrage! Im Anhang finden Sie das Routenblatt für „{route}“ (PDF) und den GPX-Track zum Import in Ihr GPS-Gerät oder eine App wie Komoot.', tip: 'Fragen zur Strecke, zur Radwahl oder zur Einwegmiete? Antworten Sie einfach auf diese E-Mail oder rufen Sie uns an.', cta: 'Räder buchen', bye: "Bis bald im Laden,\nIhr Bike'N Tour-Team" },
+  es: { subject: 'Su ficha y track GPX: {route}', hello: 'Hola:', body: 'Gracias por su solicitud. Adjuntamos la ficha de la ruta «{route}» (PDF) y su track GPX, listo para importar en su GPS o en una aplicación como Komoot.', tip: '¿Alguna pregunta sobre la ruta, la elección de la bicicleta o el alquiler solo de ida? Responda a este correo o llámenos.', cta: 'Reservar mis bicis', bye: "Hasta pronto en la tienda,\nEl equipo de Bike'N Tour" },
+};
+function mailHtml(t, route, booking) {
+  const h = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const p = s => `<p style="margin:0 0 14px;font:15px/1.6 Arial,Helvetica,sans-serif;color:#1d1f3f">${h(s).replace(/\n/g, '<br>')}</p>`;
+  return `<!doctype html><html><body style="margin:0;background:#F7F5EE;padding:24px 12px">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:560px;margin:0 auto;background:#fff;border-radius:14px;overflow:hidden">
+<tr><td style="background:#30336E;padding:20px 28px;font:800 22px Arial,Helvetica,sans-serif;color:#90C78E;letter-spacing:.5px">BIKE'N TOUR <span style="font:600 12px Arial;color:#fff;letter-spacing:1px">NANTES</span></td></tr>
+<tr><td style="padding:28px">${p(t.hello)}${p(t.body.replace('{route}', route))}${p(t.tip)}
+<p style="margin:22px 0"><a href="${h(booking)}" style="display:inline-block;background:#E7C14F;color:#22245A;font:700 15px Arial,Helvetica,sans-serif;text-decoration:none;padding:13px 22px;border-radius:10px">${h(t.cta)}</a></p>
+${p(t.bye)}</td></tr>
+<tr><td style="background:#F7F5EE;padding:16px 28px;font:12px/1.6 Arial,Helvetica,sans-serif;color:#62647F">Bike'N Tour · 27 quai de Versailles, 44000 Nantes<br>06 52 62 94 64 · WhatsApp 06 52 62 94 64 · <a href="mailto:${CONTACT_EMAIL}" style="color:#30336E">${CONTACT_EMAIL}</a> · <a href="https://www.bikentour.com" style="color:#30336E">www.bikentour.com</a></td></tr>
+</table></body></html>`;
 }
 async function handleGpx(req, res) {
   const json = (code, obj) => { res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store', ...SECURITY_HEADERS }); res.end(JSON.stringify(obj)); };
-  if (!process.env.BREVO_API_KEY) return json(501, { ok: false });
+  if (!process.env.RESEND_API_KEY) return json(501, { ok: false });
   const ip = clientIp(req), now = Date.now();
   const recent = (gpxHits.get(ip) || []).filter(t => now - t < 60 * 60 * 1000);
   if (recent.length >= 5) return json(429, { ok: false });
@@ -211,26 +238,26 @@ async function handleGpx(req, res) {
   const form = await readBody(req);
   const email = (form.get('email') || '').trim().slice(0, 200);
   const route = (form.get('route') || '').replace(/[^\p{L}\p{N} '’–-]/gu, '').slice(0, 80);
-  const lang = (form.get('lang') || 'fr').slice(0, 2);
+  const rid = ROUTE_IDS.includes(form.get('route_id')) ? form.get('route_id') : '';
+  const lang = LANGS.includes((form.get('lang') || 'fr').slice(0, 2)) ? (form.get('lang') || 'fr').slice(0, 2) : 'fr';
   if (form.get('site')) return json(200, { ok: true }); // champ piège anti-robots
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json(400, { ok: false });
-  const sender = { name: "Bike'N Tour", email: process.env.SENDER_EMAIL || CONTACT_EMAIL };
+  const t = MAIL[lang];
+  const files = rid ? [attachment(`assets/pdf/fiches/${rid}-${lang}.pdf`, `bikentour-${rid}-${lang}.pdf`) || attachment(`assets/pdf/fiches/${rid}-fr.pdf`, `bikentour-${rid}.pdf`),
+    attachment(`assets/gpx/bikentour-${rid}.gpx`, `bikentour-${rid}.gpx`)].filter(Boolean) : [];
+  const booking = (() => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, 'content', 'fr', 'site.json'), 'utf8')).reservation; } catch (e) { return 'https://www.bikentour.com'; } })();
   try {
-    await brevoSend({ sender, to: [{ email: CONTACT_EMAIL }], replyTo: { email },
-      subject: `Demande de fiche et trace GPX : ${route}`,
-      textContent: `Nouvelle demande depuis le site (${lang}).\nItinéraire : ${route}\nEmail : ${email}\n\nRépondez directement à ce message pour envoyer la fiche et la trace GPX.` });
-    const T = {
-      fr: ['Votre demande de trace GPX', `Bonjour,\n\nMerci pour votre demande. Nous vous envoyons la fiche et la trace GPX de l'itinéraire « ${route} » sous 24 h.\n\nÀ bientôt à la boutique,\nL'équipe Bike'N Tour\n27 quai de Versailles, Nantes`],
-      en: ['Your GPX track request', `Hello,\n\nThank you for your request. We will send you the route sheet and GPX track for "${route}" within 24 hours.\n\nSee you soon at the shop,\nThe Bike'N Tour team\n27 quai de Versailles, Nantes`],
-      nl: ['Uw aanvraag voor de GPX-track', `Hallo,\n\nBedankt voor uw aanvraag. We sturen u de routekaart en GPX-track van "${route}" binnen 24 uur.\n\nTot snel in de winkel,\nHet team van Bike'N Tour\n27 quai de Versailles, Nantes`],
-      de: ['Ihre Anfrage für den GPX-Track', `Hallo,\n\nvielen Dank für Ihre Anfrage. Wir senden Ihnen das Routenblatt und den GPX-Track für „${route}“ innerhalb von 24 Stunden.\n\nBis bald im Laden,\nIhr Bike'N Tour-Team\n27 quai de Versailles, Nantes`],
-      es: ['Su solicitud de track GPX', `Hola:\n\nGracias por su solicitud. Le enviaremos la ficha y el track GPX de la ruta «${route}» en un plazo de 24 horas.\n\nHasta pronto en la tienda,\nEl equipo de Bike'N Tour\n27 quai de Versailles, Nantes`],
-    }[lang] || null;
-    if (T) await brevoSend({ sender, to: [{ email }], replyTo: { email: CONTACT_EMAIL }, subject: T[0], textContent: T[1] }).catch(() => {});
-    return json(200, { ok: true });
+    await resendSend({ from: SENDER, to: [email], reply_to: CONTACT_EMAIL, subject: t.subject.replace('{route}', route),
+      html: mailHtml(t, route, booking), text: `${t.hello}\n\n${t.body.replace('{route}', route)}\n\n${t.tip}\n\n${t.cta} : ${booking}\n\n${t.bye}\n\nBike'N Tour · 27 quai de Versailles, 44000 Nantes · 06 52 62 94 64 · ${CONTACT_EMAIL}`,
+      attachments: files });
   } catch (e) {
+    console.error('Envoi de la fiche impossible :', e.message);
     return json(502, { ok: false });
   }
+  // copie pour Antoine (un contact à rappeler) ; un échec ici ne gêne pas le visiteur
+  resendSend({ from: SENDER, to: [CONTACT_EMAIL], reply_to: email, subject: `Nouvelle demande de fiche : ${route} (${lang.toUpperCase()}) – ${email}`,
+    text: `Un visiteur a reçu la fiche et la trace GPX de « ${route} » (langue : ${lang}).\nEmail : ${email}\n\nRépondez à ce message pour lui écrire directement.` }).catch(e => console.error('Copie interne non envoyée :', e.message));
+  return json(200, { ok: true });
 }
 
 // Connexion en une étape : avec GITHUB_TOKEN, la session Sveltia est préparée dans le navigateur après le mot de passe

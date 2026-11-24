@@ -23,7 +23,7 @@ Het ideale weekend vlak bij Nantes: de oevers van de Sèvre nantaise, de Muscade
 
 **In het kort.** De wijngaarden van Nantes vanuit Nantes: 80 km rondrit vanaf de winkel van Bike'N Tour (27 quai de Versailles), aanbevolen duur 2 dagen, niveau makkelijk. Belangrijkste etappes: Nantes → Vertou → Clisson → Vallet. Verhuur: een gravelbike vanaf € 35 per dag of een kinderfiets vanaf € 20 per dag, waterdichte fietstassen optioneel (€ 5 per dag); rondrit met terugkeer naar Nantes. GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Aanbevolen etappes
 

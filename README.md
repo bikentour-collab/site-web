@@ -29,8 +29,9 @@ GitHub (dépôt unique)  ──push──▶  GitHub Action « Générer le site
 | `GITHUB_CLIENT_ID` / `GITHUB_CLIENT_SECRET` | **mode alternatif** (sans `GITHUB_TOKEN`) : application OAuth GitHub, callback `https://www.bikentour.com/cms/callback` ; chaque éditeur se connecte avec son compte GitHub. |
 | `SITE_URL` | facultatif, `https://www.bikentour.com` par défaut |
 | `PROD_HOSTS` | facultatif : domaines indexables (par défaut `www.bikentour.com,bikentour.com`). Toute autre adresse, dont l'adresse de test Railway, est servie en `noindex`. |
-| `BREVO_API_KEY` | facultatif : clé API Brevo (gratuit jusqu'à 300 emails/jour). Le formulaire « trace GPX » envoie alors la demande à Antoine et un accusé de réception au visiteur, sans ouvrir sa messagerie. Sans clé, la messagerie du visiteur s'ouvre comme avant. |
-| `SENDER_EMAIL` | facultatif : adresse d'expédition validée dans Brevo (par défaut `contact@bikentour.com`) |
+| `RESEND_API_KEY` | clé API Resend (resend.com, gratuit jusqu'à 3 000 emails/mois). Le formulaire « Fiche PDF et trace GPX » des pages itinéraires envoie alors **immédiatement** au visiteur, dans sa langue, la fiche PDF et la trace GPX en pièces jointes, et une copie de la demande à `CONTACT_EMAIL`. Sans clé, le formulaire ouvre la messagerie du visiteur. |
+| `SENDER_EMAIL` | facultatif : expéditeur, sur un domaine vérifié dans Resend (DNS de bikentour.com : enregistrements SPF/DKIM fournis par Resend). Par défaut `Bike'N Tour <contact@bikentour.com>`. |
+| `CONTACT_EMAIL` | facultatif : adresse qui reçoit les demandes et les réponses des visiteurs (par défaut `contact@bikentour.com`). |
 | `CONTACT_EMAIL` | facultatif : adresse qui reçoit les demandes (par défaut `contact@bikentour.com`) |
 
 4. Vérifier : `https://www.bikentour.com/admin` → écran de connexion → « Se connecter avec GitHub » (mode simple : connexion immédiate).
@@ -81,3 +82,9 @@ L'admin fonctionne aussi en local avec « Travailler avec un dépôt local » (C
 - Protection casse et vol : 2 €/j (voyage, enfant) et 3 €/j (électrique, gravel) selon la grille 2026
 - Formulaire « trace GPX » : ouvre la messagerie du visiteur (brancher un service d'envoi si besoin)
 - Blog : 12 articles réécrits le 4/11/2026 ; points à valider listés dans `docs/audit.md` ; 34 articles anciens restent à rafraîchir
+
+
+## Fiches PDF et traces GPX des itinéraires
+- `tools/gpx_export.py` écrit `assets/gpx/bikentour-<itinéraire>.gpx` (parcours au départ de Nantes, même découpage que la carte), recalculé seulement si `tools/data` change.
+- `tools/fiche.py` écrit `assets/pdf/fiches/<itinéraire>-<langue>.pdf` à chaque génération (30 fiches : 6 itinéraires × 5 langues) à partir du contenu de l'admin : une étape modifiée dans l'admin est donc à jour dans la fiche.
+- Envoi : `server.js` (`/api/gpx`, Resend).

@@ -23,7 +23,7 @@ Sluizen, sluiswachtershuisjes en vlakke jaagpaden: het kanaal van Nantes naar Br
 
 **In het kort.** Het kanaal van Nantes naar Brest vanuit Nantes: 360 km tot Châteaulin vanaf de winkel van Bike'N Tour (27 quai de Versailles), aanbevolen duur 6 tot 8 dagen, niveau makkelijk. Belangrijkste etappes: Nantes → Nort-sur-Erdre → Redon → Josselin → Pontivy → Carhaix → Châteaulin. Verhuur: een trekkingfiets vanaf € 22 per dag of een gravelbike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Aanbevolen etappes
 

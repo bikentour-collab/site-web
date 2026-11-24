@@ -23,7 +23,7 @@ La Régalante ist ein neuer Radfernweg, der Nantes durchs Landesinnere mit dem M
 
 **Kurz gesagt.** La Régalante ab Nantes: 275 km bis zum Mont-Saint-Michel ab dem Laden von Bike'N Tour (27 quai de Versailles), empfohlene Dauer 9 Etappen, Schwierigkeit leicht. Wichtigste Etappen: Nantes → Châteaubriant → Vitré → Fougères → Mont-Saint-Michel. Verleih: E-Bike ab 35 € pro Tag, wasserdichte Packtaschen optional (5 € pro Tag); Einweg-Miete nach Angebot möglich (Räder werden am Ziel abgeholt). GPX-Track und Routenblatt per E-Mail.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Empfohlene Etappen
 

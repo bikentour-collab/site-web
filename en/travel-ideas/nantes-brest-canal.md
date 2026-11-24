@@ -23,7 +23,7 @@ Locks, lock-keepers' cottages and perfectly flat towpaths: the Nantes–Brest Ca
 
 **In short.** The Nantes–Brest Canal from Nantes: 360 km to Châteaulin from the Bike'N Tour shop (27 quai de Versailles), suggested duration 6 to 8 days, easy level. Main stages: Nantes → Nort-sur-Erdre → Redon → Josselin → Pontivy → Carhaix → Châteaulin. Hire: touring bike from €22 a day or gravel bike from €35 a day, waterproof panniers available (€5 a day); one-way hire available on request (bikes collected at your destination). GPX track and route sheet sent by email.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Suggested stages
 

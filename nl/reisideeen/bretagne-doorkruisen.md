@@ -23,7 +23,7 @@ De grote fietsreis naar de Mont-Saint-Michel: het estuarium van de Loire en Gué
 
 **In het kort.** De Bretagne-oversteek vanuit Nantes: 485 km tot de Mont-Saint-Michel vanaf de winkel van Bike'N Tour (27 quai de Versailles), aanbevolen duur 8 tot 10 dagen, niveau gemiddeld. Belangrijkste etappes: Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Verhuur: een e-bike vanaf € 35 per dag, waterdichte fietstassen optioneel (€ 5 per dag); enkele reis mogelijk op offerte (fietsen worden op je eindbestemming opgehaald). GPX-track en routekaart per e-mail.
 
-Bijgewerkt op 13 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Bijgewerkt op 24 november 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Aanbevolen etappes
 

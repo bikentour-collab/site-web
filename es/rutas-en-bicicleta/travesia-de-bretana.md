@@ -23,7 +23,7 @@ El gran viaje en bicicleta hacia el Mont-Saint-Michel: el estuario del Loira y G
 
 **En resumen.** La Travesía bretona desde Nantes: 485 km hasta el Mont-Saint-Michel desde la tienda Bike'N Tour (27 quai de Versailles), duración recomendada 8 a 10 días, nivel moderado. Etapas principales: Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Alquiler: bicicleta eléctrica desde 35 € al día, alforjas impermeables opcionales (5 € al día); solo ida posible con presupuesto a medida (recogemos las bicis a la llegada). Track GPX y ficha de la ruta enviados por email.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Las etapas recomendadas
 

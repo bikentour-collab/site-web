@@ -23,7 +23,7 @@ Die große Radreise zum Mont-Saint-Michel: die Loire-Mündung und Guérande, die
 
 **Kurz gesagt.** Die Bretagne-Durchquerung ab Nantes: 485 km bis zum Mont-Saint-Michel ab dem Laden von Bike'N Tour (27 quai de Versailles), empfohlene Dauer 8 bis 10 Tage, Schwierigkeit mittel. Wichtigste Etappen: Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Verleih: E-Bike ab 35 € pro Tag, wasserdichte Packtaschen optional (5 € pro Tag); Einweg-Miete nach Angebot möglich (Räder werden am Ziel abgeholt). GPX-Track und Routenblatt per E-Mail.
 
-Aktualisiert am 13. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Aktualisiert am 24. November 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Empfohlene Etappen
 

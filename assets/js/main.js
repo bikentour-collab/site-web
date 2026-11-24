@@ -324,7 +324,7 @@
         if (status) status.textContent = form.dataset.msg || '';
       };
       if (!form.dataset.api || !window.fetch) return mailto();
-      // envoi direct par le serveur (Brevo) ; repli sur la messagerie si le service n'est pas configuré
+      // envoi direct par le serveur (Resend : fiche PDF + trace GPX en pièces jointes) ; repli sur la messagerie si le service n'est pas configuré
       const data = new URLSearchParams(new FormData(form));
       data.set('lang', document.documentElement.lang || 'fr');
       const btn = form.querySelector('button');

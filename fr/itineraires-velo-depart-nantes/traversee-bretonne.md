@@ -23,7 +23,7 @@ Le grand voyage à vélo vers le Mont-Saint-Michel : l'estuaire de la Loire et G
 
 **En bref.** La Traversée bretonne au départ de Nantes : 485 km jusqu'au Mont-Saint-Michel depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 8 à 10 jours, niveau modéré. Principales étapes : Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Location : vélo électrique dès 35 € la journée, sacoches étanches en option (5 € par jour) ; aller simple possible sur devis (vélos récupérés à l'arrivée). Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les étapes conseillées
 

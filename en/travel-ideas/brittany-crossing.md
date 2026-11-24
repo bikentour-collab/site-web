@@ -23,7 +23,7 @@ The big cycling trip to Mont-Saint-Michel: the Loire estuary and Guérande, the 
 
 **In short.** The Brittany Crossing from Nantes: 485 km to Mont-Saint-Michel from the Bike'N Tour shop (27 quai de Versailles), suggested duration 8 to 10 days, moderate level. Main stages: Nantes → Saint-Nazaire → Redon → Rennes → Dinan → Saint-Malo → Mont-Saint-Michel. Hire: e-bike from €35 a day, waterproof panniers available (€5 a day); one-way hire available on request (bikes collected at your destination). GPX track and route sheet sent by email.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Suggested stages
 

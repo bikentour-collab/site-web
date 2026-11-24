@@ -23,7 +23,7 @@ El fin de semana ideal a dos pasos de Nantes: las orillas de la Sèvre nantaise,
 
 **En resumen.** El Viñedo de Nantes desde Nantes: 80 km en circuito desde la tienda Bike'N Tour (27 quai de Versailles), duración recomendada 2 días, nivel fácil. Etapas principales: Nantes → Vertou → Clisson → Vallet. Alquiler: bicicleta gravel desde 35 € al día o bicicleta infantil desde 20 € al día, alforjas impermeables opcionales (5 € al día); circuito con vuelta a Nantes. Track GPX y ficha de la ruta enviados por email.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Las etapas recomendadas
 

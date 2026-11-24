@@ -23,7 +23,7 @@ Le week-end idéal à deux pas de Nantes : les bords de la Sèvre nantaise, les 
 
 **En bref.** Le Vignoble nantais au départ de Nantes : 80 km en boucle depuis la boutique Bike'N Tour (27 quai de Versailles), durée conseillée 2 jours, niveau facile. Principales étapes : Nantes → Vertou → Clisson → Vallet. Location : vélo gravel dès 35 € la journée ou vélo enfant dès 20 € la journée, sacoches étanches en option (5 € par jour) ; boucle avec retour à Nantes. Trace GPX et fiche de l'itinéraire envoyées par email.
 
-Mis à jour le 13 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Mis à jour le 24 novembre 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Les étapes conseillées
 

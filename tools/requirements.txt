@@ -3,3 +3,4 @@ markdown==3.*
 markdownify==1.*
 pyyaml==6.*
 fonttools==4.*
+reportlab>=4,<6

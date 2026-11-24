@@ -23,7 +23,7 @@ Esclusas, casas de esclusero y caminos de sirga totalmente llanos: el Canal de N
 
 **En resumen.** El Canal de Nantes à Brest desde Nantes: 360 km hasta Châteaulin desde la tienda Bike'N Tour (27 quai de Versailles), duración recomendada 6 a 8 días, nivel fácil. Etapas principales: Nantes → Nort-sur-Erdre → Redon → Josselin → Pontivy → Carhaix → Châteaulin. Alquiler: bicicleta de viaje desde 22 € al día o bicicleta gravel desde 35 € al día, alforjas impermeables opcionales (5 € al día); solo ida posible con presupuesto a medida (recogemos las bicis a la llegada). Track GPX y ficha de la ruta enviados por email.
 
-Actualizado el 13 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Actualizado el 24 de noviembre de 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Las etapas recomendadas
 

@@ -23,7 +23,7 @@ The perfect weekend right on Nantes' doorstep: the banks of the Sèvre Nantaise,
 
 **In short.** The Nantes Vineyards from Nantes: 80 km loop from the Bike'N Tour shop (27 quai de Versailles), suggested duration 2 days, easy level. Main stages: Nantes → Vertou → Clisson → Vallet. Hire: gravel bike from €35 a day or kids' bike from €20 a day, waterproof panniers available (€5 a day); a loop back to Nantes. GPX track and route sheet sent by email.
 
-Updated November 13, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
+Updated November 24, 2026 · Bike'N Tour, 27 quai de Versailles, 44000 Nantes
 
 ## Suggested stages
 
