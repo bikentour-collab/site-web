@@ -6,8 +6,6 @@ Page : https://www.bikentour.com/nl · Bike'N Tour, 27 quai de Versailles, 44000
 
 ![Reizigers op bij Bike'N Tour gehuurde fietsen op een smalle weg door de wijngaarden van Nantes](https://www.bikentour.com/assets/img/v2-hero-vignoble.webp)
 
-Nantes · quai de Versailles 27 · aan de Erdre
-
 # Fietsverhuur voor fietsreizen *in Nantes*
 
 Zes fietsroutes beginnen bij onze winkel. Wij maken je fiets, je fietstassen en de GPX-track klaar, jij hoeft alleen nog te trappen. Enkele reis mogelijk.

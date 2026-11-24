@@ -79,9 +79,7 @@ singletons:
   i18n: true
   fields:
   - name: hero_surtitre
-    label: Bandeau du haut · petite ligne au-dessus du titre
-    widget: string
-    i18n: true
+    widget: hidden
   - name: hero_titre_ligne1
     label: Bandeau du haut · titre, 1re ligne
     widget: string

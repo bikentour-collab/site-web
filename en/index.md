@@ -6,8 +6,6 @@ Page : https://www.bikentour.com/en · Bike'N Tour, 27 quai de Versailles, 44000
 
 ![Cyclists on bikes hired from Bike'N Tour on a quiet lane in the Nantes vineyards](https://www.bikentour.com/assets/img/v2-hero-vignoble.webp)
 
-Nantes · 27 quai de Versailles · on the Erdre
-
 # Touring bike hire in the heart *of Nantes*
 
 Six cycle routes start right from our shop. We get your bike, panniers and GPX track ready – all you have to do is pedal. One-way hire available.

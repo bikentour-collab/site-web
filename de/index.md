@@ -6,8 +6,6 @@ Page : https://www.bikentour.com/de · Bike'N Tour, 27 quai de Versailles, 44000
 
 ![Radreisende mit Mieträdern von Bike'N Tour auf einer kleinen Straße in den Weinbergen von Nantes](https://www.bikentour.com/assets/img/v2-hero-vignoble.webp)
 
-Nantes · Quai de Versailles 27 · an der Erdre
-
 # Fahrradverleih für Radreisen *in Nantes*
 
 Sechs Radrouten starten an unserem Laden. Wir bereiten Rad, Packtaschen und GPX-Track für Sie vor – Sie müssen nur noch in die Pedale treten. Einweg-Miete möglich.

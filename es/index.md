@@ -6,8 +6,6 @@ Page : https://www.bikentour.com/es · Bike'N Tour, 27 quai de Versailles, 44000
 
 ![Viajeros en bicicletas alquiladas en Bike'N Tour por una carretera secundaria del viñedo de Nantes](https://www.bikentour.com/assets/img/v2-hero-vignoble.webp)
 
-Nantes · 27 quai de Versailles · a orillas del Erdre
-
 # Alquiler de bicicletas de viaje *en Nantes*
 
 Seis rutas ciclistas salen de nuestra tienda. Le preparamos la bicicleta, las alforjas y el track GPX: usted solo tiene que pedalear. Posibilidad de alquiler solo de ida.

@@ -6,8 +6,6 @@ Page : https://www.bikentour.com/ · Bike'N Tour, 27 quai de Versailles, 44000 N
 
 ![Voyageurs à vélo loués chez Bike'N Tour sur une petite route du vignoble nantais](https://www.bikentour.com/assets/img/v2-hero-vignoble.webp)
 
-Nantes · 27 quai de Versailles · au bord de l'Erdre
-
 # Location de vélos de voyage *à Nantes*
 
 Six véloroutes partent de notre boutique. On vous prépare le vélo, les sacoches et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.
