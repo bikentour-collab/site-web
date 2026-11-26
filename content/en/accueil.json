@@ -3,8 +3,57 @@
   "hero_titre_ligne1": "Touring bike hire",
   "hero_titre_ligne2": "in the heart",
   "hero_titre_accent": "of Nantes",
-  "hero_texte": "Six cycle routes start right from our shop. We get your bike, panniers and GPX track ready – all you have to do is pedal. One-way hire available.",
+  "hero_texte": "Six cycle routes start from our shop. \nWe prepare the bike, equipment, and GPX track for you; all you have to do is pedal. One-way trips are possible.",
   "hero_image_alt": "Cyclists on bikes hired from Bike'N Tour on a quiet lane in the Nantes vineyards",
+  "avis": [
+    {
+      "texte": "A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!",
+      "auteur": "Valentine D.",
+      "itineraire": "loire"
+    },
+    {
+      "texte": "A pleasant bike, used for three days without any trouble. A warm welcome and a really smooth booking process.",
+      "auteur": "Hélène D.",
+      "itineraire": ""
+    },
+    {
+      "texte": "Thanks for the gravel bike for my ride along the Loire! Antoine is brilliant – quick to respond and great at explaining things.",
+      "auteur": "Jérémy M.",
+      "itineraire": ""
+    }
+  ],
+  "avis_pages": [
+    {
+      "page": "groupes",
+      "texte": "We hired 70 bikes for our company seminar and we are truly delighted! Antoine and his team were brilliant from start to finish: delivery, collection, handling the luggage with the hotel… they adapted to all our requests and really made the organisation easier. Excellent value for money, everything went smoothly. Nothing to fault, it was perfect!",
+      "auteur": "IMING"
+    },
+    {
+      "page": "gravel",
+      "texte": "Great gravel bike, very high quality and efficient. As I live in Nantes, I enjoyed the banks of the Loire on a lovely sunny ride in September. Very warm welcome from the team, I'll be back for a multi-day trip!",
+      "auteur": "Clem J."
+    },
+    {
+      "page": "canal",
+      "texte": "We hired 6 bikes from Bike'N Tour for a week to ride the Nantes–Brest Canal: 4 e-bikes and 2 city bikes, plus extra accessories. All very high-quality equipment. A warm welcome from Antoine, who took the time to advise us properly, as it was our first cycling holiday. Top service, a very professional and attentive rental shop.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "electrique",
+      "texte": "We hired 6 bikes from Bike'N Tour for a week to ride the Nantes–Brest Canal: 4 e-bikes and 2 city bikes, plus extra accessories. All very high-quality equipment. A warm welcome from Antoine, who took the time to advise us properly, as it was our first cycling holiday. Top service, a very professional and attentive rental shop.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "gravel",
+      "texte": "Hired 2 gravel bikes for 6 days with panniers to ride from Nantes to Saintes (450 km). Superb bikes, great panniers and the Bike'N Tour team was friendly and professional. I recommend them for a first bikepacking trip.",
+      "auteur": "Pierre B."
+    },
+    {
+      "page": "accessoires",
+      "texte": "My first time hiring a bike trailer and I'm won over! I set off alone for a 30 km day along the Loire with my 18-month-old baby: the trailer was spotless and light, and my daughter was very comfortable in it. The rental shop is great, very friendly, attentive and accommodating. […] I wholeheartedly recommend it with a baby!",
+      "auteur": "Diane B."
+    }
+  ],
   "faq": [
     {
       "question": "Where can I hire a bike for the Loire à Vélo from Nantes?",
@@ -33,37 +82,6 @@
     {
       "question": "Do you welcome visitors from abroad?",
       "reponse": "Yes. Our team welcomes you in French and English, and this website is available in English, Dutch, German and Spanish. The shop is about ten minutes from Nantes station by tram or by bike."
-    }
-  ],
-  "avis": [
-    {
-      "texte": "A cycling trip along the Loire à Vélo with 2 e-bikes and a touring bike, all fitted with panniers! Thanks for the recommendations, we loved it!"
-    },
-    {
-      "texte": "A pleasant bike, used for three days without any trouble. A warm welcome and a really smooth booking process."
-    },
-    {
-      "texte": "Thanks for the gravel bike for my ride along the Loire! Antoine is brilliant – quick to respond and great at explaining things."
-    }
-  ],
-  "avis_pages": [
-    {
-      "texte": "We hired 70 bikes for our company seminar and we are truly delighted! Antoine and his team were brilliant from start to finish: delivery, collection, handling the luggage with the hotel… they adapted to all our requests and really made the organisation easier. Excellent value for money, everything went smoothly. Nothing to fault, it was perfect!"
-    },
-    {
-      "texte": "Great gravel bike, very high quality and efficient. As I live in Nantes, I enjoyed the banks of the Loire on a lovely sunny ride in September. Very warm welcome from the team, I'll be back for a multi-day trip!"
-    },
-    {
-      "texte": "We hired 6 bikes from Bike'N Tour for a week to ride the Nantes–Brest Canal: 4 e-bikes and 2 city bikes, plus extra accessories. All very high-quality equipment. A warm welcome from Antoine, who took the time to advise us properly, as it was our first cycling holiday. Top service, a very professional and attentive rental shop."
-    },
-    {
-      "texte": "We hired 6 bikes from Bike'N Tour for a week to ride the Nantes–Brest Canal: 4 e-bikes and 2 city bikes, plus extra accessories. All very high-quality equipment. A warm welcome from Antoine, who took the time to advise us properly, as it was our first cycling holiday. Top service, a very professional and attentive rental shop."
-    },
-    {
-      "texte": "Hired 2 gravel bikes for 6 days with panniers to ride from Nantes to Saintes (450 km). Superb bikes, great panniers and the Bike'N Tour team was friendly and professional. I recommend them for a first bikepacking trip."
-    },
-    {
-      "texte": "My first time hiring a bike trailer and I'm won over! I set off alone for a 30 km day along the Loire with my 18-month-old baby: the trailer was spotless and light, and my daughter was very comfortable in it. The rental shop is great, very friendly, attentive and accommodating. […] I wholeheartedly recommend it with a baby!"
     }
   ]
 }

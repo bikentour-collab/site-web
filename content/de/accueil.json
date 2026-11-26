@@ -3,8 +3,57 @@
   "hero_titre_ligne1": "Fahrradverleih",
   "hero_titre_ligne2": "für Radreisen",
   "hero_titre_accent": "in Nantes",
-  "hero_texte": "Sechs Radrouten starten an unserem Laden. Wir bereiten Rad, Packtaschen und GPX-Track für Sie vor – Sie müssen nur noch in die Pedale treten. Einweg-Miete möglich.",
+  "hero_texte": "Sechs Radwege starten von unserem Geschäft aus. Wir bereiten das Fahrrad, die Ausrüstung und den GPX-Track für Sie vor, Sie müssen nur noch in die Pedale treten. Einfache Fahrt möglich.",
   "hero_image_alt": "Radreisende mit Mieträdern von Bike'N Tour auf einer kleinen Straße in den Weinbergen von Nantes",
+  "avis": [
+    {
+      "texte": "Radreise entlang der Loire à Vélo mit 2 E-Bikes und einem Reiserad, alle mit Packtaschen! Danke für die Empfehlungen, wir waren begeistert!",
+      "auteur": "Valentine D.",
+      "itineraire": "loire"
+    },
+    {
+      "texte": "Angenehmes Rad, drei Tage lang problemlos genutzt. Ein herzlicher Empfang und eine sehr reibungslose Buchung.",
+      "auteur": "Hélène D.",
+      "itineraire": ""
+    },
+    {
+      "texte": "Danke für das Gravelbike für meine Tour an der Loire! Antoine ist spitze, schnell und erklärt alles super.",
+      "auteur": "Jérémy M.",
+      "itineraire": ""
+    }
+  ],
+  "avis_pages": [
+    {
+      "page": "groupes",
+      "texte": "Wir haben 70 Räder für unser Firmenseminar gemietet und sind wirklich begeistert! Antoine und sein Team waren von Anfang bis Ende großartig: Lieferung, Abholung, Gepäckabstimmung mit dem Hotel… sie sind auf all unsere Wünsche eingegangen und haben uns die Organisation wirklich erleichtert. Sehr gutes Preis-Leistungs-Verhältnis, alles lief reibungslos. Nichts auszusetzen, es war perfekt!",
+      "auteur": "IMING"
+    },
+    {
+      "page": "gravel",
+      "texte": "Super Gravelbike, sehr hochwertig und leistungsstark. Als Einwohner von Nantes konnte ich bei einer schönen sonnigen Ausfahrt im September die Loire-Ufer genießen. Sehr freundlicher Empfang durch das Team, ich komme für eine mehrtägige Tour wieder!",
+      "auteur": "Clem J."
+    },
+    {
+      "page": "canal",
+      "texte": "Wir haben bei Bike'N Tour für eine Woche 6 Räder für den Kanal von Nantes nach Brest gemietet: 4 E-Bikes und 2 Stadträder, dazu Zubehör. Durchweg sehr hochwertiges Material. Herzlicher Empfang von Antoine, der sich Zeit nahm, uns gut zu beraten – es war unser erster Fahrradurlaub. Top-Service, ein sehr professioneller und aufmerksamer Verleih.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "electrique",
+      "texte": "Wir haben bei Bike'N Tour für eine Woche 6 Räder für den Kanal von Nantes nach Brest gemietet: 4 E-Bikes und 2 Stadträder, dazu Zubehör. Durchweg sehr hochwertiges Material. Herzlicher Empfang von Antoine, der sich Zeit nahm, uns gut zu beraten – es war unser erster Fahrradurlaub. Top-Service, ein sehr professioneller und aufmerksamer Verleih.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "gravel",
+      "texte": "2 Gravelbikes für 6 Tage mit Taschen gemietet, um von Nantes nach Saintes zu fahren (450 km). Räder von super Qualität, top Taschen und ein freundliches, professionelles Team bei Bike'N Tour. Empfehlenswert für das erste Bikepacking.",
+      "auteur": "Pierre B."
+    },
+    {
+      "page": "accessoires",
+      "texte": "Zum ersten Mal einen Fahrradanhänger gemietet und ich bin begeistert! Ich bin allein mit meinem anderthalbjährigen Baby einen Tag lang 30 km an der Loire gefahren: Anhänger tadellos und leicht, meine Tochter saß sehr bequem darin. Der Verleih ist super, sehr nett, aufmerksam und entgegenkommend. […] Mit Baby uneingeschränkt zu empfehlen!",
+      "auteur": "Diane B."
+    }
+  ],
   "faq": [
     {
       "question": "Wo kann man in Nantes ein Rad für die Loire à Vélo mieten?",
@@ -33,37 +82,6 @@
     {
       "question": "Empfangen Sie auch ausländische Gäste?",
       "reponse": "Ja. Unser Team empfängt Sie auf Französisch und Englisch, und diese Website gibt es auf Deutsch, Englisch, Niederländisch und Spanisch. Der Laden liegt etwa zehn Minuten mit Tram oder Rad vom Bahnhof Nantes entfernt."
-    }
-  ],
-  "avis": [
-    {
-      "texte": "Radreise entlang der Loire à Vélo mit 2 E-Bikes und einem Reiserad, alle mit Packtaschen! Danke für die Empfehlungen, wir waren begeistert!"
-    },
-    {
-      "texte": "Angenehmes Rad, drei Tage lang problemlos genutzt. Ein herzlicher Empfang und eine sehr reibungslose Buchung."
-    },
-    {
-      "texte": "Danke für das Gravelbike für meine Tour an der Loire! Antoine ist spitze, schnell und erklärt alles super."
-    }
-  ],
-  "avis_pages": [
-    {
-      "texte": "Wir haben 70 Räder für unser Firmenseminar gemietet und sind wirklich begeistert! Antoine und sein Team waren von Anfang bis Ende großartig: Lieferung, Abholung, Gepäckabstimmung mit dem Hotel… sie sind auf all unsere Wünsche eingegangen und haben uns die Organisation wirklich erleichtert. Sehr gutes Preis-Leistungs-Verhältnis, alles lief reibungslos. Nichts auszusetzen, es war perfekt!"
-    },
-    {
-      "texte": "Super Gravelbike, sehr hochwertig und leistungsstark. Als Einwohner von Nantes konnte ich bei einer schönen sonnigen Ausfahrt im September die Loire-Ufer genießen. Sehr freundlicher Empfang durch das Team, ich komme für eine mehrtägige Tour wieder!"
-    },
-    {
-      "texte": "Wir haben bei Bike'N Tour für eine Woche 6 Räder für den Kanal von Nantes nach Brest gemietet: 4 E-Bikes und 2 Stadträder, dazu Zubehör. Durchweg sehr hochwertiges Material. Herzlicher Empfang von Antoine, der sich Zeit nahm, uns gut zu beraten – es war unser erster Fahrradurlaub. Top-Service, ein sehr professioneller und aufmerksamer Verleih."
-    },
-    {
-      "texte": "Wir haben bei Bike'N Tour für eine Woche 6 Räder für den Kanal von Nantes nach Brest gemietet: 4 E-Bikes und 2 Stadträder, dazu Zubehör. Durchweg sehr hochwertiges Material. Herzlicher Empfang von Antoine, der sich Zeit nahm, uns gut zu beraten – es war unser erster Fahrradurlaub. Top-Service, ein sehr professioneller und aufmerksamer Verleih."
-    },
-    {
-      "texte": "2 Gravelbikes für 6 Tage mit Taschen gemietet, um von Nantes nach Saintes zu fahren (450 km). Räder von super Qualität, top Taschen und ein freundliches, professionelles Team bei Bike'N Tour. Empfehlenswert für das erste Bikepacking."
-    },
-    {
-      "texte": "Zum ersten Mal einen Fahrradanhänger gemietet und ich bin begeistert! Ich bin allein mit meinem anderthalbjährigen Baby einen Tag lang 30 km an der Loire gefahren: Anhänger tadellos und leicht, meine Tochter saß sehr bequem darin. Der Verleih ist super, sehr nett, aufmerksam und entgegenkommend. […] Mit Baby uneingeschränkt zu empfehlen!"
     }
   ]
 }

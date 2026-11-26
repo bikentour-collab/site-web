@@ -3,8 +3,57 @@
   "hero_titre_ligne1": "Fietsverhuur",
   "hero_titre_ligne2": "voor fietsreizen",
   "hero_titre_accent": "in Nantes",
-  "hero_texte": "Zes fietsroutes beginnen bij onze winkel. Wij maken je fiets, je fietstassen en de GPX-track klaar, jij hoeft alleen nog te trappen. Enkele reis mogelijk.",
+  "hero_texte": "Zes fietsroutes vertrekken vanuit onze winkel. Wij bereiden de fiets, de uitrusting en het GPX-bestand voor, u hoeft alleen maar te trappen. Enkele reis mogelijk.",
   "hero_image_alt": "Reizigers op bij Bike'N Tour gehuurde fietsen op een smalle weg door de wijngaarden van Nantes",
+  "avis": [
+    {
+      "texte": "Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!",
+      "auteur": "Valentine D.",
+      "itineraire": "loire"
+    },
+    {
+      "texte": "Fijne fiets, drie dagen zonder problemen gebruikt. Een verzorgde ontvangst en een heel vlotte reservering.",
+      "auteur": "Hélène D.",
+      "itineraire": ""
+    },
+    {
+      "texte": "Bedankt voor de gravelbike voor mijn tocht langs de Loire! Antoine is top, reageert snel en legt alles goed uit.",
+      "auteur": "Jérémy M.",
+      "itineraire": ""
+    }
+  ],
+  "avis_pages": [
+    {
+      "page": "groupes",
+      "texte": "We huurden 70 fietsen voor ons bedrijfsseminar en zijn echt heel blij! Antoine en zijn team waren van begin tot eind geweldig: levering, ophalen, de bagage met het hotel regelen… ze pasten zich aan al onze wensen aan en maakten de organisatie echt eenvoudiger. Uitstekende prijs-kwaliteitverhouding, alles verliep vlekkeloos. Niets op aan te merken, het was perfect!",
+      "auteur": "IMING"
+    },
+    {
+      "page": "gravel",
+      "texte": "Super gravelbike, van zeer goede kwaliteit en snel. Ik woon in Nantes en heb op een mooie zonnige dag in september genoten van de Loireoevers. Heel goed onthaal door het team, ik kom terug voor een meerdaagse tocht!",
+      "auteur": "Clem J."
+    },
+    {
+      "page": "canal",
+      "texte": "We huurden bij Bike'N Tour een week lang 6 fietsen voor het kanaal van Nantes naar Brest: 4 e-bikes en 2 stadsfietsen, plus extra accessoires. Alleen materiaal van zeer goede kwaliteit. Hartelijk onthaal door Antoine, die de tijd nam om ons goed te informeren, want het was onze eerste fietsvakantie. Topservice, een zeer professionele en attente verhuurder.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "electrique",
+      "texte": "We huurden bij Bike'N Tour een week lang 6 fietsen voor het kanaal van Nantes naar Brest: 4 e-bikes en 2 stadsfietsen, plus extra accessoires. Alleen materiaal van zeer goede kwaliteit. Hartelijk onthaal door Antoine, die de tijd nam om ons goed te informeren, want het was onze eerste fietsvakantie. Topservice, een zeer professionele en attente verhuurder.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "gravel",
+      "texte": "2 gravelbikes gehuurd voor 6 dagen met fietstassen om van Nantes naar Saintes te rijden (450 km). Fietsen van topkwaliteit, prima tassen en het team van Bike'N Tour was vriendelijk en professioneel. Aanrader voor een eerste bikepackingtocht.",
+      "auteur": "Pierre B."
+    },
+    {
+      "page": "accessoires",
+      "texte": "Voor het eerst een fietskar gehuurd en ik ben verkocht! Ik ging alleen een dag 30 km langs de Loire fietsen met mijn baby van anderhalf: de kar was perfect en licht, mijn dochter zat er heel goed in. De verhuurder is top, heel vriendelijk, attent en flexibel. […] Met een baby een absolute aanrader!",
+      "auteur": "Diane B."
+    }
+  ],
   "faq": [
     {
       "question": "Waar huur je een fiets voor de Loire à Vélo vanuit Nantes?",
@@ -33,37 +82,6 @@
     {
       "question": "Zijn buitenlandse reizigers welkom?",
       "reponse": "Ja. Ons team spreekt Frans en Engels, en deze website is beschikbaar in het Nederlands, Engels, Duits en Spaans. De winkel ligt op zo'n tien minuten met de tram of de fiets van het station van Nantes."
-    }
-  ],
-  "avis": [
-    {
-      "texte": "Fietsreis langs de Loire à Vélo met 2 e-bikes en een trekkingfiets, allemaal met fietstassen! Bedankt voor de tips, we vonden het geweldig!"
-    },
-    {
-      "texte": "Fijne fiets, drie dagen zonder problemen gebruikt. Een verzorgde ontvangst en een heel vlotte reservering."
-    },
-    {
-      "texte": "Bedankt voor de gravelbike voor mijn tocht langs de Loire! Antoine is top, reageert snel en legt alles goed uit."
-    }
-  ],
-  "avis_pages": [
-    {
-      "texte": "We huurden 70 fietsen voor ons bedrijfsseminar en zijn echt heel blij! Antoine en zijn team waren van begin tot eind geweldig: levering, ophalen, de bagage met het hotel regelen… ze pasten zich aan al onze wensen aan en maakten de organisatie echt eenvoudiger. Uitstekende prijs-kwaliteitverhouding, alles verliep vlekkeloos. Niets op aan te merken, het was perfect!"
-    },
-    {
-      "texte": "Super gravelbike, van zeer goede kwaliteit en snel. Ik woon in Nantes en heb op een mooie zonnige dag in september genoten van de Loireoevers. Heel goed onthaal door het team, ik kom terug voor een meerdaagse tocht!"
-    },
-    {
-      "texte": "We huurden bij Bike'N Tour een week lang 6 fietsen voor het kanaal van Nantes naar Brest: 4 e-bikes en 2 stadsfietsen, plus extra accessoires. Alleen materiaal van zeer goede kwaliteit. Hartelijk onthaal door Antoine, die de tijd nam om ons goed te informeren, want het was onze eerste fietsvakantie. Topservice, een zeer professionele en attente verhuurder."
-    },
-    {
-      "texte": "We huurden bij Bike'N Tour een week lang 6 fietsen voor het kanaal van Nantes naar Brest: 4 e-bikes en 2 stadsfietsen, plus extra accessoires. Alleen materiaal van zeer goede kwaliteit. Hartelijk onthaal door Antoine, die de tijd nam om ons goed te informeren, want het was onze eerste fietsvakantie. Topservice, een zeer professionele en attente verhuurder."
-    },
-    {
-      "texte": "2 gravelbikes gehuurd voor 6 dagen met fietstassen om van Nantes naar Saintes te rijden (450 km). Fietsen van topkwaliteit, prima tassen en het team van Bike'N Tour was vriendelijk en professioneel. Aanrader voor een eerste bikepackingtocht."
-    },
-    {
-      "texte": "Voor het eerst een fietskar gehuurd en ik ben verkocht! Ik ging alleen een dag 30 km langs de Loire fietsen met mijn baby van anderhalf: de kar was perfect en licht, mijn dochter zat er heel goed in. De verhuurder is top, heel vriendelijk, attent en flexibel. […] Met een baby een absolute aanrader!"
     }
   ]
 }

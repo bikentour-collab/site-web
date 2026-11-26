@@ -3,12 +3,61 @@
   "hero_titre_ligne1": "Location de vélos",
   "hero_titre_ligne2": "de voyage",
   "hero_titre_accent": "à Nantes",
-  "hero_texte": "Six véloroutes partent de notre boutique. On vous prépare le vélo, les sacoches et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.",
+  "hero_texte": "Six véloroutes partent de notre boutique. \nOn vous prépare le vélo, les équipements et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.",
   "hero_image": "/assets/img/v2-hero-vignoble.webp",
   "hero_image_alt": "Voyageurs à vélo loués chez Bike'N Tour sur une petite route du vignoble nantais",
   "google_note": "5,0",
   "google_avis": 206,
   "tripadvisor_avis": "200+",
+  "avis": [
+    {
+      "texte": "Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré !",
+      "auteur": "Valentine D.",
+      "itineraire": "loire"
+    },
+    {
+      "texte": "Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide.",
+      "auteur": "Hélène D.",
+      "itineraire": ""
+    },
+    {
+      "texte": "Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue.",
+      "auteur": "Jérémy M.",
+      "itineraire": ""
+    }
+  ],
+  "avis_pages": [
+    {
+      "page": "groupes",
+      "texte": "Nous avons loué 70 vélos pour notre séminaire d'entreprise et sommes vraiment ravis ! Antoine et son équipe ont été géniaux du début à la fin : livraison, récupération, gestion des bagages avec l'hôtel… ils se sont adaptés à toutes nos demandes et nous ont vraiment simplifié l'organisation. Le rapport qualité-prix est très bon, tout s'est déroulé sans accroc. Rien à redire, c'était parfait !",
+      "auteur": "IMING"
+    },
+    {
+      "page": "gravel",
+      "texte": "Super vélo Gravel de très bonne qualité et performant. Habitant à Nantes, j'ai pu profiter des bords de Loire lors d'une belle sortie ensoleillée en septembre. Très bon accueil de l'équipe, je reviendrai pour un itinéraire sur plusieurs jours !",
+      "auteur": "Clem J."
+    },
+    {
+      "page": "canal",
+      "texte": "Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "electrique",
+      "texte": "Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "gravel",
+      "texte": "Location de 2 gravels sur 6 jours avec sacoches pour faire Nantes-Saintes (450 km). Vélos de super qualité, sacoches tops et les équipes de Bike'N Tour aimables et pros. Je recommande pour un premier bikepacking.",
+      "auteur": "Pierre B."
+    },
+    {
+      "page": "accessoires",
+      "texte": "Première location de remorque vélo et je suis conquise ! Partie seule faire 30 km sur les bords de Loire avec mon bébé d'un an et demi pendant une journée : carriole nickel, légère, ma fille était très bien dedans. Le loueur est au top, très sympa, à l'écoute et arrangeant. […] Je recommande les yeux fermés avec bébé !",
+      "auteur": "Diane B."
+    }
+  ],
   "faq": [
     {
       "question": "Où louer un vélo pour faire la Loire à Vélo au départ de Nantes ?",
@@ -37,55 +86,6 @@
     {
       "question": "Accueillez-vous les voyageurs étrangers ?",
       "reponse": "Oui. L'équipe accueille en français et en anglais, et le site existe en français, anglais, néerlandais, allemand et espagnol. La boutique est à une dizaine de minutes de la gare de Nantes, en tram ou à vélo."
-    }
-  ],
-  "avis": [
-    {
-      "texte": "Voyage à vélo le long de la Loire à vélo avec 2 vélos électriques et un vélo de voyage, tous équipés de sacoches ! Merci pour les recommandations, on a adoré !",
-      "auteur": "Valentine D.",
-      "itineraire": "loire"
-    },
-    {
-      "texte": "Vélo agréable, utilisé trois jours sans difficultés. Un accueil soigné et une réservation très fluide.",
-      "auteur": "Hélène D.",
-      "itineraire": ""
-    },
-    {
-      "texte": "Merci pour le vélo gravel pour ma sortie en bord de Loire ! Antoine est au top, réactif et pédagogue.",
-      "auteur": "Jérémy M.",
-      "itineraire": ""
-    }
-  ],
-  "avis_pages": [
-    {
-      "texte": "Nous avons loué 70 vélos pour notre séminaire d'entreprise et sommes vraiment ravis ! Antoine et son équipe ont été géniaux du début à la fin : livraison, récupération, gestion des bagages avec l'hôtel… ils se sont adaptés à toutes nos demandes et nous ont vraiment simplifié l'organisation. Le rapport qualité-prix est très bon, tout s'est déroulé sans accroc. Rien à redire, c'était parfait !",
-      "auteur": "IMING",
-      "page": "groupes"
-    },
-    {
-      "texte": "Super vélo Gravel de très bonne qualité et performant. Habitant à Nantes, j'ai pu profiter des bords de Loire lors d'une belle sortie ensoleillée en septembre. Très bon accueil de l'équipe, je reviendrai pour un itinéraire sur plusieurs jours !",
-      "auteur": "Clem J.",
-      "page": "gravel"
-    },
-    {
-      "texte": "Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute.",
-      "auteur": "Corinne S.",
-      "page": "canal"
-    },
-    {
-      "texte": "Nous avons loué pour 1 semaine 6 vélos chez Bike'N Tour pour faire le canal de Nantes à Brest. 4 vélos à assistance électrique et 2 vélos de ville, plus des accessoires complémentaires. Que du matériel de très bonne qualité. Accueil chaleureux d'Antoine, qui s'est pris le temps de bien nous renseigner, car c'était notre première expérience de vacances à vélo. Service au top, loueur hyper pro et à l'écoute.",
-      "auteur": "Corinne S.",
-      "page": "electrique"
-    },
-    {
-      "texte": "Location de 2 gravels sur 6 jours avec sacoches pour faire Nantes-Saintes (450 km). Vélos de super qualité, sacoches tops et les équipes de Bike'N Tour aimables et pros. Je recommande pour un premier bikepacking.",
-      "auteur": "Pierre B.",
-      "page": "gravel"
-    },
-    {
-      "texte": "Première location de remorque vélo et je suis conquise ! Partie seule faire 30 km sur les bords de Loire avec mon bébé d'un an et demi pendant une journée : carriole nickel, légère, ma fille était très bien dedans. Le loueur est au top, très sympa, à l'écoute et arrangeant. […] Je recommande les yeux fermés avec bébé !",
-      "auteur": "Diane B.",
-      "page": "accessoires"
     }
   ]
 }

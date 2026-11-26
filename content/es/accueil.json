@@ -3,8 +3,57 @@
   "hero_titre_ligne1": "Alquiler de bicicletas",
   "hero_titre_ligne2": "de viaje",
   "hero_titre_accent": "en Nantes",
-  "hero_texte": "Seis rutas ciclistas salen de nuestra tienda. Le preparamos la bicicleta, las alforjas y el track GPX: usted solo tiene que pedalear. Posibilidad de alquiler solo de ida.",
+  "hero_texte": "Seis rutas en bicicleta parten de nuestra tienda. Preparamos la bicicleta, el equipo y la ruta GPX para ti, solo tienes que pedalear. Posibilidad de trayecto de ida.",
   "hero_image_alt": "Viajeros en bicicletas alquiladas en Bike'N Tour por una carretera secundaria del viñedo de Nantes",
+  "avis": [
+    {
+      "texte": "Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!",
+      "auteur": "Valentine D.",
+      "itineraire": "loire"
+    },
+    {
+      "texte": "Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla.",
+      "auteur": "Hélène D.",
+      "itineraire": ""
+    },
+    {
+      "texte": "¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo.",
+      "auteur": "Jérémy M.",
+      "itineraire": ""
+    }
+  ],
+  "avis_pages": [
+    {
+      "page": "groupes",
+      "texte": "Alquilamos 70 bicicletas para nuestro seminario de empresa y estamos encantados. Antoine y su equipo fueron geniales de principio a fin: entrega, recogida, gestión del equipaje con el hotel… se adaptaron a todas nuestras peticiones y nos simplificaron mucho la organización. Muy buena relación calidad-precio, todo salió sin problemas. Nada que objetar, ¡fue perfecto!",
+      "auteur": "IMING"
+    },
+    {
+      "page": "gravel",
+      "texte": "Bicicleta gravel estupenda, de muy buena calidad y con buen rendimiento. Vivo en Nantes y pude disfrutar de las orillas del Loira en una bonita salida soleada en septiembre. Muy buena acogida del equipo, ¡volveré para una ruta de varios días!",
+      "auteur": "Clem J."
+    },
+    {
+      "page": "canal",
+      "texte": "Alquilamos 6 bicicletas en Bike'N Tour durante una semana para recorrer el canal de Nantes a Brest: 4 eléctricas y 2 de ciudad, además de accesorios. Todo material de muy buena calidad. Acogida muy cálida de Antoine, que se tomó el tiempo de asesorarnos bien, porque era nuestra primera experiencia de vacaciones en bici. Servicio excelente, un alquiler muy profesional y atento.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "electrique",
+      "texte": "Alquilamos 6 bicicletas en Bike'N Tour durante una semana para recorrer el canal de Nantes a Brest: 4 eléctricas y 2 de ciudad, además de accesorios. Todo material de muy buena calidad. Acogida muy cálida de Antoine, que se tomó el tiempo de asesorarnos bien, porque era nuestra primera experiencia de vacaciones en bici. Servicio excelente, un alquiler muy profesional y atento.",
+      "auteur": "Corinne S."
+    },
+    {
+      "page": "gravel",
+      "texte": "Alquiler de 2 gravel durante 6 días con alforjas para ir de Nantes a Saintes (450 km). Bicis de gran calidad, alforjas estupendas y el equipo de Bike'N Tour amable y profesional. Lo recomiendo para un primer bikepacking.",
+      "auteur": "Pierre B."
+    },
+    {
+      "page": "accessoires",
+      "texte": "Primer alquiler de remolque para bici y estoy encantada. Salí sola a hacer 30 km por las orillas del Loira con mi bebé de año y medio durante un día: el remolque, impecable y ligero, y mi hija iba muy a gusto. El alquiler es estupendo, muy amable, atento y flexible. […] ¡Lo recomiendo con los ojos cerrados con bebé!",
+      "auteur": "Diane B."
+    }
+  ],
   "faq": [
     {
       "question": "¿Dónde alquilar una bicicleta para recorrer la Loire à Vélo desde Nantes?",
@@ -33,37 +82,6 @@
     {
       "question": "¿Reciben a viajeros extranjeros?",
       "reponse": "Sí. El equipo le atiende en francés y en inglés, y la web está disponible en español, francés, inglés, neerlandés y alemán. La tienda está a unos diez minutos de la estación de Nantes en tranvía o en bicicleta."
-    }
-  ],
-  "avis": [
-    {
-      "texte": "Viaje en bici por la Loire à Vélo con 2 bicis eléctricas y una bici de viaje, todas con alforjas. ¡Gracias por las recomendaciones, nos ha encantado!"
-    },
-    {
-      "texte": "Bici agradable, usada tres días sin ningún problema. Una atención cuidada y una reserva muy sencilla."
-    },
-    {
-      "texte": "¡Gracias por la bici gravel para mi salida a orillas del Loira! Antoine es genial, rápido y muy buen pedagogo."
-    }
-  ],
-  "avis_pages": [
-    {
-      "texte": "Alquilamos 70 bicicletas para nuestro seminario de empresa y estamos encantados. Antoine y su equipo fueron geniales de principio a fin: entrega, recogida, gestión del equipaje con el hotel… se adaptaron a todas nuestras peticiones y nos simplificaron mucho la organización. Muy buena relación calidad-precio, todo salió sin problemas. Nada que objetar, ¡fue perfecto!"
-    },
-    {
-      "texte": "Bicicleta gravel estupenda, de muy buena calidad y con buen rendimiento. Vivo en Nantes y pude disfrutar de las orillas del Loira en una bonita salida soleada en septiembre. Muy buena acogida del equipo, ¡volveré para una ruta de varios días!"
-    },
-    {
-      "texte": "Alquilamos 6 bicicletas en Bike'N Tour durante una semana para recorrer el canal de Nantes a Brest: 4 eléctricas y 2 de ciudad, además de accesorios. Todo material de muy buena calidad. Acogida muy cálida de Antoine, que se tomó el tiempo de asesorarnos bien, porque era nuestra primera experiencia de vacaciones en bici. Servicio excelente, un alquiler muy profesional y atento."
-    },
-    {
-      "texte": "Alquilamos 6 bicicletas en Bike'N Tour durante una semana para recorrer el canal de Nantes a Brest: 4 eléctricas y 2 de ciudad, además de accesorios. Todo material de muy buena calidad. Acogida muy cálida de Antoine, que se tomó el tiempo de asesorarnos bien, porque era nuestra primera experiencia de vacaciones en bici. Servicio excelente, un alquiler muy profesional y atento."
-    },
-    {
-      "texte": "Alquiler de 2 gravel durante 6 días con alforjas para ir de Nantes a Saintes (450 km). Bicis de gran calidad, alforjas estupendas y el equipo de Bike'N Tour amable y profesional. Lo recomiendo para un primer bikepacking."
-    },
-    {
-      "texte": "Primer alquiler de remolque para bici y estoy encantada. Salí sola a hacer 30 km por las orillas del Loira con mi bebé de año y medio durante un día: el remolque, impecable y ligero, y mi hija iba muy a gusto. El alquiler es estupendo, muy amable, atento y flexible. […] ¡Lo recomiendo con los ojos cerrados con bebé!"
     }
   ]
 }
