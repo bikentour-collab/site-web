@@ -8,7 +8,7 @@ Page : https://www.bikentour.com/de · Bike'N Tour, 27 quai de Versailles, 44000
 
 # Fahrradverleih für Radreisen *in Nantes*
 
-Sechs Radrouten starten an unserem Laden. Wir bereiten Rad, Packtaschen und GPX-Track für Sie vor – Sie müssen nur noch in die Pedale treten. Einweg-Miete möglich.
+Sechs Radwege starten von unserem Geschäft aus. Wir bereiten das Fahrrad, die Ausrüstung und den GPX-Track für Sie vor, Sie müssen nur noch in die Pedale treten. Einfache Fahrt möglich.
 
 [Fahrräder reservieren (neuer Tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Meine Route wählen](#itineraires)

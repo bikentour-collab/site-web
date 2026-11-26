@@ -8,7 +8,7 @@ Page : https://www.bikentour.com/nl · Bike'N Tour, 27 quai de Versailles, 44000
 
 # Fietsverhuur voor fietsreizen *in Nantes*
 
-Zes fietsroutes beginnen bij onze winkel. Wij maken je fiets, je fietstassen en de GPX-track klaar, jij hoeft alleen nog te trappen. Enkele reis mogelijk.
+Zes fietsroutes vertrekken vanuit onze winkel. Wij bereiden de fiets, de uitrusting en het GPX-bestand voor, u hoeft alleen maar te trappen. Enkele reis mogelijk.
 
 [Fietsen reserveren (nieuw tabblad)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Kies je route](#itineraires)

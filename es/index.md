@@ -8,7 +8,7 @@ Page : https://www.bikentour.com/es · Bike'N Tour, 27 quai de Versailles, 44000
 
 # Alquiler de bicicletas de viaje *en Nantes*
 
-Seis rutas ciclistas salen de nuestra tienda. Le preparamos la bicicleta, las alforjas y el track GPX: usted solo tiene que pedalear. Posibilidad de alquiler solo de ida.
+Seis rutas en bicicleta parten de nuestra tienda. Preparamos la bicicleta, el equipo y la ruta GPX para ti, solo tienes que pedalear. Posibilidad de trayecto de ida.
 
 [Reservar mis bicis (nueva pestaña)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Elegir mi ruta](#itineraires)

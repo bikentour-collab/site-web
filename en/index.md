@@ -8,7 +8,8 @@ Page : https://www.bikentour.com/en · Bike'N Tour, 27 quai de Versailles, 44000
 
 # Touring bike hire in the heart *of Nantes*
 
-Six cycle routes start right from our shop. We get your bike, panniers and GPX track ready – all you have to do is pedal. One-way hire available.
+Six cycle routes start from our shop.
+We prepare the bike, equipment, and GPX track for you; all you have to do is pedal. One-way trips are possible.
 
 [Book my bikes (opens in a new tab)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Choose my route](#itineraires)

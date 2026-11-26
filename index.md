@@ -8,7 +8,8 @@ Page : https://www.bikentour.com/ · Bike'N Tour, 27 quai de Versailles, 44000 N
 
 # Location de vélos de voyage *à Nantes*
 
-Six véloroutes partent de notre boutique. On vous prépare le vélo, les sacoches et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.
+Six véloroutes partent de notre boutique.
+On vous prépare le vélo, les équipements et la trace GPX, vous n'avez plus qu'à pédaler. Aller simple possible.
 
 [Réserver mes vélos (nouvel onglet)](https://www.lokki.rent/loueur/bike-n-tour?c=os)
 [Choisir mon itinéraire](#itineraires)
